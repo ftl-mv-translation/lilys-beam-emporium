@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-21 12:42+0000\n"
+"PO-Revision-Date: 2025-09-21 14:58+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/ru/>\n"
@@ -1337,7 +1337,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3782
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/tooltip"
-msgstr ""
+msgstr "Артиллерия сирен \"Похититель\". [Базовая перезарядка: 15]"
 
 #: src-en/data/blueprints.xml.append:3808
 msgid ""
@@ -1357,7 +1357,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3811
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/tooltip"
-msgstr ""
+msgstr "Артиллерия сирен \"Калейдоскоп\". [Базовая перезарядка: 16] КОЖЛЗГСИФП"
 
 #: src-en/data/blueprints.xml.append:3841
 msgid ""
@@ -1377,7 +1377,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3844
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/tooltip"
-msgstr ""
+msgstr "Артиллерия сирен хаоса огня. [Базовая перезарядка: 40]"
 
 #: src-en/data/blueprints.xml.append:3981
 msgid ""
@@ -1392,7 +1392,7 @@ msgstr "---"
 #: src-en/data/blueprints.xml.append:3983
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
 #: src-en/data/blueprints.xml.append:3984
 msgid ""
@@ -1412,7 +1412,7 @@ msgstr "---"
 #: src-en/data/blueprints.xml.append:4016
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
 #: src-en/data/blueprints.xml.append:4017
 msgid ""
@@ -1432,7 +1432,7 @@ msgstr "---"
 #: src-en/data/blueprints.xml.append:4049
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
 #: src-en/data/blueprints.xml.append:4050
 msgid ""
@@ -1452,7 +1452,7 @@ msgstr "---"
 #: src-en/data/blueprints.xml.append:4084
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
 #: src-en/data/blueprints.xml.append:4085
 msgid ""
@@ -1472,7 +1472,7 @@ msgstr "---"
 #: src-en/data/blueprints.xml.append:4118
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
 #: src-en/data/blueprints.xml.append:4119
 msgid ""
@@ -1492,7 +1492,7 @@ msgstr "---"
 #: src-en/data/blueprints.xml.append:4151
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
 #: src-en/data/blueprints.xml.append:4152
 msgid ""
@@ -1512,7 +1512,7 @@ msgstr "---"
 #: src-en/data/blueprints.xml.append:4188
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
 #: src-en/data/blueprints.xml.append:4189
 msgid ""
@@ -1532,7 +1532,7 @@ msgstr "---"
 #: src-en/data/blueprints.xml.append:4224
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
 #: src-en/data/blueprints.xml.append:4225
 msgid ""
@@ -1552,7 +1552,7 @@ msgstr "---"
 #: src-en/data/blueprints.xml.append:4302
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
 #: src-en/data/blueprints.xml.append:4303
 msgid ""
@@ -1572,7 +1572,7 @@ msgstr "---"
 #: src-en/data/blueprints.xml.append:4336
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
 #: src-en/data/blueprints.xml.append:4337
 msgid ""
@@ -1582,12 +1582,12 @@ msgstr "---"
 #: src-en/data/blueprints.xml.append:4381
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/class"
-msgstr ""
+msgstr "Развалившийся транспорт сирен"
 
 #: src-en/data/blueprints.xml.append:4382
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/name"
-msgstr ""
+msgstr "Разбитая мечта"
 
 #: src-en/data/blueprints.xml.append:4383
 msgid ""
@@ -1597,12 +1597,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4460
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/class"
-msgstr ""
+msgstr "Транспортный корабль сирен"
 
 #: src-en/data/blueprints.xml.append:4461
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/name"
-msgstr ""
+msgstr "Телксиопа"
 
 #: src-en/data/blueprints.xml.append:4462
 msgid ""
@@ -1612,12 +1612,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4541
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/class"
-msgstr ""
+msgstr "Транспортный корабль сирен"
 
 #: src-en/data/blueprints.xml.append:4542
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/name"
-msgstr ""
+msgstr "Партенопа"
 
 #: src-en/data/blueprints.xml.append:4543
 msgid ""
@@ -1627,12 +1627,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4625
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/class"
-msgstr ""
+msgstr "Транспортный корабль сирен"
 
 #: src-en/data/blueprints.xml.append:4626
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/name"
-msgstr ""
+msgstr "Гимеропа"
 
 #: src-en/data/blueprints.xml.append:4627
 msgid ""
@@ -1642,12 +1642,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4829
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_FED_BEAM_BATTLESHIP\"]/class"
-msgstr ""
+msgstr "Лучевой линкор Единства"
 
 #: src-en/data/blueprints.xml.append:4830
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_FED_BEAM_BATTLESHIP\"]/name"
-msgstr ""
+msgstr "Проект Экскалибур"
 
 #: src-en/data/blueprints.xml.append:4831
 msgid ""
