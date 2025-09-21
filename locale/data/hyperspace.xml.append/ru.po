@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-21 15:40+0000\n"
+"PO-Revision-Date: 2025-09-21 16:05+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datahyperspace-xml-append/ru/>\n"
@@ -477,40 +477,47 @@ msgstr "С помощью Лили создайте Королевский лу�
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_EXCHANGE\"]/secretDescription"
-msgstr ""
+msgstr "Эфир входит, эфир выходит."
 
 #: src-en/data/hyperspace.xml.append:1623
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_RHYMES\"]/name"
-msgstr ""
+msgstr "Хаотичное воссоединение"
 
 #: src-en/data/hyperspace.xml.append:1624
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_RHYMES\"]/description"
 msgstr ""
+"Посетите Эмпориум лучей вместе с Тем, Кто Рифмует, и разблокируйте "
+"таинственную записку."
 
 #: src-en/data/hyperspace.xml.append:1625
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_RHYMES\"]/secretDescription"
 msgstr ""
+"Проведите некую неземную кошку в очень модной шляпе к самой большой "
+"коллекции лазерных указок в галактике."
 
 #: src-en/data/hyperspace.xml.append:1632
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_NUKED\"]/name"
-msgstr ""
+msgstr "ВЗОРВАНО!"
 
 #: src-en/data/hyperspace.xml.append:1633
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_NUKED\"]/description"
 msgstr ""
+"Получите ядерный сюрприз от очень разъяренной третьей стороны, пытающейся "
+"сразиться с Ней."
 
 #: src-en/data/hyperspace.xml.append:1634
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_NUKED\"]/secretDescription"
 msgstr ""
+"Оказаться под ударом ядерного оружия в, возможно, худший момент в истории."
