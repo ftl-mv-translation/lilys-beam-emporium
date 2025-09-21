@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-21 18:20+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-09-21 20:27+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_anomalyxmlappend/ru/>\n"
 "Language: ru\n"
@@ -179,7 +179,7 @@ msgstr ""
 "\n"
 "\"...Так что, отличная работа! Вы будете вознаграждены за это\".\n"
 "\n"
-"\"Не забывайте всегда совершать преступления и сеять хаос! Ха-ха!\""
+"\"Не забывайте всегда совершать преступления и сеять хаос! Ха-хе!\""
 
 #: src-en/data/events_special_anomaly.xml.append:160
 msgid ""
@@ -217,7 +217,7 @@ msgstr ""
 "\n"
 "\"...Так что, отличная работа! Вы будете вознаграждены за это\".\n"
 "\n"
-"\"Не забывайте всегда совершать преступления и сеять хаос! Ха-ха!\""
+"\"Не забывайте всегда совершать преступления и сеять хаос! Ха-хе!\""
 
 #: src-en/data/events_special_anomaly.xml.append:186
 msgid ""
@@ -253,7 +253,7 @@ msgstr ""
 "\n"
 "\"...Так что, отличная работа! Вы будете вознаграждены за это\".\n"
 "\n"
-"\"Не забывайте всегда совершать преступления и сеять хаос! Ха-ха!\""
+"\"Не забывайте всегда совершать преступления и сеять хаос! Ха-хе!\""
 
 #: src-en/data/events_special_anomaly.xml.append:213
 msgid ""
@@ -270,7 +270,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/text"
 msgstr ""
 "\"И согласно вашим записям... Постойте, вы перевозите гнома?... ГНОМА?\".\n"
-"\"Эта штука погрузит всю вселенную в хаос! Ха-ха!\".\n"
+"\"Эта штука погрузит всю вселенную в хаос! Ха-хе!\".\n"
 "\"Превосходно, вы будете вознаграждены!\"."
 
 #: src-en/data/events_special_anomaly.xml.append:232
