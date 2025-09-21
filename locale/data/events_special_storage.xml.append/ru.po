@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-21 14:58+0000\n"
+"PO-Revision-Date: 2025-09-21 16:05+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_storagexmlappend/ru/>\n"
@@ -151,12 +151,12 @@ msgstr "[Количество деталей: 10+]"
 #: src-en/data/events_special_storage.xml.append:123
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[13]/text"
-msgstr ""
+msgstr "Дать ей технологию, чтобы она могла использовать ее для деталей."
 
 #: src-en/data/events_special_storage.xml.append:127
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[14]/text"
-msgstr ""
+msgstr "Попросить ее изготовить новое оружие из полученных деталей."
 
 #: src-en/data/events_special_storage.xml.append:131
 msgid ""
@@ -166,77 +166,77 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:137
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/text"
-msgstr ""
+msgstr "Выберите, что вы хотите отдать:"
 
 #: src-en/data/events_special_storage.xml.append:139
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER\"]/text"
-msgstr ""
+msgstr "Предложить древний лазер."
 
 #: src-en/data/events_special_storage.xml.append:149
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BEAM\"]/text"
-msgstr ""
+msgstr "Предложить древний луч."
 
 #: src-en/data/events_special_storage.xml.append:159
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS\"]/text"
-msgstr ""
+msgstr "Предложить древний точечный луч."
 
 #: src-en/data/events_special_storage.xml.append:169
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_MISSILES\"]/text"
-msgstr ""
+msgstr "Предложить древнюю ракетную установку."
 
 #: src-en/data/events_special_storage.xml.append:179
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BOMB\"]/text"
-msgstr ""
+msgstr "Предложить древнюю пусковую установку бомб."
 
 #: src-en/data/events_special_storage.xml.append:189
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_STUN\"]/text"
-msgstr ""
+msgstr "Предложить древнего миротворца."
 
 #: src-en/data/events_special_storage.xml.append:199
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_LASER\"]/text"
-msgstr ""
+msgstr "Предложить древний лазерный дрон."
 
 #: src-en/data/events_special_storage.xml.append:209
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_ION\"]/text"
-msgstr ""
+msgstr "Предложить древний ионный дрон."
 
 #: src-en/data/events_special_storage.xml.append:219
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_MISSILE\"]/text"
-msgstr ""
+msgstr "Предложить древний ракетный дрон."
 
 #: src-en/data/events_special_storage.xml.append:229
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_DEFENSE_1\"]/text"
-msgstr ""
+msgstr "Предложить древний наблюдатель."
 
 #: src-en/data/events_special_storage.xml.append:239
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"MENDER\"]/text"
-msgstr ""
+msgstr "Предложить древний наладчик."
 
 #: src-en/data/events_special_storage.xml.append:249
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"DIRECTOR\"]/text"
-msgstr ""
+msgstr "Предложить древнего руководителя."
 
 #: src-en/data/events_special_storage.xml.append:259
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_DEFEND\"]/text"
-msgstr ""
+msgstr "Предложить древний атомизатор."
 
 #: src-en/data/events_special_storage.xml.append:269
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_BOARDER\"]/text"
-msgstr ""
+msgstr "Предложить древний атомизатор."
 
 #: src-en/data/events_special_storage.xml.append:279
 msgid ""
@@ -246,99 +246,99 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:286
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/text"
-msgstr ""
+msgstr "Выберите, что вы хотите, чтобы она создала:"
 
 #: src-en/data/events_special_storage.xml.append:289
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Создать Дворянский Ликвидатор III. [5 деталей]"
 
 #: src-en/data/events_special_storage.xml.append:299
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[2]/text"
-msgstr ""
+msgstr "Создать Дворянский Ликвидатор III. [5 деталей]"
 
 #: src-en/data/events_special_storage.xml.append:304
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[3]/text"
-msgstr ""
+msgstr "Создать Дворянский Чистильщик. [4 детали]"
 
 #: src-en/data/events_special_storage.xml.append:314
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[4]/text"
-msgstr ""
+msgstr "Создать Дворянский Чистильщик. [4 детали]"
 
 #: src-en/data/events_special_storage.xml.append:319
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[5]/text"
-msgstr ""
+msgstr "Создать Дворянский Опустошитель. [4 детали]"
 
 #: src-en/data/events_special_storage.xml.append:329
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[6]/text"
-msgstr ""
+msgstr "Создать Дворянский Опустошитель. [4 детали]"
 
 #: src-en/data/events_special_storage.xml.append:334
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[7]/text"
-msgstr ""
+msgstr "Создать Ликвидатор III. [4 детали]"
 
 #: src-en/data/events_special_storage.xml.append:344
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[8]/text"
-msgstr ""
+msgstr "Создать Ликвидатор III. [4 детали]"
 
 #: src-en/data/events_special_storage.xml.append:349
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[9]/text"
-msgstr ""
+msgstr "Создать Ликвидатор II. [3 детали]"
 
 #: src-en/data/events_special_storage.xml.append:359
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[10]/text"
-msgstr ""
+msgstr "Создать Ликвидатор II. [3 детали]"
 
 #: src-en/data/events_special_storage.xml.append:364
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[11]/text"
-msgstr ""
+msgstr "Создать Ликвидатор I. [2 детали]"
 
 #: src-en/data/events_special_storage.xml.append:374
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[12]/text"
-msgstr ""
+msgstr "Создать Ликвидатор I. [2 детали]"
 
 #: src-en/data/events_special_storage.xml.append:379
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Создать Чистильщик II. [3 детали]"
 
 #: src-en/data/events_special_storage.xml.append:389
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[14]/text"
-msgstr ""
+msgstr "Создать Чистильщик II. [3 детали]"
 
 #: src-en/data/events_special_storage.xml.append:394
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[15]/text"
-msgstr ""
+msgstr "Создать Чистильщик I. [2 детали]"
 
 #: src-en/data/events_special_storage.xml.append:404
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[16]/text"
-msgstr ""
+msgstr "Создать Чистильщик I. [2 детали]"
 
 #: src-en/data/events_special_storage.xml.append:409
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[17]/text"
-msgstr ""
+msgstr "Создать Опустошитель. [2 детали]"
 
 #: src-en/data/events_special_storage.xml.append:419
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[18]/text"
-msgstr ""
+msgstr "Создать Опустошитель. [2 детали]"
 
 #: src-en/data/events_special_storage.xml.append:424
 msgid ""
@@ -366,7 +366,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/event/crewMember"
-msgstr ""
+msgstr "Лили"
 
 #: src-en/data/events_special_storage.xml.append:459
 msgid ""
@@ -381,7 +381,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:465
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/event/crewMember"
-msgstr ""
+msgstr "Лили"
 
 #: src-en/data/events_special_storage.xml.append:472
 msgid ""
@@ -406,7 +406,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:486
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/event/crewMember"
-msgstr ""
+msgstr "Лили"
 
 #: src-en/data/events_special_storage.xml.append:494
 msgid ""
@@ -442,7 +442,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:517
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/event/crewMember"
-msgstr ""
+msgstr "Лили"
 
 #: src-en/data/events_special_storage.xml.append:525
 msgid ""
@@ -467,7 +467,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:539
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/event/crewMember"
-msgstr ""
+msgstr "Лили"
 
 #: src-en/data/events_special_storage.xml.append:546
 msgid ""
@@ -492,7 +492,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:563
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/event/crewMember"
-msgstr ""
+msgstr "Лили"
 
 #: src-en/data/events_special_storage.xml.append:571
 msgid ""
@@ -510,7 +510,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/event/crewMember"
-msgstr ""
+msgstr "Лили"
 
 #: src-en/data/events_special_storage.xml.append:583
 msgid ""
@@ -1667,17 +1667,19 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "(Луч \"Эдисон\") Настроить режим орудия. [Текущая мощность: ПЕРЕГРУЗКА]"
 
 #: src-en/data/events_special_storage.xml.append:1513
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/text"
 msgstr ""
+"На какой уровень мощности вы хотите настроить данное орудие?\n"
+"\tТекущие характеристики: [мощность: 0; выстрелов: 2]"
 
 #: src-en/data/events_special_storage.xml.append:1516
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/text"
-msgstr ""
+msgstr "Настроить на: [мощность: 1; выстрелов: 3]"
 
 #: src-en/data/events_special_storage.xml.append:1518
 msgid ""
@@ -1702,7 +1704,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1534
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/text"
-msgstr ""
+msgstr "Настроить на: [мощность: 2; выстрелов: 5]"
 
 #: src-en/data/events_special_storage.xml.append:1536
 msgid ""
@@ -1727,7 +1729,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1552
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/text"
-msgstr ""
+msgstr "Настроить на: [мощность: 3; выстрелов: 8]"
 
 #: src-en/data/events_special_storage.xml.append:1554
 msgid ""
@@ -1752,7 +1754,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1570
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/text"
-msgstr ""
+msgstr "Настроить на: [ПЕРЕГРУЗКА]"
 
 #: src-en/data/events_special_storage.xml.append:1572
 msgid ""
@@ -1783,11 +1785,13 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/text"
 msgstr ""
+"На какой уровень мощности вы хотите настроить данное орудие?\n"
+"\tТекущие характеристики: [мощность: 1; выстрелов: 3]"
 
 #: src-en/data/events_special_storage.xml.append:1598
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/text"
-msgstr ""
+msgstr "Настроить на: [мощность: 0; выстрелов: 2]"
 
 #: src-en/data/events_special_storage.xml.append:1600
 msgid ""
@@ -1812,7 +1816,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1616
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/text"
-msgstr ""
+msgstr "Настроить на: [мощность: 2; выстрелов: 5]"
 
 #: src-en/data/events_special_storage.xml.append:1618
 msgid ""
@@ -1837,7 +1841,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1634
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/text"
-msgstr ""
+msgstr "Настроить на: [мощность: 3; выстрелов: 8]"
 
 #: src-en/data/events_special_storage.xml.append:1636
 msgid ""
@@ -1862,7 +1866,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1652
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/text"
-msgstr ""
+msgstr "Настроить на: [ПЕРЕГРУЗКА]"
 
 #: src-en/data/events_special_storage.xml.append:1654
 msgid ""
@@ -1893,11 +1897,13 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/text"
 msgstr ""
+"На какой уровень мощности вы хотите настроить данное орудие?\n"
+"\tТекущие характеристики: [мощность: 2; выстрелов: 5]"
 
 #: src-en/data/events_special_storage.xml.append:1679
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/text"
-msgstr ""
+msgstr "Настроить на: [мощность: 0; выстрелов: 2]"
 
 #: src-en/data/events_special_storage.xml.append:1681
 msgid ""
@@ -1922,7 +1928,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1697
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/text"
-msgstr ""
+msgstr "Настроить на: [мощность: 1; выстрелов: 3]"
 
 #: src-en/data/events_special_storage.xml.append:1699
 msgid ""
@@ -1947,7 +1953,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1715
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/text"
-msgstr ""
+msgstr "Настроить на: [мощность: 3; выстрелов: 8]"
 
 #: src-en/data/events_special_storage.xml.append:1717
 msgid ""
@@ -1972,7 +1978,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1733
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/text"
-msgstr ""
+msgstr "Настроить на: [ПЕРЕГРУЗКА]"
 
 #: src-en/data/events_special_storage.xml.append:1735
 msgid ""
@@ -2003,11 +2009,13 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/text"
 msgstr ""
+"На какой уровень мощности вы хотите настроить данное орудие?\n"
+"\tТекущие характеристики: [мощность: 3; выстрелов: 8]"
 
 #: src-en/data/events_special_storage.xml.append:1760
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/text"
-msgstr ""
+msgstr "Настроить на: [мощность: 0; выстрелов: 2]"
 
 #: src-en/data/events_special_storage.xml.append:1762
 msgid ""
@@ -2032,7 +2040,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1778
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/text"
-msgstr ""
+msgstr "Настроить на: [мощность: 1; выстрелов: 3]"
 
 #: src-en/data/events_special_storage.xml.append:1780
 msgid ""
@@ -2057,7 +2065,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1796
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/text"
-msgstr ""
+msgstr "Настроить на: [мощность: 2; выстрелов: 5]"
 
 #: src-en/data/events_special_storage.xml.append:1798
 msgid ""
@@ -2082,7 +2090,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1814
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/text"
-msgstr ""
+msgstr "Настроить на: [ПЕРЕГРУЗКА]"
 
 #: src-en/data/events_special_storage.xml.append:1816
 msgid ""
@@ -2117,7 +2125,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1841
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/text"
-msgstr ""
+msgstr "Настроить на: [мощность: 0; выстрелов: 2]"
 
 #: src-en/data/events_special_storage.xml.append:1843
 msgid ""
@@ -2142,7 +2150,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1859
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/text"
-msgstr ""
+msgstr "Настроить на: [мощность: 1; выстрелов: 3]"
 
 #: src-en/data/events_special_storage.xml.append:1861
 msgid ""
@@ -2167,7 +2175,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1877
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/text"
-msgstr ""
+msgstr "Настроить на: [мощность: 2; выстрелов: 5]"
 
 #: src-en/data/events_special_storage.xml.append:1879
 msgid ""
@@ -2192,7 +2200,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1895
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/text"
-msgstr ""
+msgstr "Настроить на: [мощность: 3; выстрелов: 8]"
 
 #: src-en/data/events_special_storage.xml.append:1897
 msgid ""
