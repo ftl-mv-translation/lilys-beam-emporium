@@ -2010,7 +2010,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/text"
 msgstr ""
 "На какой уровень мощности вы хотите настроить данное орудие?\n"
-"\tТекущие характеристики: [мощность: 3; выстрелов: 8]"
+"\tТекущие характеристики: [Мощность: 3; выстрелов: 8]"
 
 #: src-en/data/events_special_storage.xml.append:1760
 msgid ""
