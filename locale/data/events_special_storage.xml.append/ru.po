@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-09-21 16:05+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -1674,7 +1674,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/text"
 msgstr ""
 "На какой уровень мощности вы хотите настроить данное орудие?\n"
-"\tТекущие характеристики: [мощность: 0; выстрелов: 2]"
+"\tТекущие характеристики: [Мощность: 0; выстрелов: 2]"
 
 #: src-en/data/events_special_storage.xml.append:1516
 msgid ""
