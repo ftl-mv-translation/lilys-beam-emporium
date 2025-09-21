@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-21 18:20+0000\n"
+"PO-Revision-Date: 2025-09-21 20:27+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_sector_rhymexmlappend/ru/>\n"
@@ -17,8 +17,8 @@ msgstr ""
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"REALM_MADNESS_START_LILY\"]/text"
 msgstr ""
-"\"Ах, наконец-то мой дом...\" - говорит Лили.\n"
-"\"Жаль, что я не была там целую вечность. Очаровательно, не правда ли?\""
+"\"Ах, наконец-то мой дом--\" - говорит Лили.\n"
+"\"Жаль, что я не была там целую вечность. Очаровательно, не правда ли?--\""
 
 #: src-en/data/events_sector_rhyme.xml.append:19
 msgid ""
@@ -114,7 +114,7 @@ msgstr ""
 "...Но вместо этого вы слышите сообщение из портала, транслируемое на "
 "максимальной громкости!:\n"
 "\n"
-"\"Сгиньте, паразиты! Узрите силу Светоносца! ВЗРЫЫЫЫЫ...\""
+"\"Сгиньте, паразиты! Узрите силу Светоносца! ВЗРЫЫЫЫЫ--\""
 
 #: src-en/data/events_sector_rhyme.xml.append:81
 msgid ""
@@ -151,8 +151,8 @@ msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_OFFER\"]/text"
 msgstr ""
 "\"Я обещала прибыть и принести с собой нечто, что изменит ход сражения. Ну, "
-"вот оно, как раз вовремя...\"\n"
-"\"Я никогда не уточняла, в чью пользу оно будет применено, ха-хе!\""
+"вот оно, как раз вовремя--\"\n"
+"\"Я никогда не уточняла, в чью пользу оно будет применено, ха-хе!--\""
 
 #: src-en/data/events_sector_rhyme.xml.append:181
 msgid ""
