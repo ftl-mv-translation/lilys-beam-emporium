@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-21 12:42+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-09-21 18:20+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_anomalyxmlappend/ru/>\n"
 "Language: ru\n"
@@ -24,6 +24,9 @@ msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
+"\"О... Ссспасссибо, что ссообщил мне. Это оружие дейссствительно... довольно "
+"необычное. Боюсссь, я буду вынужден... конфисссковать его, но позволь мне "
+"предложить тебе сссправедливую компенсссацию. А теперь давай продолжим\"."
 
 #: src-en/data/events_special_anomaly.xml.append:15
 msgid ""
@@ -42,6 +45,9 @@ msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
+"\"О... Ссспасссибо, что сссообщил мне. Это оружие дейссствительно... жуткое. "
+"Боюсссь, я должен буду... конфисссковать его, но позволь мне предложить тебе "
+"сссправедливую компенсссацию. А теперь давай продолжим\"."
 
 #: src-en/data/events_special_anomaly.xml.append:29
 msgid ""
@@ -60,6 +66,9 @@ msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[3]/event/text"
 msgstr ""
+"\"О... Ссспасссибо, что сссообщил мне. Это оружие дейссствительно... жуткое. "
+"Боюсссь, я должен буду... конфисссковать его, но позволь мне предложить тебе "
+"сссправедливую компенсссацию. А теперь давай продолжим\"."
 
 #: src-en/data/events_special_anomaly.xml.append:43
 msgid ""
@@ -78,6 +87,9 @@ msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[4]/event/text"
 msgstr ""
+"\"О... Ссспасссибо, что сссообщил мне. Это оружие дейссствительно... жуткое. "
+"Боюсссь, я должен буду... конфисссковать его, но позволь мне предложить тебе "
+"сссправедливую компенсссацию. А теперь давай продолжим\"."
 
 #: src-en/data/events_special_anomaly.xml.append:57
 msgid ""
@@ -96,6 +108,9 @@ msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[5]/event/text"
 msgstr ""
+"\"О... Ссспасссибо, что сссообщил мне. Это оружие дейссствительно... жуткое. "
+"Боюсссь, я должен буду... конфисссковать его, но позволь мне предложить тебе "
+"сссправедливую компенсссацию. А теперь давай продолжим\"."
 
 #: src-en/data/events_special_anomaly.xml.append:71
 msgid ""
@@ -107,6 +122,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"ANOMALY_CHAOS_POLICE\"]/text"
 msgstr ""
+"Первое, что вы видите, наблюдая за окружающей обстановкой, - это корабль, "
+"похожий на Следователя Ополчения, только черный, как сама пустота, и "
+"мерцающий красными и синими цветами. Они сразу же связываются с вами: \"Это "
+"Подразделение Полиции Хаоса. Немедленно сдайтесь и предоставьте свой корабль "
+"для досмотра\"."
 
 #: src-en/data/events_special_anomaly.xml.append:102
 msgid ""
@@ -117,6 +137,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"ANOMALY_CHAOS_POLICE\"]/choice/event/text"
 msgstr ""
+"\"Посмотрим, какие преступления вы совершили...\"\n"
+"Корабль начинает какое-то сканирование, и вы испытываете непреодолимое "
+"чувство страха и беспокойства."
 
 #: src-en/data/events_special_anomaly.xml.append:107
 msgid ""
@@ -127,16 +150,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Постойте, ваши записи практически чистые!\"\n"
+"\"А это значит, что вы и ваш корабль подлежите аресту!\""
 
 #: src-en/data/events_special_anomaly.xml.append:142
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[1]/text"
-msgstr ""
+msgstr "Попытаться подкупить Силовика. [50~]"
 
 #: src-en/data/events_special_anomaly.xml.append:144
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[1]/event/text"
 msgstr ""
+"Вы пытаетесь подкупить Силовика, чтобы он отпустил вас, предлагая ему лом, и "
+"надеетесь, что этого будет достаточно..."
 
 #: src-en/data/events_special_anomaly.xml.append:149
 msgid ""
@@ -147,6 +174,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"\"Что это? Взятка? Разве вы не знаете, что подкуп полицейских - это "
+"преступление?!\"\n"
+"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\".\n"
+"\n"
+"\"Не забывайте всегда совершать преступления и сеять хаос! Ха-ха!\""
 
 #: src-en/data/events_special_anomaly.xml.append:160
 msgid ""
@@ -156,17 +189,19 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_anomaly.xml.append:162
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "После этого странный корабль сразу удаляется."
 
 #: src-en/data/events_special_anomaly.xml.append:172
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "(Продв. оружие) Угрожать Силовику."
 
 #: src-en/data/events_special_anomaly.xml.append:174
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[@req=\"weapons\"]/event/text"
 msgstr ""
+"Вы пытаетесь запугать Силовика, чтобы он оставил вас в покое, используя свое "
+"продвинутое оружие..."
 
 #: src-en/data/events_special_anomaly.xml.append:176
 msgid ""
@@ -177,6 +212,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[@req=\"weapons\"]/event/choice/event/text"
 msgstr ""
+"\"Вы мне угрожаете!? Вы не знаете, что угрожать полицейским - это "
+"преступление?!\"\n"
+"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\".\n"
+"\n"
+"\"Не забывайте всегда совершать преступления и сеять хаос! Ха-ха!\""
 
 #: src-en/data/events_special_anomaly.xml.append:186
 msgid ""
@@ -186,17 +227,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_anomaly.xml.append:188
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[@req=\"weapons\"]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "После этого странный корабль сразу удаляется."
 
 #: src-en/data/events_special_anomaly.xml.append:198
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/text"
-msgstr ""
+msgstr "Просто атаковать Силовика."
 
 #: src-en/data/events_special_anomaly.xml.append:201
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Вы заряжаете оружие и готовитесь к атаке на Силовика..."
 
 #: src-en/data/events_special_anomaly.xml.append:203
 msgid ""
@@ -207,6 +248,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/event/choice/event/text"
 msgstr ""
+"\"Вы на меня НАПАДАЕТЕ!? Вы не знаете, что нападение на полицейского - это "
+"СЕРЬЕЗНОЕ преступление?!\"\n"
+"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\".\n"
+"\n"
+"\"Не забывайте всегда совершать преступления и сеять хаос! Ха-ха!\""
 
 #: src-en/data/events_special_anomaly.xml.append:213
 msgid ""
@@ -216,12 +263,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_anomaly.xml.append:215
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "После этого странный корабль сразу удаляется."
 
 #: src-en/data/events_special_anomaly.xml.append:227
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Постойте, вы перевозите гнома?... ГНОМА?\".\n"
+"\"Эта штука погрузит всю вселенную в хаос! Ха-ха!\".\n"
+"\"Превосходно, вы будете вознаграждены!\"."
 
 #: src-en/data/events_special_anomaly.xml.append:232
 msgid ""
@@ -232,11 +282,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/choice/event/text"
 msgstr ""
+"\"И знаете, я, наверное, знаю место, куда вам стоит его доставить...\"\n"
+"\"Позвольте мне помочь вам добраться туда\"."
 
 #: src-en/data/events_special_anomaly.xml.append:239
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/choice/event/crewMember"
-msgstr ""
+msgstr "Офицер Иалера"
 
 #: src-en/data/events_special_anomaly.xml.append:241
 msgid ""
@@ -246,12 +298,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_anomaly.xml.append:243
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "После этого странный корабль сразу удаляется."
 
 #: src-en/data/events_special_anomaly.xml.append:253
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL_HIGH\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно очень известный преступник во "
+"всей федерации! ...\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:259
 msgid ""
@@ -271,7 +326,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_anomaly.xml.append:267
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_REWARD_HIGH\"]/choice/event/text"
-msgstr ""
+msgstr "После этого странный корабль сразу удаляется."
 
 #: src-en/data/events_special_anomaly.xml.append:276
 msgid ""
@@ -386,7 +441,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_anomaly.xml.append:400
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_REWARD\"]/choice/event/text"
-msgstr ""
+msgstr "После этого странный корабль сразу удаляется."
 
 #: src-en/data/events_special_anomaly.xml.append:409
 msgid ""
