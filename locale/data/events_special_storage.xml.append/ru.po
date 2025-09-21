@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-09-21 18:20+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -2202,7 +2202,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1895
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/text"
-msgstr "Настроить на: [мощность: 3; выстрелов: 8]"
+msgstr "Настроить на: [Мощность: 3; выстрелов: 8]"
 
 #: src-en/data/events_special_storage.xml.append:1897
 msgid ""
