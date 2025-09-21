@@ -1,0 +1,32 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_blueprints.xml.append:1
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_LILY_WRECKED_SIREN_TRANSPORT_unlock\"]"
+msgstr ""
+"Recover this ship intact from the place, where many stars shine, with the "
+"help of an unusual woman to unlock it."
+
+#: src-en/data/text_blueprints.xml.append:2
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_LILY_SIREN_TRANSPORT_unlock\"]"
+msgstr ""
+"Win the game with a broken version of this ship to unlock the restored "
+"version."
+
+#: src-en/data/text_blueprints.xml.append:3
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_LILY_SIREN_TRANSPORT_2_unlock\"]"
+msgstr "Get to Sector 5 with the Siren Transport Type A to unlock this ship."
+
+#: src-en/data/text_blueprints.xml.append:4
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_LILY_SIREN_TRANSPORT_3_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Siren Transport Type B or beat the game with the "
+"Siren Transport Type A to unlock this ship."

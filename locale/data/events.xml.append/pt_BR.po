@@ -1,0 +1,490 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events.xml.append:5
+msgid "data/events.xml.append$//event[@name=\"STORE_LOAD_LILY_EMPORIUM\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:7
+msgid ""
+"data/events.xml.append$//event[@name=\"STORE_LOAD_LILY_EMPORIUM\"]/choice[1]/text"
+msgstr "Fazer algo a bordo da nave."
+
+#: src-en/data/events.xml.append:11
+msgid ""
+"data/events.xml.append$//event[@name=\"STORE_LOAD_LILY_EMPORIUM\"]/choice[2]/text"
+msgstr "Não fazer nada."
+
+#: src-en/data/events.xml.append:18
+msgid ""
+"data/events.xml.append$//event[@name=\"STORE_LOAD_LILY_EMPORIUM_UNLOCKED\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:20
+msgid ""
+"data/events.xml.append$//event[@name=\"STORE_LOAD_LILY_EMPORIUM_UNLOCKED\"]/choice[1]/text"
+msgstr "Fazer algo a bordo da nave."
+
+#: src-en/data/events.xml.append:24
+msgid ""
+"data/events.xml.append$//event[@name=\"STORE_LOAD_LILY_EMPORIUM_UNLOCKED\"]/choice[2]/text"
+msgstr "Não fazer nada."
+
+#: src-en/data/events.xml.append:32
+msgid "data/events.xml.append$//event[@name=\"LILY_MAD_FIGHT\"]/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events.xml.append:42
+msgid ""
+"data/events.xml.append$//ship[@name=\"SHIP_BEAM_EMPORIUM_STATION\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:59
+msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_QUEST_START\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:61
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_QUEST_START\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:70
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_QUEST_START\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:72
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_QUEST_START\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:103
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_GLITCH_CONTINUE\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:121
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_CEL_FOUND\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:147
+msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:154
+msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR\"]/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events.xml.append:175
+msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_1\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:180
+msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_1\"]/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events.xml.append:191
+msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_2\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:196
+msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_2\"]/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events.xml.append:208
+msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:210
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:212
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:220
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:222
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:230
+msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:235
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:237
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:243
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:245
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:247
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events.xml.append:249
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:256
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/choice/event/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events.xml.append:258
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:278
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:280
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:282
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events.xml.append:284
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:291
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:293
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:301
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:303
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:313
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:315
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:317
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events.xml.append:319
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:326
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:328
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:336
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:338
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:348
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"lily_questioned\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:351
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"lily_questioned\"]/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:356
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"lily_questioned\"]/event/choice[1]/text"
+msgstr "Aceitar."
+
+#: src-en/data/events.xml.append:367
+#, fuzzy
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"lily_questioned\"]/event/choice[2]/text"
+msgstr "Recusar educamente."
+
+#: src-en/data/events.xml.append:369
+msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_STOREASK\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:371
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_STOREASK\"]/choice[1]/text"
+msgstr "Sim."
+
+#: src-en/data/events.xml.append:377
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_STOREASK\"]/choice[2]/text"
+msgstr "Não."
+
+#: src-en/data/events.xml.append:379
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_STOREASK\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:387
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:389
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:394
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:400
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:404
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:408
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:412
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:416
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:420
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:433
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:441
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:443
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:445
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[1]/event/choice[1]/text"
+msgstr "Fazer algo a bordo da nave."
+
+#: src-en/data/events.xml.append:449
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[1]/event/choice[2]/text"
+msgstr "Não fazer nada."
+
+#: src-en/data/events.xml.append:457
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[@req=\"LILY_PATRONAGE\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:459
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[@req=\"LILY_PATRONAGE\"]/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:464
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[@req=\"LILY_PATRONAGE\"]/event/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events.xml.append:466
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[@req=\"LILY_PATRONAGE\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:468
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[@req=\"LILY_PATRONAGE\"]/event/choice/event/choice[1]/text"
+msgstr "Fazer algo a bordo da nave."
+
+#: src-en/data/events.xml.append:472
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[@req=\"LILY_PATRONAGE\"]/event/choice/event/choice[2]/text"
+msgstr "Não fazer nada."
+
+#: src-en/data/events.xml.append:482
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:484
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:489
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:495
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:499
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:503
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:507
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:511
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:515
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:529
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_INSTALL_SENSORS\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:533
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_INSTALL_SENSORS\"]/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events.xml.append:541
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_UPGRADE_SENSORS\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:545
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_UPGRADE_SENSORS\"]/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events.xml.append:553
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_UPGRADE_REACTOR\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:558
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_UPGRADE_REACTOR\"]/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events.xml.append:566
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_UPGRADE_NOTHING\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:569
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_UPGRADE_NOTHING\"]/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events.xml.append:596
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_ATTACK_CONTINUE\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:599
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_ATTACK_CONTINUE\"]/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events.xml.append:601
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_ATTACK_CONTINUE\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:616
+msgid ""
+"data/events.xml.append$//event[@name=\"TRANSPORT_CAPTURE_STARGROVE_LILY\"]/text"
+msgstr ""
