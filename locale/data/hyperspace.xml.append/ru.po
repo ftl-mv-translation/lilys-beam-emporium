@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-09-21 14:58+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -24,12 +24,20 @@ msgstr "Кэтрин"
 #: src-en/data/hyperspace.xml.append:285
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[1]/buttonText"
-msgstr ""
+msgstr "Ж. ВЗРЫВ"
 
 #: src-en/data/hyperspace.xml.append:286
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[1]/tooltip"
 msgstr ""
+"ЖУТКИЙ ВЗРЫВ [ПЕРЕЗАРЯДКА:15с]\n"
+"Наполняет ваш курсор хаотичной жуткой энергией. Ваш следующий клик по клетке "
+"вызовет направленный на нее точечный луч.\n"
+"\tСистемный урон: 2; Урон экипажу: 45; Пробивание щита: 10; Шанс возгорания: "
+"40%; Шанс пробоины: 40%.\n"
+"\tВременно вызывает безумие у экипажа, по которому он попадает, отключая их "
+"активные способности.\n"
+"\tМожет быть направлен на ваш собственный корабль."
 
 #: src-en/data/hyperspace.xml.append:305
 msgid ""
@@ -40,6 +48,13 @@ msgstr "ИОНИЗИРОВАТЬ"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[2]/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:90с  ДЛИТЕЛЬНОСТЬ:10с]\n"
+"Насыщает ваш курсор ионной энергией. В течение следующих 10 секунд ваши "
+"клики по плиткам будут вызывать ионный лучевой луч, направленный на них.\n"
+"\tИонный урон: 1; Пробивание щита: 10; Оглушение: 10 секунд.\n"
+"\tМожет нацеливаться на ваш собственный корабль.\n"
+"\tТакже наносит 2 единицы ионного урона вашей кнопке паузы, лишая вас "
+"возможности приостанавливать игру на время действия эффекта."
 
 #: src-en/data/hyperspace.xml.append:358
 msgid ""
@@ -117,13 +132,13 @@ msgstr "СТАТУС"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[13]/customTitle"
-msgstr ""
+msgstr "РЕФРАКТОРЫ"
 
 #: src-en/data/hyperspace.xml.append:588
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[14]/customTitle"
-msgstr ""
+msgstr "МУЛЬТИШОТ"
 
 #: src-en/data/hyperspace.xml.append:607
 msgid ""
@@ -213,13 +228,13 @@ msgstr "СТАТУС"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[13]/customTitle"
-msgstr ""
+msgstr "РЕФРАКТОРЫ"
 
 #: src-en/data/hyperspace.xml.append:929
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[14]/customTitle"
-msgstr ""
+msgstr "МУЛЬТИШОТ"
 
 #: src-en/data/hyperspace.xml.append:948
 msgid ""
@@ -333,13 +348,13 @@ msgstr "СТАТУС"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[13]/customTitle"
-msgstr ""
+msgstr "РЕФРАКТОРЫ"
 
 #: src-en/data/hyperspace.xml.append:1370
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[14]/customTitle"
-msgstr ""
+msgstr "МУЛЬТИШОТ"
 
 #: src-en/data/hyperspace.xml.append:1389
 msgid ""
@@ -399,7 +414,7 @@ msgstr "Эмпорий лучей"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_STORE\"]/description"
-msgstr ""
+msgstr "Посетите магазин Эмпориум лучей."
 
 #: src-en/data/hyperspace.xml.append:1589
 msgid ""
