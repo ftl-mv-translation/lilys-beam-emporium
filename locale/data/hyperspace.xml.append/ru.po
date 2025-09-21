@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-21 14:58+0000\n"
+"PO-Revision-Date: 2025-09-21 15:40+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datahyperspace-xml-append/ru/>\n"
@@ -408,7 +408,7 @@ msgstr "ХАОС :)"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_STORE\"]/name"
-msgstr "Эмпорий лучей"
+msgstr "Эмпориум лучей"
 
 #: src-en/data/hyperspace.xml.append:1588
 msgid ""
@@ -421,54 +421,57 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_STORE\"]/secretDescription"
 msgstr ""
+"Найдите загадочный магазин, в котором продается огромное количество лучей."
 
 #: src-en/data/hyperspace.xml.append:1596
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_AVATAR\"]/name"
-msgstr ""
+msgstr "Женщина со множеством титулов"
 
 #: src-en/data/hyperspace.xml.append:1597
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_AVATAR\"]/description"
 msgstr ""
+"Примите предложение Лили присоединиться к вам после того, как подарите ей "
+"особый предмет или экипаж."
 
 #: src-en/data/hyperspace.xml.append:1598
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_AVATAR\"]/secretDescription"
-msgstr ""
+msgstr "Пригласите владельца загадочного магазина присоединиться к вам."
 
 #: src-en/data/hyperspace.xml.append:1605
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_LORE\"]/name"
-msgstr ""
+msgstr "Инструкция по эксплуатации"
 
 #: src-en/data/hyperspace.xml.append:1606
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_LORE\"]/description"
-msgstr ""
+msgstr "Спросите Лили о ее истории."
 
 #: src-en/data/hyperspace.xml.append:1607
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_LORE\"]/secretDescription"
-msgstr ""
+msgstr "Читать."
 
 #: src-en/data/hyperspace.xml.append:1614
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_EXCHANGE\"]/name"
-msgstr ""
+msgstr "Эквивалентный обмен"
 
 #: src-en/data/hyperspace.xml.append:1615
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_EXCHANGE\"]/description"
-msgstr ""
+msgstr "С помощью Лили создайте Королевский луч из найденной технологии эфира."
 
 #: src-en/data/hyperspace.xml.append:1616
 msgid ""
