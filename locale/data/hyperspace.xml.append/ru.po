@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-21 12:42+0000\n"
+"PO-Revision-Date: 2025-09-21 14:58+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datahyperspace-xml-append/ru/>\n"
@@ -15,11 +15,11 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:84
 msgid "data/hyperspace.xml.append$//siren_harpy[@name=\"Liliana\"]/@name"
-msgstr ""
+msgstr "Лилиана"
 
 #: src-en/data/hyperspace.xml.append:85
 msgid "data/hyperspace.xml.append$//siren_harpy[@name=\"Katherine\"]/@name"
-msgstr ""
+msgstr "Кэтрин"
 
 #: src-en/data/hyperspace.xml.append:285
 msgid ""
@@ -99,19 +99,19 @@ msgstr "ТОЧЕЧНЫЕ ИОНЫ"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[10]/customTitle"
-msgstr ""
+msgstr "УТИЛИТЫ"
 
 #: src-en/data/hyperspace.xml.append:531
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[11]/customTitle"
-msgstr ""
+msgstr "УТИЛИТЫ"
 
 #: src-en/data/hyperspace.xml.append:550
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[12]/customTitle"
-msgstr ""
+msgstr "СТАТУС"
 
 #: src-en/data/hyperspace.xml.append:569
 msgid ""
@@ -129,13 +129,13 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[15]/customTitle"
-msgstr ""
+msgstr "ПЕРЕДОВАЯ ТЕХНОЛОГИЯ"
 
 #: src-en/data/hyperspace.xml.append:626
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[16]/customTitle"
-msgstr ""
+msgstr "ГАУБИЦЫ"
 
 #: src-en/data/hyperspace.xml.append:699
 msgid ""
@@ -195,19 +195,19 @@ msgstr "ТОЧЕЧНЫЕ ИОНЫ"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[10]/customTitle"
-msgstr ""
+msgstr "УТИЛИТЫ"
 
 #: src-en/data/hyperspace.xml.append:872
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[11]/customTitle"
-msgstr ""
+msgstr "УТИЛИТЫ"
 
 #: src-en/data/hyperspace.xml.append:891
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[12]/customTitle"
-msgstr ""
+msgstr "СТАТУС"
 
 #: src-en/data/hyperspace.xml.append:910
 msgid ""
@@ -225,13 +225,13 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[15]/customTitle"
-msgstr ""
+msgstr "ПЕРЕДОВАЯ ТЕХНОЛОГИЯ"
 
 #: src-en/data/hyperspace.xml.append:967
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[16]/customTitle"
-msgstr ""
+msgstr "ГАУБИЦЫ"
 
 #: src-en/data/hyperspace.xml.append:1017
 msgid ""
@@ -315,19 +315,19 @@ msgstr "ТОЧЕЧНЫЕ ИОНЫ"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[10]/customTitle"
-msgstr ""
+msgstr "УТИЛИТЫ"
 
 #: src-en/data/hyperspace.xml.append:1312
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[11]/customTitle"
-msgstr ""
+msgstr "УТИЛИТЫ"
 
 #: src-en/data/hyperspace.xml.append:1332
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[12]/customTitle"
-msgstr ""
+msgstr "СТАТУС"
 
 #: src-en/data/hyperspace.xml.append:1351
 msgid ""
@@ -345,13 +345,13 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[15]/customTitle"
-msgstr ""
+msgstr "ПЕРЕДОВАЯ ТЕХНОЛОГИЯ"
 
 #: src-en/data/hyperspace.xml.append:1408
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[16]/customTitle"
-msgstr ""
+msgstr "ГАУБИЦЫ"
 
 #: src-en/data/hyperspace.xml.append:1422
 msgid ""
@@ -393,7 +393,7 @@ msgstr "ХАОС :)"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_STORE\"]/name"
-msgstr ""
+msgstr "Эмпорий лучей"
 
 #: src-en/data/hyperspace.xml.append:1588
 msgid ""
