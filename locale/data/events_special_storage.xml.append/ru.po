@@ -1816,7 +1816,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1616
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/text"
-msgstr "Настроить на: [мощность: 2; выстрелов: 5]"
+msgstr "Настроить на: [Мощность: 2; выстрелов: 5]"
 
 #: src-en/data/events_special_storage.xml.append:1618
 msgid ""
