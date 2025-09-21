@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-21 14:58+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-09-21 20:27+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -117,14 +117,14 @@ msgid "data/text_misc.xml.append$//text[@name=\"lily_aether_submit\"]"
 msgstr ""
 "Вы наблюдаете, как в пространстве открывается разлом и поглощает предмет, "
 "который вы ему дали.\n"
-"\"Хорошая находка, это подойдет идеально...\""
+"\"Хорошая находка, это подойдет идеально--\""
 
 #: src-en/data/text_misc.xml.append:26
 msgid "data/text_misc.xml.append$//text[@name=\"lily_aether_redeem\"]"
 msgstr ""
 "Вы наблюдаете, как в пространстве открывается разлом и дарит вам совершенно "
 "новое эфирное оружие!\n"
-"\"А вот и награда за все ваши труды...\""
+"\"А вот и награда за все ваши труды--\""
 
 #: src-en/data/text_misc.xml.append:29
 msgid "data/text_misc.xml.append$//text[@name=\"loot_zoltan_2\"]"
