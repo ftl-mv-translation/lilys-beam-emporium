@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-21 16:05+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-09-21 18:20+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataeventsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -320,12 +320,12 @@ msgstr ""
 #: src-en/data/events.xml.append:404
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[3]/text"
-msgstr ""
+msgstr "@%#$$#$$@$"
 
 #: src-en/data/events.xml.append:408
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[4]/text"
-msgstr ""
+msgstr "#0#@%%*@$%"
 
 #: src-en/data/events.xml.append:412
 msgid ""
@@ -424,12 +424,12 @@ msgstr ""
 #: src-en/data/events.xml.append:499
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[3]/text"
-msgstr ""
+msgstr "@%#$$#$$@$"
 
 #: src-en/data/events.xml.append:503
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[4]/text"
-msgstr ""
+msgstr "#0#@%%*@$%"
 
 #: src-en/data/events.xml.append:507
 msgid ""
