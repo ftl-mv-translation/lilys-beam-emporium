@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-09-22 18:52+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/"
+"lilys-beam-emporium/datablueprintsxmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:196
 msgid ""
@@ -133,7 +140,8 @@ msgstr "'Lucerne'"
 
 #: src-en/data/blueprints.xml.append:310
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_ZOLTAN_2\"]/desc"
-msgstr "특별한 전리품 무기입니다. 인벤토리에서 툴팁을 확인하고 원본 무기보다 뛰어난 점을 알아보세요."
+msgstr "특별한 전리품 무기입니다. 인벤토리에서 툴팁을 확인하고 원본 무기보다 뛰어난 "
+"점을 알아보세요."
 
 #: src-en/data/blueprints.xml.append:338
 msgid ""
