@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-21 14:58+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-09-22 18:51+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -142,8 +142,8 @@ msgstr "Люцерн"
 #: src-en/data/blueprints.xml.append:310
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_ZOLTAN_2\"]/desc"
 msgstr ""
-"Особый прототип. Смотрите совет в инвентаре, чтобы узнать об улучшениях этой"
-" версии орудия."
+"Особый прототип. Смотрите совет в инвентаре, чтобы узнать об улучшениях этой "
+"версии орудия."
 
 #: src-en/data/blueprints.xml.append:338
 msgid ""
