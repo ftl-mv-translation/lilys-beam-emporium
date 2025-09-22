@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-22 18:52+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: German <https://weblate.hyperq.be/projects/"
-"lilys-beam-emporium/dataevents_sector_rhymexmlappend/de/>\n"
-"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_rhyme.xml.append:2
 msgid ""
@@ -40,12 +33,12 @@ msgid ""
 msgstr ""
 "\"Oh, das ist wirklich wunderbar! Aber bitte, mein Kind, erschreck unseren "
 "kleinen Agenten des Chaos nicht! Hallo, Abtrünniger! Willkommen in meinem "
-"Reich. Das Zuhause all meiner kostbaren Kinder. Einst war dieses Fluggefährt "
-"bevölkert von unzähligen eldritschen Wesen wie mir. Leider doch, führten "
+"Reich. Das Zuhause all meiner kostbaren Kinder. Einst war dieses Fluggefährt"
+" bevölkert von unzähligen eldritschen Wesen wie mir. Leider doch, führten "
 "ihre ständigen Fehden unter ihnen zum Aussterben. Nun ist das alles was von "
 "ihrem Traum, den Kosmos zu verschmutzen und mein Ungeziefer zu füttern, "
-"übrig geblieben ist. Ehrlich gesagt hätte ich es vorgezogen, das Multiversum "
-"mit einer Armee von Göttern zu übernehmen, aber gut. Ein kleiner, älterer "
+"übrig geblieben ist. Ehrlich gesagt hätte ich es vorgezogen, das Multiversum"
+" mit einer Armee von Göttern zu übernehmen, aber gut. Ein kleiner, älterer "
 "Gott des Chaos wird genügen müssen.\""
 
 #: src-en/data/events_sector_rhyme.xml.append:35

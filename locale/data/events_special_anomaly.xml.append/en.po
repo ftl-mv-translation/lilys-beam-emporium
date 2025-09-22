@@ -142,7 +142,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/text"
 msgstr ""
 "\"And according to your records... Wait, your record is pretty much clean!\"\n"
-"\"Which mean that you any yor ship are to be put under arrest!\""
+"\"Which mean that you any your ship are to be put under arrest!\""
 
 #: src-en/data/events_special_anomaly.xml.append:142
 msgid ""
@@ -167,7 +167,7 @@ msgid ""
 msgstr ""
 "\"What's this? A bribe? Don't you know that bribing police officers is a crime?!\"\n"
 "\n"
-"...Soo, great job! You shall be rewarded for this.\"\n"
+"\"...Soo, great job! You shall be rewarded for this.\"\n"
 "\n"
 "\"Remember to always commit crimes and cause more chaos! Hahe!\""
 
@@ -204,7 +204,7 @@ msgid ""
 msgstr ""
 "\"Are you threatening me!? Don't you know that threatening police officers is a crime?!\"\n"
 "\n"
-"...Soo, great job! You shall be rewarded for this.\"\n"
+"\"...Soo, great job! You shall be rewarded for this.\"\n"
 "\n"
 "\"Remember to always commit crimes and cause more chaos! Hahe!\""
 
@@ -239,7 +239,7 @@ msgid ""
 msgstr ""
 "\"Are you ATTACKING me!? Don't you know that attack on a police officer is a SERIOUS crime?!\"\n"
 "\n"
-"...Soo, great job! You shall be rewarded for this.\"\n"
+"\"...Soo, great job! You shall be rewarded for this.\"\n"
 "\n"
 "\"Remember to always commit crimes and cause more chaos! Hahe!\""
 
@@ -293,7 +293,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL_HIGH\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a very notorious criminal in whole of the federation!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:259
 msgid ""
@@ -320,7 +320,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_UNION_HIGH\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a very notorious criminal in the Galactic Union!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:282
 msgid ""
@@ -332,7 +332,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ENGI_HIGH\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a very notorious criminal in the Engi Harmony!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:294
 msgid ""
@@ -344,7 +344,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ZOLTAN_HIGH\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a very notorious criminal in the Zoltan Ministry!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:306
 msgid ""
@@ -356,7 +356,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ORCHID_HIGH\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a very notorious criminal in the Floral Gathering!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:318
 msgid ""
@@ -368,7 +368,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_VAMPWEED_HIGH\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a very notorious criminal in the Vampweed Confederacy!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:330
 msgid ""
@@ -380,7 +380,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_FREEMANTIS_HIGH\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a very notorious criminal in the Free Mantis Clans!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:342
 msgid ""
@@ -392,7 +392,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_CRYSTAL_HIGH\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a very notorious criminal in the Crystalline Empire!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:354
 msgid ""
@@ -404,7 +404,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_OUTCAST_HIGH\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a very notorious criminal according to Rock Outcasts!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:366
 msgid ""
@@ -416,7 +416,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_SHELL_HIGH\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a very notorious criminal in the Shell Geniocracy!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:379
 msgid ""
@@ -428,7 +428,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a criminal according to the federation!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:393
 msgid ""
@@ -455,7 +455,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_UNION\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a criminal in the Galactic Union!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:415
 msgid ""
@@ -467,7 +467,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ENGI\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a criminal in the Engi Harmony!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:427
 msgid ""
@@ -479,7 +479,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ZOLTAN\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a criminal in the Zoltan Ministry!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:439
 msgid ""
@@ -491,7 +491,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ORCHID\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a criminal in the Floral Gathering!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:451
 msgid ""
@@ -503,7 +503,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_VAMPWEED\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a criminal in the Vampweed Confederacy!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:463
 msgid ""
@@ -515,7 +515,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_FREEMANTIS\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a criminal in the Free Mantis Clans!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:475
 msgid ""
@@ -527,7 +527,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_OUTCAST\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a criminal according to Rock Outcasts!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:487
 msgid ""
@@ -539,7 +539,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_CRYSTAL\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a criminal in the Crystalline Empire!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:499
 msgid ""
@@ -551,7 +551,7 @@ msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_SHELL\"]/text"
 msgstr ""
 "\"And according to your records... You are indeed a criminal in the Shell Geniocracy!...\"\n"
-"...Soo, great job! You shall be rewarded for this.\""
+"\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:511
 msgid ""

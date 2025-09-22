@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-22 18:51+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Japanese <https://weblate.hyperq.be/projects/"
-"lilys-beam-emporium/datablueprintsxmlappend/ja/>\n"
-"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:196
 msgid ""
@@ -98,1433 +91,1622 @@ msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ESTROGEN_DISPERSAL\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:280
+#: src-en/data/blueprints.xml.append:279
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/desc"
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_SHIELDS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:287
+#: src-en/data/blueprints.xml.append:280
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[1]"
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_SHIELDS\"]/desc"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:288
 msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:295
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:296
+msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[2]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:289
+#: src-en/data/blueprints.xml.append:297
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[3]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:290
+#: src-en/data/blueprints.xml.append:298
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[4]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:291
+#: src-en/data/blueprints.xml.append:299
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[5]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:308
+#: src-en/data/blueprints.xml.append:316
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_ZOLTAN_2\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:309
+#: src-en/data/blueprints.xml.append:317
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_ZOLTAN_2\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:310
+#: src-en/data/blueprints.xml.append:318
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_ZOLTAN_2\"]/desc"
-msgstr "特別戦利品兵器。インベントリのツールチップを確認して、通常バージョンからの改"
-"善点を確認してください。"
+msgstr "特別戦利品兵器。インベントリのツールチップを確認して、通常バージョンからの改善点を確認してください。"
 
-#: src-en/data/blueprints.xml.append:338
+#: src-en/data/blueprints.xml.append:346
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POINTER\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:339
+#: src-en/data/blueprints.xml.append:347
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POINTER\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:340
+#: src-en/data/blueprints.xml.append:348
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POINTER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:454
+#: src-en/data/blueprints.xml.append:462
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_BEAM\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:455
+#: src-en/data/blueprints.xml.append:463
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_BEAM\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:456
+#: src-en/data/blueprints.xml.append:464
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_BEAM\"]/desc"
 msgstr "これを見てはいけない"
 
-#: src-en/data/blueprints.xml.append:538
+#: src-en/data/blueprints.xml.append:546
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_ION\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:539
+#: src-en/data/blueprints.xml.append:547
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_ION\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:540
+#: src-en/data/blueprints.xml.append:548
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_ION\"]/desc"
 msgstr "これを見てはいけない"
 
-#: src-en/data/blueprints.xml.append:583
+#: src-en/data/blueprints.xml.append:591
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_1\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:584
+#: src-en/data/blueprints.xml.append:592
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_1\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:585
+#: src-en/data/blueprints.xml.append:593
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_1\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:631
+#: src-en/data/blueprints.xml.append:639
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:632
+#: src-en/data/blueprints.xml.append:640
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:633
+#: src-en/data/blueprints.xml.append:641
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:679
+#: src-en/data/blueprints.xml.append:687
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_HEAVY\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:680
+#: src-en/data/blueprints.xml.append:688
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_HEAVY\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:681
+#: src-en/data/blueprints.xml.append:689
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_HEAVY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:728
+#: src-en/data/blueprints.xml.append:736
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_CHAIN\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:729
+#: src-en/data/blueprints.xml.append:737
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_CHAIN\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:730
+#: src-en/data/blueprints.xml.append:738
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_CHAIN\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:782
+#: src-en/data/blueprints.xml.append:790
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_FIRE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:783
+#: src-en/data/blueprints.xml.append:791
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_FIRE\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:784
+#: src-en/data/blueprints.xml.append:792
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_FIRE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:830
+#: src-en/data/blueprints.xml.append:838
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_STUN\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:831
+#: src-en/data/blueprints.xml.append:839
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_STUN\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:832
+#: src-en/data/blueprints.xml.append:840
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_STUN\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:879
+#: src-en/data/blueprints.xml.append:887
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_BIO\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:880
+#: src-en/data/blueprints.xml.append:888
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_BIO\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:881
+#: src-en/data/blueprints.xml.append:889
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_BIO\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:933
+#: src-en/data/blueprints.xml.append:941
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:934
+#: src-en/data/blueprints.xml.append:942
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:935
+#: src-en/data/blueprints.xml.append:943
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:937
+#: src-en/data/blueprints.xml.append:945
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/descriptionOverride"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:956
+#: src-en/data/blueprints.xml.append:964
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/tooltipOverride"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1027
+#: src-en/data/blueprints.xml.append:1035
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_H\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1028
+#: src-en/data/blueprints.xml.append:1036
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_H\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1029
+#: src-en/data/blueprints.xml.append:1037
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_H\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1055
+#: src-en/data/blueprints.xml.append:1063
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_P\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1056
+#: src-en/data/blueprints.xml.append:1064
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_P\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1057
+#: src-en/data/blueprints.xml.append:1065
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_P\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1087
+#: src-en/data/blueprints.xml.append:1095
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_B\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1088
+#: src-en/data/blueprints.xml.append:1096
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_B\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1089
+#: src-en/data/blueprints.xml.append:1097
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_B\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1134
+#: src-en/data/blueprints.xml.append:1142
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_L\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1135
+#: src-en/data/blueprints.xml.append:1143
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_L\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1136
+#: src-en/data/blueprints.xml.append:1144
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_L\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1162
+#: src-en/data/blueprints.xml.append:1170
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_B\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1163
+#: src-en/data/blueprints.xml.append:1171
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_B\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1164
+#: src-en/data/blueprints.xml.append:1172
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_B\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1201
+#: src-en/data/blueprints.xml.append:1209
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_P\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1202
+#: src-en/data/blueprints.xml.append:1210
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_P\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1203
+#: src-en/data/blueprints.xml.append:1211
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_P\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1235
+#: src-en/data/blueprints.xml.append:1243
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_H\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1236
+#: src-en/data/blueprints.xml.append:1244
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_H\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1237
+#: src-en/data/blueprints.xml.append:1245
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_H\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1281
+#: src-en/data/blueprints.xml.append:1289
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_B\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1282
+#: src-en/data/blueprints.xml.append:1290
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_B\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1283
+#: src-en/data/blueprints.xml.append:1291
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_B\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1308
+#: src-en/data/blueprints.xml.append:1316
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_F\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1309
+#: src-en/data/blueprints.xml.append:1317
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_F\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1310
+#: src-en/data/blueprints.xml.append:1318
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_F\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1337
+#: src-en/data/blueprints.xml.append:1345
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1338
+#: src-en/data/blueprints.xml.append:1346
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1339
+#: src-en/data/blueprints.xml.append:1347
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1371
+#: src-en/data/blueprints.xml.append:1379
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S_BEAM\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1372
+#: src-en/data/blueprints.xml.append:1380
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S_BEAM\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1373
+#: src-en/data/blueprints.xml.append:1381
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S_BEAM\"]/desc"
 msgstr "これを見てはいけない"
 
-#: src-en/data/blueprints.xml.append:1408
+#: src-en/data/blueprints.xml.append:1416
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1409
+#: src-en/data/blueprints.xml.append:1417
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1410
+#: src-en/data/blueprints.xml.append:1418
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1412
+#: src-en/data/blueprints.xml.append:1420
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/descriptionOverride"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1434
+#: src-en/data/blueprints.xml.append:1442
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/tooltipOverride"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1481
+#: src-en/data/blueprints.xml.append:1489
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_SEC\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1482
+#: src-en/data/blueprints.xml.append:1490
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_SEC\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1483
+#: src-en/data/blueprints.xml.append:1491
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_SEC\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1522
+#: src-en/data/blueprints.xml.append:1530
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1523
+#: src-en/data/blueprints.xml.append:1531
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1524
+#: src-en/data/blueprints.xml.append:1532
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1558
+#: src-en/data/blueprints.xml.append:1566
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1559
+#: src-en/data/blueprints.xml.append:1567
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1560
+#: src-en/data/blueprints.xml.append:1568
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1620
+#: src-en/data/blueprints.xml.append:1628
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1621
+#: src-en/data/blueprints.xml.append:1629
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1622
+#: src-en/data/blueprints.xml.append:1630
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1707
+#: src-en/data/blueprints.xml.append:1715
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1708
+#: src-en/data/blueprints.xml.append:1716
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1709
+#: src-en/data/blueprints.xml.append:1717
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1808
+#: src-en/data/blueprints.xml.append:1816
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1809
+#: src-en/data/blueprints.xml.append:1817
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1810
+#: src-en/data/blueprints.xml.append:1818
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1877
+#: src-en/data/blueprints.xml.append:1885
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1878
+#: src-en/data/blueprints.xml.append:1886
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1879
+#: src-en/data/blueprints.xml.append:1887
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON\"]/desc"
 msgstr "これを見てはいけない"
 
-#: src-en/data/blueprints.xml.append:1909
+#: src-en/data/blueprints.xml.append:1917
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_O\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1910
+#: src-en/data/blueprints.xml.append:1918
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_O\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1911
+#: src-en/data/blueprints.xml.append:1919
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_O\"]/desc"
 msgstr "これを見てはいけない"
 
-#: src-en/data/blueprints.xml.append:1945
+#: src-en/data/blueprints.xml.append:1953
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1946
+#: src-en/data/blueprints.xml.append:1954
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1947
+#: src-en/data/blueprints.xml.append:1955
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1984
+#: src-en/data/blueprints.xml.append:1992
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1985
+#: src-en/data/blueprints.xml.append:1993
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1986
+#: src-en/data/blueprints.xml.append:1994
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2023
+#: src-en/data/blueprints.xml.append:2031
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2024
+#: src-en/data/blueprints.xml.append:2032
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2025
+#: src-en/data/blueprints.xml.append:2033
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2061
+#: src-en/data/blueprints.xml.append:2069
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2062
+#: src-en/data/blueprints.xml.append:2070
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2063
+#: src-en/data/blueprints.xml.append:2071
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2098
+#: src-en/data/blueprints.xml.append:2106
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2099
+#: src-en/data/blueprints.xml.append:2107
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2100
+#: src-en/data/blueprints.xml.append:2108
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2151
+#: src-en/data/blueprints.xml.append:2159
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2152
+#: src-en/data/blueprints.xml.append:2160
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2153
+#: src-en/data/blueprints.xml.append:2161
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2188
+#: src-en/data/blueprints.xml.append:2196
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_R\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2189
+#: src-en/data/blueprints.xml.append:2197
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_R\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2190
+#: src-en/data/blueprints.xml.append:2198
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_R\"]/desc"
 msgstr "これを見てはいけない"
 
-#: src-en/data/blueprints.xml.append:2222
+#: src-en/data/blueprints.xml.append:2230
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2223
+#: src-en/data/blueprints.xml.append:2231
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2224
+#: src-en/data/blueprints.xml.append:2232
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2257
+#: src-en/data/blueprints.xml.append:2265
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_R\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2258
+#: src-en/data/blueprints.xml.append:2266
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_R\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2259
+#: src-en/data/blueprints.xml.append:2267
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_R\"]/desc"
 msgstr "これを見てはいけない"
 
-#: src-en/data/blueprints.xml.append:2290
+#: src-en/data/blueprints.xml.append:2298
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_O\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2291
+#: src-en/data/blueprints.xml.append:2299
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_O\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2292
+#: src-en/data/blueprints.xml.append:2300
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_O\"]/desc"
 msgstr "これを見てはいけない"
 
-#: src-en/data/blueprints.xml.append:2323
+#: src-en/data/blueprints.xml.append:2331
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_Y\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2324
+#: src-en/data/blueprints.xml.append:2332
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_Y\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2325
+#: src-en/data/blueprints.xml.append:2333
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_Y\"]/desc"
 msgstr "これを見てはいけない"
 
-#: src-en/data/blueprints.xml.append:2357
+#: src-en/data/blueprints.xml.append:2365
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_G\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2358
+#: src-en/data/blueprints.xml.append:2366
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_G\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2359
+#: src-en/data/blueprints.xml.append:2367
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_G\"]/desc"
 msgstr "これを見てはいけない"
 
-#: src-en/data/blueprints.xml.append:2390
+#: src-en/data/blueprints.xml.append:2398
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_B\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2391
+#: src-en/data/blueprints.xml.append:2399
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_B\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2392
+#: src-en/data/blueprints.xml.append:2400
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_B\"]/desc"
 msgstr "これを見てはいけない"
 
-#: src-en/data/blueprints.xml.append:2423
+#: src-en/data/blueprints.xml.append:2431
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_I\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2424
+#: src-en/data/blueprints.xml.append:2432
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_I\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2425
+#: src-en/data/blueprints.xml.append:2433
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_I\"]/desc"
 msgstr "これを見てはいけない"
 
-#: src-en/data/blueprints.xml.append:2456
+#: src-en/data/blueprints.xml.append:2464
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_V\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2457
+#: src-en/data/blueprints.xml.append:2465
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_V\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2458
+#: src-en/data/blueprints.xml.append:2466
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_V\"]/desc"
 msgstr "これを見てはいけない"
 
-#: src-en/data/blueprints.xml.append:2505
+#: src-en/data/blueprints.xml.append:2513
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2506
+#: src-en/data/blueprints.xml.append:2514
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2507
+#: src-en/data/blueprints.xml.append:2515
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2541
+#: src-en/data/blueprints.xml.append:2549
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2542
+#: src-en/data/blueprints.xml.append:2550
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2543
+#: src-en/data/blueprints.xml.append:2551
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2580
+#: src-en/data/blueprints.xml.append:2588
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2581
+#: src-en/data/blueprints.xml.append:2589
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2582
+#: src-en/data/blueprints.xml.append:2590
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2616
+#: src-en/data/blueprints.xml.append:2624
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2617
+#: src-en/data/blueprints.xml.append:2625
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2618
+#: src-en/data/blueprints.xml.append:2626
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2665
+#: src-en/data/blueprints.xml.append:2673
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2666
+#: src-en/data/blueprints.xml.append:2674
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2667
+#: src-en/data/blueprints.xml.append:2675
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2747
+#: src-en/data/blueprints.xml.append:2755
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2748
+#: src-en/data/blueprints.xml.append:2756
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2749
+#: src-en/data/blueprints.xml.append:2757
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2803
+#: src-en/data/blueprints.xml.append:2811
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_P\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2804
+#: src-en/data/blueprints.xml.append:2812
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_P\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2805
+#: src-en/data/blueprints.xml.append:2813
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_P\"]/desc"
 msgstr "これを見てはいけない"
 
-#: src-en/data/blueprints.xml.append:2835
+#: src-en/data/blueprints.xml.append:2843
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_S\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2836
+#: src-en/data/blueprints.xml.append:2844
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_S\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2837
+#: src-en/data/blueprints.xml.append:2845
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_S\"]/desc"
 msgstr "これを見てはいけない"
 
-#: src-en/data/blueprints.xml.append:2876
+#: src-en/data/blueprints.xml.append:2884
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_PARTICLE_MINI\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2877
+#: src-en/data/blueprints.xml.append:2885
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_PARTICLE_MINI\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2878
+#: src-en/data/blueprints.xml.append:2886
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_PARTICLE_MINI\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2909
+#: src-en/data/blueprints.xml.append:2917
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2910
+#: src-en/data/blueprints.xml.append:2918
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2912
+#: src-en/data/blueprints.xml.append:2920
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/desc"
 msgstr "これを見てはいけない"
 
-#: src-en/data/blueprints.xml.append:2913
+#: src-en/data/blueprints.xml.append:2921
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/descriptionOverride"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2935
+#: src-en/data/blueprints.xml.append:2943
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/tooltipOverride"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2988
+#: src-en/data/blueprints.xml.append:2996
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2989
+#: src-en/data/blueprints.xml.append:2997
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2990
+#: src-en/data/blueprints.xml.append:2998
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3070
+#: src-en/data/blueprints.xml.append:3078
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3071
+#: src-en/data/blueprints.xml.append:3079
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3072
+#: src-en/data/blueprints.xml.append:3080
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3109
+#: src-en/data/blueprints.xml.append:3117
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3110
+#: src-en/data/blueprints.xml.append:3118
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3111
+#: src-en/data/blueprints.xml.append:3119
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3134
+#: src-en/data/blueprints.xml.append:3142
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3135
+#: src-en/data/blueprints.xml.append:3143
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3136
+#: src-en/data/blueprints.xml.append:3144
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3161
+#: src-en/data/blueprints.xml.append:3169
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ_2\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3162
+#: src-en/data/blueprints.xml.append:3170
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ_2\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3163
+#: src-en/data/blueprints.xml.append:3171
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3200
+#: src-en/data/blueprints.xml.append:3208
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3201
+#: src-en/data/blueprints.xml.append:3209
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3202
+#: src-en/data/blueprints.xml.append:3210
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3270
+#: src-en/data/blueprints.xml.append:3278
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3271
+#: src-en/data/blueprints.xml.append:3279
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3272
+#: src-en/data/blueprints.xml.append:3280
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3340
+#: src-en/data/blueprints.xml.append:3348
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3341
+#: src-en/data/blueprints.xml.append:3349
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3342
+#: src-en/data/blueprints.xml.append:3350
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3410
+#: src-en/data/blueprints.xml.append:3419
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3411
+#: src-en/data/blueprints.xml.append:3420
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3412
+#: src-en/data/blueprints.xml.append:3421
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3480
+#: src-en/data/blueprints.xml.append:3490
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3481
+#: src-en/data/blueprints.xml.append:3491
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3482
+#: src-en/data/blueprints.xml.append:3492
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3617
+#: src-en/data/blueprints.xml.append:3639
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3618
+#: src-en/data/blueprints.xml.append:3640
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3619
+#: src-en/data/blueprints.xml.append:3641
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3779
+#: src-en/data/blueprints.xml.append:3835
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3836
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3837
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3910
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3911
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3912
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3985
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3986
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3987
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4061
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4062
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4063
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4137
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4138
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4139
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4291
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4292
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4293
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4492
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4493
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4494
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4567
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4568
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4569
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4642
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4643
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4644
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4718
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4719
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4720
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4803
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4804
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4805
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4957
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4958
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4959
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5187
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3780
+#: src-en/data/blueprints.xml.append:5188
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3781
+#: src-en/data/blueprints.xml.append:5189
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3782
+#: src-en/data/blueprints.xml.append:5190
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3808
+#: src-en/data/blueprints.xml.append:5216
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3809
+#: src-en/data/blueprints.xml.append:5217
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3810
+#: src-en/data/blueprints.xml.append:5218
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3811
+#: src-en/data/blueprints.xml.append:5219
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3841
+#: src-en/data/blueprints.xml.append:5249
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3842
+#: src-en/data/blueprints.xml.append:5250
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3843
+#: src-en/data/blueprints.xml.append:5251
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3844
+#: src-en/data/blueprints.xml.append:5252
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3981
+#: src-en/data/blueprints.xml.append:5389
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3982
+#: src-en/data/blueprints.xml.append:5390
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3983
+#: src-en/data/blueprints.xml.append:5391
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3984
+#: src-en/data/blueprints.xml.append:5392
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4014
+#: src-en/data/blueprints.xml.append:5422
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4015
+#: src-en/data/blueprints.xml.append:5423
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4016
+#: src-en/data/blueprints.xml.append:5424
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4017
+#: src-en/data/blueprints.xml.append:5425
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4047
+#: src-en/data/blueprints.xml.append:5455
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4048
+#: src-en/data/blueprints.xml.append:5456
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4049
+#: src-en/data/blueprints.xml.append:5457
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4050
+#: src-en/data/blueprints.xml.append:5458
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4082
+#: src-en/data/blueprints.xml.append:5490
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4083
+#: src-en/data/blueprints.xml.append:5491
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4084
+#: src-en/data/blueprints.xml.append:5492
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4085
+#: src-en/data/blueprints.xml.append:5493
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4116
+#: src-en/data/blueprints.xml.append:5524
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4117
+#: src-en/data/blueprints.xml.append:5525
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4118
+#: src-en/data/blueprints.xml.append:5526
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4119
+#: src-en/data/blueprints.xml.append:5527
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4149
+#: src-en/data/blueprints.xml.append:5557
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4150
+#: src-en/data/blueprints.xml.append:5558
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4151
+#: src-en/data/blueprints.xml.append:5559
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4152
+#: src-en/data/blueprints.xml.append:5560
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4186
+#: src-en/data/blueprints.xml.append:5594
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4187
+#: src-en/data/blueprints.xml.append:5595
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4188
+#: src-en/data/blueprints.xml.append:5596
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4189
+#: src-en/data/blueprints.xml.append:5597
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4222
+#: src-en/data/blueprints.xml.append:5630
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4223
+#: src-en/data/blueprints.xml.append:5631
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4224
+#: src-en/data/blueprints.xml.append:5632
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4225
+#: src-en/data/blueprints.xml.append:5633
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4300
+#: src-en/data/blueprints.xml.append:5708
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4301
+#: src-en/data/blueprints.xml.append:5709
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4302
+#: src-en/data/blueprints.xml.append:5710
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4303
+#: src-en/data/blueprints.xml.append:5711
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4334
+#: src-en/data/blueprints.xml.append:5742
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4335
+#: src-en/data/blueprints.xml.append:5743
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4336
+#: src-en/data/blueprints.xml.append:5744
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4337
+#: src-en/data/blueprints.xml.append:5745
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4381
+#: src-en/data/blueprints.xml.append:5789
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4382
+#: src-en/data/blueprints.xml.append:5790
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4383
+#: src-en/data/blueprints.xml.append:5791
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4460
+#: src-en/data/blueprints.xml.append:5868
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4461
+#: src-en/data/blueprints.xml.append:5869
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4462
+#: src-en/data/blueprints.xml.append:5870
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4541
+#: src-en/data/blueprints.xml.append:5949
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4542
+#: src-en/data/blueprints.xml.append:5950
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4543
+#: src-en/data/blueprints.xml.append:5951
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4625
+#: src-en/data/blueprints.xml.append:6033
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4626
+#: src-en/data/blueprints.xml.append:6034
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4627
+#: src-en/data/blueprints.xml.append:6035
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4829
+#: src-en/data/blueprints.xml.append:6237
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_FED_BEAM_BATTLESHIP\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4830
+#: src-en/data/blueprints.xml.append:6238
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_FED_BEAM_BATTLESHIP\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4831
+#: src-en/data/blueprints.xml.append:6239
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_FED_BEAM_BATTLESHIP\"]/desc"
 msgstr ""

@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-22 18:51+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/lilys-beam-emporium/dataevents_sector_rhymexmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_rhyme.xml.append:2
 msgid ""
@@ -38,12 +31,7 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"HER_NOFIGHT_LILY\"]/choice/event/text"
 msgstr ""
-"\"哦"
-"，这真的很棒！但是，我的孩子，请不要吓到我们的混乱小代理人！你好，变元者！欢"
-"迎来到我的领域。我所有宝贝孩子的家。曾经，这个位面住着无数像我一样的精灵。不"
-"幸的是，他们不断的争斗导致他们中的许多存在最终灭绝。现在，只剩下他们用以污染"
-"宇宙和饲养我的这些害虫的梦想物质。坦率地说，我很想用一支众神军队接管多元宇宙"
-"；但是，哦，好吧。一个较小的和较年长的混乱之神就已经相当可以了。\""
+"\"哦，这真的很棒！但是，我的孩子，请不要吓到我们的混乱小代理人！你好，变元者！欢迎来到我的领域。我所有宝贝孩子的家。曾经，这个位面住着无数像我一样的精灵。不幸的是，他们不断的争斗导致他们中的许多存在最终灭绝。现在，只剩下他们用以污染宇宙和饲养我的这些害虫的梦想物质。坦率地说，我很想用一支众神军队接管多元宇宙；但是，哦，好吧。一个较小的和较年长的混乱之神就已经相当可以了。\""
 
 #: src-en/data/events_sector_rhyme.xml.append:35
 msgid ""

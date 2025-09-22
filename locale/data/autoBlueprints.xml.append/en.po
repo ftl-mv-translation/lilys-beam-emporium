@@ -10,7 +10,7 @@ msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"SHIP_BEAM_EMPORIUM_STATION\"]/class"
 msgstr "Beam Emporium"
 
-#: src-en/data/autoBlueprints.xml.append:36
+#: src-en/data/autoBlueprints.xml.append:48
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"LILY_CHAOS_POLICE\"]/class"
 msgstr "Chaos Enforcer"
