@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-09-23 12:08+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1324,12 +1324,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3835
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/title"
-msgstr ""
+msgstr "Хаотический луч дезинтегратор \"Ира\""
 
 #: src-en/data/blueprints.xml.append:3836
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/short"
-msgstr ""
+msgstr "Ира™"
 
 #: src-en/data/blueprints.xml.append:3837
 msgid ""
@@ -1339,12 +1339,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3910
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/title"
-msgstr ""
+msgstr "Хаотический луч дезинтегратор \"Ангорис\""
 
 #: src-en/data/blueprints.xml.append:3911
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/short"
-msgstr ""
+msgstr "Ангорис™"
 
 #: src-en/data/blueprints.xml.append:3912
 msgid ""
@@ -1354,12 +1354,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3985
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/title"
-msgstr ""
+msgstr "Хаотический луч дезинтегратор \"Долор\""
 
 #: src-en/data/blueprints.xml.append:3986
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/short"
-msgstr ""
+msgstr "Долор™"
 
 #: src-en/data/blueprints.xml.append:3987
 msgid ""
@@ -1369,12 +1369,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4061
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/title"
-msgstr ""
+msgstr "Хаотический луч дезинтегратор \"Торментум\""
 
 #: src-en/data/blueprints.xml.append:4062
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/short"
-msgstr ""
+msgstr "Торментум™"
 
 #: src-en/data/blueprints.xml.append:4063
 msgid ""
@@ -1384,12 +1384,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4137
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/title"
-msgstr ""
+msgstr "Хаотический луч дезинтегратор хаоса огня \"Арде\""
 
 #: src-en/data/blueprints.xml.append:4138
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/short"
-msgstr ""
+msgstr "Арде™"
 
 #: src-en/data/blueprints.xml.append:4139
 msgid ""
@@ -1399,12 +1399,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4291
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/title"
-msgstr ""
+msgstr "Хаотический луч дезинтегратор хаоса изоляции \"Толчок\""
 
 #: src-en/data/blueprints.xml.append:4292
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/short"
-msgstr ""
+msgstr "Толчок™"
 
 #: src-en/data/blueprints.xml.append:4293
 msgid ""
@@ -1414,12 +1414,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4492
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/title"
-msgstr ""
+msgstr "Элитный луч дезинтегратор \"Ира\""
 
 #: src-en/data/blueprints.xml.append:4493
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/short"
-msgstr ""
+msgstr "€ Ира"
 
 #: src-en/data/blueprints.xml.append:4494
 msgid ""
@@ -1429,12 +1429,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4567
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/title"
-msgstr ""
+msgstr "Элитный луч дезинтегратор \"Ангорис\""
 
 #: src-en/data/blueprints.xml.append:4568
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/short"
-msgstr ""
+msgstr "€ Ангорис"
 
 #: src-en/data/blueprints.xml.append:4569
 msgid ""
@@ -1444,12 +1444,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4642
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/title"
-msgstr ""
+msgstr "Элитный луч дезинтегратор \"Долор\""
 
 #: src-en/data/blueprints.xml.append:4643
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/short"
-msgstr ""
+msgstr "€ Долор"
 
 #: src-en/data/blueprints.xml.append:4644
 msgid ""
@@ -1459,12 +1459,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4718
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/title"
-msgstr ""
+msgstr "Элитный луч дезинтегратор \"Торментум\""
 
 #: src-en/data/blueprints.xml.append:4719
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/short"
-msgstr ""
+msgstr "€ Торментум"
 
 #: src-en/data/blueprints.xml.append:4720
 msgid ""
@@ -1474,12 +1474,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4803
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/title"
-msgstr ""
+msgstr "Элитный луч дезинтегратор хаоса огня \"Арде\""
 
 #: src-en/data/blueprints.xml.append:4804
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/short"
-msgstr ""
+msgstr "€ Арде"
 
 #: src-en/data/blueprints.xml.append:4805
 msgid ""
@@ -1489,12 +1489,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4957
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/title"
-msgstr ""
+msgstr "Элитный луч дезинтегратор хаоса изоляции \"Толчок\""
 
 #: src-en/data/blueprints.xml.append:4958
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/short"
-msgstr ""
+msgstr "€ Толчок"
 
 #: src-en/data/blueprints.xml.append:4959
 msgid ""
