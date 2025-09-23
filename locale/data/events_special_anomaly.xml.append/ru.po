@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-23 12:08+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-09-23 19:01+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_anomalyxmlappend/ru/>\n"
 "Language: ru\n"
@@ -146,7 +146,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_anomaly.xml.append:139
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/text"
 msgstr ""
@@ -171,7 +170,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_anomaly.xml.append:151
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[1]/event/choice/event/text"
 msgstr ""
@@ -210,7 +208,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_anomaly.xml.append:178
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[@req=\"weapons\"]/event/choice/event/text"
 msgstr ""
@@ -247,7 +244,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_anomaly.xml.append:205
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/event/choice/event/text"
 msgstr ""
@@ -304,7 +300,6 @@ msgid ""
 msgstr "После этого странный корабль сразу удаляется."
 
 #: src-en/data/events_special_anomaly.xml.append:253
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL_HIGH\"]/text"
 msgstr ""
@@ -320,7 +315,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_anomaly.xml.append:261
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_REWARD_HIGH\"]/text"
-msgstr ""
+msgstr "\"Не забывайте всегда совершать преступления и сеять хаос! Ха-ха!\""
 
 #: src-en/data/events_special_anomaly.xml.append:265
 msgid ""
@@ -336,6 +331,9 @@ msgstr "После этого странный корабль сразу уда�
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_UNION_HIGH\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно очень известный преступник в "
+"Галактическом Союзе...!\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:282
 msgid ""
@@ -346,6 +344,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ENGI_HIGH\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно очень известный преступник в "
+"Гармонии энджи...!\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:294
 msgid ""
@@ -356,6 +357,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ZOLTAN_HIGH\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно очень известный преступник в "
+"Министерстве золтан...!\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:306
 msgid ""
@@ -366,6 +370,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ORCHID_HIGH\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно очень известный преступник в "
+"Соцветии флоралов...!\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:318
 msgid ""
@@ -376,6 +383,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_VAMPWEED_HIGH\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно очень известный преступник в "
+"Конфедерации вампсорняков...!\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:330
 msgid ""
@@ -386,6 +396,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_FREEMANTIS_HIGH\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно очень известный преступник "
+"среди кланов Свободных Богомолов...!\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:342
 msgid ""
@@ -396,6 +409,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_CRYSTAL_HIGH\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно очень известный преступник в "
+"Империи кристаллинов...!\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:354
 msgid ""
@@ -406,6 +422,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_OUTCAST_HIGH\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно очень известный преступник, "
+"согласно Изгоям валунов...!\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:366
 msgid ""
@@ -416,6 +435,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_SHELL_HIGH\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно очень известный преступник в "
+"Гениократии ракушек...!\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:379
 msgid ""
@@ -426,6 +448,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно являетесь преступником в "
+"глазах Федерации...!\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:393
 msgid ""
@@ -435,7 +460,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_anomaly.xml.append:395
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_REWARD\"]/text"
-msgstr ""
+msgstr "\"Не забывайте всегда совершать преступления и сеять хаос! Ха-ха!\""
 
 #: src-en/data/events_special_anomaly.xml.append:398
 msgid ""
@@ -451,6 +476,9 @@ msgstr "После этого странный корабль сразу уда�
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_UNION\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно являетесь преступником в "
+"Галактическом Союзе...!\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:415
 msgid ""
@@ -461,6 +489,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ENGI\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно преступник в Гармонии "
+"энджи...!\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:427
 msgid ""
@@ -471,6 +502,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ZOLTAN\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно преступник в Министерстве "
+"золтан...!\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:439
 msgid ""
@@ -481,6 +515,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ORCHID\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно преступник в Соцветии "
+"флоралов...!\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:451
 msgid ""
@@ -491,6 +528,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_VAMPWEED\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно преступник в Конфедерации "
+"вампсорняков...!\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:463
 msgid ""
@@ -501,6 +541,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_FREEMANTIS\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно преступник среди кланов "
+"Свободных Богомолов...!\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:475
 msgid ""
@@ -511,6 +554,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_OUTCAST\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно преступник, согласно Изгоям "
+"валунов...!\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:487
 msgid ""
@@ -521,6 +567,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_CRYSTAL\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно преступник в Империи "
+"кристаллинов...!\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:499
 msgid ""
@@ -531,6 +580,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_SHELL\"]/text"
 msgstr ""
+"\"И согласно вашим записям... Вы действительно преступник в Гениократии "
+"ракушек...!\"\n"
+"\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:511
 msgid ""
