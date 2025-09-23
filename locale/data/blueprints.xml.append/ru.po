@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-23 19:01+0000\n"
+"PO-Revision-Date: 2025-09-24 10:29+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/ru/>\n"
@@ -327,6 +327,8 @@ msgstr "Огл. точеч. ион"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_STUN\"]/desc"
 msgstr ""
+"Модифицированный точечный луч, наносящий 2 единицы урона и оглушающий "
+"пораженных членов экипажа."
 
 #: src-en/data/blueprints.xml.append:887
 msgid ""
@@ -342,6 +344,8 @@ msgstr "Рад-точеч. ион"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_BIO\"]/desc"
 msgstr ""
+"Модифицированный точечный луч, который выстреливает поток бета-частиц, "
+"нарушая работу систем и облучая экипаж."
 
 #: src-en/data/blueprints.xml.append:941
 msgid ""
@@ -357,22 +361,27 @@ msgstr "Точеч. фазер"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/desc"
 msgstr ""
+"Модифицированный точечный луч, наносящий 2 единицы урона и проникающий через "
+"щиты. Постепенно адаптируется к щитам противника, позволяя проникать через "
+"дополнительные слои с каждым последующим выстрелом."
 
 #: src-en/data/blueprints.xml.append:945
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/descriptionOverride"
 msgstr ""
-"A modified pinpoint beam that does 2 ion damage and phases through shielding. \n"
-"Gradually adapts to enemy shielding, allowing it to phase through extra layers with each consecutive shot.\n"
+"Модифицированный точечный луч, наносящий 2 единицы урона и проникающий через "
+"щиты. \n"
+"Постепенно адаптируется к щитам противника, позволяя проникать через "
+"дополнительные слои с каждым последующим выстрелом.\n"
 "\n"
 "Характеристики:\n"
 "Необходимая мощность: 3\n"
 "Время перезарядки: 13 сек.\n"
 "\n"
 "Эффект цепи: увеличение пробивание щита на 1\n"
-"Эффект цепи: если пробивание щита больше 10, урон ионами увеличивается на 0,1\n"
-"Макс. цепь: 999 цепей\n"
+"Эффект цепи: если пробивание щита больше 10, урон ионами увеличивается на 0."
+"1\n"
+"Макс. цепь: 999 урона\n"
 "\n"
 "Длина луча: Точечный луч\n"
 "Скорость луча: 1\n"
@@ -402,152 +411,178 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1035
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_H\"]/title"
-msgstr ""
+msgstr "Луч \"Закат\" [Противокорпусный]"
 
 #: src-en/data/blueprints.xml.append:1036
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_H\"]/short"
-msgstr ""
+msgstr "Закат [П]"
 
 #: src-en/data/blueprints.xml.append:1037
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_H\"]/desc"
 msgstr ""
+"Этот луч обладает уникальным мультимодальным энергетическим ядром, что "
+"позволяет ему эффективно воздействовать на корпус, системы и экипаж, хотя и "
+"не одновременно. Текущий режим: Противокорпусный."
 
 #: src-en/data/blueprints.xml.append:1063
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_P\"]/title"
-msgstr ""
+msgstr "Луч \"Закат\" [Частицы]"
 
 #: src-en/data/blueprints.xml.append:1064
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_P\"]/short"
-msgstr ""
+msgstr "Закат [Ч]"
 
 #: src-en/data/blueprints.xml.append:1065
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_P\"]/desc"
 msgstr ""
+"Этот луч обладает уникальным мультимодальным энергетическим ядром, что "
+"позволяет ему эффективно воздействовать на корпус, системы и экипаж, хотя и "
+"не одновременно. Текущий режим: Частицы."
 
 #: src-en/data/blueprints.xml.append:1095
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_B\"]/title"
-msgstr ""
+msgstr "Луч \"Закат\" [Анти-Био]"
 
 #: src-en/data/blueprints.xml.append:1096
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_B\"]/short"
-msgstr ""
+msgstr "Закат [А]"
 
 #: src-en/data/blueprints.xml.append:1097
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_B\"]/desc"
 msgstr ""
+"Этот луч обладает уникальным мультимодальным энергетическим ядром, что "
+"позволяет ему эффективно воздействовать на корпус, системы и экипаж, хотя и "
+"не одновременно. Текущий режим: Анти-био."
 
 #: src-en/data/blueprints.xml.append:1142
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_L\"]/title"
-msgstr ""
+msgstr "Луч \"Сумерки\" [Длинный]"
 
 #: src-en/data/blueprints.xml.append:1143
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_L\"]/short"
-msgstr ""
+msgstr "Сумерки [Д]"
 
 #: src-en/data/blueprints.xml.append:1144
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_L\"]/desc"
 msgstr ""
+"Более мощная версия луча \"Закат\", этот луч не только более сильный, но и "
+"имеет дополнительный режим! Текущий режим: Длинный, чистый урон."
 
 #: src-en/data/blueprints.xml.append:1170
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_B\"]/title"
-msgstr ""
+msgstr "Луч \"Сумерки\" [Измельчение]"
 
 #: src-en/data/blueprints.xml.append:1171
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_B\"]/short"
-msgstr ""
+msgstr "Сумерки [И]"
 
 #: src-en/data/blueprints.xml.append:1172
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_B\"]/desc"
 msgstr ""
+"Более мощная версия луча \"Закат\", этот луч не только более сильный, но и "
+"имеет дополнительный режим! Текущий режим: Измельчение, высокая вероятность "
+"пробоины, высокий урон по системе и экипажу."
 
 #: src-en/data/blueprints.xml.append:1209
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_P\"]/title"
-msgstr ""
+msgstr "Луч \"Сумерки\" [Термический]"
 
 #: src-en/data/blueprints.xml.append:1210
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_P\"]/short"
-msgstr ""
+msgstr "Сумерки [Т]"
 
 #: src-en/data/blueprints.xml.append:1211
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_P\"]/desc"
 msgstr ""
+"Более мощная версия луча \"Закат\", этот луч не только более сильный, но и "
+"имеет дополнительный режим! Текущий режим: Термический, высокий урон "
+"системе, гарантированное возгорание."
 
 #: src-en/data/blueprints.xml.append:1243
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_H\"]/title"
-msgstr ""
+msgstr "Луч \"Сумерки\" [Хак]"
 
 #: src-en/data/blueprints.xml.append:1244
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_H\"]/short"
-msgstr ""
+msgstr "Сумерки [Х]"
 
 #: src-en/data/blueprints.xml.append:1245
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_H\"]/desc"
 msgstr ""
+"Более мощная версия луча \"Закат\", этот луч не только более сильный, но и "
+"имеет дополнительный режим! Текущий режим: Хак, применяет эффект взлома к "
+"любой пораженной системе."
 
 #: src-en/data/blueprints.xml.append:1289
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_B\"]/title"
-msgstr ""
+msgstr "\"Акацуки\" [Луч]"
 
 #: src-en/data/blueprints.xml.append:1290
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_B\"]/short"
-msgstr ""
+msgstr "Акацуки [Л]"
 
 #: src-en/data/blueprints.xml.append:1291
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_B\"]/desc"
 msgstr ""
+"Особое лучевое оружие, которое может мгновенно переключать режим стрельбы, "
+"выбирая между длиной и уроном. Текущий режим: Луч."
 
 #: src-en/data/blueprints.xml.append:1316
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_F\"]/title"
-msgstr ""
+msgstr "\"Акацуки\" [Точечный]"
 
 #: src-en/data/blueprints.xml.append:1317
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_F\"]/short"
-msgstr ""
+msgstr "Акацуки [Т]"
 
 #: src-en/data/blueprints.xml.append:1318
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_F\"]/desc"
 msgstr ""
+"Особое лучевое оружие, которое может мгновенно переключать режим стрельбы, "
+"выбирая между длиной и уроном. Текущий режим: Точечный луч."
 
 #: src-en/data/blueprints.xml.append:1345
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S\"]/title"
-msgstr ""
+msgstr "\"Акацуки\" [Рассеяние]"
 
 #: src-en/data/blueprints.xml.append:1346
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S\"]/short"
-msgstr ""
+msgstr "Акацуки [Р]"
 
 #: src-en/data/blueprints.xml.append:1347
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S\"]/desc"
 msgstr ""
+"Особое лучевое оружие, которое может мгновенно переключать режим стрельбы, "
+"выбирая между длиной и уроном. Текущий режим: Рассеивание."
 
 #: src-en/data/blueprints.xml.append:1379
 msgid ""
@@ -560,7 +595,6 @@ msgid ""
 msgstr "---"
 
 #: src-en/data/blueprints.xml.append:1381
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S_BEAM\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -579,9 +613,9 @@ msgstr "Ножницы"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/desc"
 msgstr ""
+"Уникальное оружие, способное одновременно стрелять парой сходящихся лучей."
 
 #: src-en/data/blueprints.xml.append:1420
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/descriptionOverride"
 msgstr ""
@@ -596,20 +630,19 @@ msgstr ""
 "\n"
 "(Первичный луч)\n"
 "Ионный урон: 2\n"
-"Вероятность возгорания: 20%\n"
+"Вероятность возгорания: 30%\n"
 "Вероятность оглушения: 100% (3 сек.)\n"
 "\n"
 "(Вторичный луч)\n"
 "Двойной урон отсекам без систем.\n"
-"Урон корпусу: 1\n"
-"Урон системам: 2\n"
-"Урон экипажу: 30\n"
-"Вероятность пробоины: 20% (Скорректировано: 20%)\n"
+"Урон корпусу: 2\n"
+"Урон системам: 3\n"
+"Урон экипажу: 45\n"
+"Вероятность пробоины: 30% (Скорректировано: 30%)\n"
 "\n"
 "Покупка: 100~   -   Продажа: 50~"
 
 #: src-en/data/blueprints.xml.append:1442
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/tooltipOverride"
 msgstr ""
@@ -621,15 +654,15 @@ msgstr ""
 "\n"
 "(Первичный луч)\n"
 "Ионный урон: 2\n"
-"Вероятность возгорания: 20%\n"
+"Вероятность возгорания: 30%\n"
 "Вероятность оглушения: 100% (3 сек.)\n"
 "\n"
 "(Вторичный луч)\n"
 "Двойной урон отсекам без систем.\n"
-"Урон корпусу: 1\n"
-"Урон системам: 2\n"
-"Урон экипажу: 30\n"
-"Вероятность пробоины: 20% (Скорректировано: 20%)"
+"Урон корпусу:2\n"
+"Урон системам: 3\n"
+"Урон экипажу: 45\n"
+"Вероятность пробоины: 30% (Скорректировано: 30%)"
 
 #: src-en/data/blueprints.xml.append:1489
 msgid ""
@@ -645,81 +678,98 @@ msgstr "Ножницы"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_SEC\"]/desc"
 msgstr ""
+"Уникальное оружие, способное одновременно стрелять парой сходящихся лучей."
 
 #: src-en/data/blueprints.xml.append:1530
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/title"
-msgstr ""
+msgstr "Луч \"Шприц\" [Пустой]"
 
 #: src-en/data/blueprints.xml.append:1531
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/short"
-msgstr ""
+msgstr "Шприц [-]"
 
 #: src-en/data/blueprints.xml.append:1532
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/desc"
 msgstr ""
+"Это оружие больше похоже не на традиционный луч, а на медицинское устройство "
+"увеличенных размеров. Включает в себя лабораторию автоматического "
+"химического синтеза. Текущий режим: Пустой, необходимо настроить перед "
+"использованием."
 
 #: src-en/data/blueprints.xml.append:1566
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/title"
-msgstr ""
+msgstr "Луч \"Шприц\" [Медицина]"
 
 #: src-en/data/blueprints.xml.append:1567
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/short"
-msgstr ""
+msgstr "Шприц [М]"
 
 #: src-en/data/blueprints.xml.append:1568
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/desc"
 msgstr ""
+"Это оружие больше похоже не на традиционный луч, а на медицинское устройство "
+"увеличенных размеров. Включает в себя лабораторию автоматического "
+"химического синтеза. Текущий режим: Медицина."
 
 #: src-en/data/blueprints.xml.append:1628
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/title"
-msgstr ""
+msgstr "Луч \"Шприц\" [Стимулятор]"
 
 #: src-en/data/blueprints.xml.append:1629
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/short"
-msgstr ""
+msgstr "Шприц [С]"
 
 #: src-en/data/blueprints.xml.append:1630
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/desc"
 msgstr ""
+"Это оружие больше похоже не на традиционный луч, а на медицинское устройство "
+"увеличенных размеров. Включает в себя лабораторию автоматического "
+"химического синтеза. Текущий режим: Стимулятор."
 
 #: src-en/data/blueprints.xml.append:1715
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/title"
-msgstr ""
+msgstr "Луч \"Шприц\" [Яд]"
 
 #: src-en/data/blueprints.xml.append:1716
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/short"
-msgstr ""
+msgstr "Шприц [Яд]"
 
 #: src-en/data/blueprints.xml.append:1717
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/desc"
 msgstr ""
+"Это оружие больше похоже не на традиционный луч, а на медицинский прибор "
+"увеличенных размеров. Включает в себя лабораторию автоматического "
+"химического синтеза. Текущий режим: Яд."
 
 #: src-en/data/blueprints.xml.append:1816
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/title"
-msgstr ""
+msgstr "Луч \"Шприц\" [Кислота]"
 
 #: src-en/data/blueprints.xml.append:1817
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/short"
-msgstr ""
+msgstr "Шприц [К]"
 
 #: src-en/data/blueprints.xml.append:1818
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/desc"
 msgstr ""
+"Это оружие больше похоже не на традиционный луч, а на медицинский прибор "
+"увеличенных размеров. Включает в себя лабораторию автоматического "
+"химического синтеза. Текущий режим: Кислота."
 
 #: src-en/data/blueprints.xml.append:1885
 msgid ""
@@ -732,7 +782,6 @@ msgid ""
 msgstr "Burst Beam Projectile"
 
 #: src-en/data/blueprints.xml.append:1887
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -748,7 +797,6 @@ msgid ""
 msgstr "Burst Beam Projectile"
 
 #: src-en/data/blueprints.xml.append:1919
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_O\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -756,77 +804,97 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:1953
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/title"
-msgstr ""
+msgstr "Сифонный луч \"Эдисон\" [0]"
 
 #: src-en/data/blueprints.xml.append:1954
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/short"
-msgstr ""
+msgstr "Эдисон [0]"
 
 #: src-en/data/blueprints.xml.append:1955
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/desc"
 msgstr ""
+"Это уникальное лучевое оружие способно поглощать щиты противника и заряжать "
+"свои собственные. При прямом попадании принудительно уменьшает мощность "
+"системы на один пункт, но не блокирует ее. Чем больше мощность, тем дольше "
+"длится зарядка. Текущая мощность: 0 (консервативное)."
 
 #: src-en/data/blueprints.xml.append:1992
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/title"
-msgstr ""
+msgstr "Сифонный луч \"Эдисон\" [1]"
 
 #: src-en/data/blueprints.xml.append:1993
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/short"
-msgstr ""
+msgstr "Эдисон [1]"
 
 #: src-en/data/blueprints.xml.append:1994
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/desc"
 msgstr ""
+"Это уникальное лучевое оружие способно поглощать щиты противника и заряжать "
+"ваши собственные. При прямом попадании принудительно уменьшает мощность "
+"системы на один пункт, но не блокирует ее. Чем больше мощность, тем дольше "
+"заряжается. Текущая мощность: 1."
 
 #: src-en/data/blueprints.xml.append:2031
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/title"
-msgstr ""
+msgstr "Сифонный луч \"Эдисон\" [2]"
 
 #: src-en/data/blueprints.xml.append:2032
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/short"
-msgstr ""
+msgstr "Эдисон [2]"
 
 #: src-en/data/blueprints.xml.append:2033
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/desc"
 msgstr ""
+"Это уникальное лучевое оружие способно поглощать щиты противника и заряжать "
+"ваши собственные. При прямом попадании принудительно уменьшает мощность "
+"системы на один пункт, но не блокирует ее. Чем больше мощность, тем дольше "
+"заряжается. Текущая мощность: 2."
 
 #: src-en/data/blueprints.xml.append:2069
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/title"
-msgstr ""
+msgstr "Сифонный луч \"Эдисон\" [3]"
 
 #: src-en/data/blueprints.xml.append:2070
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/short"
-msgstr ""
+msgstr "Эдисон [3]"
 
 #: src-en/data/blueprints.xml.append:2071
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/desc"
 msgstr ""
+"Это уникальное лучевое оружие способно поглощать щиты противника и заряжать "
+"ваши собственные. При прямом попадании принудительно уменьшает мощность "
+"системы на один пункт, но не блокирует ее. Чем больше мощность, тем дольше "
+"заряжается. Текущая мощность: 3."
 
 #: src-en/data/blueprints.xml.append:2106
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/title"
-msgstr ""
+msgstr "Сифонный луч \"Эдисон\" [ПЕРЕГРЕВ]"
 
 #: src-en/data/blueprints.xml.append:2107
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/short"
-msgstr ""
+msgstr "Эдисон [П]"
 
 #: src-en/data/blueprints.xml.append:2108
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/desc"
 msgstr ""
+"Это уникальное лучевое оружие способно поглощать щиты противника и заряжать "
+"ваши собственные. При прямом попадании принудительно уменьшает мощность "
+"системы на один пункт, но не блокирует ее. Чем больше мощность, тем дольше "
+"заряжается. Текущая мощность: ПЕРЕГРЕВ."
 
 #: src-en/data/blueprints.xml.append:2159
 msgid ""
@@ -842,6 +910,9 @@ msgstr "Рефракц. I"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1\"]/desc"
 msgstr ""
+"Точечный луч, использующий специальную технологию пробивания. Хотя он не "
+"способен пробивать щиты обычным способом, он позволяет лучу преломляться "
+"через них, по-прежнему попадая в корабль, хотя и с потерей точности."
 
 #: src-en/data/blueprints.xml.append:2196
 msgid ""
@@ -854,7 +925,6 @@ msgid ""
 msgstr "Рефракц. I"
 
 #: src-en/data/blueprints.xml.append:2198
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_R\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -873,6 +943,10 @@ msgstr "Рефракц. II"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/desc"
 msgstr ""
+"Точечный луч, использующий специальную технологию пробивания. Хотя он не "
+"способен пробивать щиты обычным способом, он позволяет лучу преломляться "
+"через них, по-прежнему попадая в корабль, хотя и с потерей точности. Более "
+"мощный, чем мод. I"
 
 #: src-en/data/blueprints.xml.append:2265
 msgid ""
@@ -885,7 +959,6 @@ msgid ""
 msgstr "Рефракц. II"
 
 #: src-en/data/blueprints.xml.append:2267
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_R\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -901,7 +974,6 @@ msgid ""
 msgstr "Рефракц. II"
 
 #: src-en/data/blueprints.xml.append:2300
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_O\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -917,7 +989,6 @@ msgid ""
 msgstr "Рефракц. II"
 
 #: src-en/data/blueprints.xml.append:2333
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_Y\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -933,7 +1004,6 @@ msgid ""
 msgstr "Рефракц. II"
 
 #: src-en/data/blueprints.xml.append:2367
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_G\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -949,7 +1019,6 @@ msgid ""
 msgstr "Рефракц. II"
 
 #: src-en/data/blueprints.xml.append:2400
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_B\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -965,7 +1034,6 @@ msgid ""
 msgstr "Рефракц. II"
 
 #: src-en/data/blueprints.xml.append:2433
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_I\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -981,7 +1049,6 @@ msgid ""
 msgstr "Рефракц. II"
 
 #: src-en/data/blueprints.xml.append:2466
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_V\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -989,62 +1056,76 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:2513
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/title"
-msgstr ""
+msgstr "Мульти-точечный луч \"Массив\" [Шаблон]"
 
 #: src-en/data/blueprints.xml.append:2514
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/short"
-msgstr ""
+msgstr "Массив [Ш]"
 
 #: src-en/data/blueprints.xml.append:2515
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/desc"
 msgstr ""
+"Это оружие представляет собой набор из 3 сконцентрированных лучей, "
+"объединенных в одну группу и модифицированных для пробивания щитов. Текущий "
+"режим: Шаблон"
 
 #: src-en/data/blueprints.xml.append:2549
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/title"
-msgstr ""
+msgstr "Мульти-точечный луч \"Массив\" [Рассеяние]"
 
 #: src-en/data/blueprints.xml.append:2550
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/short"
-msgstr ""
+msgstr "Массив [Р]"
 
 #: src-en/data/blueprints.xml.append:2551
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/desc"
 msgstr ""
+"Это оружие представляет собой набор из 3 сконцентрированных лучей, "
+"объединенных в одну группу и модифицированных для пробивания щитов. Текущий "
+"режим: Рассеивание"
 
 #: src-en/data/blueprints.xml.append:2588
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/title"
-msgstr ""
+msgstr "Мульти-точечный луч \"Матрица\" [Шаблон]"
 
 #: src-en/data/blueprints.xml.append:2589
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/short"
-msgstr ""
+msgstr "Матрица [Ш]"
 
 #: src-en/data/blueprints.xml.append:2590
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/desc"
 msgstr ""
+"Это оружие представляет собой набор из 9 сконцентрированных лучей, "
+"модифицированных для пробивания щитов. Может уничтожать щиты и сеять хаос на "
+"вражеском корабле, но является громоздким и сложным в наведении. Текущий "
+"режим: Шаблон"
 
 #: src-en/data/blueprints.xml.append:2624
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/title"
-msgstr ""
+msgstr "Мульти-точечный луч \"Матрица\" [Рассеивание]"
 
 #: src-en/data/blueprints.xml.append:2625
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/short"
-msgstr ""
+msgstr "Матрица [Р]"
 
 #: src-en/data/blueprints.xml.append:2626
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/desc"
 msgstr ""
+"Это оружие представляет собой набор из 9 сконцентрированных лучей, "
+"модифицированных для пробивания щитов. Может уничтожать щиты и сеять хаос на "
+"вражеском корабле, но является громоздким и сложным в наведении. Текущий "
+"режим: Рассеивание"
 
 #: src-en/data/blueprints.xml.append:2673
 msgid ""
@@ -1060,6 +1141,10 @@ msgstr "Передача данных"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/desc"
 msgstr ""
+"Это оружие проецирует луч, который позволяет осуществлять беспроводную "
+"передачу данных, взламывать системы и контролировать разум любого "
+"пораженного члена экипажа. Однако для этого необходимо, чтобы щиты "
+"противника были отключены."
 
 #: src-en/data/blueprints.xml.append:2755
 msgid ""
@@ -1075,6 +1160,9 @@ msgstr "Дрожь"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/desc"
 msgstr ""
+"Это самое легкое оружие из серии гаубиц, но тем не менее оно способно "
+"наносить серьезный урон попаданиями по системе, обладает приличной точностью "
+"и скоростью перезарядки."
 
 #: src-en/data/blueprints.xml.append:2811
 msgid ""
@@ -1087,7 +1175,6 @@ msgid ""
 msgstr "НЕТ"
 
 #: src-en/data/blueprints.xml.append:2813
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_P\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -1103,7 +1190,6 @@ msgid ""
 msgstr "НЕТ"
 
 #: src-en/data/blueprints.xml.append:2845
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_S\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -1122,6 +1208,8 @@ msgstr "Мини-пучок част."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_PARTICLE_MINI\"]/desc"
 msgstr ""
+"Выпускает небольшой сконцентрированный луч, который повреждает системы и "
+"вызывает возгорание, но не наносит ущерба корпусу или экипажу."
 
 #: src-en/data/blueprints.xml.append:2917
 msgid ""
@@ -1134,7 +1222,6 @@ msgid ""
 msgstr "Циклотрон"
 
 #: src-en/data/blueprints.xml.append:2920
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -1198,24 +1285,27 @@ msgstr "Полярис"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST\"]/desc"
 msgstr ""
+"Это оружие выстреливает луч жидкого азота. Оно способно запирать отсеки, не "
+"позволяя большинству членов экипажа войти или выйти.\n"
+"Избыток азота также нарушает атмосферный баланс."
 
 #: src-en/data/blueprints.xml.append:3078
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/title"
-msgstr ""
+msgstr "Луч Щит Поппер"
 
 #: src-en/data/blueprints.xml.append:3079
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/short"
-msgstr ""
+msgstr "Поппи"
 
 #: src-en/data/blueprints.xml.append:3080
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/desc"
 msgstr ""
-"Fires a small concentrated beam that does no damage but pops 2 layers of shields. Has an unusual property of also putting affected crew in a daze.\n"
-"Консервативные орудия не потребляют энергию напрямую, но требуют питания самой системы."
+"Выпускает небольшой сконцентрированный луч, который не наносит урона, но "
+"пробивает 2 слоя щитов. Консервативные орудия не потребляют энергию "
+"напрямую, но требуют питания самой системы."
 
 #: src-en/data/blueprints.xml.append:3117
 msgid ""
@@ -1231,6 +1321,10 @@ msgstr "С.О.Б.Б."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/desc"
 msgstr ""
+"Это лучевое оружие оснащено уникальным всенаправленным инфракрасным "
+"излучателем, а также усовершенствованной системой наведения. Оно эффективно "
+"сбивает приближающиеся ракеты и дроны, но неэффективно против других "
+"кораблей."
 
 #: src-en/data/blueprints.xml.append:3142
 msgid ""
@@ -1276,6 +1370,10 @@ msgstr "Ира"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/desc"
 msgstr ""
+"Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт."
 
 #: src-en/data/blueprints.xml.append:3278
 msgid ""
@@ -1291,6 +1389,10 @@ msgstr "Ангорис"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/desc"
 msgstr ""
+"Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт."
 
 #: src-en/data/blueprints.xml.append:3348
 msgid ""
@@ -1306,6 +1408,10 @@ msgstr "Долор"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/desc"
 msgstr ""
+"Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт."
 
 #: src-en/data/blueprints.xml.append:3419
 msgid ""
@@ -1321,6 +1427,10 @@ msgstr "Торментум"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/desc"
 msgstr ""
+"Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт."
 
 #: src-en/data/blueprints.xml.append:3490
 msgid ""
@@ -1336,6 +1446,10 @@ msgstr "Арде"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/desc"
 msgstr ""
+"Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт."
 
 #: src-en/data/blueprints.xml.append:3639
 msgid ""
@@ -1351,6 +1465,10 @@ msgstr "Толчок"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/desc"
 msgstr ""
+"Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт."
 
 #: src-en/data/blueprints.xml.append:3835
 msgid ""
@@ -1366,6 +1484,10 @@ msgstr "Ира™"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/desc"
 msgstr ""
+"Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт."
 
 #: src-en/data/blueprints.xml.append:3910
 msgid ""
@@ -1381,6 +1503,10 @@ msgstr "Ангорис™"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/desc"
 msgstr ""
+"Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт."
 
 #: src-en/data/blueprints.xml.append:3985
 msgid ""
@@ -1396,6 +1522,10 @@ msgstr "Долор™"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/desc"
 msgstr ""
+"Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт."
 
 #: src-en/data/blueprints.xml.append:4061
 msgid ""
@@ -1411,6 +1541,10 @@ msgstr "Торментум™"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/desc"
 msgstr ""
+"Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт."
 
 #: src-en/data/blueprints.xml.append:4137
 msgid ""
@@ -1426,6 +1560,11 @@ msgstr "Арде™"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/desc"
 msgstr ""
+"Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт. Дополнительно вызывает хаос-пожары, которые могут нанести ущерб "
+"любому типу экипажа и гореть без кислорода."
 
 #: src-en/data/blueprints.xml.append:4291
 msgid ""
@@ -1441,6 +1580,12 @@ msgstr "Толчок™"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/desc"
 msgstr ""
+"Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт. Дополнительно применяет эффект хаос-изоляции, не позволяющий экипажу "
+"в затронутых помещениях передвигаться, обслуживать оборудование, сражаться, "
+"проводить диверсии и ремонтировать."
 
 #: src-en/data/blueprints.xml.append:4492
 msgid ""
@@ -1456,6 +1601,10 @@ msgstr "€ Ира"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/desc"
 msgstr ""
+"Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт."
 
 #: src-en/data/blueprints.xml.append:4567
 msgid ""
@@ -1471,6 +1620,10 @@ msgstr "€ Ангорис"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/desc"
 msgstr ""
+"Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт."
 
 #: src-en/data/blueprints.xml.append:4642
 msgid ""
@@ -1486,6 +1639,10 @@ msgstr "€ Долор"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/desc"
 msgstr ""
+"Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт."
 
 #: src-en/data/blueprints.xml.append:4718
 msgid ""
@@ -1501,6 +1658,10 @@ msgstr "€ Торментум"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/desc"
 msgstr ""
+"Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт."
 
 #: src-en/data/blueprints.xml.append:4803
 msgid ""
@@ -1516,6 +1677,11 @@ msgstr "€ Арде"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/desc"
 msgstr ""
+"Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт. Дополнительно вызывает хаос-пожары, которые могут нанести ущерб "
+"любому типу экипажа и гореть без кислорода."
 
 #: src-en/data/blueprints.xml.append:4957
 msgid ""
@@ -1531,6 +1697,12 @@ msgstr "€ Толчок"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/desc"
 msgstr ""
+"Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт. Дополнительно применяет эффект хаос-изоляции, не позволяющий экипажу "
+"в затронутых помещениях передвигаться, обслуживать оборудование, сражаться, "
+"проводить диверсии и ремонтировать."
 
 #: src-en/data/blueprints.xml.append:5187
 msgid ""
@@ -1546,6 +1718,10 @@ msgstr "Похититель"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/desc"
 msgstr ""
+"Лучевое оружие, разработанное сиренами, пробивает все щиты и похищает "
+"экипаж, попавший под его действие, в отсек телепортации, а также вызывает у "
+"них оглушение. Для работы требуется система телепортатора. "
+"[Базовое время перезарядки: 15]"
 
 #: src-en/data/blueprints.xml.append:5190
 msgid ""
@@ -1566,6 +1742,10 @@ msgstr "Калейдоскоп"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/desc"
 msgstr ""
+"Лучевое оружие, разработанное сиренами, которое создает хаос, произвольно "
+"выпуская один из 10 различных лучей. [Базовое время перезарядки: 16] "
+"Возможные эффекты: огонь, частицы, ремонт, оглушение, пробоина, энергия, "
+"ионы, мороз, взлом, радиация."
 
 #: src-en/data/blueprints.xml.append:5219
 msgid ""
@@ -1586,6 +1766,11 @@ msgstr "Хаос огня"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/desc"
 msgstr ""
+"Лучевое оружие, разработанное сиренами. Оно стреляет лучем хаотической "
+"энергии, который воспламеняет все, к чему прикасается, хаотическим пламенем. "
+"В отличие от обычного огня, хаотическое пламя может гореть без кислорода и "
+"наносить урон даже огнеупорному экипажу. Пробивает 2 щита. "
+"[Базовое время перезарядки: 40]"
 
 #: src-en/data/blueprints.xml.append:5252
 msgid ""
