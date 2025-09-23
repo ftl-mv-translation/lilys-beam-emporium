@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-23 12:08+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-09-23 19:01+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -22,6 +22,9 @@ msgstr "Гипер-перезарядник"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_TARGETING_BYPASS\"]/desc"
 msgstr ""
+"Ускоряет скорость зарядки оружия на 30%. Однако помехи приводят к тому, что "
+"все оружие также получает штраф к точности в -20% при наведении на другие "
+"корабль."
 
 #: src-en/data/blueprints.xml.append:205
 msgid ""
@@ -32,6 +35,9 @@ msgstr "Гипер-перезарядник"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_TARGETING_BYPASS_LOCKED\"]/desc"
 msgstr ""
+"Ускоряет скорость зарядки оружия на 30%. Однако помехи приводят к тому, что "
+"все оружие также получает штраф к точности в -20% при наведении на другие "
+"корабль."
 
 #: src-en/data/blueprints.xml.append:214
 msgid ""
@@ -42,6 +48,8 @@ msgstr "ГП для ПКБ"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ASB_SCRAMBLER\"]/desc"
 msgstr ""
+"Искажает сигнатуру вашего корабля на большом расстоянии, не позволяя "
+"вражеским ПКБ точно зафиксировать ваш корабль."
 
 #: src-en/data/blueprints.xml.append:223
 msgid ""
@@ -52,14 +60,21 @@ msgstr "Форсаж"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_COMBAT_AFTERBURNER\"]/desc"
 msgstr ""
+"Дополнительный форсаж для ваших двигателей, обеспечивающий большую тягу, но "
+"потребляющая много топлива.\n"
+"[3 единицы топлива, +20% к уклонению на 60 секунд ИЛИ нанесение урона врагу "
+"в зависимости от уровня вашего двигателя]"
 
 #: src-en/data/blueprints.xml.append:233
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/title"
-msgstr ""
+msgstr "Анти-ЛБП резонатор"
 
 #: src-en/data/blueprints.xml.append:234
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/desc"
 msgstr ""
+"Это странное устройство, похоже, заставляет ваше оружие резонировать с "
+"технологией ЛБП на вражеских кораблях, нанося им двойной урон. Прикрепленная "
+"к нему записка гласит: \"Немного помощи в борьбе с этими вредителями :)\"."
 
 #: src-en/data/blueprints.xml.append:242
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_PATRONAGE\"]/title"
@@ -92,52 +107,63 @@ msgstr "Вам не следует этого видеть."
 #: src-en/data/blueprints.xml.append:269
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ESTROGEN_DISPERSAL\"]/title"
-msgstr ""
+msgstr "Е"
 
 #: src-en/data/blueprints.xml.append:270
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ESTROGEN_DISPERSAL\"]/desc"
 msgstr ""
+"\"Они загрязняют наш воздух химикатами, которые превращают всех в лесбиянок!"
+"\"."
 
 #: src-en/data/blueprints.xml.append:279
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_SHIELDS\"]/title"
-msgstr ""
+msgstr "Таинственный щит"
 
 #: src-en/data/blueprints.xml.append:280
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_SHIELDS\"]/desc"
 msgstr ""
+"Барьер из жуткой хаотичной энергии, который обеспечивает суперщит с 42 "
+"единицами прочности. Источник его питания, похоже, находится... не на "
+"корабле?"
 
 #: src-en/data/blueprints.xml.append:288
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/desc"
 msgstr ""
+"Путешественница по Мультивселенной, продавщица лучей и Верная Слуга "
+"Верховной Богини Истинного Хаоса. Да, это я--"
 
 #: src-en/data/blueprints.xml.append:295
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[1]"
-msgstr ""
+msgstr "Невосприимчива к огню, удушению, оглушению и контролю разума"
 
 #: src-en/data/blueprints.xml.append:296
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[2]"
-msgstr ""
+msgstr "Может телепортироваться в любую точку на текущем корабле"
 
 #: src-en/data/blueprints.xml.append:297
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[3]"
-msgstr ""
+msgstr "Обладает обширным арсеналом жутких сил"
 
 #: src-en/data/blueprints.xml.append:298
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[4]"
 msgstr ""
+"Максимальное здоровье составляет всего 100, но восстанавливается "
+"автоматически через 5 секунд"
 
 #: src-en/data/blueprints.xml.append:299
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[5]"
 msgstr ""
+"Не может погибнуть навсегда, вместо этого может быть возрождена из меню "
+"склада за определенную плату."
 
 #: src-en/data/blueprints.xml.append:316
 msgid ""
@@ -182,7 +208,6 @@ msgid ""
 msgstr "НЕТ"
 
 #: src-en/data/blueprints.xml.append:464
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_BEAM\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -198,7 +223,6 @@ msgid ""
 msgstr "НЕТ"
 
 #: src-en/data/blueprints.xml.append:548
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_ION\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -251,6 +275,8 @@ msgstr "Тяж. точеч. ион"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_HEAVY\"]/desc"
 msgstr ""
+"Модифицированный точечный луч, наносящий 3 единицы урона ионами, но медленно "
+"заряжающийся."
 
 #: src-en/data/blueprints.xml.append:736
 msgid ""
@@ -266,6 +292,9 @@ msgstr "Цеп. точеч. ион"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_CHAIN\"]/desc"
 msgstr ""
+"Это модифицированное точечное оружие наносит лишь небольшой урон ионами, но "
+"быстро увеличивает скорость стрельбы, пока не сможет самостоятельно вывести "
+"из строя несколько систем."
 
 #: src-en/data/blueprints.xml.append:790
 msgid ""
@@ -281,6 +310,8 @@ msgstr "Тепл. точеч. ион"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_FIRE\"]/desc"
 msgstr ""
+"Модифицированный точечный луч, который выстреливает потоком перегретых "
+"ионов. Наносит 1 ед. урона и гарантированно воспламеняет пораженную плитку."
 
 #: src-en/data/blueprints.xml.append:838
 msgid ""
