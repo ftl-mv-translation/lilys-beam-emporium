@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-09-24 10:29+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -74,7 +74,7 @@ msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/desc"
 msgstr ""
 "Это странное устройство, похоже, заставляет ваше оружие резонировать с "
 "технологией ЛБП на вражеских кораблях, нанося им двойной урон. Прикрепленная "
-"к нему записка гласит: \"Немного помощи в борьбе с этими вредителями :)\"."
+"к нему записка гласит: \"Немного помощи в борьбе с этими вредителями - :)\"."
 
 #: src-en/data/blueprints.xml.append:242
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_PATRONAGE\"]/title"
