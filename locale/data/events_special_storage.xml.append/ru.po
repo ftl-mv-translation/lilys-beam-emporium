@@ -495,7 +495,7 @@ msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/text"
 msgstr ""
 "Эй! Разве я не говорила тебе НЕ относиться к моему аватару как к чему-то "
-"заменяемому--?\n"
+"заменяемому?--\n"
 "Но, видя здесь с тобой Того, Кто Рифмует, я сделаю исключение, не хочу "
 "пропустить веселье--"
 
