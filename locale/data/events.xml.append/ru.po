@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-23 19:01+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-09-24 12:15+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataeventsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -343,7 +343,7 @@ msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"lily_questioned\"]/event/text"
 msgstr ""
 "Вы спрашиваете ее об аномалиях.\n"
-"\"Ты говоришь, что твои системы дают сбой--?\n"
+"\"Ты говоришь, что твои системы дают сбой?--\n"
 "Это очень странно, ты первый, кто жалуется на это--\n"
 "Не возражаешь, если я посмотрю на них? Это бесплатно--\""
 
@@ -359,7 +359,7 @@ msgstr "Нет, спасибо."
 
 #: src-en/data/events.xml.append:379
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_STOREASK\"]/text"
-msgstr "\"Хорошо. Ты все еще хочешь пройтись по магазинам--?\""
+msgstr "\"Хорошо. Ты все еще хочешь пройтись по магазинам?--\""
 
 #: src-en/data/events.xml.append:381
 msgid ""
@@ -436,7 +436,7 @@ msgstr ""
 "отсюда.\n"
 "Она связывается с вами: \"О, это ты! Добро пожаловать в Эмпориум лучей "
 "Лили--!\n"
-"Хочешь пополнить запасы и перевооружиться--?\n"
+"Хочешь пополнить запасы и перевооружиться?--\n"
 "В продаже имеется широкий ассортимент лучевого и точечного оружия--\n"
 "И вот тебе бесплатный подарок от заведения--\""
 
@@ -471,7 +471,7 @@ msgstr "Попросить Лили присоединиться к вам."
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[@req=\"LILY_PATRONAGE\"]/event/text"
 msgstr ""
-"Так ты все-таки передумал--?\n"
+"Так ты все-таки передумал?--\n"
 "Конечно, я согласна--"
 
 #: src-en/data/events.xml.append:474
@@ -550,7 +550,7 @@ msgstr "Продолжить и все равно напасть на нее."
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_INSTALL_SENSORS\"]/text"
 msgstr ""
-"\"Ну, у тебя даже сенсоров нет, да--? \n"
+"\"Ну, у тебя даже сенсоров нет, да?-- \n"
 "Вот тебе один, не самый лучший, но лучше, чем ничего--\""
 
 #: src-en/data/events.xml.append:543
@@ -575,7 +575,7 @@ msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_UPGRADE_REACTOR\"]/text"
 msgstr ""
 "\"Ну, может быть, это какая-то странная неполадка в твоей энергетической "
-"системе--?\n"
+"системе?--\n"
 "Кстати, мне удалось немного ее настроить--\""
 
 #: src-en/data/events.xml.append:568
@@ -644,5 +644,5 @@ msgstr ""
 "И в таком плачевном состоянии...\n"
 "Было бы жалко просто оставить его здесь гореть...\n"
 "Так что, может быть, я доставлю его (ну, то, что от него осталось) в твой "
-"ангар в качестве подарка--?\n"
+"ангар в качестве подарка?--\n"
 "У тебя же много места, верно? И в конце концов его можно починить--"
