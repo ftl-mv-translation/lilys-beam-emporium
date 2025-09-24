@@ -465,7 +465,7 @@ msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/text"
 msgstr ""
 "Эй! Разве я не говорила тебе НЕ относиться к моему аватару как к расходному "
-"материалу--?\n"
+"материалу?--\n"
 "Ладно, я сочту это несчастным случаем... Но только в этот раз--"
 
 #: src-en/data/events_special_storage.xml.append:514
