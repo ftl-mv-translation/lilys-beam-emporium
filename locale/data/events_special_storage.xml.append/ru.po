@@ -584,9 +584,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/text"
 msgstr ""
-"Итак, ты хочешь узнать мою историю--?\n"
+"Итак, ты хочешь узнать мою историю?--\n"
 "Ну, с чего же нам начать...?\n"
-"Пожалуй, с структуры Мультивселенной--?"
+"Пожалуй, с структуры Мультивселенной?--"
 
 #: src-en/data/events_special_storage.xml.append:599
 msgid ""
