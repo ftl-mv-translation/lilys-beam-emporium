@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-24 12:15+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-09-24 14:52+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -24,7 +24,7 @@ msgid ""
 msgstr ""
 "Ускоряет скорость зарядки оружия на 30%. Однако помехи приводят к тому, что "
 "все оружие также получает штраф к точности в -20% при наведении на другие "
-"корабль."
+"корабли."
 
 #: src-en/data/blueprints.xml.append:205
 msgid ""
@@ -37,7 +37,7 @@ msgid ""
 msgstr ""
 "Ускоряет скорость зарядки оружия на 30%. Однако помехи приводят к тому, что "
 "все оружие также получает штраф к точности в -20% при наведении на другие "
-"корабль."
+"корабли."
 
 #: src-en/data/blueprints.xml.append:214
 msgid ""
@@ -1454,12 +1454,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3639
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/title"
-msgstr "Луч дезинтегратор хаоса изоляции \"Толчок\""
+msgstr "Луч дезинтегратор хаоса изоляции \"Импетус\""
 
 #: src-en/data/blueprints.xml.append:3640
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/short"
-msgstr "Толчок"
+msgstr "Импетус"
 
 #: src-en/data/blueprints.xml.append:3641
 msgid ""
@@ -1569,12 +1569,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4291
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/title"
-msgstr "Хаотический луч дезинтегратор хаоса изоляции \"Толчок\""
+msgstr "Хаотический луч дезинтегратор хаоса изоляции \"Импетус\""
 
 #: src-en/data/blueprints.xml.append:4292
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/short"
-msgstr "Толчок™"
+msgstr "Импетус™"
 
 #: src-en/data/blueprints.xml.append:4293
 msgid ""
@@ -1686,12 +1686,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4957
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/title"
-msgstr "Элитный луч дезинтегратор хаоса изоляции \"Толчок\""
+msgstr "Элитный луч дезинтегратор хаоса изоляции \"Импетус\""
 
 #: src-en/data/blueprints.xml.append:4958
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/short"
-msgstr "€ Толчок"
+msgstr "€ Импетус"
 
 #: src-en/data/blueprints.xml.append:4959
 msgid ""
