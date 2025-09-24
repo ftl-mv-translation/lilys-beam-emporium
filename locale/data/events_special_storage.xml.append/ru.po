@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-24 10:29+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-09-24 12:15+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -17,34 +17,36 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Лили) Связаться с Лили."
 
 #: src-en/data/events_special_storage.xml.append:17
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/text"
 msgstr ""
+"Вам удается удаленно связаться с Лили.\n"
+"Что вы хотите спросить?"
 
 #: src-en/data/events_special_storage.xml.append:20
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[1]/text"
-msgstr ""
+msgstr "Попросить ее напомнить вам о своем прошлом."
 
 #: src-en/data/events_special_storage.xml.append:24
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[2]/text"
-msgstr ""
+msgstr "Спросить ее об особом лучевом оружии."
 
 #: src-en/data/events_special_storage.xml.append:28
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[@req=\"unique_lily_avatar\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "Попросить ее присоединиться к вам лично."
 
 #: src-en/data/events_special_storage.xml.append:32
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[@req=\"unique_lily_avatar\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Она уже сопровождает вас."
 
 #: src-en/data/events_special_storage.xml.append:36
 msgid ""
@@ -55,11 +57,15 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/text"
 msgstr ""
+"О, ты хочешь одно из тех прикольных лучевых орудий, которых нет ни у кого "
+"другого--?\n"
+"Ну, тогда у нас есть кое-что общее--\n"
+"Добудь необходимые материалы и знания, и я с удовольствием им поделюсь--"
 
 #: src-en/data/events_special_storage.xml.append:50
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[1]/text"
-msgstr ""
+msgstr "Спросить ее об эфирных лучах."
 
 #: src-en/data/events_special_storage.xml.append:54
 msgid ""
@@ -75,6 +81,12 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/text"
 msgstr ""
+"Ах, классика--\n"
+"Это орудие существует уже тысячелетиями и по-прежнему остается одним из "
+"самых мощных--\n"
+"Но не настолько мощным, чтобы сделать то, что я надеялась--\n"
+"Но ладно, достань мне немного материалов, и я сделаю его для тебя---\n"
+"Должно хватить 2-3 примеров древней техники--"
 
 #: src-en/data/events_special_storage.xml.append:75
 msgid ""
@@ -349,18 +361,30 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/text"
 msgstr ""
+"О, ты хочешь, чтобы я присоединилась лично--?\n"
+"Хотя я не могу этого сделать по... причинам, я могу одолжить тебе своего "
+"аватара--\n"
+"Считай его своего рода дистанционно управляемым дроном, только это не так--\n"
+"О, и не смей думать, что он заменяем, или я заставлю тебя за это заплатить--"
+"\n"
+"\n"
+"Однако для этого вам понадобится специальное оборудование..."
 
 #: src-en/data/events_special_storage.xml.append:449
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"У вас уже есть технология, используйте ее, чтобы вызвать аватара Лили..."
 
 #: src-en/data/events_special_storage.xml.append:451
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Рядом с вами внезапно открывается разлом в пространстве, из которого "
+"появляется... вполне нормально выглядящий человек. Хотя кажется, что в нем "
+"есть что-то не так..."
 
 #: src-en/data/events_special_storage.xml.append:452
 msgid ""
@@ -371,12 +395,17 @@ msgstr "Лили"
 #: src-en/data/events_special_storage.xml.append:459
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/text"
-msgstr ""
+msgstr "(Тот, Кто Рифмует) Позволь мне сосчитать: три, два, один..."
 
 #: src-en/data/events_special_storage.xml.append:461
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/event/text"
 msgstr ""
+"И все, что нужно, уже сделано!\n"
+"\n"
+"Рядом с вами внезапно открывается разлом в пространстве, из которого "
+"появляется... вполне нормально выглядящий человек. Хотя кажется, что в нем "
+"что-то не так..."
 
 #: src-en/data/events_special_storage.xml.append:465
 msgid ""
@@ -386,12 +415,12 @@ msgstr "Лили"
 #: src-en/data/events_special_storage.xml.append:472
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"BLUELIST_AETHER\"]/text"
-msgstr ""
+msgstr "(Эфирные технологии) Установить технологию и использовать ее [30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:474
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/text"
-msgstr ""
+msgstr "Вы устанавливаете необходимую технологию..."
 
 #: src-en/data/events_special_storage.xml.append:481
 msgid ""
@@ -402,6 +431,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/event/text"
 msgstr ""
+"И активируете ее!\n"
+"\n"
+"Рядом с вами внезапно открывается разлом в пространстве, материализуя... "
+"вполне нормально выглядящего человека. Хотя кажется, что что-то в нем не "
+"так..."
 
 #: src-en/data/events_special_storage.xml.append:486
 msgid ""
@@ -411,13 +445,15 @@ msgstr "Лили"
 #: src-en/data/events_special_storage.xml.append:494
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"lily_aether_points\"]/text"
-msgstr ""
+msgstr "(Эфирные очки) Установить технологию и использовать ее [30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:498
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Примечание: для установки необходимо иметь эфирную технологию (или "
+"альтернативную технологию)."
 
 #: src-en/data/events_special_storage.xml.append:502
 msgid ""
@@ -428,6 +464,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/text"
 msgstr ""
+"Эй! Разве я не говорила тебе НЕ относиться к моему аватару как к расходному "
+"материалу--?\n"
+"Ладно, я сочту это несчастным случаем... Но только в этот раз--"
 
 #: src-en/data/events_special_storage.xml.append:514
 msgid ""
@@ -438,6 +477,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/event/text"
 msgstr ""
+"Рядом с вами внезапно открывается разлом в пространстве, и аватар снова "
+"материализуется. Похоже, она на самом деле не может умереть."
 
 #: src-en/data/events_special_storage.xml.append:517
 msgid ""
@@ -453,6 +494,10 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/text"
 msgstr ""
+"Эй! Разве я не говорила тебе НЕ относиться к моему аватару как к чему-то "
+"заменяемому--?\n"
+"Но, видя здесь с тобой Того, Кто Рифмует, я сделаю исключение, не хочу "
+"пропустить веселье--"
 
 #: src-en/data/events_special_storage.xml.append:536
 msgid ""
@@ -463,6 +508,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/event/text"
 msgstr ""
+"Рядом с вами внезапно открывается разлом в пространстве, и аватар снова "
+"материализуется. Похоже, она на самом деле не может умереть."
 
 #: src-en/data/events_special_storage.xml.append:539
 msgid ""
@@ -478,16 +525,22 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/text"
 msgstr ""
+"Ну... тогда заплати мне--\n"
+"Чем дорожат Ренегаты... Ломом? Ну, ты можешь дать мне немного, или я могу "
+"взять его прямо с твоего корабля--!"
 
 #: src-en/data/events_special_storage.xml.append:557
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/text"
-msgstr ""
+msgstr "Заплатить ей 100~"
 
 #: src-en/data/events_special_storage.xml.append:562
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/event/text"
 msgstr ""
+"В пространстве внезапно открывается разлом, засасывающий ваш лом. Сразу "
+"после этого рядом с вами появляется еще один разлом, вновь материализующий "
+"аватар. Похоже, она на самом деле не может умереть."
 
 #: src-en/data/events_special_storage.xml.append:563
 msgid ""
@@ -498,13 +551,17 @@ msgstr "Лили"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/text"
-msgstr ""
+msgstr "Заплатить ей своим кораблем. [20 урона корпусу]"
 
 #: src-en/data/events_special_storage.xml.append:574
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/event/text"
 msgstr ""
+"В пространстве внезапно открываются многочисленные разломы, которые едва не "
+"разрывают ваш корабль на части и наносят серьезные повреждения корпусу! "
+"Сразу после этого рядом с вами появляется еще один разлом, в котором снова "
+"материализуется аватар. Похоже, она действительно не может умереть."
 
 #: src-en/data/events_special_storage.xml.append:575
 msgid ""
@@ -516,7 +573,7 @@ msgstr "Лили"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Заплатить ей своим кораблем. [20 урона корпусу]"
 
 #: src-en/data/events_special_storage.xml.append:589
 msgid ""
@@ -527,6 +584,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/text"
 msgstr ""
+"Итак, ты хочешь узнать мою историю--?\n"
+"Ну, с чего же нам начать...?\n"
+"Пожалуй, с структуры Мультивселенной--?"
 
 #: src-en/data/events_special_storage.xml.append:599
 msgid ""
@@ -537,6 +597,18 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/text"
 msgstr ""
+"Как ты уже знаешь, будучи Ренегатом Мультивселенной, ты можешь "
+"путешествовать между множеством вселенных с помощью МВ-привода. И их "
+"количество бесконечно--\n"
+"В некоторых из них побеждает Федерация (и если ты выполнишь свою миссию, эта "
+"вселенная будет одной из них). В некоторых побеждает повстанцы. Черт, я "
+"видела вселенные, где орхидеи и вампсорняки каким-то образом объединились со "
+"слизнями и захватили галактики...\n"
+"Но в целом все они похожи. Там есть космические корабли, Федерация, "
+"повстанцы, богомолы, валуны и все такое...\n"
+"И эта совокупность похожих вселенных обычно называется \"кластером\". Твой "
+"кластер может содержать бесконечное количество вселенных, но он не "
+"единственный--"
 
 #: src-en/data/events_special_storage.xml.append:606
 msgid ""
@@ -547,6 +619,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/text"
 msgstr ""
+"Однако другие кластеры могут сильно отличаться от твоего. Однажды я побывала "
+"в кластере, где не было людей и вообще не было традиционной жизни. Вместо "
+"этого единственными живыми обитателями были огромные рои интеллектуальных "
+"машин, которые тратили всю доступную им материю и энергию на создание гор "
+"чего-то, напоминающего... скрепки?\n"
+"Конечно, это не самое приятное место для отдыха-- В отличие от кластера, где "
+"реки состоят из пенных напитков, земля - из зефира, а растения - из черного "
+"и белого шоколада--\n"
+"И существует множество вариантов того, что могут содержать разные кластеры--"
 
 #: src-en/data/events_special_storage.xml.append:612
 msgid ""
@@ -557,6 +638,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/text"
 msgstr ""
+"И, как ты, наверное, догадался, я тоже не из этого кластера--\n"
+"я из места, которое находится очень, очень далеко. И это место было очень "
+"опасным... там постоянно происходили междоусобные распри.\n"
+"Поэтому, зная об этом, я, так сказать, \"самоизгнала\" себя и отправилась "
+"исследовать другие кластеры--"
 
 #: src-en/data/events_special_storage.xml.append:618
 msgid ""
@@ -567,6 +653,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/text"
 msgstr ""
+"И это было действительно замечательное время! Я исследовала все, что можно "
+"было исследовать, изучила бесчисленное количество технологий, "
+"экспериментировала...\n"
+"...Конечно, в результате я, возможно, вызвала коллапс нескольких "
+"реальностей--\n"
+"Упс--\n"
+"Но это было очень весело, и что было, то прошло--"
 
 #: src-en/data/events_special_storage.xml.append:625
 msgid ""
@@ -577,6 +670,17 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/text"
 msgstr ""
+"Но, конечно, все изменилось, когда появились эти проклятые слизни на серых и "
+"зеленых кораблях...   \n"
+"Такие, знаешь, со странной цифрой \"8\" на эмблеме--\n"
+"Мало того, что они каким-то образом похитили мою Хозяйку - несомненно, с "
+"помощью своих грязных скользких уловок! Теперь они еще и меня преследуют, "
+"как только я пытаюсь заняться чем-нибудь интересным!  \n"
+"Поэтому в последнее время я в основном ограничиваюсь продажей лучевого "
+"оружия...\n"
+"И все ради чего? Ради какого-то \"порядка\" и "
+"\"непрерывности Мультивселенной\"? Ха! Как будто слизни вообще могут что-то "
+"знать о \"порядке\"? Абсурд!"
 
 #: src-en/data/events_special_storage.xml.append:633
 msgid ""
@@ -587,6 +691,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/text"
 msgstr ""
+"И я не позволю этим слизким ублюдкам уйти безнаказанными - они будут "
+"наказаны!\n"
+"...Ну, как только я найду способ их победить... Особое лучевое оружие "
+"кажется хорошим вариантом, или, возможно, какое-нибудь оружие массового "
+"уничтожения...\n"
+"...И, конечно, как только я найду их укрытие. Но я слышала, что в этой "
+"вселенной есть проход, что-то связанное с \"сердцем бури\"..."
 
 #: src-en/data/events_special_storage.xml.append:639
 msgid ""
@@ -597,6 +708,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/text"
 msgstr ""
+"...К счастью, моя госпожа терпелива и хитра... как и я.\n"
+"В конце концов мы разберемся--\n"
+"...Но это не значит, что ты не можешь помочь-- Мы обязательно вознаградим "
+"тебя, если тебе действительно удастся.\n"
+"О, и ты получишь доступ ко всем видам прототипов оружия, которые я буду "
+"тестировать и разрабатывать - разве это не звучит захватывающе--? \n"
+"...А если нет... данные, собранные во время твоих путешествий, все равно "
+"помогут нам в достижении нашей цели. Может быть, следующий Ренегат будет "
+"успешнее, чем ты?"
 
 #: src-en/data/events_special_storage.xml.append:647
 msgid ""
@@ -607,6 +727,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_9\"]/text"
 msgstr ""
+"Ну, это была довольно длинная история, не так ли--? Надеюсь, теперь ты все "
+"понимаешь и будешь более мотивирован помочь нам...\n"
+"Это принесет пользу не только мне, но и тебе--! Назовем это взаимовыгодным "
+"сотрудничеством--\n"
+"В любом случае, есть ли еще что-нибудь, о чем ты хотел бы спросить?\n"
+"(P.S. Молодец, если ты действительно прочитали все это--)"
 
 #: src-en/data/events_special_storage.xml.append:655
 msgid ""
@@ -616,22 +742,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:661
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/choice[2]/text"
-msgstr ""
+msgstr "Надеюсь, ты закончила?"
 
 #: src-en/data/events_special_storage.xml.append:667
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/choice[2]/text"
-msgstr ""
+msgstr "Стоп."
 
 #: src-en/data/events_special_storage.xml.append:673
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/choice[2]/text"
-msgstr ""
+msgstr "Пожалуйста, хватит уже."
 
 #: src-en/data/events_special_storage.xml.append:679
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/choice[2]/text"
-msgstr ""
+msgstr "Хватит!"
 
 #: src-en/data/events_special_storage.xml.append:685
 msgid ""
@@ -641,51 +767,54 @@ msgstr "Прекратить слушать."
 #: src-en/data/events_special_storage.xml.append:691
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/choice[2]/text"
-msgstr ""
+msgstr "Выйти из помещения."
 
 #: src-en/data/events_special_storage.xml.append:697
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/choice[2]/text"
-msgstr ""
+msgstr "Пожалуйста, перестань говорить."
 
 #: src-en/data/events_special_storage.xml.append:703
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/choice[2]/text"
-msgstr ""
+msgstr "На самом деле, я не в настроении для этого."
 
 #: src-en/data/events_special_storage.xml.append:717
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Лили) Вызвать Эмпориум лучей Лили. [Флот ускоряется на 1 прыжок]"
 
 #: src-en/data/events_special_storage.xml.append:727
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"(Луч \"Закат\") Настроить режим оружия. [Текущий режим: Противокорпусный]"
 
 #: src-en/data/events_special_storage.xml.append:731
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "(Луч \"Закат\") Настроить режим оружия. [Текущий режим: Частицы]"
 
 #: src-en/data/events_special_storage.xml.append:735
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "(Луч \"Закат\") Настроить режим оружия. [Текущий режим: Анти-био]"
 
 #: src-en/data/events_special_storage.xml.append:743
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/text"
 msgstr ""
+"В какой режим вы хотите перевести оружие?\n"
+"\tТекущий режим: Противокорпусный."
 
 #: src-en/data/events_special_storage.xml.append:746
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/text"
-msgstr ""
+msgstr "Переключиться в режим Частиц."
 
 #: src-en/data/events_special_storage.xml.append:748
 msgid ""
@@ -710,7 +839,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:764
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/text"
-msgstr ""
+msgstr "Переключиться в Анти-био режим."
 
 #: src-en/data/events_special_storage.xml.append:766
 msgid ""
@@ -741,11 +870,13 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/text"
 msgstr ""
+"В какой режим вы хотите перевести оружие?\n"
+"\tТекущий режим: Частицы."
 
 #: src-en/data/events_special_storage.xml.append:790
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/text"
-msgstr ""
+msgstr "Переключиться в Противокорпусный режим."
 
 #: src-en/data/events_special_storage.xml.append:792
 msgid ""
@@ -770,7 +901,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:808
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/text"
-msgstr ""
+msgstr "Переключиться в Анти-био режим."
 
 #: src-en/data/events_special_storage.xml.append:810
 msgid ""
@@ -801,11 +932,13 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/text"
 msgstr ""
+"В какой режим вы хотите перевести оружие?\n"
+"\tТекущий режим: Анти-био."
 
 #: src-en/data/events_special_storage.xml.append:834
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/text"
-msgstr ""
+msgstr "Переключиться в Противокорпусный режим."
 
 #: src-en/data/events_special_storage.xml.append:836
 msgid ""
@@ -830,7 +963,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:852
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/text"
-msgstr ""
+msgstr "Переключиться в режим Частиц."
 
 #: src-en/data/events_special_storage.xml.append:854
 msgid ""
@@ -861,35 +994,37 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "(Луч \"Сумерки\") Настроить режим оружия. [Текущий режим: Длинный]"
 
 #: src-en/data/events_special_storage.xml.append:883
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "(Луч \"Сумерки\") Настроить режим оружия. [Текущий режим: Измельчение]"
 
 #: src-en/data/events_special_storage.xml.append:887
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "(Луч \"Сумерки\") Настроить режим оружия. [Текущий режим: Термический]"
 
 #: src-en/data/events_special_storage.xml.append:891
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "(Луч \"Сумерки\") Настроить режим оружия. [Текущий режим: Хак]"
 
 #: src-en/data/events_special_storage.xml.append:897
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/text"
 msgstr ""
+"В какой режим вы хотите перевести оружие?\n"
+"\tТекущий режим: Длинный."
 
 #: src-en/data/events_special_storage.xml.append:900
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/text"
-msgstr ""
+msgstr "Переключиться в режим Измельчение."
 
 #: src-en/data/events_special_storage.xml.append:902
 msgid ""
@@ -914,7 +1049,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:918
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/text"
-msgstr ""
+msgstr "Переключиться в Термический режим."
 
 #: src-en/data/events_special_storage.xml.append:920
 msgid ""
@@ -939,7 +1074,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:936
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/text"
-msgstr ""
+msgstr "Переключиться в режим Хака."
 
 #: src-en/data/events_special_storage.xml.append:938
 msgid ""
@@ -970,11 +1105,13 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/text"
 msgstr ""
+"В какой режим вы хотите перевести оружие?\n"
+"\tТекущий режим: Измельчение."
 
 #: src-en/data/events_special_storage.xml.append:963
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/text"
-msgstr ""
+msgstr "Переключиться в Длинный режим."
 
 #: src-en/data/events_special_storage.xml.append:965
 msgid ""
@@ -999,7 +1136,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:981
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/text"
-msgstr ""
+msgstr "Переключиться в Термический режим."
 
 #: src-en/data/events_special_storage.xml.append:983
 msgid ""
@@ -1024,7 +1161,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:999
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/text"
-msgstr ""
+msgstr "Переключиться в режим Хака."
 
 #: src-en/data/events_special_storage.xml.append:1001
 msgid ""
@@ -1055,11 +1192,13 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/text"
 msgstr ""
+"В какой режим вы хотите перевести оружие?\n"
+"\tТекущий режим: Термический."
 
 #: src-en/data/events_special_storage.xml.append:1027
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/text"
-msgstr ""
+msgstr "Переключиться в Длинный режим."
 
 #: src-en/data/events_special_storage.xml.append:1029
 msgid ""
@@ -1084,7 +1223,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1045
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/text"
-msgstr ""
+msgstr "Переключиться в режим Измельчение."
 
 #: src-en/data/events_special_storage.xml.append:1047
 msgid ""
@@ -1109,7 +1248,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1063
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/text"
-msgstr ""
+msgstr "Переключиться в режим Хака."
 
 #: src-en/data/events_special_storage.xml.append:1065
 msgid ""
@@ -1140,11 +1279,13 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/text"
 msgstr ""
+"В какой режим вы хотите перевести оружие?\n"
+"\tТекущий режим: Хак."
 
 #: src-en/data/events_special_storage.xml.append:1089
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/text"
-msgstr ""
+msgstr "Переключиться в Длинный режим."
 
 #: src-en/data/events_special_storage.xml.append:1091
 msgid ""
@@ -1169,7 +1310,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1107
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/text"
-msgstr ""
+msgstr "Переключиться в режим Измельчение."
 
 #: src-en/data/events_special_storage.xml.append:1109
 msgid ""
@@ -1194,7 +1335,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1125
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/text"
-msgstr ""
+msgstr "Переключиться в Термический режим."
 
 #: src-en/data/events_special_storage.xml.append:1127
 msgid ""
@@ -1225,29 +1366,31 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "(\"Акацуки\") Настроить режим оружия. [Текущий режим: Луч]"
 
 #: src-en/data/events_special_storage.xml.append:1157
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "(\"Акацуки\") Настроить режим оружия. [Текущий режим: Точечный]"
 
 #: src-en/data/events_special_storage.xml.append:1161
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "(\"Акацуки\") Настроить режим оружия. [Текущий режим: Рассеивание]"
 
 #: src-en/data/events_special_storage.xml.append:1169
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/text"
 msgstr ""
+"В какой режим вы хотите перевести оружие?\n"
+"\tТекущий режим: Луч."
 
 #: src-en/data/events_special_storage.xml.append:1172
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/text"
-msgstr ""
+msgstr "Переключиться в Точечный режим."
 
 #: src-en/data/events_special_storage.xml.append:1174
 msgid ""
@@ -1272,7 +1415,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/text"
-msgstr ""
+msgstr "Переключиться в режим Рассеивание."
 
 #: src-en/data/events_special_storage.xml.append:1192
 msgid ""
@@ -1303,11 +1446,13 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/text"
 msgstr ""
+"В какой режим вы хотите перевести оружие?\n"
+"\tТекущий режим: Точечный."
 
 #: src-en/data/events_special_storage.xml.append:1216
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/text"
-msgstr ""
+msgstr "Переключиться в Лучевой режим."
 
 #: src-en/data/events_special_storage.xml.append:1218
 msgid ""
@@ -1332,7 +1477,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1234
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/text"
-msgstr ""
+msgstr "Переключиться в режим Рассеивание."
 
 #: src-en/data/events_special_storage.xml.append:1236
 msgid ""
@@ -1363,11 +1508,13 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/text"
 msgstr ""
+"В какой режим вы хотите перевести оружие?\n"
+"\tТекущий режим: Рассеивание."
 
 #: src-en/data/events_special_storage.xml.append:1260
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/text"
-msgstr ""
+msgstr "Переключиться в Лучевой режим."
 
 #: src-en/data/events_special_storage.xml.append:1262
 msgid ""
@@ -1392,7 +1539,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1278
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/text"
-msgstr ""
+msgstr "Переключиться в Точечный режим."
 
 #: src-en/data/events_special_storage.xml.append:1280
 msgid ""
@@ -1423,41 +1570,41 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "(Луч \"Шприц\") Настроить режим оружия. [Текущий режим: Пустой]"
 
 #: src-en/data/events_special_storage.xml.append:1311
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "(Луч \"Шприц\") Настроить режим оружия. [Текущий режим: Медицина]"
 
 #: src-en/data/events_special_storage.xml.append:1315
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "(Луч \"Шприц\") Настроить режим оружия. [Текущий режим: Стимулятор]"
 
 #: src-en/data/events_special_storage.xml.append:1319
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "(Луч \"Шприц\") Настроить режим оружия. [Текущий режим: Яд]"
 
 #: src-en/data/events_special_storage.xml.append:1323
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "(Луч \"Шприц\") Настроить режим оружия. [Текущий режим: Кислота]"
 
 #: src-en/data/events_special_storage.xml.append:1331
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/text"
-msgstr ""
+msgstr "Чем вы хотите зарядить оружие?"
 
 #: src-en/data/events_special_storage.xml.append:1333
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/text"
-msgstr ""
+msgstr "Медицина."
 
 #: src-en/data/events_special_storage.xml.append:1335
 msgid ""
@@ -1482,7 +1629,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1351
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/text"
-msgstr ""
+msgstr "Стимулятор."
 
 #: src-en/data/events_special_storage.xml.append:1353
 msgid ""
@@ -1507,7 +1654,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1369
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/text"
-msgstr ""
+msgstr "Яд."
 
 #: src-en/data/events_special_storage.xml.append:1371
 msgid ""
@@ -1532,7 +1679,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1387
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/text"
-msgstr ""
+msgstr "Кислота."
 
 #: src-en/data/events_special_storage.xml.append:1389
 msgid ""
@@ -1643,25 +1790,25 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "(Луч \"Эдисон\") Настроить мощность оружия. [Текущая мощность: 0]"
 
 #: src-en/data/events_special_storage.xml.append:1494
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "(Луч \"Эдисон\") Настроить мощность оружия. [Текущая мощность: 1]"
 
 #: src-en/data/events_special_storage.xml.append:1497
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "(Луч \"Эдисон\") Настроить мощность оружия. [Текущая мощность: 2]"
 
 #: src-en/data/events_special_storage.xml.append:1501
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "(Луч \"Эдисон\") Настроить мощность оружия. [Текущая мощность: 3]"
 
 #: src-en/data/events_special_storage.xml.append:1505
 msgid ""
@@ -2233,23 +2380,25 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Форсаж) Активировать форсаж!"
 
 #: src-en/data/events_special_storage.xml.append:1930
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_FAIL_REAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Форсаж) Активировать форсаж!"
 
 #: src-en/data/events_special_storage.xml.append:1936
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/text"
-msgstr ""
+msgstr "Как бы вы хотели использовать этот модуль?"
 
 #: src-en/data/events_special_storage.xml.append:1938
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/text"
 msgstr ""
+"Максимальная мощность!\n"
+"[Уклонение +20%, -3{, действует 60 секунд]"
 
 #: src-en/data/events_special_storage.xml.append:1941
 msgid ""
@@ -2259,7 +2408,7 @@ msgstr "Вы активировали боевой модуль."
 #: src-en/data/events_special_storage.xml.append:1948
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Ваш форсаж отключится через указанное время."
 
 #: src-en/data/events_special_storage.xml.append:1953
 msgid ""
@@ -2270,6 +2419,8 @@ msgstr "Перейти к битве!"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/text"
 msgstr ""
+"Максимальная мощность! (Использование аварийного генератора)\n"
+"[Уклонение +20%, -2{, действует 90 секунд]"
 
 #: src-en/data/events_special_storage.xml.append:1962
 msgid ""
@@ -2279,7 +2430,7 @@ msgstr "Вы активировали боевой модуль."
 #: src-en/data/events_special_storage.xml.append:1969
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Ваш форсаж отключится через указанное время."
 
 #: src-en/data/events_special_storage.xml.append:1974
 msgid ""
@@ -2290,6 +2441,8 @@ msgstr "Перейти к битве!"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[3]/text"
 msgstr ""
+"Сжечь врага!\n"
+"[-3{, наносит врагу урон, равный уровню вашего двигателя, вызывает пожары]"
 
 #: src-en/data/events_special_storage.xml.append:1983
 msgid ""
@@ -2300,6 +2453,8 @@ msgstr "Вы активировали боевой модуль."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[4]/text"
 msgstr ""
+"Сжечь врага! (Используя аварийный генератор)\n"
+"[-2{, наносит врагу урон, равный уровню вашего двигателя, вызывает пожары]"
 
 #: src-en/data/events_special_storage.xml.append:2003
 msgid ""
@@ -2325,6 +2480,7 @@ msgstr "Вы решаете ничего не делать и готовитес
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER_POWERDOWN\"]/text"
 msgstr ""
+"Ваш форсаж перегрелся и отключился. Ваша маневренность вернулась к норме."
 
 #: src-en/data/events_special_storage.xml.append:2035
 msgid ""
@@ -2392,12 +2548,16 @@ msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"(Мульти-точечный луч \"Матрица\") Переключиться в режим Рассеивание. "
+"[Текущий режим: Шаблон]"
 
 #: src-en/data/events_special_storage.xml.append:2156
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[2]/text"
 msgstr ""
+"(Мульти-точечный луч \"Матрица\") Переключиться в режим Шаблон. "
+"[Текущий режим: Рассеивание]"
 
 #: src-en/data/events_special_storage.xml.append:2162
 msgid ""
