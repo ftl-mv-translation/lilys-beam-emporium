@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-24 14:53+0000\n"
+"PO-Revision-Date: 2025-09-25 18:20+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataeventsxmlappend/ru/>\n"
@@ -80,9 +80,9 @@ msgstr ""
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_QUEST_START\"]/text"
 msgstr ""
 "Вы прибыли в указанное местоположение рекламируемого магазина "
-"\"Эмпориум лучей\". Однако маяк кажется пустым, там нет никаких кораблей. "
-"Однако вы испытываете странное чувство беспокойства, как будто кто-то "
-"наблюдает за вами..."
+"\"Эмпориум лучей\". Однако маяк кажется пустым, там нет никаких кораблей. Но "
+"вы испытываете странное чувство беспокойства, как будто кто-то наблюдает за "
+"вами..."
 
 #: src-en/data/events.xml.append:71
 msgid ""
