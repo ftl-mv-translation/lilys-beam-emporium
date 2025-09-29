@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-24 14:53+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-09-30 15:20+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_sector_autoxmlappend/fr/>\n"
 "Language: fr\n"
@@ -16,10 +16,10 @@ msgstr ""
 msgid ""
 "data/events_sector_auto.xml.append$//mod:findName[@name=\"AUTO_POWERCORE_ESCAPE\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Postcombustion) Pleine puissance ! [3{]"
 
 #: src-en/data/events_sector_auto.xml.append:13
 msgid ""
 "data/events_sector_auto.xml.append$//mod:findName[@name=\"AUTO_POWERCORE_DEFEAT\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Postcombustion) Pleine puissance ! [3{]"
