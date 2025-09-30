@@ -23,7 +23,7 @@ msgstr "Katherine"
 #: src-en/data/hyperspace.xml.append:314
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[1]/buttonText"
-msgstr "Canon E."
+msgstr "EXPLOSION S."
 
 #: src-en/data/hyperspace.xml.append:315
 msgid ""
