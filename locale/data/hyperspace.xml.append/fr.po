@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-24 14:53+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-09-30 15:20+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datahyperspace-xml-append/fr/>\n"
 "Language: fr\n"
@@ -14,16 +14,16 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:84
 msgid "data/hyperspace.xml.append$//siren_harpy[@name=\"Liliana\"]/@name"
-msgstr ""
+msgstr "Liliana"
 
 #: src-en/data/hyperspace.xml.append:85
 msgid "data/hyperspace.xml.append$//siren_harpy[@name=\"Katherine\"]/@name"
-msgstr ""
+msgstr "Katherine"
 
 #: src-en/data/hyperspace.xml.append:314
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[1]/buttonText"
-msgstr ""
+msgstr "Canon E."
 
 #: src-en/data/hyperspace.xml.append:315
 msgid ""
