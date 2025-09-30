@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-24 14:53+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-09-30 15:20+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datatext_miscxmlappend/fr/>\n"
 "Language: fr\n"
@@ -66,7 +66,7 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:19
 msgid "data/text_misc.xml.append$//text[@name=\"button_lily_beam\"]"
-msgstr ""
+msgstr "Canon E."
 
 #: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"button_lily_ion\"]"
@@ -74,7 +74,7 @@ msgstr "ION"
 
 #: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_beam_emporium\"]"
-msgstr ""
+msgstr "GALERIE DES RAYONS"
 
 #: src-en/data/text_misc.xml.append:24
 msgid "data/text_misc.xml.append$//text[@name=\"lily_aether_submit\"]"
