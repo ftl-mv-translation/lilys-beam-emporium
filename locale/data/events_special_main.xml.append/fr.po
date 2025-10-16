@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-30 15:20+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/"
-"lilys-beam-emporium/dataevents_special_mainxmlappend/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_main.xml.append:11
 msgid ""
@@ -18,48 +11,42 @@ msgid ""
 "append:backgroundObject[@name=\"LILY_MYSTERIOUS_NOTE\"]/tooltip"
 msgstr "Une note étrange."
 
-#: src-en/data/events_special_main.xml.append:20
+#: src-en/data/events_special_main.xml.append:27
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/text"
 msgstr ""
-"En vous approchant de la note, vous ne pouvez vous empêcher de remarquer "
-"l'énergie surnaturelle qui s'en dégage, ainsi que ses reflets bleus et "
-"rouges.\n"
+"En vous approchant de la note, vous ne pouvez vous empêcher de remarquer l'énergie surnaturelle qui s'en dégage, ainsi que ses reflets bleus et rouges.\n"
 "Le mot dit :\n"
 "\n"
-"\"Salut, Renégat. Oui, toi. Prends ce mot et montre-le à la propriétaire de "
-"la 'Galerie des Rayons'. Considère-le comme une sorte de mot de passe. Elle "
-"saura quoi faire ensuite.\"\n"
+"\"Salut, Renégat. Oui, toi. Prends ce mot et montre-le à la propriétaire de la 'Galerie des Rayons'. Considère-le comme une sorte de mot de passe. Elle saura quoi faire ensuite.\"\n"
 "/\n"
 ":)"
 
-#: src-en/data/events_special_main.xml.append:30
+#: src-en/data/events_special_main.xml.append:37
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/choice[@req=\"LILY_PATRONAGE\""
 " and @lvl=\"0\"]/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_main.xml.append:32
+#: src-en/data/events_special_main.xml.append:39
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/choice[@req=\"LILY_PATRONAGE\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Déconcerté par cette approche directe, vous rangez tout de même la note dans "
-"votre poche pour plus tard. Espérons que cela n'aura pas de conséquences "
+"Déconcerté par cette approche directe, vous rangez tout de même la note dans"
+" votre poche pour plus tard. Espérons que cela n'aura pas de conséquences "
 "néfastes."
 
-#: src-en/data/events_special_main.xml.append:37
+#: src-en/data/events_special_main.xml.append:44
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/choice[@req=\"LILY_PATRONAGE\""
 " and not(@lvl)]/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_main.xml.append:39
+#: src-en/data/events_special_main.xml.append:46
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/choice[@req=\"LILY_PATRONAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"\"Oh. Ça doit être pour moi alors...\", dit Lily. \"Ça vous a évité le "
-"déplacement...\n"
-"Quoi qu'il en soit, cela signifie qu'Elle vous juge digne et nous a demandé "
-"de travailler ensemble. Et je m'y plierai volontiers...\""
+"\"Oh. Ça doit être pour moi alors...\", dit Lily. \"Ça vous a évité le déplacement...\n"
+"Quoi qu'il en soit, cela signifie qu'Elle vous juge digne et nous a demandé de travailler ensemble. Et je m'y plierai volontiers...\""

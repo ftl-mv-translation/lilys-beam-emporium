@@ -1,23 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-24 14:53+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Polish <https://weblate.hyperq.be/projects/"
-"lilys-beam-emporium/dataeventsxmlappend/pl/>\n"
-"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events.xml.append:5
 msgid "data/events.xml.append$//event[@name=\"STORE_LOAD_LILY_EMPORIUM\"]/text"
 msgstr ""
-"Przed zakupami masz jeszcze trochę czasu, aby zrobić coś innego na pokładzie "
-"statku."
+"Przed zakupami masz jeszcze trochę czasu, aby zrobić coś innego na pokładzie"
+" statku."
 
 #: src-en/data/events.xml.append:7
 msgid ""
@@ -33,8 +25,8 @@ msgstr "Nie rób nic"
 msgid ""
 "data/events.xml.append$//event[@name=\"STORE_LOAD_LILY_EMPORIUM_UNLOCKED\"]/text"
 msgstr ""
-"Przed zakupami masz jeszcze trochę czasu, aby zrobić coś innego na pokładzie "
-"statku."
+"Przed zakupami masz jeszcze trochę czasu, aby zrobić coś innego na pokładzie"
+" statku."
 
 #: src-en/data/events.xml.append:20
 msgid ""
@@ -367,8 +359,8 @@ msgstr ""
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[1]/event/text"
 msgstr ""
-"Przed zakupami masz jeszcze trochę czasu, aby zrobić coś innego na pokładzie "
-"statku."
+"Przed zakupami masz jeszcze trochę czasu, aby zrobić coś innego na pokładzie"
+" statku."
 
 #: src-en/data/events.xml.append:455
 msgid ""
@@ -399,8 +391,8 @@ msgstr "Kontynuuj"
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[@req=\"LILY_PATRONAGE\"]/event/choice/event/text"
 msgstr ""
-"Przed zakupami masz jeszcze trochę czasu, aby zrobić coś innego na pokładzie "
-"statku."
+"Przed zakupami masz jeszcze trochę czasu, aby zrobić coś innego na pokładzie"
+" statku."
 
 #: src-en/data/events.xml.append:478
 msgid ""

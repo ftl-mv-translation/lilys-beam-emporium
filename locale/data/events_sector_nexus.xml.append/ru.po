@@ -1,19 +1,76 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-24 14:53+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"lilys-beam-emporium/dataevents_sector_nexusxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
 
-#: src-en/data/events_sector_nexus.xml.append:5
+#: src-en/data/events_sector_nexus.xml.append:17
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:19
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:27
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_nexus.xml.append:29
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:46
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/event/choice/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_nexus.xml.append:59
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:61
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
+"append:choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:67
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
+"append:choice/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_nexus.xml.append:69
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
+"append:choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:86
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
+"append:choice/event/choice/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_nexus.xml.append:118
+msgid ""
+"data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_ENTER_GLITCH_LILY_CONTINUE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:137
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/text"
@@ -21,7 +78,7 @@ msgstr ""
 "(Лили) \"Ты всего лишь препятствие на пути к нашей цели, которое нужно "
 "уничтожить.--\""
 
-#: src-en/data/events_sector_nexus.xml.append:7
+#: src-en/data/events_sector_nexus.xml.append:139
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/text"
@@ -29,7 +86,7 @@ msgstr ""
 "\"Ссстранник, о каком препятссствии ты говоришшшь? Разрушшшенном? Ты хоть "
 "предссставляешшшь, о чем ты говоришшшь?\""
 
-#: src-en/data/events_sector_nexus.xml.append:9
+#: src-en/data/events_sector_nexus.xml.append:141
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/text"
@@ -37,23 +94,23 @@ msgstr ""
 "\"О, я *точно* знаю, что делаю и о чем говорю-- Даже ты не сможешь вечно "
 "терпеть, пытаясь остановить то, что должно было случиться, Первый--\""
 
-#: src-en/data/events_sector_nexus.xml.append:11
+#: src-en/data/events_sector_nexus.xml.append:143
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/text"
 msgstr ""
 "Сильван Первый выглядит несколько потрясенным ответом Лили. \"Я "
-"отказываюсссь в это верить... но есссли ты дейссствительно ссслужишшшь Ей... "
-"Тогда у меня нет другого выбора, кроме как немедленно уничтожить тебя!\""
+"отказываюсссь в это верить... но есссли ты дейссствительно ссслужишшшь Ей..."
+" Тогда у меня нет другого выбора, кроме как немедленно уничтожить тебя!\""
 
-#: src-en/data/events_sector_nexus.xml.append:13
+#: src-en/data/events_sector_nexus.xml.append:145
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
 "@lvl=\"0\"]/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_sector_nexus.xml.append:15
+#: src-en/data/events_sector_nexus.xml.append:147
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
@@ -62,47 +119,41 @@ msgstr ""
 "Когда огромный корабль Первого приближается, вы закрываете глаза и молитесь "
 "о помощи. Но помощь не приходит. В этой битве вы остаетесь одни."
 
-#: src-en/data/events_sector_nexus.xml.append:21
+#: src-en/data/events_sector_nexus.xml.append:153
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
 "@lvl=\"0\"]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_sector_nexus.xml.append:27
+#: src-en/data/events_sector_nexus.xml.append:159
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
 "@lvl=\"1\"]/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_sector_nexus.xml.append:29
+#: src-en/data/events_sector_nexus.xml.append:161
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
 "@lvl=\"1\"]/event/text"
 msgstr ""
-"Когда громадный корабль Первого приближается, сзади вас раздается залп "
-"лазеров, бьющих по его щиту! Знакомый корабль бросается навстречу... это "
-"Сильван - ВАШ Сильван! \"Ссстранник, кавалерия прибыла!\" Нет больше времени "
-"на болтовню, нужно сражаться! Вы не знаете, насколько способен помочь "
-"Сильван, но если вы сможете объединить свою и его огневую мощь, у вас может "
-"появиться шанс!\n"
+"Когда громадный корабль Первого приближается, сзади вас раздается залп лазеров, бьющих по его щиту! Знакомый корабль бросается навстречу... это Сильван - ВАШ Сильван! \"Ссстранник, кавалерия прибыла!\" Нет больше времени на болтовню, нужно сражаться! Вы не знаете, насколько способен помочь Сильван, но если вы сможете объединить свою и его огневую мощь, у вас может появиться шанс!\n"
 "\n"
-"[Чтобы приказать Сильвану дать залп, воспользуйтесь новой кнопкой, "
-"расположенной рядом с \"Переключить оборудование\"]"
+"[Чтобы приказать Сильвану дать залп, воспользуйтесь новой кнопкой, расположенной рядом с \"Переключить оборудование\"]"
 
-#: src-en/data/events_sector_nexus.xml.append:39
+#: src-en/data/events_sector_nexus.xml.append:171
 msgid ""
 "data/events_sector_nexus.xml.append$//eventButton[@name=\"UI_SYLVAN_BUTTON\"]/tooltip"
 msgstr "Вызвать огневую поддержку."
 
-#: src-en/data/events_sector_nexus.xml.append:40
+#: src-en/data/events_sector_nexus.xml.append:172
 msgid ""
 "data/events_sector_nexus.xml.append$//eventButton[@name=\"UI_SYLVAN_BUTTON\"]/inactiveTooltip"
 msgstr "В настоящее время Сильван не может стрелять."
 
-#: src-en/data/events_sector_nexus.xml.append:47
+#: src-en/data/events_sector_nexus.xml.append:179
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
@@ -110,94 +161,87 @@ msgid ""
 msgstr ""
 "Время до того момента, когда огневая поддержка Сильвана снова будет готова."
 
-#: src-en/data/events_sector_nexus.xml.append:56
+#: src-en/data/events_sector_nexus.xml.append:188
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
 "@lvl=\"1\"]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_sector_nexus.xml.append:71
+#: src-en/data/events_sector_nexus.xml.append:203
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"SHE_IS_DEFEATED_NOT\"]/text"
 msgstr ""
-"К вашему удивлению, неподалеку появляется скрытый корабль, вооруженный "
-"огромным лучевым оружием.\n"
-"\"Жаль, твое предательство в последний момент привело тебя к гибели, "
-"Ренегат--\"\n"
-"\"И, увы, это даже не изменило ситуацию, так как я являюсь планом Б для "
-"этого случая--\"\n"
+"К вашему удивлению, неподалеку появляется скрытый корабль, вооруженный огромным лучевым оружием.\n"
+"\"Жаль, твое предательство в последний момент привело тебя к гибели, Ренегат--\"\n"
+"\"И, увы, это даже не изменило ситуацию, так как я являюсь планом Б для этого случая--\"\n"
 "\"Я здесь, чтобы добиться успеха там, где ты потерпел неудачу--\"\n"
 "\"Но, кстати, спасибо за то, что открыл портал и привел меня сюда--\""
 
-#: src-en/data/events_sector_nexus.xml.append:78
+#: src-en/data/events_sector_nexus.xml.append:210
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"SHE_IS_DEFEATED_NOT\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_sector_nexus.xml.append:90
+#: src-en/data/events_sector_nexus.xml.append:222
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_ENDING_NOTGOOD\"]/text"
 msgstr ""
 "С исчезновением Сильвана Первого Она освободилась, и у вас осталось всего "
 "несколько мгновений до гибели."
 
-#: src-en/data/events_sector_nexus.xml.append:94
+#: src-en/data/events_sector_nexus.xml.append:226
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_ENDING_NOTGOOD\"]/win/@text"
 msgstr "О вашем наследии будут помнить."
 
-#: src-en/data/events_sector_nexus.xml.append:104
+#: src-en/data/events_sector_nexus.xml.append:236
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/text"
 msgstr ""
-"Безумный красный оттенок наконец угасает, вы просыпаетесь на своем корабле и "
-"обнаруживаете, что остались в полном одиночестве, за исключением пустого "
+"Безумный красный оттенок наконец угасает, вы просыпаетесь на своем корабле и"
+" обнаруживаете, что остались в полном одиночестве, за исключением пустого "
 "флагмана Первого. Теперь, когда Первый исчез и она восстановила все три "
 "части своей силы, ЛБП, скорее всего, будет слишком слаб, чтобы с ней "
 "сражаться. Ваш единственный выход - ждать неизбежного."
 
-#: src-en/data/events_sector_nexus.xml.append:106
+#: src-en/data/events_sector_nexus.xml.append:238
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_sector_nexus.xml.append:108
+#: src-en/data/events_sector_nexus.xml.append:240
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/choice/event/text"
 msgstr ""
 "\"Или, может быть, нет--\"\n"
 "Вы замечаете, что Лили общается с вами.\n"
-"\"Она победила. МЫ победили!--\" - Вы еще никогда не слышали, чтобы она была "
-"так взволнована.\n"
-"\"Кстати, молодец, что донес гнома до самого конца и еще и победил Первого!--"
-"\"\n"
-"\"Вероятно, она вернулась в свой (и мой) родной кластер, чтобы собрать силы "
-"и обрушить ад на то, что осталось от Нексуса и ЛБП. Так волнительно--\"\n"
-"\"Но мы не хотим оставаться здесь, так что давай, Ренегат, не будем "
-"невежливыми и присоединимся к Ней--\""
+"\"Она победила. МЫ победили!--\" - Вы еще никогда не слышали, чтобы она была так взволнована.\n"
+"\"Кстати, молодец, что донес гнома до самого конца и еще и победил Первого!--\"\n"
+"\"Вероятно, она вернулась в свой (и мой) родной кластер, чтобы собрать силы и обрушить ад на то, что осталось от Нексуса и ЛБП. Так волнительно--\"\n"
+"\"Но мы не хотим оставаться здесь, так что давай, Ренегат, не будем невежливыми и присоединимся к Ней--\""
 
-#: src-en/data/events_sector_nexus.xml.append:115
+#: src-en/data/events_sector_nexus.xml.append:247
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_sector_nexus.xml.append:117
+#: src-en/data/events_sector_nexus.xml.append:249
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/choice/event/choice/event/text"
 msgstr "\"Ах да, и не стесняйся взять что-нибудь для себя, пока мы здесь--\""
 
-#: src-en/data/events_sector_nexus.xml.append:128
+#: src-en/data/events_sector_nexus.xml.append:260
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_DEPART_LILY\"]/text"
 msgstr "\"Ну, ты уже собрал вещи для путешествия?--\""
 
-#: src-en/data/events_sector_nexus.xml.append:130
+#: src-en/data/events_sector_nexus.xml.append:262
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_DEPART_LILY\"]/choice[1]/text"
 msgstr "Да, пошли."
 
-#: src-en/data/events_sector_nexus.xml.append:136
+#: src-en/data/events_sector_nexus.xml.append:268
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_DEPART_LILY\"]/choice[2]/text"
 msgstr "Нет, пока нет."

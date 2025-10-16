@@ -1,21 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-24 14:53+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: German <https://weblate.hyperq.be/projects/"
-"lilys-beam-emporium/dataeventsxmlappend/de/>\n"
-"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events.xml.append:5
 msgid "data/events.xml.append$//event[@name=\"STORE_LOAD_LILY_EMPORIUM\"]/text"
 msgstr ""
-"Bevor du einkaufst, ist noch genug Zeit etwas an Bord des Schiffes zu machen."
+"Bevor du einkaufst, ist noch genug Zeit etwas an Bord des Schiffes zu "
+"machen."
 
 #: src-en/data/events.xml.append:7
 msgid ""
@@ -31,7 +25,8 @@ msgstr "Nichts tun."
 msgid ""
 "data/events.xml.append$//event[@name=\"STORE_LOAD_LILY_EMPORIUM_UNLOCKED\"]/text"
 msgstr ""
-"Bevor du einkaufst, ist noch genug Zeit etwas an Bord des Schiffes zu machen."
+"Bevor du einkaufst, ist noch genug Zeit etwas an Bord des Schiffes zu "
+"machen."
 
 #: src-en/data/events.xml.append:20
 msgid ""
@@ -366,7 +361,8 @@ msgstr "Kaufe einfach ein."
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[1]/event/text"
 msgstr ""
-"Bevor du einkaufst, ist noch genug Zeit etwas an Bord des Schiffes zu machen."
+"Bevor du einkaufst, ist noch genug Zeit etwas an Bord des Schiffes zu "
+"machen."
 
 #: src-en/data/events.xml.append:455
 msgid ""
@@ -397,7 +393,8 @@ msgstr "Fortfahren..."
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[@req=\"LILY_PATRONAGE\"]/event/choice/event/text"
 msgstr ""
-"Bevor du einkaufst, ist noch genug Zeit etwas an Bord des Schiffes zu machen."
+"Bevor du einkaufst, ist noch genug Zeit etwas an Bord des Schiffes zu "
+"machen."
 
 #: src-en/data/events.xml.append:478
 msgid ""
