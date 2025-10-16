@@ -43,7 +43,6 @@
         "//win/@text",
         "//powerEffect/buttonText",
         "//powerEffect/tooltip",
-        "//mod:findLike/mod-append:page/section/@text",
 		"//mod-append:achievement/name",
         "//mod-append:achievement/description",
         "//mod-append:achievement/secretDescription",
