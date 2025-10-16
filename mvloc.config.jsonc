@@ -8,13 +8,16 @@
         "data/events_addon_icon.xml.append",
         "data/events.xml.append",
         "data/events_sector_auto.xml.append",
+		"data/events_sector_laststand.xml.append",
         "data/events_sector_empire.xml.append",
 		"data/events_sector_innovation.xml.append",
         "data/events_sector_nexus.xml.append",
 		"data/events_sector_rhyme.xml.append",
         "data/events_sector_stargrove.xml.append",
         "data/text_blueprints.xml.append",
+		"data/events_special_boons.xml.append",
         "data/events_special_anomaly.xml.append",
+		"data/events_special_multiverse.xml.append",
         "data/events_special_main.xml.append",
         "data/events_special_storage.xml.append",
         "data/text_misc.xml.append",
@@ -51,6 +54,12 @@
 		"//eventButton/tooltip",
         "//eventButton/inactiveTooltip",
         "//triggeredEventBox/tooltip",
+		"//mod:findLike/mod-append:page/section/@text",
+		"//achievement/name",
+		"//achievement/description",
+		"//achievement/header",
+		"//achievement/secretName",
+		"//achievement/secretDescription",
 
 
         "//text",
@@ -91,6 +100,6 @@
             "https://github.com/ftl-mv-translation/lilys-beam-emporium/raw/lilys-beam-emporium-english/lilys-beam-emporium.ftl",
         ],
         "prefix": "Lilys-Beam-Emporium",
-        "version": "1.4.3"
+        "version": "1.5.0"
     }
 }
