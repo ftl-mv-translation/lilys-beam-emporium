@@ -1,21 +1,37 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-10-18 15:36+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"lilys-beam-emporium/dataevents_sector_laststandxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_laststand.xml.append:6
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Связаться с командованием Федерации."
 
 #: src-en/data/events_sector_laststand.xml.append:8
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/text"
 msgstr ""
+"На экране появляются несколько офицеров Федерации и энджи, а также адмирал "
+"Талли в центре. Они, похоже, отшатываются от страха при виде вашего корабля. "
+"\"Абсолютная чернота вашего корабля, будто он сделан из чистого зла... И "
+"только взгляд на эти огни вызывает у меня головную боль... Кто, черт побери, "
+"вы?!!\". После того, как вы объясняете, что не являетесь врагами, они, "
+"кажется, слегка расслабились. \"В таком случае... пожалуйста, идите и "
+"уничтожьте этот Флагман... Я уверен, что у повстанцев нет никаких шансов "
+"против вас\"."
 
 #: src-en/data/events_sector_laststand.xml.append:10
 msgid ""
