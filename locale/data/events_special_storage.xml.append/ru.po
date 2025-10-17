@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-10-17 19:46+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -186,11 +186,13 @@ msgid ""
 msgstr "Предложить древний лазер."
 
 #: src-en/data/events_special_storage.xml.append:149
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_2\"]/text"
 msgstr "Предложить древний лазер."
 
 #: src-en/data/events_special_storage.xml.append:159
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_3\"]/text"
 msgstr "Предложить древний лазер."
@@ -202,11 +204,13 @@ msgid ""
 msgstr "Предложить древний луч."
 
 #: src-en/data/events_special_storage.xml.append:179
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[5]/text"
 msgstr "Предложить древний луч."
 
 #: src-en/data/events_special_storage.xml.append:189
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[6]/text"
 msgstr "Предложить древний луч."
@@ -218,6 +222,7 @@ msgid ""
 msgstr "Предложить древний точечный луч."
 
 #: src-en/data/events_special_storage.xml.append:209
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS_2\"]/text"
 msgstr "Предложить древний точечный луч."
