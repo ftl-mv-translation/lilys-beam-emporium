@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-17 19:45+0000\n"
+"PO-Revision-Date: 2025-10-18 15:36+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/ru/>\n"
@@ -204,6 +204,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/desc"
 msgstr ""
+"Эффекты: Гарпии-сирены получают новую способность: контролировать разум "
+"случайного врага в текущем отсеке в течение 10 секунд, время перезарядки - "
+"30 секунд."
 
 #: src-en/data/blueprints.xml.append:361
 msgid ""
@@ -247,7 +250,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:402
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SIREN\"]/title"
-msgstr ""
+msgstr "Благо утопии"
 
 #: src-en/data/blueprints.xml.append:403
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SIREN\"]/desc"
@@ -2293,7 +2296,7 @@ msgstr "Гимеропа"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/desc"
 msgstr ""
-"Какой вкус у снов, если их приготовить? Эта пара сирен-гарпий решила это "
+"Какой вкус у снов, если их приготовить? Эта пара Гарпий-сирен решила это "
 "выяснить, установив артиллерийский луч, способный сжечь все на своем пути."
 
 #: src-en/data/blueprints.xml.append:6955
