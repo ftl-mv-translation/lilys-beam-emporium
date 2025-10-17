@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-17 19:46+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-10-18 15:36+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -840,16 +840,28 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_VAMP\"]/text"
 msgstr ""
+"Добавлено: Поглотитель душ.\n"
+"\t\t[Сирены теперь исцеляют на количество нанесенного ими урона, однако их "
+"урон уменьшается вдвое]"
 
 #: src-en/data/events_special_storage.xml.append:870
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_BUFF\"]/text"
 msgstr ""
+"Добавлено: Красочные сны.\n"
+"\t\t[Союзные члены экипажа, не являющиеся сиренами, которые находятся в "
+"одном отсеке с сиренами, теперь получают на 30% меньше урона, ремонтируют на "
+"50% быстрее и становятся невосприимчивыми к контролю разума, но теряют 50% "
+"скорости передвижения]"
 
 #: src-en/data/events_special_storage.xml.append:875
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_DAMAGE\"]/text"
 msgstr ""
+"Добавлено: Увядающий взгляд.\n"
+"\t\t[Враги, на которых напрямую нацелены сирены, получают на 30% больше "
+"урона от всех источников и теряют иммунитет к контролю разума, если он у них "
+"был. Не влияет на других сирен или жутких существ]"
 
 #: src-en/data/events_special_storage.xml.append:880
 msgid ""
@@ -859,44 +871,48 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:884
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[5]/text"
-msgstr ""
+msgstr "Осн: Поглотитель душ. [Улучшение уже установлено]"
 
 #: src-en/data/events_special_storage.xml.append:888
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[6]/text"
-msgstr ""
+msgstr "Осн: Поглотитель душ [Цена: 30~, 2{, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:892
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[7]/text"
-msgstr ""
+msgstr "Осн: Красочные сны. [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:896
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[8]/text"
-msgstr ""
+msgstr "Осн: Красочные сны. [Цена: 6{]"
 
 #: src-en/data/events_special_storage.xml.append:900
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[9]/text"
-msgstr ""
+msgstr "Осн: Увядающий взгляд. [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:904
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[10]/text"
-msgstr ""
+msgstr "Осн: Увядающий взгляд. [Цена: 40~, 8}]"
 
 #: src-en/data/events_special_storage.xml.append:908
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_HARPY_MIND\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Втр [Гарпии]: Подчинение разума. [Улучшение уже добавлено]\n"
+"\t\t[Гарпии-сирены получают новую способность: контролировать разум "
+"случайного врага в текущем отсеке в течение 10 секунд, время перезарядки - "
+"30 секунд]"
 
 #: src-en/data/events_special_storage.xml.append:913
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_HARPY_MIND\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Втр [Гарпии]: Подчинение разума. [Цена: 50~, 5{]"
 
 #: src-en/data/events_special_storage.xml.append:917
 msgid ""
@@ -907,6 +923,13 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/text"
 msgstr ""
+"Вы собираетесь добавить модификацию Поглотитель душ.\n"
+"    [Эффекты: сирены теперь восстанавливают здоровье в зависимости от "
+"наносимого урона, однако их урон уменьшается вдвое]\n"
+"\n"
+"    [Предупреждение: После ее добавления вы больше не сможете применять "
+"основные модификации для экипажа сирен. Вы также не сможете деактивировать "
+"эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:927
 msgid ""
@@ -932,6 +955,15 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/text"
 msgstr ""
+"Вы собираетесь добавить модификацию Красочные сны.\n"
+"    [Эффекты: Союзные члены экипажа, не являющиеся сиренами, которые "
+"находятся в одном отсеке с сиренами, теперь получают на 30% меньше урона, "
+"ремонтируют на 50% быстрее и становятся невосприимчивыми к контролю разума, "
+"но теряют 50% скорости передвижения].\n"
+"\t\n"
+"\t[Предупреждение: После ее добавления вы больше не сможете применять "
+"основные модификации для экипажа сирен. Вы также не сможете деактивировать "
+"эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:958
 msgid ""
@@ -957,6 +989,14 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/text"
 msgstr ""
+"Вы собираетесь добавить модификацию Красочные сны.\n"
+"\t[Эффекты: Враги, на которых напрямую нацелены сирены, получают на 30% "
+"больше урона от всех источников и теряют иммунитет к контролю разума, если "
+"он у них был. Не влияет на других сирен или жутких существ]\n"
+"\t\n"
+"\t[Предупреждение: после установки этой модификации вы не сможете "
+"устанавливать никаких других основных улучшений для членов экипажа сирен. Вы "
+"также не сможете отключить эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:987
 msgid ""
@@ -982,6 +1022,13 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/text"
 msgstr ""
+"Вы собираетесь добавить модификацию Подчинение разума.\n"
+"    [Эффекты: Гарпии-сирены получают новую способность: контролировать разум "
+"случайного врага в текущем отсеке в течение 10 секунд, время перезарядки - "
+"30 секунд]\n"
+"    \n"
+"    [Предупреждение: это повлияет только на экипаж Гарпий-сирен. После этого "
+"вы сможете установить другие вторичные и основные модификации]"
 
 #: src-en/data/events_special_storage.xml.append:1017
 msgid ""
