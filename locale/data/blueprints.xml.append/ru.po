@@ -78,7 +78,7 @@ msgstr "Вам не следует этого видеть."
 #: src-en/data/blueprints.xml.append:251
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AVATAR_LINKER\"]/title"
-msgstr "???"
+msgstr "Lily Avatar"
 
 #: src-en/data/blueprints.xml.append:252
 msgid ""
@@ -88,7 +88,7 @@ msgstr "Вам не следует этого видеть."
 #: src-en/data/blueprints.xml.append:260
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_NOTE\"]/title"
-msgstr "???"
+msgstr "Note?"
 
 #: src-en/data/blueprints.xml.append:261
 msgid ""

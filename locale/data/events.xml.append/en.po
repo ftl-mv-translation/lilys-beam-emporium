@@ -108,11 +108,11 @@ msgstr ""
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR\"]/text"
 msgstr ""
 "You finally notice a relatively normal looking space station, although it seems to be protected by an unusual energy shield.\n"
-"It hails you: \"Welcome to the Lily's Beam Emporium!--\n"
-"... Wait. Is this The one Who Rhymes themselves?!\n"
+"It hails you: \"Welcome to the Lily's Beam Emporium!--\"\n"
+"\"... Wait. Is this The one Who Rhymes themselves?!\n"
 "As a renegade, no less?! Hold on I must be dreaming, am I?\n"
 "Didn't expect you again... much less in these circumstances--\n"
-"Feel free to take anything from my store, of course. Let's have fun and make chaos!--"
+"Feel free to take anything from my store, of course. Let's have fun and make chaos!--\""
 
 #: src-en/data/events.xml.append:164
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR\"]/choice/text"
@@ -184,7 +184,7 @@ msgstr ""
 #: src-en/data/events.xml.append:253
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/text"
-msgstr "Your remember about the mysterious note you found."
+msgstr "You remember about the mysterious note you found."
 
 #: src-en/data/events.xml.append:255
 msgid ""
@@ -201,7 +201,7 @@ msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/choice/event/text"
 msgstr ""
 "\"This note... in your possession? Well, that only mean one thing - you are one of Her chosen to complete the mission. Which mission - only She knows. But I happen to be one of Her servants as well and - as such I'll be assisting from here on--\n"
-"Oh, and have this to help on your travels."
+"Oh, and have this to help on your travels.\""
 
 #: src-en/data/events.xml.append:266
 msgid ""

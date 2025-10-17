@@ -66,7 +66,7 @@ msgstr ""
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AVATAR_LINKER\"]/title"
-msgstr "???"
+msgstr "Lily Avatar"
 
 #: src-en/data/blueprints.xml.append:252
 msgid ""
@@ -77,7 +77,7 @@ msgstr ""
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_NOTE\"]/title"
-msgstr "???"
+msgstr "Note?"
 
 #: src-en/data/blueprints.xml.append:261
 msgid ""

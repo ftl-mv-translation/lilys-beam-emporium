@@ -78,7 +78,7 @@ msgstr "Vous n'êtes pas censé voir ça."
 #: src-en/data/blueprints.xml.append:251
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AVATAR_LINKER\"]/title"
-msgstr "???"
+msgstr "Lily Avatar"
 
 #: src-en/data/blueprints.xml.append:252
 msgid ""
@@ -88,7 +88,7 @@ msgstr "Vous n'êtes pas censé voir ça."
 #: src-en/data/blueprints.xml.append:260
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_NOTE\"]/title"
-msgstr "???"
+msgstr "Note?"
 
 #: src-en/data/blueprints.xml.append:261
 msgid ""
@@ -1595,7 +1595,7 @@ msgstr "Rayon Désintégrateur Chaoslock 'Impetus'"
 #: src-en/data/blueprints.xml.append:3791
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/short"
-msgstr "'Impetus'"
+msgstr "'Impedio'"
 
 #: src-en/data/blueprints.xml.append:3792
 msgid ""
@@ -1713,7 +1713,7 @@ msgstr "Rayon Désintégrateur Chaotique Chaoslock 'Impetus'"
 #: src-en/data/blueprints.xml.append:4455
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/short"
-msgstr "'Impetus'™"
+msgstr "'Impedio'™"
 
 #: src-en/data/blueprints.xml.append:4456
 msgid ""
@@ -1831,7 +1831,7 @@ msgstr "Rayon Désintégrateur Élite Chaoslock 'Impetus'"
 #: src-en/data/blueprints.xml.append:5133
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/short"
-msgstr "€ 'Impetus'"
+msgstr "€ 'Impedio'"
 
 #: src-en/data/blueprints.xml.append:5134
 msgid ""

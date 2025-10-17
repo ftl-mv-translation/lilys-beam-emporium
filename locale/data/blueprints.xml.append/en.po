@@ -61,7 +61,7 @@ msgstr "Anti-C.E.L. Resonator"
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/desc"
 msgstr ""
 "This odd device seem to somehow cause your weapons to resonate with C.E.L "
-"tech on enemy ships, sausing them to deal double damage. An attached note "
+"tech on enemy ships, causing them to deal double damage. An attached note "
 "says \"Some help for you to deal with those pests - :)\""
 
 #: src-en/data/blueprints.xml.append:242
@@ -75,7 +75,7 @@ msgstr "You aren't supposed to see this."
 #: src-en/data/blueprints.xml.append:251
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AVATAR_LINKER\"]/title"
-msgstr "???"
+msgstr "Lily Avatar"
 
 #: src-en/data/blueprints.xml.append:252
 msgid ""
@@ -85,7 +85,7 @@ msgstr "You aren't supposed to see this."
 #: src-en/data/blueprints.xml.append:260
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_NOTE\"]/title"
-msgstr "???"
+msgstr "Note?"
 
 #: src-en/data/blueprints.xml.append:261
 msgid ""
@@ -1514,9 +1514,8 @@ msgstr "'Ira'"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/desc"
 msgstr ""
-"Fires a beam of chaotic eldritch energy that causes all touched matter to "
-"disintegrate. Applies Erosion effect to rooms and damage over time to all "
-"crew hit, and impedes healing and repairs."
+"Fires a beam of chaotic eldritch energy that causes all touched matter to disintegrate. Applies Erosion effect to rooms and damage over time to all crew hit, and impedes healing and repairs.\n"
+"Pierces 1 shield, -4 hp/s and x0.5 healing and repair to crew."
 
 #: src-en/data/blueprints.xml.append:3421
 msgid ""
@@ -1532,9 +1531,8 @@ msgstr "'Angoris'"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/desc"
 msgstr ""
-"Fires a beam of chaotic eldritch energy that causes all touched matter to "
-"disintegrate. Applies Erosion effect to rooms and damage over time to all "
-"crew hit, and impedes healing and repairs."
+"Fires a beam of chaotic eldritch energy that causes all touched matter to disintegrate. Applies Erosion effect to rooms and damage over time to all crew hit, and impedes healing and repairs.\n"
+"Pierces 1 shield, -4 hp/s and x0.5 healing and repair to crew."
 
 #: src-en/data/blueprints.xml.append:3493
 msgid ""
@@ -1550,9 +1548,8 @@ msgstr "'Dolor'"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/desc"
 msgstr ""
-"Fires a beam of chaotic eldritch energy that causes all touched matter to "
-"disintegrate. Applies Erosion effect to rooms and damage over time to all "
-"crew hit, and impedes healing and repairs."
+"Fires a beam of chaotic eldritch energy that causes all touched matter to disintegrate. Applies Erosion effect to rooms and damage over time to all crew hit, and impedes healing and repairs.\n"
+"Pierces 2 shields, -8 hp/s and x0.25 healing and repair to crew."
 
 #: src-en/data/blueprints.xml.append:3566
 msgid ""
@@ -1568,9 +1565,8 @@ msgstr "'Tormentum'"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/desc"
 msgstr ""
-"Fires a beam of chaotic eldritch energy that causes all touched matter to "
-"disintegrate. Applies Erosion effect to rooms and damage over time to all "
-"crew hit, and impedes healing and repairs."
+"Fires a beam of chaotic eldritch energy that causes all touched matter to disintegrate. Applies Erosion effect to rooms and damage over time to all crew hit, and impedes healing and repairs.\n"
+"Pierces 3 shield, -8 hp/s and x0.0 healing and repair to crew."
 
 #: src-en/data/blueprints.xml.append:3639
 msgid ""
@@ -1586,30 +1582,25 @@ msgstr "'Arde'"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/desc"
 msgstr ""
-"Fires a beam of chaotic eldritch energy that causes all touched matter to "
-"disintegrate. Applies Erosion effect to rooms and damage over time to all "
-"crew hit, and impedes healing and repairs. Additionally starts chaosfires, "
-"that can damage any type of crew and burn without oxygen."
+"Fires a beam of chaotic eldritch energy that causes all touched matter to disintegrate. Applies Erosion effect to rooms and damage over time to all crew hit, and impedes healing and repairs. Additionally starts chaosfires, that can damage any type of crew (at 1.5x base speed or more) and burn without oxygen.\n"
+"Pierces 1 shield, -3 hp/s and x0.5 healing and repair to crew."
 
 #: src-en/data/blueprints.xml.append:3790
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/title"
-msgstr "'Impetus' Chaoslock Disintegrator Beam"
+msgstr "'Impedio' Chaoslock Disintegrator Beam"
 
 #: src-en/data/blueprints.xml.append:3791
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/short"
-msgstr "'Impetus'"
+msgstr "'Impedio'"
 
 #: src-en/data/blueprints.xml.append:3792
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/desc"
 msgstr ""
-"Fires a beam of chaotic eldritch energy that causes all touched matter to "
-"disintegrate. Applies Erosion effect to rooms and damage over time to all "
-"crew hit, and impedes healing and repairs. Additionally applies chaoslock "
-"effect, preventing crew in affected rooms from manning, fighing, sabotaging "
-"and repairing."
+"Fires a beam of chaotic eldritch energy that causes all touched matter to disintegrate. Applies Erosion effect to rooms and damage over time to all crew hit, and impedes healing and repairs. Additionally applies chaoslock effect, preventing crew in affected rooms from manning, fighting, sabotaging and repairing, and reducing their movespeed to 0.25.\n"
+"Pierces 1 shield, -3 hp/s and x0.5 healing and repair, to crew."
 
 #: src-en/data/blueprints.xml.append:3988
 msgid ""
@@ -1625,9 +1616,8 @@ msgstr "'Ira'™"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/desc"
 msgstr ""
-"Fires a beam of chaotic eldritch energy that causes all touched matter to "
-"disintegrate. Applies Erosion effect to rooms and damage over time to all "
-"crew hit, and impedes healing and repairs."
+"Fires a beam of chaotic eldritch energy that causes all touched matter to disintegrate. Applies Erosion effect to rooms and damage over time to all crew hit, and impedes healing and repairs.\n"
+"Pierces 3 shields, -4 hp/s and x0.5 healing and repair to crew."
 
 #: src-en/data/blueprints.xml.append:4065
 msgid ""
@@ -1643,9 +1633,8 @@ msgstr "'Angoris'™"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/desc"
 msgstr ""
-"Fires a beam of chaotic eldritch energy that causes all touched matter to "
-"disintegrate. Applies Erosion effect to rooms and damage over time to all "
-"crew hit, and impedes healing and repairs."
+"Fires a beam of chaotic eldritch energy that causes all touched matter to disintegrate. Applies Erosion effect to rooms and damage over time to all crew hit, and impedes healing and repairs.\n"
+"Pierces 3 shields, -4 hp/s and x0.5 healing and repair to crew."
 
 #: src-en/data/blueprints.xml.append:4142
 msgid ""
@@ -1661,9 +1650,8 @@ msgstr "'Dolor'™"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/desc"
 msgstr ""
-"Fires a beam of chaotic eldritch energy that causes all touched matter to "
-"disintegrate. Applies Erosion effect to rooms and damage over time to all "
-"crew hit, and impedes healing and repairs."
+"Fires a beam of chaotic eldritch energy that causes all touched matter to disintegrate. Applies Erosion effect to rooms and damage over time to all crew hit, and impedes healing and repairs.\n"
+"Pierces 4 shields, -8 hp/s and x0.25 healing and repair to crew."
 
 #: src-en/data/blueprints.xml.append:4220
 msgid ""
@@ -1679,9 +1667,8 @@ msgstr "'Tormentum'™"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/desc"
 msgstr ""
-"Fires a beam of chaotic eldritch energy that causes all touched matter to "
-"disintegrate. Applies Erosion effect to rooms and damage over time to all "
-"crew hit, and impedes healing and repairs."
+"Fires a beam of chaotic eldritch energy that causes all touched matter to disintegrate. Applies Erosion effect to rooms and damage over time to all crew hit, and impedes healing and repairs.\n"
+"Pierces 5 shields, -4 hp/s and x0.0 healing and repair to crew."
 
 #: src-en/data/blueprints.xml.append:4298
 msgid ""
@@ -1697,30 +1684,25 @@ msgstr "'Arde'™"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/desc"
 msgstr ""
-"Fires a beam of chaotic eldritch energy that causes all touched matter to "
-"disintegrate. Applies Erosion effect to rooms and damage over time to all "
-"crew hit, and impedes healing and repairs. Additionally starts chaosfires, "
-"that can damage any type of crew and burn without oxygen."
+"Fires a beam of chaotic eldritch energy that causes all touched matter to disintegrate. Applies Erosion effect to rooms and damage over time to all crew hit, and impedes healing and repairs. Additionally starts chaosfires, that can damage any type of crew (at 1.5x base speed or more) and burn without oxygen.\n"
+"Pierces 3 shields, -3 hp/s and x0.5 healing and repair to crew."
 
 #: src-en/data/blueprints.xml.append:4454
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/title"
-msgstr "Chaotic 'Impetus' Chaoslock Disintegrator Beam"
+msgstr "Chaotic 'Impedio' Chaoslock Disintegrator Beam"
 
 #: src-en/data/blueprints.xml.append:4455
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/short"
-msgstr "'Impetus'™"
+msgstr "'Impedio'™"
 
 #: src-en/data/blueprints.xml.append:4456
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/desc"
 msgstr ""
-"Fires a beam of chaotic eldritch energy that causes all touched matter to "
-"disintegrate. Applies Erosion effect to rooms and damage over time to all "
-"crew hit, and impedes healing and repairs. Additionally applies chaoslock "
-"effect, preventing crew in affected rooms from manning, fighing, sabotaging "
-"and repairing."
+"Fires a beam of chaotic eldritch energy that causes all touched matter to disintegrate. Applies Erosion effect to rooms and damage over time to all crew hit, and impedes healing and repairs. Additionally applies chaoslock effect, preventing crew in affected rooms from manning, fighting, sabotaging and repairing, and reducing their movespeed to 0.25.\n"
+"Pierces 3 shields, -3 hp/s and x0.5 healing and repair to crew."
 
 #: src-en/data/blueprints.xml.append:4657
 msgid ""
@@ -1736,9 +1718,8 @@ msgstr "€ 'Ira'"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/desc"
 msgstr ""
-"Fires a beam of chaotic eldritch energy that causes all touched matter to "
-"disintegrate. Applies Erosion effect to rooms and damage over time to all "
-"crew hit, and impedes healing and repairs."
+"Fires a beam of chaotic eldritch energy that causes all touched matter to disintegrate. Applies Erosion effect to rooms and damage over time to all crew hit, and impedes healing and repairs.\n"
+"Pierces 3 shields, -6 hp/s and x0.25 healing and repair to crew."
 
 #: src-en/data/blueprints.xml.append:4734
 msgid ""
@@ -1754,9 +1735,8 @@ msgstr "€ 'Angoris'"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/desc"
 msgstr ""
-"Fires a beam of chaotic eldritch energy that causes all touched matter to "
-"disintegrate. Applies Erosion effect to rooms and damage over time to all "
-"crew hit, and impedes healing and repairs."
+"Fires a beam of chaotic eldritch energy that causes all touched matter to disintegrate. Applies Erosion effect to rooms and damage over time to all crew hit, and impedes healing and repairs.\n"
+"Pierces 3 shields, -6 hp/s and x0.25 healing and repair to crew."
 
 #: src-en/data/blueprints.xml.append:4811
 msgid ""
@@ -1772,9 +1752,8 @@ msgstr "€ 'Dolor'"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/desc"
 msgstr ""
-"Fires a beam of chaotic eldritch energy that causes all touched matter to "
-"disintegrate. Applies Erosion effect to rooms and damage over time to all "
-"crew hit, and impedes healing and repairs."
+"Fires a beam of chaotic eldritch energy that causes all touched matter to disintegrate. Applies Erosion effect to rooms and damage over time to all crew hit, and impedes healing and repairs.\n"
+"Pierces 4 shields, -12 hp/s and x0.0 healing and repair to crew."
 
 #: src-en/data/blueprints.xml.append:4889
 msgid ""
@@ -1790,9 +1769,8 @@ msgstr "€ 'Tormentum'"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/desc"
 msgstr ""
-"Fires a beam of chaotic eldritch energy that causes all touched matter to "
-"disintegrate. Applies Erosion effect to rooms and damage over time to all "
-"crew hit, and impedes healing and repairs."
+"Fires a beam of chaotic eldritch energy that causes all touched matter to disintegrate. Applies Erosion effect to rooms and damage over time to all crew hit, and impedes healing and repairs.\n"
+"Pierces 5 shields, -6 hp/s and x0.25 healing and repair to crew."
 
 #: src-en/data/blueprints.xml.append:4976
 msgid ""
@@ -1808,30 +1786,25 @@ msgstr "€ 'Arde'"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/desc"
 msgstr ""
-"Fires a beam of chaotic eldritch energy that causes all touched matter to "
-"disintegrate. Applies Erosion effect to rooms and damage over time to all "
-"crew hit, and impedes healing and repairs. Additionally starts chaosfires, "
-"that can damage any type of crew and burn without oxygen."
+"Fires a beam of chaotic eldritch energy that causes all touched matter to disintegrate. Applies Erosion effect to rooms and damage over time to all crew hit, and impedes healing and repairs. Additionally starts chaosfires, that can damage any type of crew (at 3x base speed or more) and burn without oxygen.\n"
+"Pierces 3 shields, -4 hp/s and x0.25 healing and repair to crew."
 
 #: src-en/data/blueprints.xml.append:5132
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/title"
-msgstr "Elite 'Impetus' Chaoslock Disintegrator Beam"
+msgstr "Elite 'Impedio' Chaoslock Disintegrator Beam"
 
 #: src-en/data/blueprints.xml.append:5133
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/short"
-msgstr "€ 'Impetus'"
+msgstr "€ 'Impedio'"
 
 #: src-en/data/blueprints.xml.append:5134
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/desc"
 msgstr ""
-"Fires a beam of chaotic eldritch energy that causes all touched matter to "
-"disintegrate. Applies Erosion effect to rooms and damage over time to all "
-"crew hit, and impedes healing and repairs. Additionally applies chaoslock "
-"effect, preventing crew in affected rooms from moving, manning, fighing, "
-"sabotaging and repairing."
+"Fires a beam of chaotic eldritch energy that causes all touched matter to disintegrate. Applies Erosion effect to rooms and damage over time to all crew hit, and impedes healing and repairs. Additionally applies chaoslock effect, preventing crew in affected rooms from moving, manning, fighting, sabotaging and repairing.\n"
+"Pierces 3 shields, -4 hp/s and x0.25 healing and repair to crew."
 
 #: src-en/data/blueprints.xml.append:5364
 msgid ""

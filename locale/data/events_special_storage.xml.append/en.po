@@ -173,42 +173,42 @@ msgstr "Select what do you want to give:"
 #: src-en/data/events_special_storage.xml.append:139
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER\"]/text"
-msgstr "Offer her an Ancient Laser."
+msgstr "Offer her an Ancient Laser I."
 
 #: src-en/data/events_special_storage.xml.append:149
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_2\"]/text"
-msgstr "Offer her an Ancient Laser."
+msgstr "Offer her an Ancient Laser II."
 
 #: src-en/data/events_special_storage.xml.append:159
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_3\"]/text"
-msgstr "Offer her an Ancient Laser."
+msgstr "Offer her an Ancient Laser III."
 
 #: src-en/data/events_special_storage.xml.append:169
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BEAM\"]/text"
-msgstr "Offer her an Ancient Beam."
+msgstr "Offer her an Ancient Beam I."
 
 #: src-en/data/events_special_storage.xml.append:179
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[5]/text"
-msgstr "Offer her an Ancient Beam."
+msgstr "Offer her an Ancient Beam II."
 
 #: src-en/data/events_special_storage.xml.append:189
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[6]/text"
-msgstr "Offer her an Ancient Beam."
+msgstr "Offer her an Ancient Beam III."
 
 #: src-en/data/events_special_storage.xml.append:199
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS\"]/text"
-msgstr "Offer her an Ancient Pinpoint."
+msgstr "Offer her an Ancient Pinpoint I."
 
 #: src-en/data/events_special_storage.xml.append:209
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS_2\"]/text"
-msgstr "Offer her an Ancient Pinpoint."
+msgstr "Offer her an Ancient Pinpoint II."
 
 #: src-en/data/events_special_storage.xml.append:219
 msgid ""
