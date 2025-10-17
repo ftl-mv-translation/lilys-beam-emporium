@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-10-17 19:45+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1505,6 +1505,7 @@ msgid ""
 msgstr "Ира"
 
 #: src-en/data/blueprints.xml.append:3351
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/desc"
 msgstr ""
@@ -1524,6 +1525,7 @@ msgid ""
 msgstr "Ангорис"
 
 #: src-en/data/blueprints.xml.append:3423
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/desc"
 msgstr ""
@@ -1543,6 +1545,7 @@ msgid ""
 msgstr "Долор"
 
 #: src-en/data/blueprints.xml.append:3495
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/desc"
 msgstr ""
@@ -1562,6 +1565,7 @@ msgid ""
 msgstr "Торментум"
 
 #: src-en/data/blueprints.xml.append:3568
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/desc"
 msgstr ""
@@ -1581,6 +1585,7 @@ msgid ""
 msgstr "Арде"
 
 #: src-en/data/blueprints.xml.append:3641
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/desc"
 msgstr ""
@@ -1602,6 +1607,7 @@ msgid ""
 msgstr "Импетус"
 
 #: src-en/data/blueprints.xml.append:3792
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/desc"
 msgstr ""
@@ -1621,6 +1627,7 @@ msgid ""
 msgstr "Ира™"
 
 #: src-en/data/blueprints.xml.append:3990
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/desc"
 msgstr ""
@@ -1640,6 +1647,7 @@ msgid ""
 msgstr "Ангорис™"
 
 #: src-en/data/blueprints.xml.append:4067
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/desc"
 msgstr ""
@@ -1659,6 +1667,7 @@ msgid ""
 msgstr "Долор™"
 
 #: src-en/data/blueprints.xml.append:4144
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/desc"
 msgstr ""
@@ -1678,6 +1687,7 @@ msgid ""
 msgstr "Торментум™"
 
 #: src-en/data/blueprints.xml.append:4222
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/desc"
 msgstr ""
@@ -1697,6 +1707,7 @@ msgid ""
 msgstr "Арде™"
 
 #: src-en/data/blueprints.xml.append:4300
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/desc"
 msgstr ""
@@ -1719,15 +1730,16 @@ msgid ""
 msgstr "Импетус™"
 
 #: src-en/data/blueprints.xml.append:4456
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/desc"
 msgstr ""
 "Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
 "затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
 "временем всем пораженным членам экипажа, а также затрудняет исцеление и "
-"ремонт. Дополнительно применяет эффект хаос-изоляции, не позволяющий экипажу"
-" в затронутых помещениях передвигаться, обслуживать оборудование, сражаться,"
-" проводить диверсии и ремонтировать."
+"ремонт. Дополнительно применяет эффект хаос-изоляции, не позволяющий экипажу "
+"в затронутых помещениях передвигаться, обслуживать оборудование, сражаться, "
+"проводить диверсии и ремонтировать."
 
 #: src-en/data/blueprints.xml.append:4657
 msgid ""
@@ -1740,6 +1752,7 @@ msgid ""
 msgstr "€ Ира"
 
 #: src-en/data/blueprints.xml.append:4659
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/desc"
 msgstr ""
@@ -1759,6 +1772,7 @@ msgid ""
 msgstr "€ Ангорис"
 
 #: src-en/data/blueprints.xml.append:4736
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/desc"
 msgstr ""
@@ -1778,6 +1792,7 @@ msgid ""
 msgstr "€ Долор"
 
 #: src-en/data/blueprints.xml.append:4813
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/desc"
 msgstr ""
@@ -1797,6 +1812,7 @@ msgid ""
 msgstr "€ Торментум"
 
 #: src-en/data/blueprints.xml.append:4891
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/desc"
 msgstr ""
@@ -1816,6 +1832,7 @@ msgid ""
 msgstr "€ Арде"
 
 #: src-en/data/blueprints.xml.append:4978
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/desc"
 msgstr ""
@@ -1838,15 +1855,16 @@ msgid ""
 msgstr "€ Импетус"
 
 #: src-en/data/blueprints.xml.append:5134
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/desc"
 msgstr ""
 "Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
 "затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
 "временем всем пораженным членам экипажа, а также затрудняет исцеление и "
-"ремонт. Дополнительно применяет эффект хаос-изоляции, не позволяющий экипажу"
-" в затронутых помещениях передвигаться, обслуживать оборудование, сражаться,"
-" проводить диверсии и ремонтировать."
+"ремонт. Дополнительно применяет эффект хаос-изоляции, не позволяющий экипажу "
+"в затронутых помещениях передвигаться, обслуживать оборудование, сражаться, "
+"проводить диверсии и ремонтировать."
 
 #: src-en/data/blueprints.xml.append:5364
 msgid ""
