@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-17 19:45+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-10-18 15:36+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/mod-appendixmetadataxml/ru/>\n"
 "Language: ru\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 #: src-en/mod-appendix/metadata.xml:10
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
-msgstr "Lily's Beam Emporium"
+msgstr "Lily's Beam Emporium (Перевод в процессе)"
 
 #: src-en/mod-appendix/metadata.xml:36
 #, fuzzy
