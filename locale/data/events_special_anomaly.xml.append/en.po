@@ -292,7 +292,7 @@ msgstr "After this, the odd vessel immediately leaves."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL_HIGH\"]/text"
 msgstr ""
-"\"And according to your records... You are indeed a very notorious criminal in whole of the federation!...\"\n"
+"\"And according to your records... You are indeed a very notorious criminal in whole of the Federation!...\"\n"
 "\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:259
@@ -427,7 +427,7 @@ msgstr "Continue..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL\"]/text"
 msgstr ""
-"\"And according to your records... You are indeed a criminal according to the federation!...\"\n"
+"\"And according to your records... You are indeed a criminal according to the Federation!...\"\n"
 "\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:393
