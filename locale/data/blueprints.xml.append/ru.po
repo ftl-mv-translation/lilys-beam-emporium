@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-10-18 15:36+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -204,9 +204,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/desc"
 msgstr ""
-"Эффекты: Гарпии-сирены получают новую способность: контролировать разум "
-"случайного врага в текущем отсеке в течение 10 секунд, время перезарядки - "
-"30 секунд."
+"Гарпии-сирены получают новую способность: контролировать разум случайного "
+"врага в текущем отсеке в течение 10 секунд, время перезарядки - 30 секунд."
 
 #: src-en/data/blueprints.xml.append:361
 msgid ""
@@ -217,6 +216,12 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_VAMP\"]/desc"
 msgstr ""
+"Sirens now heal by the damage they deal, however, their damage is halved.\n"
+"        \n"
+"[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, но "
+"занимает слот модуля. Оно не может быть преобразовано во внутреннее "
+"лабораторное улучшение, но не занимает его основной слот. Не суммируется с "
+"самим собой."
 
 #: src-en/data/blueprints.xml.append:371
 msgid ""
@@ -227,6 +232,14 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_BUFF\"]/desc"
 msgstr ""
+"Allied Non-Siren crew in the same room as Sirens now take 30% less damage, "
+"repair 50% faster and become immune to mind control, but lose 50% of their "
+"movement speed.\n"
+"        \n"
+"[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, но "
+"занимает слот модуля. Оно не может быть преобразовано во внутреннее "
+"лабораторное улучшение, но не занимает его основной слот. Не суммируется с "
+"самим собой."
 
 #: src-en/data/blueprints.xml.append:381
 msgid ""
@@ -237,6 +250,14 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_DAMAGE\"]/desc"
 msgstr ""
+"Enemies directly targeted by Sirens take 30% more damage from all sources "
+"and lose their mind control immunity if they had any. Doesn't affect other "
+"Sirens or Eldritch beings.\n"
+"        \n"
+"[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, но "
+"занимает слот модуля. Оно не может быть преобразовано во внутреннее "
+"лабораторное улучшение, но не занимает его основной слот. Не суммируется с "
+"самим собой."
 
 #: src-en/data/blueprints.xml.append:391
 msgid ""
@@ -247,6 +268,13 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/desc"
 msgstr ""
+"Siren Harpies gain a new ability: Mind control a random enemy crew in the "
+"current room for 10 seconds. 30 seconds cooldown.\n"
+"        \n"
+"[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, но "
+"занимает слот модуля. Оно не может быть преобразовано во внутреннее "
+"лабораторное улучшение, но не занимает его основной слот. Не суммируется с "
+"самим собой."
 
 #: src-en/data/blueprints.xml.append:402
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SIREN\"]/title"
@@ -1598,16 +1626,14 @@ msgstr ""
 "ремонт."
 
 #: src-en/data/blueprints.xml.append:3790
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/title"
-msgstr "Луч дезинтегратор хаоса изоляции \"Импетус\""
+msgstr "Луч дезинтегратор хаоса изоляции \"Импедио\""
 
 #: src-en/data/blueprints.xml.append:3791
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/short"
-msgstr "Импетус"
+msgstr "Импедио"
 
 #: src-en/data/blueprints.xml.append:3792
 #, fuzzy
@@ -1721,16 +1747,14 @@ msgstr ""
 "любому типу экипажа и гореть без кислорода."
 
 #: src-en/data/blueprints.xml.append:4454
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/title"
-msgstr "Хаотический луч дезинтегратор хаоса изоляции \"Импетус\""
+msgstr "Хаотический луч дезинтегратор хаоса изоляции \"Импедио\""
 
 #: src-en/data/blueprints.xml.append:4455
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/short"
-msgstr "Импетус™"
+msgstr "Импедио™"
 
 #: src-en/data/blueprints.xml.append:4456
 #, fuzzy
@@ -1846,16 +1870,14 @@ msgstr ""
 "любому типу экипажа и гореть без кислорода."
 
 #: src-en/data/blueprints.xml.append:5132
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/title"
-msgstr "Элитный луч дезинтегратор хаоса изоляции \"Импетус\""
+msgstr "Элитный луч дезинтегратор хаоса изоляции \"Импедио\""
 
 #: src-en/data/blueprints.xml.append:5133
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/short"
-msgstr "€ Импетус"
+msgstr "€ Импедио"
 
 #: src-en/data/blueprints.xml.append:5134
 #, fuzzy
