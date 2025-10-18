@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-10-18 15:36+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/mod-appendixmetadataxml/ru/>\n"
 "Language: ru\n"
@@ -15,10 +15,9 @@ msgstr ""
 
 #: src-en/mod-appendix/metadata.xml:10
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
-msgstr "Lily's Beam Emporium (Перевод в процессе)"
+msgstr "Lily's Beam Emporium"
 
 #: src-en/mod-appendix/metadata.xml:36
-#, fuzzy
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
 msgstr ""
 "Вы знаете все эти лазеры, ракеты, бомбы - они всегда промахиваются мимо цели "
@@ -47,4 +46,5 @@ msgstr ""
 "Особая благодарность: \n"
 "Arc, sillysandvich, за помощь в написании скриптов;\n"
 "Willow, за помощь в написании текстов;\n"
+"Nauter за помощь в разработке дизайна MV судна;\n"
 "Kix и всем, кто работал над созданием FTL: Multiverse (и Hyperspace);"
