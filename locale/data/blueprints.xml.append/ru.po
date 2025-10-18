@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-17 19:45+0000\n"
+"PO-Revision-Date: 2025-10-18 15:36+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/ru/>\n"
@@ -68,7 +68,6 @@ msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/title"
 msgstr "Анти-ЛБП резонатор"
 
 #: src-en/data/blueprints.xml.append:234
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/desc"
 msgstr ""
 "Это странное устройство, похоже, заставляет ваше оружие резонировать с "
@@ -131,123 +130,175 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:288
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_ELITE\"]/title"
-msgstr ""
+msgstr "Насыщ. хаот. энергия"
 
 #: src-en/data/blueprints.xml.append:289
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_ELITE\"]/desc"
 msgstr ""
+"Экипаж не являющийся сиреной теряет свои активные способности, способности "
+"сражаться, ремонтировать или саботировать, и передвигается с 0.25х "
+"скоростью, находясь в насыщенных хаотической энергией полях."
 
 #: src-en/data/blueprints.xml.append:298
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_AZURE\"]/title"
-msgstr ""
+msgstr "Лазурная энергия"
 
 #: src-en/data/blueprints.xml.append:299
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_AZURE\"]/desc"
 msgstr ""
+"Вражеские члены экипажа, не являющиеся сиренами, на борту корабля теряют "
+"половину скорости передвижения и саботажа, теряют активные способности и "
+"иммунитет к контролю разума, а союзные члены экипажа на борту корабля "
+"получают иммунитет к контролю разума и оглушению, а также восстанавливают 1 "
+"ОЗ/с в пределах полей лазурной энергии."
 
 #: src-en/data/blueprints.xml.append:307
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AZURE_ARMOR\"]/title"
-msgstr ""
+msgstr "Лазурная броня"
 
 #: src-en/data/blueprints.xml.append:308
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AZURE_ARMOR\"]/desc"
 msgstr ""
+"Каждый раз, когда ваш корабль получает повреждения, от него отрывается "
+"замаскированный осколок кристалла, который летит к вашему врагу, пробивает "
+"все щиты, наносит 1 единицу урона корпусу и системам, блокирует помещения и "
+"контролирует разум вражеского экипажа в течение 20 секунд."
 
 #: src-en/data/blueprints.xml.append:316
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_INSTALLED\"]/title"
-msgstr ""
+msgstr "Добавлено улучшение для сирен."
 
 #: src-en/data/blueprints.xml.append:317
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_INSTALLED\"]/desc"
-msgstr ""
+msgstr "Добавлено улучшение для сирен."
 
 #: src-en/data/blueprints.xml.append:326
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_VAMP\"]/title"
-msgstr ""
+msgstr "Поглотитель душ"
 
 #: src-en/data/blueprints.xml.append:327
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_VAMP\"]/desc"
 msgstr ""
+"Сирены теперь исцеляют на количество нанесенного ими урона, однако их урон "
+"уменьшается вдвое."
 
 #: src-en/data/blueprints.xml.append:334
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_BUFF\"]/title"
-msgstr ""
+msgstr "Красочные сны"
 
 #: src-en/data/blueprints.xml.append:335
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_BUFF\"]/desc"
 msgstr ""
+"Союзники не являющиеся сиренами, находящиеся в одном отсеке с сиренами, "
+"теперь получают на 30% меньше урона, ремонтируют на 50% быстрее и становятся "
+"невосприимчивыми к контролю разума, но теряют 50% скорости передвижения."
 
 #: src-en/data/blueprints.xml.append:342
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_DAMAGE\"]/title"
-msgstr ""
+msgstr "Увядающий взгляд"
 
 #: src-en/data/blueprints.xml.append:343
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_DAMAGE\"]/desc"
 msgstr ""
+"Враги, на которых напрямую нацелены сирены, получают на 30% больше урона от "
+"всех источников и теряют иммунитет к контролю разума, если он у них был. Не "
+"влияет на других сирен или жутких существ."
 
 #: src-en/data/blueprints.xml.append:350
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/title"
-msgstr ""
+msgstr "Подчинение разума"
 
 #: src-en/data/blueprints.xml.append:351
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/desc"
 msgstr ""
+"Гарпии-сирены получают новую способность: контролировать разум случайного "
+"врага в текущем отсеке в течение 10 секунд, время перезарядки - 30 секунд."
 
 #: src-en/data/blueprints.xml.append:361
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_VAMP\"]/title"
-msgstr ""
+msgstr "[Л] Поглотитель душ"
 
 #: src-en/data/blueprints.xml.append:362
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_VAMP\"]/desc"
 msgstr ""
+"Сирены теперь исцеляют в зависимости от наносимого ими урона, однако их урон "
+"уменьшается вдвое.\n"
+"        \n"
+"[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, но "
+"занимает слот модуля. Оно не может быть преобразовано во внутреннее "
+"лабораторное улучшение, но не занимает его основной слот. Не суммируется с "
+"самим собой."
 
 #: src-en/data/blueprints.xml.append:371
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_BUFF\"]/title"
-msgstr ""
+msgstr "[Л] Красочные сны"
 
 #: src-en/data/blueprints.xml.append:372
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_BUFF\"]/desc"
 msgstr ""
+"Союзники не являющиеся сиренами, находящиеся в одном отсеке с сиренами, "
+"теперь получают на 30% меньше урона, ремонтируют на 50% быстрее и становятся "
+"невосприимчивыми к контролю разума, но теряют 50% скорости передвижения.\n"
+"        \n"
+"[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, но "
+"занимает слот модуля. Оно не может быть преобразовано во внутреннее "
+"лабораторное улучшение, но не занимает его основной слот. Не суммируется с "
+"самим собой."
 
 #: src-en/data/blueprints.xml.append:381
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_DAMAGE\"]/title"
-msgstr ""
+msgstr "[Л] Увядающий взгляд"
 
 #: src-en/data/blueprints.xml.append:382
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_DAMAGE\"]/desc"
 msgstr ""
+"Враги, на которых напрямую нацелены сирены, получают на 30% больше урона от "
+"всех источников и теряют иммунитет к контролю разума, если он у них был. Не "
+"влияет на других сирен или жутких существ.\n"
+"        \n"
+"[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, но "
+"занимает слот модуля. Оно не может быть преобразовано во внутреннее "
+"лабораторное улучшение, но не занимает его основной слот. Не суммируется с "
+"самим собой."
 
 #: src-en/data/blueprints.xml.append:391
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/title"
-msgstr ""
+msgstr "[Л] Подчинение разума"
 
 #: src-en/data/blueprints.xml.append:392
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/desc"
 msgstr ""
+"Гарпии-сирены получают новую способность: на 10 секунд подчиняют себе "
+"случайного врага в текущем отсеке. Время перезарядки - 30 секунд.\n"
+"        \n"
+"[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, но "
+"занимает слот модуля. Оно не может быть преобразовано во внутреннее "
+"лабораторное улучшение, но не занимает его основной слот. Не суммируется с "
+"самим собой."
 
 #: src-en/data/blueprints.xml.append:402
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SIREN\"]/title"
-msgstr ""
+msgstr "Благо утопии"
 
 #: src-en/data/blueprints.xml.append:403
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SIREN\"]/desc"
@@ -256,16 +307,21 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:410
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_HER_EMPOWERMENT\"]/title"
-msgstr ""
+msgstr "Сила Ее"
 
 #: src-en/data/blueprints.xml.append:411
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_HER_EMPOWERMENT\"]/desc"
 msgstr ""
+"Этот корабль наделен жуткими силами. Он будет функционировать как "
+"автоматический корабль с улучшенным экипажем и ремонтом, быстро "
+"ремонтировать корпус и получать энергетический щит с 20 единицами прочности. "
+"Ваш экипаж жутких и сирен также получает дополнительные способности, которые "
+"обеспечивают им сопротивляемость урону и иммунитет к опасностям."
 
 #: src-en/data/blueprints.xml.append:418
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_SHIP_HER\"]/title"
-msgstr ""
+msgstr "Крейсер Ее"
 
 #: src-en/data/blueprints.xml.append:419
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_SHIP_HER\"]/desc"
@@ -1505,14 +1561,15 @@ msgid ""
 msgstr "Ира"
 
 #: src-en/data/blueprints.xml.append:3351
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/desc"
 msgstr ""
 "Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
 "затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
 "временем всем пораженным членам экипажа, а также затрудняет исцеление и "
-"ремонт."
+"ремонт.\n"
+"\n"
+"Пробивает 1 щита, -4 ОЗ/с и 0.5х исцеление и ремонт экипажа."
 
 #: src-en/data/blueprints.xml.append:3421
 msgid ""
@@ -1525,14 +1582,15 @@ msgid ""
 msgstr "Ангорис"
 
 #: src-en/data/blueprints.xml.append:3423
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/desc"
 msgstr ""
 "Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
 "затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
 "временем всем пораженным членам экипажа, а также затрудняет исцеление и "
-"ремонт."
+"ремонт.\n"
+"\n"
+"Пробивает 1 щита, -4 ОЗ/с и 0.5х исцеление и ремонт экипажа."
 
 #: src-en/data/blueprints.xml.append:3493
 msgid ""
@@ -1545,14 +1603,15 @@ msgid ""
 msgstr "Долор"
 
 #: src-en/data/blueprints.xml.append:3495
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/desc"
 msgstr ""
 "Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
 "затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
 "временем всем пораженным членам экипажа, а также затрудняет исцеление и "
-"ремонт."
+"ремонт.\n"
+"\n"
+"Пробивает 2 щита, -8 ОЗ/с и 0.25х исцеление и ремонт экипажа."
 
 #: src-en/data/blueprints.xml.append:3566
 msgid ""
@@ -1565,14 +1624,15 @@ msgid ""
 msgstr "Торментум"
 
 #: src-en/data/blueprints.xml.append:3568
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/desc"
 msgstr ""
 "Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
 "затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
 "временем всем пораженным членам экипажа, а также затрудняет исцеление и "
-"ремонт."
+"ремонт.\n"
+"\n"
+"Пробивает 3 щита, -8 ОЗ/с и 0.0х исцеление и ремонт экипажа."
 
 #: src-en/data/blueprints.xml.append:3639
 msgid ""
@@ -1585,36 +1645,37 @@ msgid ""
 msgstr "Арде"
 
 #: src-en/data/blueprints.xml.append:3641
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/desc"
 msgstr ""
 "Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
 "затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
 "временем всем пораженным членам экипажа, а также затрудняет исцеление и "
-"ремонт."
+"ремонт (со скоростью 1.5x от базовой скорости или более) и сгорают без "
+"кислорода.\n"
+"\n"
+"Пробивает 1 щит, -3 ОЗ/с и 0.5х исцеление и ремонт экипажа."
 
 #: src-en/data/blueprints.xml.append:3790
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/title"
-msgstr "Луч дезинтегратор хаоса изоляции \"Импетус\""
+msgstr "Луч дезинтегратор хаоса изоляции \"Импедио\""
 
 #: src-en/data/blueprints.xml.append:3791
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/short"
-msgstr "Импетус"
+msgstr "Импедио"
 
 #: src-en/data/blueprints.xml.append:3792
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/desc"
 msgstr ""
 "Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
 "затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
-"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
-"ремонт."
+"временем всем пораженным членам экипажа, а также затрудняет исцеление, "
+"ремонт, и уменьшает их скорости передвижения до 0.25х.\n"
+"\n"
+"Пробивает 1 щит, -3 ОЗ/с и 0.5х исцеление и ремонт экипажа."
 
 #: src-en/data/blueprints.xml.append:3988
 msgid ""
@@ -1627,14 +1688,15 @@ msgid ""
 msgstr "Ира™"
 
 #: src-en/data/blueprints.xml.append:3990
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/desc"
 msgstr ""
 "Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
 "затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
 "временем всем пораженным членам экипажа, а также затрудняет исцеление и "
-"ремонт."
+"ремонт.\n"
+"\n"
+"Пробивает 3 щита, -4 ОЗ/с и 0.5х исцеление и ремонт экипажа."
 
 #: src-en/data/blueprints.xml.append:4065
 msgid ""
@@ -1647,14 +1709,15 @@ msgid ""
 msgstr "Ангорис™"
 
 #: src-en/data/blueprints.xml.append:4067
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/desc"
 msgstr ""
 "Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
 "затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
 "временем всем пораженным членам экипажа, а также затрудняет исцеление и "
-"ремонт."
+"ремонт.\n"
+"\n"
+"Пробивает 3 щита, -4 ОЗ/с и 0.5х исцеление и ремонт экипажа."
 
 #: src-en/data/blueprints.xml.append:4142
 msgid ""
@@ -1667,14 +1730,15 @@ msgid ""
 msgstr "Долор™"
 
 #: src-en/data/blueprints.xml.append:4144
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/desc"
 msgstr ""
 "Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
 "затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
 "временем всем пораженным членам экипажа, а также затрудняет исцеление и "
-"ремонт."
+"ремонт.\n"
+"\n"
+"Пробивает 4 щита, -4 ОЗ/с и 0.25х исцеление и ремонт экипажа."
 
 #: src-en/data/blueprints.xml.append:4220
 msgid ""
@@ -1687,14 +1751,15 @@ msgid ""
 msgstr "Торментум™"
 
 #: src-en/data/blueprints.xml.append:4222
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/desc"
 msgstr ""
 "Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
 "затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
 "временем всем пораженным членам экипажа, а также затрудняет исцеление и "
-"ремонт."
+"ремонт.\n"
+"\n"
+"Пробивает 5 щитов, -4 ОЗ/с и 0.0х исцеление и ремонт экипажа."
 
 #: src-en/data/blueprints.xml.append:4298
 msgid ""
@@ -1707,7 +1772,6 @@ msgid ""
 msgstr "Арде™"
 
 #: src-en/data/blueprints.xml.append:4300
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/desc"
 msgstr ""
@@ -1715,22 +1779,22 @@ msgstr ""
 "затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
 "временем всем пораженным членам экипажа, а также затрудняет исцеление и "
 "ремонт. Дополнительно вызывает хаос-пожары, которые могут нанести ущерб "
-"любому типу экипажа и гореть без кислорода."
+"любому типу экипажа (со скоростью 1.5x от базовой скорости или более) и "
+"сгорают без кислорода..\n"
+"\n"
+"Пробивает 3 щита, -3 ОЗ/с и 0.5х исцеление и ремонт экипажа."
 
 #: src-en/data/blueprints.xml.append:4454
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/title"
-msgstr "Хаотический луч дезинтегратор хаоса изоляции \"Импетус\""
+msgstr "Хаотический луч дезинтегратор хаоса изоляции \"Импедио\""
 
 #: src-en/data/blueprints.xml.append:4455
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/short"
-msgstr "Импетус™"
+msgstr "Импедио™"
 
 #: src-en/data/blueprints.xml.append:4456
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/desc"
 msgstr ""
@@ -1739,7 +1803,10 @@ msgstr ""
 "временем всем пораженным членам экипажа, а также затрудняет исцеление и "
 "ремонт. Дополнительно применяет эффект хаос-изоляции, не позволяющий экипажу "
 "в затронутых помещениях передвигаться, обслуживать оборудование, сражаться, "
-"проводить диверсии и ремонтировать."
+"проводить диверсии, ремонтировать и уменьшает их скорости передвижения до "
+"0.25х.\n"
+"\n"
+"Пробивает 3 щита, -3 ОЗ/с и 0.5х исцеление и ремонт экипажа."
 
 #: src-en/data/blueprints.xml.append:4657
 msgid ""
@@ -1752,14 +1819,15 @@ msgid ""
 msgstr "€ Ира"
 
 #: src-en/data/blueprints.xml.append:4659
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/desc"
 msgstr ""
 "Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
 "затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
 "временем всем пораженным членам экипажа, а также затрудняет исцеление и "
-"ремонт."
+"ремонт.\n"
+"\n"
+"Пробивает 3 щита, -6 ОЗ/с и 0.25х исцеление и ремонт экипажа."
 
 #: src-en/data/blueprints.xml.append:4734
 msgid ""
@@ -1772,14 +1840,15 @@ msgid ""
 msgstr "€ Ангорис"
 
 #: src-en/data/blueprints.xml.append:4736
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/desc"
 msgstr ""
 "Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
 "затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
 "временем всем пораженным членам экипажа, а также затрудняет исцеление и "
-"ремонт."
+"ремонт.\n"
+"\n"
+"Пробивает 3 щита, -6 ОЗ/с и 0.25х исцеление и ремонт экипажа."
 
 #: src-en/data/blueprints.xml.append:4811
 msgid ""
@@ -1792,14 +1861,15 @@ msgid ""
 msgstr "€ Долор"
 
 #: src-en/data/blueprints.xml.append:4813
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/desc"
 msgstr ""
 "Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
 "затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
 "временем всем пораженным членам экипажа, а также затрудняет исцеление и "
-"ремонт."
+"ремонт.\n"
+"\n"
+"Пробивает 4 щита, -12 ОЗ/с и 0.0х исцеление и ремонт экипажа."
 
 #: src-en/data/blueprints.xml.append:4889
 msgid ""
@@ -1812,14 +1882,15 @@ msgid ""
 msgstr "€ Торментум"
 
 #: src-en/data/blueprints.xml.append:4891
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/desc"
 msgstr ""
 "Выпускает луч жуткой хаотичной энергии, который вызывает распад всей "
 "затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
 "временем всем пораженным членам экипажа, а также затрудняет исцеление и "
-"ремонт."
+"ремонт.\n"
+"\n"
+"Пробивает 5 щитов, -6 ОЗ/с и 0.25х исцеление и ремонт экипажа."
 
 #: src-en/data/blueprints.xml.append:4976
 msgid ""
@@ -1832,7 +1903,6 @@ msgid ""
 msgstr "€ Арде"
 
 #: src-en/data/blueprints.xml.append:4978
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/desc"
 msgstr ""
@@ -1840,22 +1910,22 @@ msgstr ""
 "затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
 "временем всем пораженным членам экипажа, а также затрудняет исцеление и "
 "ремонт. Дополнительно вызывает хаос-пожары, которые могут нанести ущерб "
-"любому типу экипажа и гореть без кислорода."
+"любому типу экипажа (со скоростью в 3х от базовой скорости) и сгорают без "
+"кислорода.\n"
+"\n"
+"Пробивает 3 щита, -4 ОЗ/с и 0.25х исцеление и ремонт экипажа."
 
 #: src-en/data/blueprints.xml.append:5132
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/title"
-msgstr "Элитный луч дезинтегратор хаоса изоляции \"Импетус\""
+msgstr "Элитный луч дезинтегратор хаоса изоляции \"Импедио\""
 
 #: src-en/data/blueprints.xml.append:5133
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/short"
-msgstr "€ Импетус"
+msgstr "€ Импедио"
 
 #: src-en/data/blueprints.xml.append:5134
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/desc"
 msgstr ""
@@ -1864,7 +1934,9 @@ msgstr ""
 "временем всем пораженным членам экипажа, а также затрудняет исцеление и "
 "ремонт. Дополнительно применяет эффект хаос-изоляции, не позволяющий экипажу "
 "в затронутых помещениях передвигаться, обслуживать оборудование, сражаться, "
-"проводить диверсии и ремонтировать."
+"проводить диверсии и ремонтировать.\n"
+"\n"
+"Пробивает 3 щита, -4 ОЗ/с и 0.25х исцеление и ремонт экипажа."
 
 #: src-en/data/blueprints.xml.append:5364
 msgid ""
@@ -2142,87 +2214,104 @@ msgstr "---"
 #: src-en/data/blueprints.xml.append:5961
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/title"
-msgstr ""
+msgstr "Хаотичная артиллерия \"Сьюсс\""
 
 #: src-en/data/blueprints.xml.append:5962
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/short"
-msgstr ""
+msgstr "Сьюсс™"
 
 #: src-en/data/blueprints.xml.append:5963
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/desc"
 msgstr ""
+"Артиллерийская версия печально известного оружия, этот длинный луч "
+"уничтожает системы и экипаж противника, а также временно вызывает безумие у "
+"экипажа, по которому он попадает, отключая их активные способности. Союзные "
+"жуткие и сирены вместо этого исцеляются. [Базовая перезарядка: 30]"
 
 #: src-en/data/blueprints.xml.append:5964
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/tooltip"
-msgstr ""
+msgstr "Хаотичная артиллерия \"Сьюсс\". [Базовая перезарядка: 30]"
 
 #: src-en/data/blueprints.xml.append:6059
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/title"
-msgstr ""
+msgstr "\"Лазурный меч мечты\""
 
 #: src-en/data/blueprints.xml.append:6060
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/short"
-msgstr ""
+msgstr "Лазурный меч"
 
 #: src-en/data/blueprints.xml.append:6061
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/desc"
 msgstr ""
+"Уникальная лучевая артиллерия, сочетающая в себе технологии сирен и "
+"кристаллин. Пробивает 3 щита, нанося 1 ед. урона системе, 1 ед. урона ионам "
+"и 30 ед. урона экипажу (только врагам) и запирает отсеки. Враги в этих "
+"отсеках будут подвержены дебаффу \"мороз\", а союзники получат возможность "
+"проходить сквозь двери и небольшое исцеление. [Базовая перезарядка: 40]"
 
 #: src-en/data/blueprints.xml.append:6194
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/title"
-msgstr ""
+msgstr "Дезинтеграторная артиллерия Ее \"Торментум\" :)"
 
 #: src-en/data/blueprints.xml.append:6195
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/short"
-msgstr ""
+msgstr "€ Торментум :)"
 
 #: src-en/data/blueprints.xml.append:6196
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/desc"
 msgstr ""
+"Используя жуткую силу Ее, это оружие испускает разрушительный луч хаотичной "
+"жуткой энергии, который вызывает быструю дезинтеграцию всего, к чему он "
+"прикасается. Применяет эффект эрозии к помещениям и наносит урон со временем "
+"всем пораженным членам экипажа, а также полностью предотвращает исцеление и "
+"ремонт. [Базовая перезарядка: 60]"
 
 #: src-en/data/blueprints.xml.append:6197
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/tooltip"
-msgstr ""
+msgstr "Артиллерия Ее \"Торментум\" :) [Базовая перезарядка: 60]"
 
 #: src-en/data/blueprints.xml.append:6393
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/title"
-msgstr ""
+msgstr "Лазурный осколок"
 
 #: src-en/data/blueprints.xml.append:6394
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/short"
-msgstr ""
+msgstr "Лазурный"
 
 #: src-en/data/blueprints.xml.append:6395
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/desc"
-msgstr ""
+msgstr "ЛАЗУРНЫЙ КРИСТАЛЛ ВЕНГ СНАРЯДА"
 
 #: src-en/data/blueprints.xml.append:6549
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/class"
-msgstr ""
+msgstr "МВ-транспорт сирен"
 
 #: src-en/data/blueprints.xml.append:6550
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/name"
-msgstr ""
+msgstr "Аой Юмэ"
 
 #: src-en/data/blueprints.xml.append:6551
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/desc"
 msgstr ""
+"Сирены, как правило, не славятся своим сотрудничеством с другими расами. "
+"Однако мультивселенная - это огромное пространство, и сирены и кристаллины "
+"на этом корабле, работающие вместе, являются исключением из этого стереотипа."
 
 #: src-en/data/blueprints.xml.append:6630
 msgid ""
@@ -2293,35 +2382,40 @@ msgstr "Гимеропа"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/desc"
 msgstr ""
-"Какой вкус у снов, если их приготовить? Эта пара сирен-гарпий решила это "
+"Какой вкус у снов, если их приготовить? Эта пара Гарпий-сирен решила это "
 "выяснить, установив артиллерийский луч, способный сжечь все на своем пути."
 
 #: src-en/data/blueprints.xml.append:6955
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/class"
-msgstr ""
+msgstr "Транспорт Того, Кто Рифмует"
 
 #: src-en/data/blueprints.xml.append:6956
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/name"
-msgstr ""
+msgstr "Йидра"
 
 #: src-en/data/blueprints.xml.append:6957
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/desc"
 msgstr ""
+"Корабль, приобретенный последователями Того, Кто Рифмует, который теперь "
+"\"перевозит\" ужасающе большую и мощную лучевую пушку. Однако это "
+"достигается за счет его реактора и средств защиты, помимо его жуткого щита."
 
 #: src-en/data/blueprints.xml.append:7034
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/class"
-msgstr ""
+msgstr "Корабль Лили"
 
 #: src-en/data/blueprints.xml.append:7035
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/name"
-msgstr ""
+msgstr "Звезда Пустоты"
 
 #: src-en/data/blueprints.xml.append:7036
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/desc"
 msgstr ""
+"Корабль, который Она наделила жуткими силами, является идеальным средством "
+"для Лили, чтобы воплотить Ее волю."

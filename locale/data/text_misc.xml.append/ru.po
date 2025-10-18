@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-17 19:45+0000\n"
+"PO-Revision-Date: 2025-10-18 15:36+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datatext_miscxmlappend/ru/>\n"
@@ -32,12 +32,11 @@ msgstr ""
 "сильнее щиты, тем больше преломление смещает точку попадания."
 
 #: src-en/data/text_misc.xml.append:6
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_beam_shotgun\"]"
 msgstr ""
-"Совет: набор точечных лучей, одновременно выпускает 9 точечных лучей. Имеет "
-"2 режима: [Шаблон] выпускает лучи по сетке 3x3 с интервалом в 1 клетку, а "
-"[Рассеивание] выпускает их случайным образом по радиусу."
+"Совет: набор точечных лучей, одновременно выпускают несколько точечных "
+"лучей. У них есть 2 режима: [Шаблон] выпускает лучи по заранее заданной "
+"схеме, а [Рассеивание] выпускает их случайным образом по радиусу."
 
 #: src-en/data/text_misc.xml.append:7
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_focus_hack\"]"
