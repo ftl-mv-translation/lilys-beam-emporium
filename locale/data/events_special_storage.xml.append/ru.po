@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-10-18 15:36+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -180,57 +180,49 @@ msgid ""
 msgstr "Выберите, что вы хотите отдать:"
 
 #: src-en/data/events_special_storage.xml.append:139
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER\"]/text"
-msgstr "Предложить древний лазер."
+msgstr "Предложить древний лазер I."
 
 #: src-en/data/events_special_storage.xml.append:149
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_2\"]/text"
-msgstr "Предложить древний лазер."
+msgstr "Предложить древний лазер II."
 
 #: src-en/data/events_special_storage.xml.append:159
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_3\"]/text"
-msgstr "Предложить древний лазер."
+msgstr "Предложить древний лазер III."
 
 #: src-en/data/events_special_storage.xml.append:169
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BEAM\"]/text"
-msgstr "Предложить древний луч."
+msgstr "Предложить древний луч I."
 
 #: src-en/data/events_special_storage.xml.append:179
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[5]/text"
-msgstr "Предложить древний луч."
+msgstr "Предложить древний луч II."
 
 #: src-en/data/events_special_storage.xml.append:189
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[6]/text"
-msgstr "Предложить древний луч."
+msgstr "Предложить древний луч III."
 
 #: src-en/data/events_special_storage.xml.append:199
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS\"]/text"
-msgstr "Предложить древний точечный луч."
+msgstr "Предложить древний точечный луч I."
 
 #: src-en/data/events_special_storage.xml.append:209
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS_2\"]/text"
-msgstr "Предложить древний точечный луч."
+msgstr "Предложить древний точечный луч II."
 
 #: src-en/data/events_special_storage.xml.append:219
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"HAVOC\"]/text"
-msgstr ""
+msgstr "Предложить древний Опустошитель."
 
 #: src-en/data/events_special_storage.xml.append:229
 msgid ""
@@ -245,17 +237,17 @@ msgstr "Предложить древнюю пусковую установку 
 #: src-en/data/events_special_storage.xml.append:249
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_MINELAUNCHER\"]/text"
-msgstr ""
+msgstr "Предложить древний миномет."
 
 #: src-en/data/events_special_storage.xml.append:259
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_ION_1\"]/text"
-msgstr ""
+msgstr "Предложить древнюю плазменную пушку I."
 
 #: src-en/data/events_special_storage.xml.append:269
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_ION_2\"]/text"
-msgstr ""
+msgstr "Предложить древнюю плазменную пушку II."
 
 #: src-en/data/events_special_storage.xml.append:279
 msgid ""
@@ -573,7 +565,7 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:653
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/text"
-msgstr ""
+msgstr "Конечно--"
 
 #: src-en/data/events_special_storage.xml.append:656
 msgid ""
@@ -829,12 +821,12 @@ msgstr "(Лили) Вызвать Эмпориум лучей Лили. [Фло�
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Сирены."
 
 #: src-en/data/events_special_storage.xml.append:863
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/text"
-msgstr ""
+msgstr "Вы открыли лабораторное меню для: [СИРЕНЫ]"
 
 #: src-en/data/events_special_storage.xml.append:865
 msgid ""
@@ -866,7 +858,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:880
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[4]/text"
-msgstr ""
+msgstr "Добавлено: Ничего"
 
 #: src-en/data/events_special_storage.xml.append:884
 msgid ""
@@ -903,7 +895,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_HARPY_MIND\""
 " and @lvl=\"1\"]/text"
 msgstr ""
-"Втр [Гарпии]: Подчинение разума. [Улучшение уже добавлено]\n"
+"Всп [Гарпии]: Подчинение разума. [Улучшение уже добавлено]\n"
 "\t\t[Гарпии-сирены получают новую способность: контролировать разум "
 "случайного врага в текущем отсеке в течение 10 секунд, время перезарядки - "
 "30 секунд]"
@@ -917,7 +909,7 @@ msgstr "Втр [Гарпии]: Подчинение разума. [Цена: 50~
 #: src-en/data/events_special_storage.xml.append:917
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[13]/text"
-msgstr ""
+msgstr "Вернуться."
 
 #: src-en/data/events_special_storage.xml.append:922
 msgid ""
@@ -934,12 +926,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:927
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 30~, 2{, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:929
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы добавили модификацию."
 
 #: src-en/data/events_special_storage.xml.append:936
 msgid ""
@@ -968,12 +960,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:958
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 6{]"
 
 #: src-en/data/events_special_storage.xml.append:960
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы добавили модификацию."
 
 #: src-en/data/events_special_storage.xml.append:965
 msgid ""
@@ -1001,12 +993,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:987
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 40~, 8}]"
 
 #: src-en/data/events_special_storage.xml.append:989
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы добавили модификацию."
 
 #: src-en/data/events_special_storage.xml.append:995
 msgid ""
@@ -1034,13 +1026,13 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 50~, 5{]"
 
 #: src-en/data/events_special_storage.xml.append:1019
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "Вы добавили модификацию."
 
 #: src-en/data/events_special_storage.xml.append:1025
 msgid ""
@@ -1052,7 +1044,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Вы должны улучшить лабораторию, чтобы эта модификация стала доступна."
 
 #: src-en/data/events_special_storage.xml.append:1035
 msgid ""
