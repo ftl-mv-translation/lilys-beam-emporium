@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-10-21 06:20+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/"
+"lilys-beam-emporium/datablueprintsxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:196
 msgid ""
@@ -60,17 +67,16 @@ msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/title"
 msgstr "Résonateur anti-L.A.C."
 
 #: src-en/data/blueprints.xml.append:234
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/desc"
 msgstr ""
 "Cet étrange dispositif semble amener vos armes à résonner avec la "
-"technologie L.A.C. des vaisseaux ennemis, permettant d’infliger le double de"
-" dégâts. Une note jointe indique : \"Un petit coup de main pour vous occuper"
-" de ces parasites. :)\""
+"technologie L.A.C. des vaisseaux ennemis, permettant d’infliger le double de "
+"dégâts. Une note jointe indique : "
+"\"Un petit coup de main pour vous occuper de ces parasites. :)\""
 
 #: src-en/data/blueprints.xml.append:242
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_PATRONAGE\"]/title"
-msgstr "???"
+msgstr "Lily"
 
 #: src-en/data/blueprints.xml.append:243
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_PATRONAGE\"]/desc"
@@ -79,7 +85,7 @@ msgstr "Vous n'êtes pas censé voir ça."
 #: src-en/data/blueprints.xml.append:251
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AVATAR_LINKER\"]/title"
-msgstr "Lily Avatar"
+msgstr "Avatar de Lily"
 
 #: src-en/data/blueprints.xml.append:252
 msgid ""
@@ -89,7 +95,7 @@ msgstr "Vous n'êtes pas censé voir ça."
 #: src-en/data/blueprints.xml.append:260
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_NOTE\"]/title"
-msgstr "Note?"
+msgstr "Note ?"
 
 #: src-en/data/blueprints.xml.append:261
 msgid ""
@@ -1502,14 +1508,14 @@ msgid ""
 msgstr "'Ira'"
 
 #: src-en/data/blueprints.xml.append:3351
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/desc"
 msgstr ""
 "Tire un rayon d’énergie surnaturel chaotique qui fait se désintégrer toute "
 "matière touchée. Applique l’effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins"
-" et les réparations."
+"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins "
+"et les réparations.\n"
+"Traverse 1 bouclier, -4 PV/s et x0,5 soins et réparations pour l'équipage."
 
 #: src-en/data/blueprints.xml.append:3421
 msgid ""
@@ -1522,14 +1528,14 @@ msgid ""
 msgstr "'Angoris'"
 
 #: src-en/data/blueprints.xml.append:3423
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/desc"
 msgstr ""
 "Tire un rayon d’énergie surnaturel chaotique qui fait se désintégrer toute "
 "matière touchée. Applique l’effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins"
-" et les réparations."
+"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins "
+"et les réparations.\n"
+"Traverse 1 bouclier, -4 PV/s et x0,5 soins et réparations pour l'équipage."
 
 #: src-en/data/blueprints.xml.append:3493
 msgid ""
@@ -1542,14 +1548,14 @@ msgid ""
 msgstr "'Dolor'"
 
 #: src-en/data/blueprints.xml.append:3495
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/desc"
 msgstr ""
 "Tire un rayon d’énergie surnaturel chaotique qui fait se désintégrer toute "
 "matière touchée. Applique l’effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins"
-" et les réparations."
+"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins "
+"et les réparations.\n"
+"Traverse 2 boucliers, -8 PV/s et x0,25 soins et réparations pour l'équipage."
 
 #: src-en/data/blueprints.xml.append:3566
 msgid ""
@@ -1562,14 +1568,14 @@ msgid ""
 msgstr "'Tormentum'"
 
 #: src-en/data/blueprints.xml.append:3568
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/desc"
 msgstr ""
 "Tire un rayon d’énergie surnaturel chaotique qui fait se désintégrer toute "
 "matière touchée. Applique l’effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins"
-" et les réparations."
+"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins "
+"et les réparations.\n"
+"Traverse 3 boucliers, -8 PV/s et x0,0 soins et réparations pour l'équipage."
 
 #: src-en/data/blueprints.xml.append:3639
 msgid ""
@@ -1582,22 +1588,22 @@ msgid ""
 msgstr "'Arde'"
 
 #: src-en/data/blueprints.xml.append:3641
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/desc"
 msgstr ""
 "Tire un rayon d’énergie surnaturel chaotique qui fait se désintégrer toute "
 "matière touchée. Applique l’effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins"
-" et les réparations. De plus, cela déclenche des feux chaotiques capables de"
-" blesser n’importe quel type d’équipage et de brûler même en l’absence "
-"d’oxygène."
+"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins "
+"et les réparations. De plus, cela déclenche des feux chaotiques capables de "
+"blesser n’importe quel type d’équipage "
+"(à une vitesse supérieure ou égale à 1,5 fois la vitesse de base) et brûlant "
+"sans oxygène.\n"
+"Traverse 1 bouclier, -3 PV/s et x0,5 soins et réparations pour l'équipage."
 
 #: src-en/data/blueprints.xml.append:3790
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/title"
-msgstr "Rayon Désintégrateur Chaoslock 'Impetus'"
+msgstr "Rayon Désintégrateur Chaoslock 'Impedio'"
 
 #: src-en/data/blueprints.xml.append:3791
 msgid ""
@@ -1605,16 +1611,17 @@ msgid ""
 msgstr "'Impedio'"
 
 #: src-en/data/blueprints.xml.append:3792
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/desc"
 msgstr ""
 "Tire un rayon d’énergie surnaturel chaotique qui fait se désintégrer toute "
 "matière touchée. Applique l’effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins"
-" et les réparations. De plus, cela applique également l’effet verrouillage "
+"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins "
+"et les réparations. De plus, cela applique également l’effet verrouillage "
 "chaotique, empêchant les membres d’équipage dans les pièces touchées de "
-"manœuvrer, combattre, saboter ou réparer."
+"manœuvrer, combattre, saboter ou réparer, et réduit leur vitesse de "
+"déplacement à 0,25.\n"
+"Traverse 1 bouclier, -3 PVs et x0,5 soins et réparations, pour l'équipage."
 
 #: src-en/data/blueprints.xml.append:3988
 msgid ""
@@ -1627,14 +1634,14 @@ msgid ""
 msgstr "'Ira'™"
 
 #: src-en/data/blueprints.xml.append:3990
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/desc"
 msgstr ""
 "Tire un rayon d’énergie surnaturel chaotique qui fait se désintégrer toute "
 "matière touchée. Applique l’effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins"
-" et les réparations."
+"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins "
+"et les réparations.\n"
+"Traverse 3 boucliers, -4 PV/s et x0,5 soins et réparations pour l'équipage."
 
 #: src-en/data/blueprints.xml.append:4065
 msgid ""
@@ -1647,14 +1654,14 @@ msgid ""
 msgstr "'Angoris'™"
 
 #: src-en/data/blueprints.xml.append:4067
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/desc"
 msgstr ""
 "Tire un rayon d’énergie surnaturel chaotique qui fait se désintégrer toute "
 "matière touchée. Applique l’effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins"
-" et les réparations."
+"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins "
+"et les réparations.\n"
+"Traverse 3 boucliers, -4 PV/s et x0,5 soins et réparations pour l'équipage."
 
 #: src-en/data/blueprints.xml.append:4142
 msgid ""
@@ -1667,14 +1674,14 @@ msgid ""
 msgstr "'Dolor'™"
 
 #: src-en/data/blueprints.xml.append:4144
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/desc"
 msgstr ""
 "Tire un rayon d’énergie surnaturel chaotique qui fait se désintégrer toute "
 "matière touchée. Applique l’effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins"
-" et les réparations."
+"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins "
+"et les réparations.\n"
+"Traverse 4 boucliers, -8 PV/s et x0,25 soins et réparations pour l'équipage."
 
 #: src-en/data/blueprints.xml.append:4220
 msgid ""
@@ -1687,14 +1694,14 @@ msgid ""
 msgstr "'Tormentum'™"
 
 #: src-en/data/blueprints.xml.append:4222
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/desc"
 msgstr ""
 "Tire un rayon d’énergie surnaturel chaotique qui fait se désintégrer toute "
 "matière touchée. Applique l’effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins"
-" et les réparations."
+"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins "
+"et les réparations.\n"
+"Traverse 5 boucliers, -4 PV/s et x0,0 soins et réparations pour l'équipage."
 
 #: src-en/data/blueprints.xml.append:4298
 msgid ""
@@ -1707,22 +1714,22 @@ msgid ""
 msgstr "'Arde'™"
 
 #: src-en/data/blueprints.xml.append:4300
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/desc"
 msgstr ""
 "Tire un rayon d’énergie surnaturel chaotique qui fait se désintégrer toute "
 "matière touchée. Applique l’effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins"
-" et les réparations. De plus, cela déclenche des feux chaotiques capables de"
-" blesser n’importe quel type d’équipage et de brûler même en l’absence "
-"d’oxygène."
+"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins "
+"et les réparations. De plus, cela déclenche des feux chaotiques capables de "
+"blesser n’importe quel type d’équipage "
+"(à une vitesse supérieure ou égale à 1,5 fois la vitesse de base) et brûlant "
+"sans oxygène.\n"
+"Traverse 3 boucliers, -3 PV/s et x0,5 soins et réparations pour l'équipage."
 
 #: src-en/data/blueprints.xml.append:4454
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/title"
-msgstr "Rayon Désintégrateur Chaotique Chaoslock 'Impetus'"
+msgstr "Rayon Désintégrateur Chaotique Chaoslock 'Impedio'"
 
 #: src-en/data/blueprints.xml.append:4455
 msgid ""
@@ -1730,16 +1737,17 @@ msgid ""
 msgstr "'Impedio'™"
 
 #: src-en/data/blueprints.xml.append:4456
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/desc"
 msgstr ""
 "Tire un rayon d’énergie surnaturel chaotique qui fait se désintégrer toute "
 "matière touchée. Applique l’effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins"
-" et les réparations. De plus, cela applique également l’effet verrouillage "
+"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins "
+"et les réparations. De plus, cela applique également l’effet verrouillage "
 "chaotique, empêchant les membres d’équipage dans les pièces touchées de "
-"manœuvrer, combattre, saboter ou réparer."
+"manœuvrer, combattre, saboter ou réparer, et réduit leur vitesse de "
+"déplacement à 0,25.\n"
+"Traverse 3 boucliers, -3 PVs et x0,5 soins et réparations, pour l'équipage."
 
 #: src-en/data/blueprints.xml.append:4657
 msgid ""
@@ -1752,14 +1760,14 @@ msgid ""
 msgstr "€ 'Ira'"
 
 #: src-en/data/blueprints.xml.append:4659
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/desc"
 msgstr ""
 "Tire un rayon d’énergie surnaturel chaotique qui fait se désintégrer toute "
 "matière touchée. Applique l’effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins"
-" et les réparations."
+"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins "
+"et les réparations.\n"
+"Traverse 3 boucliers, -6 PVs et x0,25 soins et réparations pour l'équipage."
 
 #: src-en/data/blueprints.xml.append:4734
 msgid ""
@@ -1772,14 +1780,14 @@ msgid ""
 msgstr "€ 'Angoris'"
 
 #: src-en/data/blueprints.xml.append:4736
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/desc"
 msgstr ""
 "Tire un rayon d’énergie surnaturel chaotique qui fait se désintégrer toute "
 "matière touchée. Applique l’effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins"
-" et les réparations."
+"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins "
+"et les réparations.\n"
+"Traverse 3 boucliers, -6 PVs et x0,25 soins et réparations pour l'équipage."
 
 #: src-en/data/blueprints.xml.append:4811
 msgid ""
@@ -1792,14 +1800,14 @@ msgid ""
 msgstr "€ 'Dolor'"
 
 #: src-en/data/blueprints.xml.append:4813
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/desc"
 msgstr ""
 "Tire un rayon d’énergie surnaturel chaotique qui fait se désintégrer toute "
 "matière touchée. Applique l’effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins"
-" et les réparations."
+"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins "
+"et les réparations.\n"
+"Traverse 4 boucliers, -12 PVs et x0,0 soins et réparations pour l'équipage."
 
 #: src-en/data/blueprints.xml.append:4889
 msgid ""
@@ -1812,14 +1820,14 @@ msgid ""
 msgstr "€ 'Tormentum'"
 
 #: src-en/data/blueprints.xml.append:4891
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/desc"
 msgstr ""
 "Tire un rayon d’énergie surnaturel chaotique qui fait se désintégrer toute "
 "matière touchée. Applique l’effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins"
-" et les réparations."
+"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins "
+"et les réparations.\n"
+"Traverse 5 boucliers, -6 PVs et x0,25 soins et réparations pour l'équipage."
 
 #: src-en/data/blueprints.xml.append:4976
 msgid ""
@@ -1832,22 +1840,22 @@ msgid ""
 msgstr "€ 'Arde'"
 
 #: src-en/data/blueprints.xml.append:4978
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/desc"
 msgstr ""
 "Tire un rayon d’énergie surnaturel chaotique qui fait se désintégrer toute "
 "matière touchée. Applique l’effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins"
-" et les réparations. De plus, cela déclenche des feux chaotiques capables de"
-" blesser n’importe quel type d’équipage et de brûler même en l’absence "
-"d’oxygène."
+"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins "
+"et les réparations. De plus, cela déclenche des feux chaotiques capables de "
+"blesser n’importe quel type d’équipage "
+"(à une vitesse trois fois supérieure à la vitesse de base ou plus) et "
+"brûlant sans oxygène.\n"
+"Traverse 3 boucliers, -4 PVs et x0,25 soins et réparations pour l'équipage."
 
 #: src-en/data/blueprints.xml.append:5132
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/title"
-msgstr "Rayon Désintégrateur Élite Chaoslock 'Impetus'"
+msgstr "Rayon Désintégrateur Élite Chaoslock 'Impedio'"
 
 #: src-en/data/blueprints.xml.append:5133
 msgid ""
@@ -1855,16 +1863,16 @@ msgid ""
 msgstr "€ 'Impedio'"
 
 #: src-en/data/blueprints.xml.append:5134
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/desc"
 msgstr ""
 "Tire un rayon d’énergie surnaturel chaotique qui fait se désintégrer toute "
 "matière touchée. Applique l’effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins"
-" et les réparations. De plus, cela applique également l’effet verrouillage "
+"sur la durée à tout membre d’équipage touché, tout en ralentissant les soins "
+"et les réparations. De plus, cela applique également l’effet verrouillage "
 "chaotique, empêchant les membres d’équipage dans les pièces touchées de se "
-"déplacer, manœuvrer, combattre, saboter ou réparer."
+"déplacer, manœuvrer, combattre, saboter ou réparer.\n"
+"Traverse 3 boucliers, -4 PVs et x0,25 soins et réparations pour l'équipage."
 
 #: src-en/data/blueprints.xml.append:5364
 msgid ""
