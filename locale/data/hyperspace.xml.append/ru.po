@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-19 16:20+0000\n"
+"PO-Revision-Date: 2025-10-22 18:20+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datahyperspace-xml-append/ru/>\n"
@@ -83,7 +83,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:1748
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[2]/buttonText"
-msgstr "ИОНИЗИРОВАТЬ"
+msgstr "ИОН"
 
 #: src-en/data/hyperspace.xml.append:1749
 msgid ""
