@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-27 12:21+0000\n"
+"PO-Revision-Date: 2025-10-28 02:12+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datatext_miscxmlappend/fr/>\n"
@@ -28,46 +28,84 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:5
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_refractor\"]"
 msgstr ""
+"Astuce : Les rayons réfracteurs peuvent percer n'importe quel niveau de "
+"boucliers, mais la réfraction décale le point d'impact plus les boucliers "
+"sont puissants."
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_beam_shotgun\"]"
 msgstr ""
+"Astuce : Les réseaux d'aiguillons tirent plusieurs rayons aiguillons à la "
+"fois. Ils possèdent 2 modes : [Motif] tire les rayons selon un modèle "
+"prédéfini, et [Disperseur] les tire de manière aléatoire dans un certain "
+"rayon."
 
 #: src-en/data/text_misc.xml.append:7
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_focus_hack\"]"
 msgstr ""
+"Astuce : Ce rayon ne peut pas percer les boucliers, mais il peut maintenir "
+"un système sous piratage constant si les boucliers sont désactivés. De plus, "
+"il exerce un contrôle mental sur tout membre d'équipage touché !"
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_howitzers\"]"
 msgstr ""
+"Astuce : Les Obusiers sont un croisement entre les armes à rayon et les "
+"missiles. Ils utilisent des missiles pour tirer, ciblent une zone similaire "
+"aux flak, peuvent percer partiellement les boucliers et infligent "
+"généralement de lourds dégâts."
 
 #: src-en/data/text_misc.xml.append:9
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_disintegrators\"]"
 msgstr ""
+"Astuce : Les Désintégrateurs sont des rayons spéciaux conçus par Lily à "
+"l'aide de la technologie surnaturelle. Ils infligent leurs dégâts sur la "
+"durée à l'équipage et aux systèmes, tout en entravant sévèrement les soins "
+"et les réparations. De plus, ils endommagent la coque lorsqu'ils frappent "
+"des pièces déjà éventrées. Les effets s'appliquent même aux pièces "
+"résistantes ou lorsque les rayons frappent les couches de bouclier !"
 
 #: src-en/data/text_misc.xml.append:10
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_disintegrators_alt\"]"
 msgstr ""
+"Astuce : Les Désintégrateurs sont des rayons spéciaux conçus par Lily à "
+"l'aide de la technologie surnaturelle. Ils infligent leurs dégâts sur la "
+"durée à l'équipage et aux systèmes, tout en entravant sévèrement les soins "
+"et les réparations. De plus, ils endommagent la coque lorsqu'ils frappent "
+"des pièces aux systèmes entièrement détruits. Les effets s'appliquent même "
+"aux pièces résistantes ou lorsque les rayons frappent les couches de "
+"bouclier !"
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe\"]"
-msgstr ""
+msgstr "Astuce : Arme à rayon spéciale. Doit être configurée avant utilisation."
 
 #: src-en/data/text_misc.xml.append:13
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_m\"]"
 msgstr ""
+"Astuce : Applique 4 points de soin par seconde pendant 15 secondes à "
+"l'équipage allié. De plus, réduit de moitié les dommages subis par les "
+"dégâts environnementaux pendant toute la durée."
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_s\"]"
 msgstr ""
+"Astuce : Fournit une vitesse de déplacement et des dégâts doublés pendant 10 "
+"secondes à l'équipage allié."
 
 #: src-en/data/text_misc.xml.append:15
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_p\"]"
 msgstr ""
+"Astuce : Inflige 4 dégâts par seconde pendant 25 secondes à tout membre "
+"d'équipage touché, sans être cumulable. Mortel pour la plupart des races "
+"dans les vaisseaux sans installations médicales."
 
 #: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_a\"]"
 msgstr ""
+"Astuce : Applique un faible effet d'érosion pour chaque case touchée. De "
+"plus, inflige 10 dégâts par seconde pendant 3 secondes à tout membre "
+"d'équipage touché."
 
 #: src-en/data/text_misc.xml.append:19
 msgid "data/text_misc.xml.append$//text[@name=\"button_lily_beam\"]"
@@ -84,15 +122,29 @@ msgstr "GALERIE DES RAYONS"
 #: src-en/data/text_misc.xml.append:24
 msgid "data/text_misc.xml.append$//text[@name=\"lily_aether_submit\"]"
 msgstr ""
+"Vous regardez une faille s'ouvrir dans l'espace et consommer l'objet que "
+"vous avez donné.\n"
+"\"Belle trouvaille, ça fera parfaitement l'affaire.\""
 
 #: src-en/data/text_misc.xml.append:26
 msgid "data/text_misc.xml.append$//text[@name=\"lily_aether_redeem\"]"
 msgstr ""
+"Vous regardez une faille s'ouvrir dans l'espace et vous donner une toute "
+"nouvelle arme Éther !\n"
+"\"Et voici une récompense pour tous vos efforts.\""
 
 #: src-en/data/text_misc.xml.append:29
 msgid "data/text_misc.xml.append$//text[@name=\"loot_zoltan_2\"]"
 msgstr ""
+"BUTIN ZOLTAN \n"
+"Inflige des dégâts additionnels aux systèmes\n"
+"-1 seconde au temps de recharge, +20% de chance de brèche"
 
 #: src-en/data/text_misc.xml.append:36
 msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_nexus_her_lily\"]"
 msgstr ""
+"D'une puissance inégalée, et avec Celui Qui Rime, Lily et vous-même à Ses "
+"côtés, Elle retourne au Nexus et éradique les forces restantes du L.A.C. "
+"Votre mission initiale est instantanément oubliée, alors qu'un nouvel empire "
+"sombre s'abat sur le Multivers, répandant la folie à travers l'étendue "
+"infinie du cosmos pour l'éternité."
