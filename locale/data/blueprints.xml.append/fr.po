@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-21 06:20+0000\n"
+"PO-Revision-Date: 2025-10-28 02:12+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/fr/>\n"
@@ -130,123 +130,183 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:288
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_ELITE\"]/title"
-msgstr ""
+msgstr "Énergie Chaotique Intense"
 
 #: src-en/data/blueprints.xml.append:289
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_ELITE\"]/desc"
 msgstr ""
+"L'équipage non-Sirène perd ses capacités actives, sa capacité à combattre, à "
+"manœuvrer, à réparer ou à saboter, et se déplace au quart de sa vitesse tant "
+"qu'il se trouve dans les champs d'énergie chaotique intense."
 
 #: src-en/data/blueprints.xml.append:298
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_AZURE\"]/title"
-msgstr ""
+msgstr "Énergie Azur"
 
 #: src-en/data/blueprints.xml.append:299
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_AZURE\"]/desc"
 msgstr ""
+"Les membres d'équipage non-Sirènes ennemis à bord du vaisseau voient leur "
+"vitesse de déplacement et de sabotage réduite de moitié, perdent leurs "
+"capacités actives ainsi que leur immunité au contrôle mental. Quant à "
+"l'équipage allié à bord du vaisseau, il gagne l'immunité au contrôle mental "
+"et à l'étourdissement, et récupère 1 point de vie par seconde lorsqu'il se "
+"trouve dans les Champs d'Énergie Azur."
 
 #: src-en/data/blueprints.xml.append:307
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AZURE_ARMOR\"]/title"
-msgstr ""
+msgstr "Armure Azur"
 
 #: src-en/data/blueprints.xml.append:308
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AZURE_ARMOR\"]/desc"
 msgstr ""
+"Chaque fois que votre vaisseau subit des dégâts, un éclat cristalien "
+"camouflé s'en détache et vole vers votre ennemi. Cet éclat perce tous les "
+"boucliers, inflige 1 point de dégât de coque et de système, verrouille les "
+"pièces, et exerce un contrôle mental sur les membres d'équipage ennemis "
+"pendant 20 secondes."
 
 #: src-en/data/blueprints.xml.append:316
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_INSTALLED\"]/title"
-msgstr ""
+msgstr "Amélioration du Laboratoire Sirène Installée"
 
 #: src-en/data/blueprints.xml.append:317
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_INSTALLED\"]/desc"
-msgstr ""
+msgstr "Amélioration du Laboratoire Sirène Installée."
 
 #: src-en/data/blueprints.xml.append:326
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_VAMP\"]/title"
-msgstr ""
+msgstr "Siphon d'Âme"
 
 #: src-en/data/blueprints.xml.append:327
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_VAMP\"]/desc"
 msgstr ""
+"Les Sirènes se soignent désormais proportionnellement aux dégâts qu'elles "
+"infligent. Cependant, leurs dégâts sont réduits de moitié."
 
 #: src-en/data/blueprints.xml.append:334
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_BUFF\"]/title"
-msgstr ""
+msgstr "Rêves Colorés"
 
 #: src-en/data/blueprints.xml.append:335
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_BUFF\"]/desc"
 msgstr ""
+"L'équipage allié non-Sirène se trouvant dans la même pièce qu'une Sirène "
+"subit désormais 30 % de dégâts en moins, répare 50 % plus rapidement et "
+"devient immunisé au contrôle mental, mais perd 50 % de sa vitesse de "
+"déplacement."
 
 #: src-en/data/blueprints.xml.append:342
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_DAMAGE\"]/title"
-msgstr ""
+msgstr "Regard Flétrissant"
 
 #: src-en/data/blueprints.xml.append:343
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_DAMAGE\"]/desc"
 msgstr ""
+"Les ennemis directement ciblés par les Sirènes subissent 30 % de dégâts "
+"supplémentaires de toutes les sources et perdent leur immunité au contrôle "
+"mental s'ils en avaient une. N'affecte pas les autres Sirènes ni les êtres "
+"surnaturels."
 
 #: src-en/data/blueprints.xml.append:350
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/title"
-msgstr ""
+msgstr "Assaut Mental"
 
 #: src-en/data/blueprints.xml.append:351
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/desc"
 msgstr ""
+"Les Harpies Sirènes obtiennent une nouvelle capacité : Contrôler mentalement "
+"un membre d'équipage ennemi aléatoire dans la pièce actuelle pendant 10 "
+"secondes. Temps de recharge : 30 secondes."
 
 #: src-en/data/blueprints.xml.append:361
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_VAMP\"]/title"
-msgstr ""
+msgstr "[L] Siphon d'Âme"
 
 #: src-en/data/blueprints.xml.append:362
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_VAMP\"]/desc"
 msgstr ""
+"Les Sirènes se soignent désormais proportionnellement aux dégâts qu'elles "
+"infligent. Cependant, leurs dégâts sont réduits de moitié.\n"
+"        \n"
+"[L] -Amélioration de labo externe, fournit son effet mais occupe un "
+"emplacement. Elle ne peut pas être converti en véritable amélioration de "
+"laboratoire, mais n'utilisera pas votre emplacement principal. Ne se cumule "
+"pas avec elle-même."
 
 #: src-en/data/blueprints.xml.append:371
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_BUFF\"]/title"
-msgstr ""
+msgstr "[L] Rêves Colorés"
 
 #: src-en/data/blueprints.xml.append:372
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_BUFF\"]/desc"
 msgstr ""
+"L'équipage allié non-Sirène se trouvant dans la même pièce qu'une Sirène "
+"subit désormais 30 % de dégâts en moins, répare 50 % plus rapidement et "
+"devient immunisé au contrôle mental, mais perd 50 % de sa vitesse de "
+"déplacement.\n"
+"        \n"
+"[L] -Amélioration de labo externe, fournit son effet mais occupe un "
+"emplacement. Elle ne peut pas être converti en véritable amélioration de "
+"laboratoire, mais n'utilisera pas votre emplacement principal. Ne se cumule "
+"pas avec elle-même."
 
 #: src-en/data/blueprints.xml.append:381
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_DAMAGE\"]/title"
-msgstr ""
+msgstr "[L] Regard Flétrissant"
 
 #: src-en/data/blueprints.xml.append:382
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_DAMAGE\"]/desc"
 msgstr ""
+"Les ennemis directement ciblés par les Sirènes subissent 30 % de dégâts "
+"supplémentaires de toutes les sources et perdent leur immunité au contrôle "
+"mental s'ils en avaient une. Cependant, cet effet n'affecte pas les autres "
+"Sirènes ni les êtres surnaturels.\n"
+"      \n"
+"[L] -Amélioration de labo externe, fournit son effet mais occupe un "
+"emplacement. Elle ne peut pas être converti en véritable amélioration de "
+"laboratoire, mais n'utilisera pas votre emplacement principal. Ne se cumule "
+"pas avec elle-même."
 
 #: src-en/data/blueprints.xml.append:391
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/title"
-msgstr ""
+msgstr "[L] Assaut Mental"
 
 #: src-en/data/blueprints.xml.append:392
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/desc"
 msgstr ""
+"Les Harpies Sirènes obtiennent une nouvelle capacité : Contrôler mentalement "
+"un membre d'équipage ennemi aléatoire dans la pièce actuelle pendant 10 "
+"secondes. Temps de recharge : 30 secondes.\n"
+"        \n"
+"[L] -Amélioration de labo externe, fournit son effet mais occupe un "
+"emplacement. Elle ne peut pas être converti en véritable amélioration de "
+"laboratoire, mais n'utilisera pas votre emplacement principal. Ne se cumule "
+"pas avec elle-même."
 
 #: src-en/data/blueprints.xml.append:402
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SIREN\"]/title"
-msgstr ""
+msgstr "La Faveur de l'Utopie"
 
 #: src-en/data/blueprints.xml.append:403
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SIREN\"]/desc"
@@ -255,16 +315,21 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 #: src-en/data/blueprints.xml.append:410
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_HER_EMPOWERMENT\"]/title"
-msgstr ""
+msgstr "Son Renforcement"
 
 #: src-en/data/blueprints.xml.append:411
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_HER_EMPOWERMENT\"]/desc"
 msgstr ""
+"Ce vaisseau est renforcé par Ses pouvoirs surnaturels. Il fonctionnera comme "
+"un auto-vaisseau avec un équipage et des réparations améliorés, réparera "
+"rapidement sa coque, et recevra un bouclier énergétique de 20 points. Votre "
+"équipage surnaturel et Sirène est également renforcé, lui accordant une "
+"résistance aux dégâts et l'immunité aux dégâts environnementaux."
 
 #: src-en/data/blueprints.xml.append:418
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_SHIP_HER\"]/title"
-msgstr ""
+msgstr "Son croiseur"
 
 #: src-en/data/blueprints.xml.append:419
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_SHIP_HER\"]/desc"
@@ -2151,174 +2216,213 @@ msgstr "---"
 #: src-en/data/blueprints.xml.append:5961
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/title"
-msgstr ""
+msgstr "Artillerie Chaotique 'Seuss'"
 
 #: src-en/data/blueprints.xml.append:5962
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/short"
-msgstr ""
+msgstr "'Seuss'™"
 
 #: src-en/data/blueprints.xml.append:5963
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/desc"
 msgstr ""
+"Version d'artillerie de cette arme tristement célèbre, ce long rayon dévaste "
+"les systèmes et l'équipage ennemis. Il induit également temporairement la "
+"folie chez l'équipage touché, désactivant ses capacités actives. Les êtres "
+"surnaturels et les Sirènes alliés sont soignés à la place. "
+"[Temps de recharge par défaut : 30]"
 
 #: src-en/data/blueprints.xml.append:5964
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/tooltip"
-msgstr ""
+msgstr "Artillerie Chaotique 'Seuss' [Temps de recharge par défaut : 30]"
 
 #: src-en/data/blueprints.xml.append:6059
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/title"
-msgstr ""
+msgstr "Lame du Rêve Azur"
 
 #: src-en/data/blueprints.xml.append:6060
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/short"
-msgstr ""
+msgstr "'Lame Azur'"
 
 #: src-en/data/blueprints.xml.append:6061
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/desc"
 msgstr ""
+"Une artillerie à rayon unique, combinant les technologies Sirène et "
+"Cristalienne. Elle perce 3 boucliers, infligeant 1 point de dégât de "
+"système, 1 point de dégât ionique et 30 dégâts à l'équipage "
+"(ennemi uniquement), tout en verrouillant les pièces. Les ennemis dans ces "
+"pièces seront affectés par l'effet de statut gel, tandis que les alliés "
+"gagneront la capacité de traverser les portes et un soin mineur. "
+"[Temps de recharge par défaut : 40]"
 
 #: src-en/data/blueprints.xml.append:6194
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/title"
-msgstr ""
+msgstr "Son Artillerie Désintégrateur 'Tormentum' :)"
 
 #: src-en/data/blueprints.xml.append:6195
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/short"
-msgstr ""
+msgstr "€ 'Tormentum' :)"
 
 #: src-en/data/blueprints.xml.append:6196
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/desc"
 msgstr ""
+"Exploitant Sa puissance surnaturelle, cette arme est un rayon dévastateur "
+"d'énergie surnaturelle chaotique qui provoque la désintégration rapide de "
+"toute matière touchée. Elle applique un effet d'Érosion aux pièces et des "
+"dégâts sur la durée à tout membre d'équipage touché, tout en empêchant "
+"complètement le soin et les réparations. [Temps de recharge par défaut : 60]"
 
 #: src-en/data/blueprints.xml.append:6197
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/tooltip"
-msgstr ""
+msgstr "Son Artillerie 'Tormentum' :) [Temps de recharge par défaut : 60]"
 
 #: src-en/data/blueprints.xml.append:6393
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/title"
-msgstr ""
+msgstr "Éclat Azur"
 
 #: src-en/data/blueprints.xml.append:6394
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/short"
-msgstr ""
+msgstr "Azur"
 
 #: src-en/data/blueprints.xml.append:6395
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/desc"
-msgstr ""
+msgstr "PROJECTILE VENG DE CRISTAL AZUR"
 
 #: src-en/data/blueprints.xml.append:6549
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/class"
-msgstr ""
+msgstr "Transporteur Sirène Multiversel"
 
 #: src-en/data/blueprints.xml.append:6550
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/name"
-msgstr ""
+msgstr "Aoi Yume"
 
 #: src-en/data/blueprints.xml.append:6551
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/desc"
 msgstr ""
+"Les Sirènes ne sont généralement pas réputées pour leur coopération avec les "
+"autres races. Cependant, le Multivers est vaste, et l'équipage Sirène et "
+"Cristalien de ce vaisseau s'avère être une exception à ce stéréotype."
 
 #: src-en/data/blueprints.xml.append:6630
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/class"
-msgstr ""
+msgstr "Épave de Transporteur Sirène"
 
 #: src-en/data/blueprints.xml.append:6631
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/name"
-msgstr ""
+msgstr "Le Rêve Brisé"
 
 #: src-en/data/blueprints.xml.append:6632
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/desc"
 msgstr ""
+"Une épave de vaisseau Sirène récupérée du Bosquet Stellaire. Abîmée et sans "
+"oxygène, il est maintenant occupé par des Lanius et un Orchidée qui aimait "
+"'les jolies couleurs'. Cependant, l'arme spéciale Sirène est toujours "
+"présente."
 
 #: src-en/data/blueprints.xml.append:6709
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/class"
-msgstr ""
+msgstr "Transporteur Sirène"
 
 #: src-en/data/blueprints.xml.append:6710
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/name"
-msgstr ""
+msgstr "Thelxiope"
 
 #: src-en/data/blueprints.xml.append:6711
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/desc"
 msgstr ""
+"Un vaisseau de transport Sirène entièrement restauré et réaménagé, et "
+"désormais un bâtiment prêt au combat. Son Artillerie à Rayon unique étourdit "
+"et enlève tout membre d'équipage touché, en faisant une proie facile - l'une "
+"des tactiques favorites des Sirènes."
 
 #: src-en/data/blueprints.xml.append:6790
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/class"
-msgstr ""
+msgstr "Transporteur Sirène"
 
 #: src-en/data/blueprints.xml.append:6791
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/name"
-msgstr ""
+msgstr "Parthenope"
 
 #: src-en/data/blueprints.xml.append:6792
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/desc"
 msgstr ""
+"Embrassant pleinement le chaos, ce vaisseau est équipé d’une artillerie qui "
+"tire au hasard l’un des huit rayons différents."
 
 #: src-en/data/blueprints.xml.append:6874
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/class"
-msgstr ""
+msgstr "Transporteur Sirène"
 
 #: src-en/data/blueprints.xml.append:6875
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/name"
-msgstr ""
+msgstr "Himerope"
 
 #: src-en/data/blueprints.xml.append:6876
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/desc"
 msgstr ""
+"Quel goût ont les rêves lorsqu’on les cuisine ? Ce couple de harpies Sirènes "
+"a décidé de le découvrir, en installant un rayon d’artillerie capable de "
+"tout brûler sur son passage."
 
 #: src-en/data/blueprints.xml.append:6955
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/class"
-msgstr ""
+msgstr "Transporteur Rimeur"
 
 #: src-en/data/blueprints.xml.append:6956
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/name"
-msgstr ""
+msgstr "Yidhra"
 
 #: src-en/data/blueprints.xml.append:6957
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/desc"
 msgstr ""
+"Un vaisseau acquis par les adeptes de Celui-qui-rime, qui 'transporte' "
+"désormais un canon à rayon d’une puissance et d’une taille terrifiantes. "
+"Cependant, cela s’est fait au détriment de son réacteur et de toute défense "
+"au-delà de son bouclier surnaturel."
 
 #: src-en/data/blueprints.xml.append:7034
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/class"
-msgstr ""
+msgstr "Croiseur de Lily"
 
 #: src-en/data/blueprints.xml.append:7035
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/name"
-msgstr ""
+msgstr "Étoile du Néant"
 
 #: src-en/data/blueprints.xml.append:7036
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/desc"
 msgstr ""
+"Un vaisseau imprégné de Ses propres pouvoirs surnaturels, parfait pour "
+"permettre à Lily d’accomplir Sa volonté."
