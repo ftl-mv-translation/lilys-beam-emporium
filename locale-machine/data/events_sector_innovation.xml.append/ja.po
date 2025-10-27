@@ -1,0 +1,37 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_innovation.xml.append:8
+msgid ""
+"data/events_sector_innovation.xml.append$//mod:findName[@name=\"ESTATE_STATUE\"]/mod:findLike/mod:findWithChildLike/mod-"
+"append:choice/text"
+msgstr "(アフターバーナー) 像を惑星の軍事施設との衝突コースに乗せる。[3{]"
+
+#: src-en/data/events_sector_innovation.xml.append:10
+msgid ""
+"data/events_sector_innovation.xml.append$//mod:findName[@name=\"ESTATE_STATUE\"]/mod:findLike/mod:findWithChildLike/mod-"
+"append:choice/event/text"
+msgstr "アフターバーナー作動"
+
+#: src-en/data/events_sector_innovation.xml.append:15
+msgid ""
+"data/events_sector_innovation.xml.append$//mod:findName[@name=\"ESTATE_STATUE\"]/mod:findLike/mod:findWithChildLike/mod-"
+"append:choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_innovation.xml.append:17
+msgid ""
+"data/events_sector_innovation.xml.append$//mod:findName[@name=\"ESTATE_STATUE\"]/mod:findLike/mod:findWithChildLike/mod-"
+"append:choice/event/choice/event/text"
+msgstr ""
+"像を船体に固定し、アフターバーナーを点火して惑星に向かって投射する。地表に向かって突進し、その衝撃は数分間視界を遮る巨大な塵と瓦礫の雲を巻き上げる。それが収まると、衝撃は軍事施設だけでなく、はるかに多くのものを破壊したことがわかる。衝撃波で瓦礫と化した都市は、結果として莫大な戦利品をもたらした。少なくとも、あの子供たちはもう安眠を妨げられる心配はないだろう。"
+
+#: src-en/data/events_sector_innovation.xml.append:20
+msgid ""
+"data/events_sector_innovation.xml.append$//mod:findName[@name=\"ESTATE_STATUE\"]/mod:findLike/mod:findWithChildLike/mod-"
+"append:choice/event/choice/event/choice/text"
+msgstr ""

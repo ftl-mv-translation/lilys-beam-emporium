@@ -1,0 +1,598 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/hyperspace.xml.append:85
+msgid "data/hyperspace.xml.append$//siren_harpy[@name=\"Liliana\"]/@name"
+msgstr "リリアナ"
+
+#: src-en/data/hyperspace.xml.append:86
+msgid "data/hyperspace.xml.append$//siren_harpy[@name=\"Katherine\"]/@name"
+msgstr "キャサリン"
+
+#: src-en/data/hyperspace.xml.append:193
+msgid "data/hyperspace.xml.append$//unique_lily_avatar[@name=\"Lily\"]/@name"
+msgstr "リリー"
+
+#: src-en/data/hyperspace.xml.append:279
+msgid "data/hyperspace.xml.append$//siren[@name=\"Aki\"]/@name"
+msgstr "アキ"
+
+#: src-en/data/hyperspace.xml.append:280
+msgid "data/hyperspace.xml.append$//siren[@name=\"Noemi\"]/@name"
+msgstr "ノエミ"
+
+#: src-en/data/hyperspace.xml.append:281
+msgid "data/hyperspace.xml.append$//crystal[@name=\"Sapphire\"]/@name"
+msgstr "サファイア"
+
+#: src-en/data/hyperspace.xml.append:282
+msgid "data/hyperspace.xml.append$//crystal_liberator[@name=\"Emerald\"]/@name"
+msgstr "エメラルド"
+
+#: src-en/data/hyperspace.xml.append:730
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
+msgstr "マインド"
+
+#: src-en/data/hyperspace.xml.append:731
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
+msgstr ""
+"[クールダウン:30秒 持続時間:10秒]\n"
+"部屋にいるランダムな敵クルーをマインドコントロールする。"
+
+#: src-en/data/hyperspace.xml.append:1002
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
+msgstr "マインド"
+
+#: src-en/data/hyperspace.xml.append:1003
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
+msgstr ""
+"[クールダウン:30秒 持続時間:10秒]\n"
+"部屋にいるランダムな敵クルーをマインドコントロールする。"
+
+#: src-en/data/hyperspace.xml.append:1728
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[1]/buttonText"
+msgstr "E. ブラスト"
+
+#: src-en/data/hyperspace.xml.append:1729
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[1]/tooltip"
+msgstr ""
+"異形の爆発 [クールダウン:15秒]\n"
+"カーソルを混沌の異形エネルギーで過充電する。次のタイルクリックで、そのタイルを狙ったピンポイントビームが召喚される。\n"
+"\tシステムダメージ: 2; クルーダメージ: 45; シールド貫通: 10; 火災発生率: 40%; 船体亀裂率: 40%。\n"
+"\t命中したクルーに一時的な狂気を引き起こし、アクティブ能力を無効にする。\n"
+"\t自船をターゲットにできる。"
+
+#: src-en/data/hyperspace.xml.append:1748
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[2]/buttonText"
+msgstr "イオン"
+
+#: src-en/data/hyperspace.xml.append:1749
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[2]/tooltip"
+msgstr ""
+"[クールダウン:90秒 持続時間:10秒]\n"
+"カーソルをイオンエネルギーで過充電する。次の10秒間、タイルをクリックすると、そのタイルを狙ったイオンピンポイントビームが召喚される。\n"
+"\tイオンダメージ: 1; シールド貫通: 10; スタン: 10秒。\n"
+"\t自船をターゲットにできる。\n"
+"\tまた、ポーズボタンに2イオンダメージを与え、その間ゲームをポーズする能力を無効にする。"
+
+#: src-en/data/hyperspace.xml.append:1801
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[1]/category[1]/customTitle"
+msgstr "ビーム"
+
+#: src-en/data/hyperspace.xml.append:1817
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[1]/category[2]/customTitle"
+msgstr "ビーム"
+
+#: src-en/data/hyperspace.xml.append:1833
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[1]/category[3]/customTitle"
+msgstr "ビーム"
+
+#: src-en/data/hyperspace.xml.append:1849
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[1]/category[4]/customTitle"
+msgstr "ビーム"
+
+#: src-en/data/hyperspace.xml.append:1865
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[1]/category[5]/customTitle"
+msgstr "ピンポイント"
+
+#: src-en/data/hyperspace.xml.append:1881
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[1]/category[6]/customTitle"
+msgstr "ピンポイント"
+
+#: src-en/data/hyperspace.xml.append:1897
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[1]/category[7]/customTitle"
+msgstr "イオンピンポイント"
+
+#: src-en/data/hyperspace.xml.append:1917
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[1]/category[8]/customTitle"
+msgstr "イオンピンポイント"
+
+#: src-en/data/hyperspace.xml.append:1936
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[1]/category[9]/customTitle"
+msgstr "イオンピンポイント"
+
+#: src-en/data/hyperspace.xml.append:1955
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[1]/category[10]/customTitle"
+msgstr "ユーティリティ"
+
+#: src-en/data/hyperspace.xml.append:1974
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[1]/category[11]/customTitle"
+msgstr "ユーティリティ"
+
+#: src-en/data/hyperspace.xml.append:1993
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[1]/category[12]/customTitle"
+msgstr "ステータス"
+
+#: src-en/data/hyperspace.xml.append:2012
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[1]/category[13]/customTitle"
+msgstr "リフラクター"
+
+#: src-en/data/hyperspace.xml.append:2031
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[1]/category[14]/customTitle"
+msgstr "マルチショット"
+
+#: src-en/data/hyperspace.xml.append:2050
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[1]/category[15]/customTitle"
+msgstr "ハイテク"
+
+#: src-en/data/hyperspace.xml.append:2069
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[1]/category[16]/customTitle"
+msgstr "榴弾砲"
+
+#: src-en/data/hyperspace.xml.append:2142
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[1]/customTitle"
+msgstr "ビーム"
+
+#: src-en/data/hyperspace.xml.append:2158
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[2]/customTitle"
+msgstr "ビーム"
+
+#: src-en/data/hyperspace.xml.append:2174
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[3]/customTitle"
+msgstr "ビーム"
+
+#: src-en/data/hyperspace.xml.append:2190
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[4]/customTitle"
+msgstr "ビーム"
+
+#: src-en/data/hyperspace.xml.append:2206
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[5]/customTitle"
+msgstr "ピンポイント"
+
+#: src-en/data/hyperspace.xml.append:2222
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[6]/customTitle"
+msgstr "ピンポイント"
+
+#: src-en/data/hyperspace.xml.append:2238
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[7]/customTitle"
+msgstr "イオンピンポイント"
+
+#: src-en/data/hyperspace.xml.append:2258
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[8]/customTitle"
+msgstr "イオンピンポイント"
+
+#: src-en/data/hyperspace.xml.append:2277
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[9]/customTitle"
+msgstr "イオンピンポイント"
+
+#: src-en/data/hyperspace.xml.append:2296
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[10]/customTitle"
+msgstr "ユーティリティ"
+
+#: src-en/data/hyperspace.xml.append:2315
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[11]/customTitle"
+msgstr "ユーティリティ"
+
+#: src-en/data/hyperspace.xml.append:2334
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[12]/customTitle"
+msgstr "ステータス"
+
+#: src-en/data/hyperspace.xml.append:2353
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[13]/customTitle"
+msgstr "リフラクター"
+
+#: src-en/data/hyperspace.xml.append:2372
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[14]/customTitle"
+msgstr "マルチショット"
+
+#: src-en/data/hyperspace.xml.append:2391
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[15]/customTitle"
+msgstr "ハイテク"
+
+#: src-en/data/hyperspace.xml.append:2410
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[16]/customTitle"
+msgstr "榴弾砲"
+
+#: src-en/data/hyperspace.xml.append:2460
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[19]/customTitle"
+msgstr "カオス :)"
+
+#: src-en/data/hyperspace.xml.append:2479
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[20]/customTitle"
+msgstr "カオス :)"
+
+#: src-en/data/hyperspace.xml.append:2499
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[21]/customTitle"
+msgstr "カオス :)"
+
+#: src-en/data/hyperspace.xml.append:2518
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[2]/category[22]/customTitle"
+msgstr "カオス :)"
+
+#: src-en/data/hyperspace.xml.append:2564
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[1]/customTitle"
+msgstr "ビーム"
+
+#: src-en/data/hyperspace.xml.append:2583
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[2]/customTitle"
+msgstr "ビーム"
+
+#: src-en/data/hyperspace.xml.append:2602
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[3]/customTitle"
+msgstr "ビーム"
+
+#: src-en/data/hyperspace.xml.append:2621
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[4]/customTitle"
+msgstr "ビーム"
+
+#: src-en/data/hyperspace.xml.append:2640
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[5]/customTitle"
+msgstr "ピンポイント"
+
+#: src-en/data/hyperspace.xml.append:2659
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[6]/customTitle"
+msgstr "ピンポイント"
+
+#: src-en/data/hyperspace.xml.append:2678
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[7]/customTitle"
+msgstr "イオンピンポイント"
+
+#: src-en/data/hyperspace.xml.append:2698
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[8]/customTitle"
+msgstr "イオンピンポイント"
+
+#: src-en/data/hyperspace.xml.append:2717
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[9]/customTitle"
+msgstr "イオンピンポイント"
+
+#: src-en/data/hyperspace.xml.append:2736
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[10]/customTitle"
+msgstr "ユーティリティ"
+
+#: src-en/data/hyperspace.xml.append:2755
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[11]/customTitle"
+msgstr "ユーティリティ"
+
+#: src-en/data/hyperspace.xml.append:2775
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[12]/customTitle"
+msgstr "ステータス"
+
+#: src-en/data/hyperspace.xml.append:2794
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[13]/customTitle"
+msgstr "リフラクター"
+
+#: src-en/data/hyperspace.xml.append:2813
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[14]/customTitle"
+msgstr "マルチショット"
+
+#: src-en/data/hyperspace.xml.append:2832
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[15]/customTitle"
+msgstr "ハイテク"
+
+#: src-en/data/hyperspace.xml.append:2851
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[16]/customTitle"
+msgstr "榴弾砲"
+
+#: src-en/data/hyperspace.xml.append:2865
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[17]/customTitle"
+msgstr "カオス :)"
+
+#: src-en/data/hyperspace.xml.append:2884
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[18]/customTitle"
+msgstr "カオス :)"
+
+#: src-en/data/hyperspace.xml.append:2945
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[22]/customTitle"
+msgstr "カオス :)"
+
+#: src-en/data/hyperspace.xml.append:2964
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[23]/customTitle"
+msgstr "カオス :)"
+
+#: src-en/data/hyperspace.xml.append:2984
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[24]/customTitle"
+msgstr "カオス :)"
+
+#: src-en/data/hyperspace.xml.append:3003
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[25]/customTitle"
+msgstr "カオス :)"
+
+#: src-en/data/hyperspace.xml.append:3022
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[26]/customTitle"
+msgstr "カオス :)"
+
+#: src-en/data/hyperspace.xml.append:3041
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[27]/customTitle"
+msgstr "カオス :)"
+
+#: src-en/data/hyperspace.xml.append:3060
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[28]/customTitle"
+msgstr "カオス :)"
+
+#: src-en/data/hyperspace.xml.append:3079
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
+"append:customStore[3]/category[29]/customTitle"
+msgstr "カオス :)"
+
+#: src-en/data/hyperspace.xml.append:3105
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
+"append:page/mod-append:section[1]/@text"
+msgstr "リリーの実績"
+
+#: src-en/data/hyperspace.xml.append:3107
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_STORE\"]/name"
+msgstr "ビーム・エンポリアム"
+
+#: src-en/data/hyperspace.xml.append:3108
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_STORE\"]/description"
+msgstr "ビーム・エンポリアムの店を訪れる。"
+
+#: src-en/data/hyperspace.xml.append:3109
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_STORE\"]/secretDescription"
+msgstr "大量のビームを売る謎の店を見つける。"
+
+#: src-en/data/hyperspace.xml.append:3116
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_AVATAR\"]/name"
+msgstr "多くの肩書きを持つ女"
+
+#: src-en/data/hyperspace.xml.append:3117
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_AVATAR\"]/description"
+msgstr "特別なアイテムやクルーを提示した後、リリーの参加の申し出を受け入れる。"
+
+#: src-en/data/hyperspace.xml.append:3118
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_AVATAR\"]/secretDescription"
+msgstr "謎の店のオーナーに仲間になってもらう。"
+
+#: src-en/data/hyperspace.xml.append:3125
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_LORE\"]/name"
+msgstr "取扱説明書"
+
+#: src-en/data/hyperspace.xml.append:3126
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_LORE\"]/description"
+msgstr "リリーに彼女の物語について尋ねる。"
+
+#: src-en/data/hyperspace.xml.append:3127
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_LORE\"]/secretDescription"
+msgstr "読む。"
+
+#: src-en/data/hyperspace.xml.append:3134
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_EXCHANGE\"]/name"
+msgstr "等価交換"
+
+#: src-en/data/hyperspace.xml.append:3135
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_EXCHANGE\"]/description"
+msgstr "リリーの助けを借りて、サルベージしたエーテル技術からロイヤルビームを作成する。"
+
+#: src-en/data/hyperspace.xml.append:3136
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_EXCHANGE\"]/secretDescription"
+msgstr "エーテルが入れば、エーテルが出る。"
+
+#: src-en/data/hyperspace.xml.append:3143
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_RHYMES\"]/name"
+msgstr "混沌の再会"
+
+#: src-en/data/hyperspace.xml.append:3144
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_RHYMES\"]/description"
+msgstr "『韻を踏む者』と一緒にビーム・エンポリアムを訪れ、謎のメモをアンロックする。"
+
+#: src-en/data/hyperspace.xml.append:3145
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_RHYMES\"]/secretDescription"
+msgstr "とても派手な帽子をかぶった異世界の猫を、銀河で最大のレーザーポインターコレクションに導く。"
+
+#: src-en/data/hyperspace.xml.append:3152
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_NUKED\"]/name"
+msgstr "核攻撃！"
+
+#: src-en/data/hyperspace.xml.append:3153
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_NUKED\"]/description"
+msgstr "『彼女』と戦おうとしている最中に、非常に怒った第三者から核のサプライズを受ける。"
+
+#: src-en/data/hyperspace.xml.append:3154
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_NUKED\"]/secretDescription"
+msgstr "歴史上最悪の瞬間に核兵器の受け手となる。"
+
+#: src-en/data/hyperspace.xml.append:3161
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
+"append:page/mod-append:section[2]/@text"
+msgstr "セストの恩恵 (リリービーム)"
+
+#: src-en/data/hyperspace.xml.append:3163
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_SIREN\"]/name"
+msgstr "ユートピアの恩恵"
+
+#: src-en/data/hyperspace.xml.append:3165
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_SIREN\"]/secretDescription"
+msgstr "セストから???の恩恵を受ける。"
+
+#: src-en/data/hyperspace.xml.append:3166
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_SIREN\"]/description"
+msgstr "セストにセイレーンを見せる。効果中、セイレーンクルーは隣接する部屋の視界を得、スタン耐性を持ち、クローンされてもスキルを失わない。"

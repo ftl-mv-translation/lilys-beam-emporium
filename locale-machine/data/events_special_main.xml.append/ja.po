@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_main.xml.append:11
+msgid ""
+"data/events_special_main.xml.append$//mod-"
+"append:backgroundObject[@name=\"LILY_MYSTERIOUS_NOTE\"]/tooltip"
+msgstr "奇妙なメモ。"
+
+#: src-en/data/events_special_main.xml.append:27
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/text"
+msgstr ""
+"メモに近づくと、それに込められた異世界のエネルギーと、赤と青のきらめきに気づかずにはいられない。\n"
+"メモにはこう書かれている：\n"
+"\n"
+"「おい、反逆者。そうだ、お前だ。このメモを取り、『ビーム・エンポリアム』の店主に見せろ。一種の合言葉だと思え。彼女なら次に何をすべきかわかるだろう。」\n"
+"/\n"
+":)"
+
+#: src-en/data/events_special_main.xml.append:37
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/choice[@req=\"LILY_PATRONAGE\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:39
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/choice[@req=\"LILY_PATRONAGE\""
+" and @lvl=\"0\"]/event/text"
+msgstr "このような直接的なアプローチに動揺しつつも、あなたは将来のためにメモをポケットに入れる。悪いことが起こらないことを願おう。"
+
+#: src-en/data/events_special_main.xml.append:44
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/choice[@req=\"LILY_PATRONAGE\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:46
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/choice[@req=\"LILY_PATRONAGE\""
+" and not(@lvl)]/event/text"
+msgstr ""
+"「ああ。それなら私のためのものだな――」とリリーは言う。旅の手間が省けたな――\n"
+"とにかく、これは『彼女』が君を価値ある者とみなし、我々が協力するよう指示したということだ。喜んで従おう――"

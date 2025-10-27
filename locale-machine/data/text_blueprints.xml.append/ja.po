@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_blueprints.xml.append:1
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_LILY_WRECKED_SIREN_TRANSPORT_unlock\"]"
+msgstr "多くの星が輝く場所から、珍しい女性の助けを借りてこの船を無傷で回収し、アンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:2
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_LILY_SIREN_TRANSPORT_unlock\"]"
+msgstr "この船の壊れたバージョンでゲームに勝利し、修復版をアンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:3
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_LILY_SIREN_TRANSPORT_2_unlock\"]"
+msgstr "セイレーン輸送船タイプAでセクター5に到達し、この船をアンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:4
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_LILY_SIREN_TRANSPORT_3_unlock\"]"
+msgstr "セイレーン輸送船タイプBでセクター5に到達するか、セイレーン輸送船タイプAでゲームをクリアして、この船をアンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:5
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_LILY_SIREN_RHYME_TRANSPORT_unlock\"]"
+msgstr "全てのセイレーン輸送船とライムクルーザーAで勝利し、この船をアンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:6
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_LILY_SIREN_HER_TRANSPORT_unlock\"]"
+msgstr "とあるビームセールスウーマンが目標を達成し、故郷に帰るのを手伝って、この船をアンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:7
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_LILY_MV_SIREN_TRANSPORT_unlock\"]"
+msgstr "MV帝国巡洋艦でゲームに勝利し、この船をアンロックする。"

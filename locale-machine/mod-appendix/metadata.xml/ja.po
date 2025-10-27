@@ -1,0 +1,28 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/mod-appendix/metadata.xml:10
+msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
+msgstr "リリーのビーム・エンポリアム"
+
+#: src-en/mod-appendix/metadata.xml:36
+msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
+msgstr ""
+"ビームをテーマにした武器、船、増強の追加コレクション。\n"
+"\n"
+"ビームこそが最高だから！ (tm)\n"
+"\n"
+"\n"
+"\n"
+"アドオンスポンサー: 彼女 - :)\n"
+"\n"
+"\n"
+"スペシャルサンクス: \n"
+"Arc, sillysandvich, スクリプトの協力;\n"
+"Willow, ライティングの協力;\n"
+"Nauter, MV船デザインの協力;\n"
+"Kix, and everyone else who have worked on creating FTL: Multiverse (and Hyperspace);"

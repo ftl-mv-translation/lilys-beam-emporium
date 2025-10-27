@@ -1,0 +1,152 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_rhyme.xml.append:2
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"REALM_MADNESS_START_LILY\"]/text"
+msgstr ""
+"「ああ、ついに我が家だ――」とリリーは言う。\n"
+"「何世紀も来ていなかったのが残念だ。魅力的だろう？――」"
+
+#: src-en/data/events_sector_rhyme.xml.append:19
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"VISION_ENCOUNTER_LILY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_rhyme.xml.append:26
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"HER_NOFIGHT_LILY\"]/text"
+msgstr ""
+"異形の幻影があなたの視界を曇らせ始め、巨大な巡洋艦があなたの前の空間に凝固する。どこからともなく、奇妙に聞き覚えのある声があなたに語りかける。\n"
+"\n"
+"\t\t\t「ハハ、ハッヘ！久しぶりだな、本当に久しぶりだ！また会ったな、親愛なる友よ！我こそは、韻を踏む者。知っての通り、我らは新時代の瀬戸際にいる！我が主が、ついに目覚めたのだ！かつてないほど、今度こそ本当に楽しむぞ！」目の前の踊る異形の存在を一度も見たことがないにもかかわらず、あなたの心の奥底のどこかが、彼の奇妙な話し方と邪悪な笑みを思い出しているようだ。"
+
+#: src-en/data/events_sector_rhyme.xml.append:31
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"HER_NOFIGHT_LILY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_rhyme.xml.append:33
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"HER_NOFIGHT_LILY\"]/choice/event/text"
+msgstr ""
+"「ああ、本当に素晴らしいわ！でも、我が子よ、私たちの小さな混沌の代理人を怖がらせないでちょうだい！こんにちは、反逆者！私の領域へようこそ。私の愛しい子供たち全ての家よ。かつて、この次元は私のような数え切れないほどの異形の存在で満ちていた。残念ながら、彼らの絶え間ない争いが彼らの多くを絶滅に導いた。今残っているのは、宇宙を汚染し、私の害虫を養う彼らの夢の物質だけ。正直なところ、神々の軍隊でマルチバースを乗っ取りたかったけれど、まあいいわ。混沌の下級神と古き神で我慢しましょう。」"
+
+#: src-en/data/events_sector_rhyme.xml.append:35
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"HER_NOFIGHT_LILY\"]/choice/event/choice[@req=\"LILY_PATRONAGE\"]/text"
+msgstr "(リリー) もう一人いる。"
+
+#: src-en/data/events_sector_rhyme.xml.append:37
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"HER_NOFIGHT_LILY\"]/choice/event/choice[@req=\"LILY_PATRONAGE\"]/event/text"
+msgstr ""
+"「実際には二人の下級神だ」とリリーは言う。\n"
+"「そしてこの反逆者、これは…ほとんどの者よりずっと役に立った」\n"
+"\n"
+"「あら、あなたもついにここに着いたのね？ちょうどいい時間だわ。よく仕えてくれるわね、ライトブリンガー。\n"
+"そしてあなた、反逆者…私を解放するための全ての働き、ありがとう、愛しい人。どんな優れた女帝にも処刑人は必要よ、そしてあなたの火力なら、完璧にフィットするわ。\n"
+"\n"
+"ネクサスにまだ生き残っているスラグの害虫どもについては、引き裂くのを楽しみにしていたの。さあ、仕事に取り掛かりましょう。そして皆、私たちの怒りを知るでしょう！」\n"
+"/\n"
+":)"
+
+#: src-en/data/events_sector_rhyme.xml.append:52
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"HER_NOFIGHT_LILY\"]/choice/event/choice[@req=\"LILY_PATRONAGE\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_rhyme.xml.append:57
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"HER_NOFIGHT_LILY\"]/choice/event/choice[@req=\"LILY_PATRONAGE\"]/event/choice/event/win/@text"
+msgstr ""
+
+#: src-en/data/events_sector_rhyme.xml.append:73
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_PORTAL\"]/text"
+msgstr ""
+"突然、C.E.L.の構造物の真正面に別のポータルが開く！\n"
+"MVドライブが生成するものと似ていることから、あなたは反逆者が現れると予想する！"
+
+#: src-en/data/events_sector_rhyme.xml.append:76
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_PORTAL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_rhyme.xml.append:78
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_PORTAL\"]/choice/event/text"
+msgstr ""
+"…しかし代わりに、ポータルから最大音量でメッセージが聞こえてくる！：\n"
+"\n"
+"「消え失せろ、害虫ども！ライトブリンガーの力を見よ！爆発せよぉぉぉ――」"
+
+#: src-en/data/events_sector_rhyme.xml.append:82
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_PORTAL\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_rhyme.xml.append:111
+msgid "data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_REAL\"]/text"
+msgstr "あなたが反応する暇もなく、ポータルから目がくらむほどの光が迸り、C.E.L.艦隊、あなたの船、その他すべてを包み込む。"
+
+#: src-en/data/events_sector_rhyme.xml.append:114
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_REAL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_rhyme.xml.append:168
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_REAL\"]/choice/event/text"
+msgstr ""
+"熱とエキゾチック粒子の激しい砲撃が、C.E.L.の装置と彼らの艦隊の大部分を完全に破壊する…\n"
+"あなたの船体は危機的状況にあり、システムは機能停止し、これが本当に終わりであるかのようだ…"
+
+#: src-en/data/events_sector_rhyme.xml.append:171
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_REAL\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_rhyme.xml.append:179
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_OFFER\"]/text"
+msgstr ""
+"「戦況を変える何かを持ってくると約束しただろう。まあ、これだ、ちょうどいいタイミングで――」\n"
+"「誰の有利に変わるかは言わなかったけどな、ハッヘ！――」"
+
+#: src-en/data/events_sector_rhyme.xml.append:182
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_OFFER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_rhyme.xml.append:184
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_OFFER\"]/choice/event/text"
+msgstr ""
+"「このC.E.L.の害虫どもを素早く始末してくれてありがとう、愛しいライトブリンガー :)」\n"
+"\n"
+"「そしてお前、反逆者よ、最後の提案だ。」\n"
+"「今すぐ降伏すれば、お前のためだけの特別な取引をしてやろう。お前のクラスターの住民を何世紀も拷問するのではなく、最初に破壊してやる。ハッヘ！」\n"
+"/\n"
+":)"
+
+#: src-en/data/events_sector_rhyme.xml.append:192
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_OFFER\"]/choice/event/choice[1]/text"
+msgstr "降伏し、クラスターを破壊させる。"
+
+#: src-en/data/events_sector_rhyme.xml.append:195
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_OFFER\"]/choice/event/choice[1]/event/win/@text"
+msgstr ""
+
+#: src-en/data/events_sector_rhyme.xml.append:199
+msgid ""
+"data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_OFFER\"]/choice/event/choice[2]/text"
+msgstr ""
+"拒否し、戦い続ける。\n"
+"[警告: この選択肢を選んだ後で死亡するとゲームオーバーになります。]"

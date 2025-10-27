@@ -1,0 +1,243 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_nexus.xml.append:17
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/text"
+msgstr "(リリー) 「やはりここだったか…」"
+
+#: src-en/data/events_sector_nexus.xml.append:19
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/event/text"
+msgstr ""
+"リリーはスラグの演説に全く動じていないようで、まるで全てを知っていたかのようだ。「やはり、ここだったか。予想と大差ないな…さて、失礼するが、ここで君の部下と用事がある。私の邪魔はさせない。」\n"
+"\t\t\n"
+"G-ヴァンは彼女の言葉に完全に混乱しているようだ。「うむ…ここで用事だと？…プライム本人と？！失礼だが、あなたが誰なのか…わからない…それにプライムに敵うはずもない…まさか…？もし『彼女』が…状況をひっくり返し、あなたをここに送ったというなら…いや…信じられん。」\n"
+"\n"
+"「それに、我々の船に向けた君の素敵なおもちゃも、大して役には立たないだろう…」\n"
+"\n"
+"リリーはただニヤリと笑い、指を鳴らすと、赤と青のエネルギーの閃光が指の間で弾けた。"
+
+#: src-en/data/events_sector_nexus.xml.append:27
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:29
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/event/choice/event/text"
+msgstr "突然、あなたのシステムの限界が瞬時に取り払われた…戦いの準備を！"
+
+#: src-en/data/events_sector_nexus.xml.append:46
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:59
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
+"append:choice/text"
+msgstr "(リリー) 「いる…」"
+
+#: src-en/data/events_sector_nexus.xml.append:61
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
+"append:choice/event/text"
+msgstr ""
+"リリーはスラグの演説に全く動じておらず、その目には珍しく厳しい表情が浮かんでいる。\n"
+"\n"
+"「そして、私が執行する『彼女』の異形の権威により、消滅する準備をしろ、害虫め。」\n"
+"\n"
+"リリーはただニヤリと笑い、指を鳴らすと、赤と青のエネルギーの閃光が指の間で弾けた。"
+
+#: src-en/data/events_sector_nexus.xml.append:67
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
+"append:choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:69
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
+"append:choice/event/choice/event/text"
+msgstr "突然、あなたのシステムの限界が瞬時に取り払われた…戦いの準備を！"
+
+#: src-en/data/events_sector_nexus.xml.append:86
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
+"append:choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:118
+msgid ""
+"data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_ENTER_GLITCH_LILY_CONTINUE\"]/text"
+msgstr ""
+"驚いたことに、G-ヴァンのシステムが突然誤作動を始めた！リリーがした何かがジャミングを彼に向けたとあなたは推測する！この状態では、彼は大した脅威にはならないだろう！"
+
+#: src-en/data/events_sector_nexus.xml.append:137
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
+"append:choice/text"
+msgstr "(リリー) 「お前は我々の目標にとって破壊すべき障害に過ぎない――」"
+
+#: src-en/data/events_sector_nexus.xml.append:139
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
+"append:choice/event/text"
+msgstr "異邦人よ、何の障害について話している？破壊だと？自分が何を言っているのか、少しでも理解しているのか？"
+
+#: src-en/data/events_sector_nexus.xml.append:141
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
+"append:choice/event/choice/text"
+msgstr ""
+"「ああ、私は自分が何をしているか、何を話しているか、*正確に*理解しているよ――お前でさえ、運命を止めようとしても永遠には耐えられない、プライム――」"
+
+#: src-en/data/events_sector_nexus.xml.append:143
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
+"append:choice/event/choice/event/text"
+msgstr ""
+"シルヴァン・プライムはリリーの返答にややショックを受けたようだ。「信じられん…だが、もしお前が本当に『彼女』に仕えているのなら…即刻お前を破壊するしかない！」"
+
+#: src-en/data/events_sector_nexus.xml.append:145
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
+"append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
+"@lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:147
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
+"append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
+"@lvl=\"0\"]/event/text"
+msgstr "プライムの巨大な船が近づくにつれ、あなたは目を閉じ、助けが来ることを祈る。しかし、助けは来ない。この戦いでは、あなたは完全に孤立している。"
+
+#: src-en/data/events_sector_nexus.xml.append:153
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
+"append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
+"@lvl=\"0\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:159
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
+"append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
+"@lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:161
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
+"append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
+"@lvl=\"1\"]/event/text"
+msgstr ""
+"プライムの巨大な船が近づくにつれ、あなたの背後からレーザーの一斉射撃が放たれ、彼のシールドに当たる！見慣れた船がジャンプインしてくる…それはシルヴァン、あなたのシルヴァンだ！「異邦人よ、援軍が到着したぞ！」言葉を交わす時間はない、戦わなければならない！シルヴァンがどれほど効果的かはわからないが、あなたと彼の火力を合わせれば、勝機はあるかもしれない！\n"
+"\n"
+"[シルヴァンに一斉射撃を命じるには、「装備切り替え」ボタンの下にある新しいボタンを使用してください。]"
+
+#: src-en/data/events_sector_nexus.xml.append:171
+msgid ""
+"data/events_sector_nexus.xml.append$//eventButton[@name=\"UI_SYLVAN_BUTTON\"]/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:172
+msgid ""
+"data/events_sector_nexus.xml.append$//eventButton[@name=\"UI_SYLVAN_BUTTON\"]/inactiveTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:179
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
+"append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
+"@lvl=\"1\"]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:188
+msgid ""
+"data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
+"append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
+"@lvl=\"1\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:203
+msgid ""
+"data/events_sector_nexus.xml.append$//event[@name=\"SHE_IS_DEFEATED_NOT\"]/text"
+msgstr ""
+"驚いたことに、巨大なビーム兵器を装備したステルス船が近くでクロークを解除する。\n"
+"「残念だったな、最後の瞬間の裏切りは、お前の破滅を意味するだけだった、反逆者よ――」\n"
+"「そして悲しいかな、それは何一つ変えなかった。私がこの場合のプランBだからな――」\n"
+"「お前が失敗した場所で成功するために来た――」\n"
+"「しかし、ポータルを開いて私をここに導いてくれてありがとう、ところで――」"
+
+#: src-en/data/events_sector_nexus.xml.append:210
+msgid ""
+"data/events_sector_nexus.xml.append$//event[@name=\"SHE_IS_DEFEATED_NOT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:222
+msgid ""
+"data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_ENDING_NOTGOOD\"]/text"
+msgstr "シルヴァン・プライムが去り、「彼女」が解き放たれ、あなたの終焉まであとわずかだ。"
+
+#: src-en/data/events_sector_nexus.xml.append:226
+msgid ""
+"data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_ENDING_NOTGOOD\"]/win/@text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:236
+msgid ""
+"data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/text"
+msgstr ""
+"狂気の赤い色合いがようやく収まり、あなたは自分の船で目を覚まし、プライムの今や空っぽの旗艦を除いて、一人ぼっちであることに気づく。プライムが去り、「彼女」が力の三つの断片を全て取り戻した今、C.E.L.はもはや「彼女」と戦うには弱すぎるだろう。あなたの唯一の選択肢は、避けられないものを待つことだけだ。"
+
+#: src-en/data/events_sector_nexus.xml.append:238
+msgid ""
+"data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:240
+msgid ""
+"data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/choice/event/text"
+msgstr ""
+"「あるいはそうでもないかもしれない――」リリーがあなたに通信していることに気づく。\n"
+"「彼女が勝った。私たちが勝ったんだ！――」 - あなたは彼女がこれほど興奮しているのを聞いたことがない。\n"
+"「ところで、よくやったな、ノームをここまで運び、さらにプライムを倒すなんて！――」\n"
+"「彼女はおそらく彼女の（そして私の）ホームクラスターに戻り、ネクサスとC.E.L.の残党に地獄を見せるために軍隊を集めているのだろう。なんてエキサイティングなんだ！――」\n"
+"「でも、ここにいたくないだろうから、さあ、反逆者、失礼のないように、私たちも彼女に合流しようじゃないか――」"
+
+#: src-en/data/events_sector_nexus.xml.append:247
+msgid ""
+"data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:249
+msgid ""
+"data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/choice/event/choice/event/text"
+msgstr "「ああ、それと、ついでに何か物資も取っていっていいよ――」"
+
+#: src-en/data/events_sector_nexus.xml.append:260
+msgid ""
+"data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_DEPART_LILY\"]/text"
+msgstr "「さて、旅の準備はできたかい？――」"
+
+#: src-en/data/events_sector_nexus.xml.append:262
+msgid ""
+"data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_DEPART_LILY\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml.append:268
+msgid ""
+"data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_DEPART_LILY\"]/choice[2]/text"
+msgstr ""

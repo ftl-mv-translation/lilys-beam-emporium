@@ -1,0 +1,106 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_misc.xml.append:3
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_pointer\"]"
+msgstr "ヒント: 猫と遊ぶのに使えます。ドローンともね。"
+
+#: src-en/data/text_misc.xml.append:4
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_siphon\"]"
+msgstr ""
+"ヒント: このビームはダメージを与えませんが、スーパーシールドを含む敵のシールドをあなたに移します。攻撃、防御、またはその両方に使いましょう！"
+
+#: src-en/data/text_misc.xml.append:5
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_refractor\"]"
+msgstr "ヒント: 屈折ビームはどんな量のシールドも貫通できますが、シールドが強いほど屈折によってターゲットポイントがずれます。"
+
+#: src-en/data/text_misc.xml.append:6
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_beam_shotgun\"]"
+msgstr ""
+"ヒント: ピンポイントアレイは複数のピンポイントビームを一度に発射します。2つのモードがあります: "
+"[パターン]は定義済みのパターンでビームを発射し、[スキャッター]は半径内にランダムに発射します。"
+
+#: src-en/data/text_misc.xml.append:7
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_focus_hack\"]"
+msgstr ""
+"ヒント: "
+"このビームはシールドを貫通できませんが、シールドがダウンしていればシステムを常にハッキング状態に保つことができます。また、命中したクルーをマインドコントロールします！"
+
+#: src-en/data/text_misc.xml.append:8
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_howitzers\"]"
+msgstr ""
+"ヒント: "
+"榴弾砲はビーム兵器とミサイル兵器のクロスです。ミサイルを使って発射し、フラックのように半径をターゲットにし、部分的にシールドを貫通し、一般的に大きなダメージを与えます。"
+
+#: src-en/data/text_misc.xml.append:9
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_disintegrators\"]"
+msgstr ""
+"ヒント: "
+"崩壊ビームはリリーが異形技術を使って設計した特殊なビームです。クルーとシステムに時間経過ダメージを与え、回復と修理を著しく妨げ、亀裂のある部屋に命中すると船体にダメージを与えます。効果は耐性のある部屋やシールドバブルに命中した場合でも適用されます！"
+
+#: src-en/data/text_misc.xml.append:10
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_disintegrators_alt\"]"
+msgstr ""
+"ヒント: "
+"崩壊ビームはリリーが異形技術を使って設計した特殊なビームです。クルーとシステムに時間経過ダメージを与え、回復と修理を著しく妨げ、完全に破壊されたシステムに命中すると船体にダメージを与えます。効果は耐性のある部屋やシールドバブルに命中した場合でも適用されます！"
+
+#: src-en/data/text_misc.xml.append:12
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe\"]"
+msgstr "ヒント: 特殊なビーム兵器。使用前に設定が必要です。"
+
+#: src-en/data/text_misc.xml.append:13
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_m\"]"
+msgstr "ヒント: 味方クルーに15秒間、毎秒4の回復を適用します。また、その間、危険からの被ダメージを半減させます。"
+
+#: src-en/data/text_misc.xml.append:14
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_s\"]"
+msgstr "ヒント: 味方クルーに10秒間、移動速度とダメージを2倍にします。"
+
+#: src-en/data/text_misc.xml.append:15
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_p\"]"
+msgstr ""
+"ヒント: 命中したクルーに25秒間、毎秒4HPのダメージを与えます。スタックしません。医療施設のない船ではほとんどの種族にとって致命的です。"
+
+#: src-en/data/text_misc.xml.append:16
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_a\"]"
+msgstr "ヒント: 命中したタイルごとに弱い侵食効果を適用します。また、命中したクルーに3秒間、毎秒10HPのダメージを与えます。"
+
+#: src-en/data/text_misc.xml.append:19
+msgid "data/text_misc.xml.append$//text[@name=\"button_lily_beam\"]"
+msgstr "E. ブラスト"
+
+#: src-en/data/text_misc.xml.append:20
+msgid "data/text_misc.xml.append$//text[@name=\"button_lily_ion\"]"
+msgstr "イオン"
+
+#: src-en/data/text_misc.xml.append:22
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_beam_emporium\"]"
+msgstr "ビーム・エンポリアム"
+
+#: src-en/data/text_misc.xml.append:24
+msgid "data/text_misc.xml.append$//text[@name=\"lily_aether_submit\"]"
+msgstr ""
+"空間の裂け目が開き、あなたが渡したアイテムを飲み込むのを見守る。\n"
+"「いいものを見つけたな、これは完璧に役立つだろう――」"
+
+#: src-en/data/text_misc.xml.append:26
+msgid "data/text_misc.xml.append$//text[@name=\"lily_aether_redeem\"]"
+msgstr ""
+"空間の裂け目が開き、真新しいエーテル兵器をあなたに与えるのを見守る！\n"
+"「そして、これが君の苦労への報酬だ――」"
+
+#: src-en/data/text_misc.xml.append:29
+msgid "data/text_misc.xml.append$//text[@name=\"loot_zoltan_2\"]"
+msgstr ""
+"ゾルタンの戦利品\n"
+"システムに追加ダメージ\n"
+"-1秒のクールダウン、+20%の船体亀裂率"
+
+#: src-en/data/text_misc.xml.append:36
+msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_nexus_her_lily\"]"
+msgstr ""
+"比類なき力、そして『韻を踏む者』、リリー、そしてあなた自身が『彼女』の側にいることで、『彼女』はネクサスに戻り、C.E.L.の残存勢力を根絶する。あなたの当初の任務は即座に忘れ去られ、新たな闇の帝国がマルチバースに降臨し、無限の宇宙に永遠に狂気を広める。"

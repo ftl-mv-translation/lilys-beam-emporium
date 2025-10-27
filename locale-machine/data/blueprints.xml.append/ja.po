@@ -1,0 +1,2151 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/blueprints.xml.append:196
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_TARGETING_BYPASS\"]/title"
+msgstr "ハイパーリローダー"
+
+#: src-en/data/blueprints.xml.append:197
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_TARGETING_BYPASS\"]/desc"
+msgstr "武器のチャージ速度が30%増加する。しかし、干渉により他の船をターゲットにする際、全ての武器の命中率が20%減少するペナルティを受ける。"
+
+#: src-en/data/blueprints.xml.append:205
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_TARGETING_BYPASS_LOCKED\"]/title"
+msgstr "ハイパーリローダー"
+
+#: src-en/data/blueprints.xml.append:206
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_TARGETING_BYPASS_LOCKED\"]/desc"
+msgstr "武器のチャージ速度が30%増加する。しかし、干渉により他の船をターゲットにする際、全ての武器の命中率が20%減少するペナルティを受ける。"
+
+#: src-en/data/blueprints.xml.append:214
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ASB_SCRAMBLER\"]/title"
+msgstr "ASBスクランブラー"
+
+#: src-en/data/blueprints.xml.append:215
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ASB_SCRAMBLER\"]/desc"
+msgstr "長距離船体シグネチャーをスクランブルし、敵のASBが自船に正確なロックオンを行うのを防ぐ。"
+
+#: src-en/data/blueprints.xml.append:223
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_COMBAT_AFTERBURNER\"]/title"
+msgstr "アフターバーナー"
+
+#: src-en/data/blueprints.xml.append:224
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_COMBAT_AFTERBURNER\"]/desc"
+msgstr ""
+"エンジン用の核融合アフターバーナー。素晴らしい推力を提供するが、燃料を大量に消費する。\n"
+"[燃料3、60秒間回避率+20% または エンジンレベルに応じたダメージを敵に与える]"
+
+#: src-en/data/blueprints.xml.append:233
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/title"
+msgstr "対C.E.L.レゾネーター"
+
+#: src-en/data/blueprints.xml.append:234
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/desc"
+msgstr ""
+"この奇妙な装置は、どうやら自船の武器を敵船のC.E.L.技術と共振させ、2倍のダメージを与えるらしい。添付されたメモには「あの害虫共を始末するのに役立ててくれ"
+" - :)」と書かれている。"
+
+#: src-en/data/blueprints.xml.append:242
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_PATRONAGE\"]/title"
+msgstr "リリー"
+
+#: src-en/data/blueprints.xml.append:243
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_PATRONAGE\"]/desc"
+msgstr "これは表示されるべきではありません。"
+
+#: src-en/data/blueprints.xml.append:251
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AVATAR_LINKER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:252
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AVATAR_LINKER\"]/desc"
+msgstr "これは表示されるべきではありません。"
+
+#: src-en/data/blueprints.xml.append:260
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_NOTE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:261
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_NOTE\"]/desc"
+msgstr "これは表示されるべきではありません。"
+
+#: src-en/data/blueprints.xml.append:269
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ESTROGEN_DISPERSAL\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:270
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ESTROGEN_DISPERSAL\"]/desc"
+msgstr "「奴らは空気に化学物質を混ぜて、皆をレズビアンにしようとしている！」"
+
+#: src-en/data/blueprints.xml.append:279
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_SHIELDS\"]/title"
+msgstr "神秘のシールド"
+
+#: src-en/data/blueprints.xml.append:280
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_SHIELDS\"]/desc"
+msgstr "42ヒットポイントのスーパーシールドを提供する、異形の混沌エネルギーのバリア。その動力源は...船内にすら存在しないようだ？"
+
+#: src-en/data/blueprints.xml.append:288
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_ELITE\"]/title"
+msgstr "強烈な混沌エネルギー"
+
+#: src-en/data/blueprints.xml.append:289
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_ELITE\"]/desc"
+msgstr ""
+"セイレーン以外のクルーは、強烈な混沌エネルギーフィールド内にいる間、アクティブ能力、戦闘、配置、修理、破壊工作能力を失い、移動速度が4分の1になる。"
+
+#: src-en/data/blueprints.xml.append:298
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_AZURE\"]/title"
+msgstr "アズール・エネルギー"
+
+#: src-en/data/blueprints.xml.append:299
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_AZURE\"]/desc"
+msgstr ""
+"船内にいる敵の非セイレーンクルーは移動速度と破壊工作速度が半減し、アクティブ能力とマインドコントロール耐性を失う。船内にいる味方クルーはマインドコントロールとスタン耐性を得て、アズール・エネルギーフィールド内で毎秒1HP回復する。"
+
+#: src-en/data/blueprints.xml.append:307
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AZURE_ARMOR\"]/title"
+msgstr "アズール・アーマー"
+
+#: src-en/data/blueprints.xml.append:308
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AZURE_ARMOR\"]/desc"
+msgstr ""
+"自船がダメージを受けるたびに、クロークしたクリスタルの破片が剥がれ落ちて敵に向かって飛んでいく。この破片は全てのシールドを貫通し、船体とシステムに1ダメージを与え、部屋をロックダウンし、敵クルーを20秒間マインドコントロールする。"
+
+#: src-en/data/blueprints.xml.append:316
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_INSTALLED\"]/title"
+msgstr "セイレーンラボ・アップグレード導入済み"
+
+#: src-en/data/blueprints.xml.append:317
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_INSTALLED\"]/desc"
+msgstr "セイレーンラボ・アップグレード導入済み。"
+
+#: src-en/data/blueprints.xml.append:326
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_VAMP\"]/title"
+msgstr "ソウル・サイフォン"
+
+#: src-en/data/blueprints.xml.append:327
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_VAMP\"]/desc"
+msgstr "セイレーンは与えたダメージに応じて回復するようになるが、与えるダメージは半減する。"
+
+#: src-en/data/blueprints.xml.append:334
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_BUFF\"]/title"
+msgstr "カラフル・ドリーム"
+
+#: src-en/data/blueprints.xml.append:335
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_BUFF\"]/desc"
+msgstr ""
+"セイレーンと同じ部屋にいる味方の非セイレーンクルーは、受けるダメージが30%減少し、修理速度が50%上昇し、マインドコントロールへの耐性を得るが、移動速度が50%減少する。"
+
+#: src-en/data/blueprints.xml.append:342
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_DAMAGE\"]/title"
+msgstr "萎縮の視線"
+
+#: src-en/data/blueprints.xml.append:343
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_DAMAGE\"]/desc"
+msgstr ""
+"セイレーンに直接狙われた敵は、全てのソースから受けるダメージが30%増加し、持っていたマインドコントロール耐性を失う。他のセイレーンや異形の存在には影響しない。"
+
+#: src-en/data/blueprints.xml.append:350
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/title"
+msgstr "マインド・オーバーテイク"
+
+#: src-en/data/blueprints.xml.append:351
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/desc"
+msgstr "セイレーン・ハーピーが新しい能力を得る：現在の部屋にいる敵クルー1人をランダムに10秒間マインドコントロールする。クールダウン30秒。"
+
+#: src-en/data/blueprints.xml.append:361
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_VAMP\"]/title"
+msgstr "[L] ソウル・サイフォン"
+
+#: src-en/data/blueprints.xml.append:362
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_VAMP\"]/desc"
+msgstr ""
+"セイレーンは与えたダメージに応じて回復するようになるが、与えるダメージは半減する。\n"
+"        \n"
+"[L] - 外部ラボアップグレードとして、この増強は通常効果を発揮するが増強スロットを1つ占有する。実際のラボアップグレードに変換することはできず、プライマリスロットも消費しない。自身とはスタックしない。"
+
+#: src-en/data/blueprints.xml.append:371
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_BUFF\"]/title"
+msgstr "[L] カラフル・ドリーム"
+
+#: src-en/data/blueprints.xml.append:372
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_BUFF\"]/desc"
+msgstr ""
+"セイレーンと同じ部屋にいる味方の非セイレーンクルーは、受けるダメージが30%減少し、修理速度が50%上昇し、マインドコントロールへの耐性を得るが、移動速度が50%減少する。\n"
+"        \n"
+"[L] - 外部ラボアップグレードとして、この増強は通常効果を発揮するが増強スロットを1つ占有する。実際のラボアップグレードに変換することはできず、プライマリスロットも消費しない。自身とはスタックしない。"
+
+#: src-en/data/blueprints.xml.append:381
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_DAMAGE\"]/title"
+msgstr "[L] 萎縮の視線"
+
+#: src-en/data/blueprints.xml.append:382
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_DAMAGE\"]/desc"
+msgstr ""
+"セイレーンに直接狙われた敵は、全てのソースから受けるダメージが30%増加し、持っていたマインドコントロール耐性を失う。他のセイレーンや異形の存在には影響しない。\n"
+"        \n"
+"[L] - 外部ラボアップグレードとして、この増強は通常効果を発揮するが増強スロットを1つ占有する。実際のラボアップグレードに変換することはできず、プライマリスロットも消費しない。自身とはスタックしない。"
+
+#: src-en/data/blueprints.xml.append:391
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/title"
+msgstr "[L] マインド・オーバーテイク"
+
+#: src-en/data/blueprints.xml.append:392
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/desc"
+msgstr ""
+"セイレーン・ハーピーが新しい能力を得る：現在の部屋にいる敵クルー1人をランダムに10秒間マインドコントロールする。クールダウン30秒。\n"
+"        \n"
+"[L] - 外部ラボアップグレードとして、この増強は通常効果を発揮するが増強スロットを1つ占有する。実際のラボアップグレードに変換することはできず、プライマリスロットも消費しない。自身とはスタックしない。"
+
+#: src-en/data/blueprints.xml.append:402
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SIREN\"]/title"
+msgstr "ユートピアの恩恵"
+
+#: src-en/data/blueprints.xml.append:403
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SIREN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:410
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_HER_EMPOWERMENT\"]/title"
+msgstr "彼女のエンパワーメント"
+
+#: src-en/data/blueprints.xml.append:411
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_HER_EMPOWERMENT\"]/desc"
+msgstr ""
+"この船は「彼女」の異形の力によって強化されている。強化された配置と修理能力を持つ自動船として機能し、船体を高速で修理し、20ポイントのエネルギーシールドを受ける。あなたの異形の存在とセイレーンのクルーも強化され、ダメージ耐性と危険耐性を得る。"
+
+#: src-en/data/blueprints.xml.append:418
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_SHIP_HER\"]/title"
+msgstr "彼女のクルーザー"
+
+#: src-en/data/blueprints.xml.append:419
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_SHIP_HER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:428
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/desc"
+msgstr "マルチバースの旅人、ビームのセールスウーマン、そして真の混沌の至高なる異形の女神の忠実なしもべ。そう、それが私――"
+
+#: src-en/data/blueprints.xml.append:435
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[1]"
+msgstr "火災、窒息、スタン、マインドコントロールに耐性"
+
+#: src-en/data/blueprints.xml.append:436
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[2]"
+msgstr "現在の船内のどこにでもテレポート可能"
+
+#: src-en/data/blueprints.xml.append:437
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[3]"
+msgstr "異形の力を豊富に操る"
+
+#: src-en/data/blueprints.xml.append:438
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[4]"
+msgstr "最大体力は100だが、5秒後に自動再生する"
+
+#: src-en/data/blueprints.xml.append:439
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[5]"
+msgstr "永久に死ぬことはなく、代わりに保管メニューから有料でリスポーン可能"
+
+#: src-en/data/blueprints.xml.append:456
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_ZOLTAN_2\"]/title"
+msgstr "'ルツェルン'ビーム"
+
+#: src-en/data/blueprints.xml.append:457
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_ZOLTAN_2\"]/short"
+msgstr "'ルツェルン'"
+
+#: src-en/data/blueprints.xml.append:458
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_ZOLTAN_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:486
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POINTER\"]/title"
+msgstr "'ポインター'ピンポイント"
+
+#: src-en/data/blueprints.xml.append:487
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POINTER\"]/short"
+msgstr "'ポインター'"
+
+#: src-en/data/blueprints.xml.append:488
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POINTER\"]/desc"
+msgstr "これは…軍用兵器ではなく、ただのレーザーポインターだ。なぜこんなものがここに？"
+
+#: src-en/data/blueprints.xml.append:602
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_BEAM\"]/title"
+msgstr "ダメ"
+
+#: src-en/data/blueprints.xml.append:603
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_BEAM\"]/short"
+msgstr "ダメ"
+
+#: src-en/data/blueprints.xml.append:604
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_BEAM\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:686
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_ION\"]/title"
+msgstr "ダメ"
+
+#: src-en/data/blueprints.xml.append:687
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_ION\"]/short"
+msgstr "ダメ"
+
+#: src-en/data/blueprints.xml.append:688
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_ION\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:731
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_1\"]/title"
+msgstr "イオンピンポイント I"
+
+#: src-en/data/blueprints.xml.append:732
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_1\"]/short"
+msgstr "イオンポイント I"
+
+#: src-en/data/blueprints.xml.append:733
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_1\"]/desc"
+msgstr "1イオンダメージを与える改造ピンポイントビーム。通常のイオン兵器よりチャージが遅い。"
+
+#: src-en/data/blueprints.xml.append:779
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2\"]/title"
+msgstr "イオンピンポイント II"
+
+#: src-en/data/blueprints.xml.append:780
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2\"]/short"
+msgstr "イオンポイント II"
+
+#: src-en/data/blueprints.xml.append:781
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2\"]/desc"
+msgstr "1イオンダメージを与える改造ピンポイントビーム。前モデルよりチャージが速い。"
+
+#: src-en/data/blueprints.xml.append:827
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_HEAVY\"]/title"
+msgstr "ヘビーイオンピンポイント"
+
+#: src-en/data/blueprints.xml.append:828
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_HEAVY\"]/short"
+msgstr "ヘビーイオンポイント"
+
+#: src-en/data/blueprints.xml.append:829
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_HEAVY\"]/desc"
+msgstr "3イオンダメージを与える改造ピンポイントビームだが、チャージが遅い。"
+
+#: src-en/data/blueprints.xml.append:876
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_CHAIN\"]/title"
+msgstr "チェインイオンピンポイント"
+
+#: src-en/data/blueprints.xml.append:877
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_CHAIN\"]/short"
+msgstr "チェインイオンポイント"
+
+#: src-en/data/blueprints.xml.append:878
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_CHAIN\"]/desc"
+msgstr "この改造ピンポイント兵器は少量のイオンダメージしか与えないが、発射速度が急速に上昇し、単独で複数のシステムを無力化し続けられるようになる。"
+
+#: src-en/data/blueprints.xml.append:930
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_FIRE\"]/title"
+msgstr "サーマルイオンピンポイント"
+
+#: src-en/data/blueprints.xml.append:931
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_FIRE\"]/short"
+msgstr "サーマルイオンポイント"
+
+#: src-en/data/blueprints.xml.append:932
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_FIRE\"]/desc"
+msgstr "超高温のイオン流を発射する改造ピンポイントビーム。1イオンダメージを与え、命中したタイルを確実に発火させる。"
+
+#: src-en/data/blueprints.xml.append:978
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_STUN\"]/title"
+msgstr "スタナーイオンピンポイント"
+
+#: src-en/data/blueprints.xml.append:979
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_STUN\"]/short"
+msgstr "スタンイオンポイント"
+
+#: src-en/data/blueprints.xml.append:980
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_STUN\"]/desc"
+msgstr "2イオンダメージを与え、命中したクルーをスタンさせる改造ピンポイントビーム。"
+
+#: src-en/data/blueprints.xml.append:1027
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_BIO\"]/title"
+msgstr "電離放射線ピンポイント"
+
+#: src-en/data/blueprints.xml.append:1028
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_BIO\"]/short"
+msgstr "放射イオンポイント"
+
+#: src-en/data/blueprints.xml.append:1029
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_BIO\"]/desc"
+msgstr "ベータ粒子の流れを発射し、システムを混乱させ、クルーを被曝させる改造ピンポイントビーム。"
+
+#: src-en/data/blueprints.xml.append:1081
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/title"
+msgstr "フェイザーイオンピンポイント"
+
+#: src-en/data/blueprints.xml.append:1082
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/short"
+msgstr "フェイザーイオンポイント"
+
+#: src-en/data/blueprints.xml.append:1083
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/desc"
+msgstr ""
+"2イオンダメージを与え、シールドを位相通過する改造ピンポイントビーム。敵のシールドに徐々に適応し、連続して撃つごとに更なる層を位相通過できるようになる。"
+
+#: src-en/data/blueprints.xml.append:1085
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/descriptionOverride"
+msgstr ""
+"2イオンダメージを与え、シールドを位相通過する改造ピンポイントビーム。\n"
+"敵のシールドに徐々に適応し、連続して撃つごとに更なる層を位相通過できるようになる。\n"
+"\n"
+"ステータス:\n"
+"必要電力: 3\n"
+"チャージ時間: 13秒\n"
+"\n"
+"チェイン効果: シールド貫通+1\n"
+"チェイン効果: シールド貫通が10より大きい場合、イオンダメージ+0.1\n"
+"チェイン上限: 999チェイン\n"
+"\n"
+"ビーム長: ピンポイント\n"
+"ビーム速度: 1\n"
+"\n"
+"イオンダメージ: 2\n"
+"シールド貫通: 2\n"
+"\n"
+"基本価格: 85~   -   売却価格: 42~"
+
+#: src-en/data/blueprints.xml.append:1104
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/tooltipOverride"
+msgstr ""
+"必要電力: 3\n"
+"チャージ時間: 13秒\n"
+"\n"
+"チェイン効果: シールド貫通+1\n"
+"チェイン効果: シールド貫通が10より大きい場合、イオンダメージ+0.1\n"
+"チェイン上限: 999チェイン\n"
+"\n"
+"ビーム長: ピンポイント\n"
+"ビーム速度: 1\n"
+"\n"
+"イオンダメージ: 2\n"
+"シールド貫通: 2"
+
+#: src-en/data/blueprints.xml.append:1175
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_H\"]/title"
+msgstr "'サンセット'ビーム [ハルバスト]"
+
+#: src-en/data/blueprints.xml.append:1176
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_H\"]/short"
+msgstr "'サンセット' [H]"
+
+#: src-en/data/blueprints.xml.append:1177
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_H\"]/desc"
+msgstr "このビームはユニークなマルチモーダルパワーコアを誇り、船体、システム、クルーに対して有効だが、同時には機能しない。現在のモード: 対船体。"
+
+#: src-en/data/blueprints.xml.append:1203
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_P\"]/title"
+msgstr "'サンセット'ビーム [パーティクル]"
+
+#: src-en/data/blueprints.xml.append:1204
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_P\"]/short"
+msgstr "'サンセット' [P]"
+
+#: src-en/data/blueprints.xml.append:1205
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_P\"]/desc"
+msgstr ""
+"このビームはユニークなマルチモーダルパワーコアを誇り、船体、システム、クルーに対して有効だが、同時には機能しない。現在のモード: 対システム。"
+
+#: src-en/data/blueprints.xml.append:1235
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_B\"]/title"
+msgstr "'サンセット'ビーム [アンチバイオ]"
+
+#: src-en/data/blueprints.xml.append:1236
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_B\"]/short"
+msgstr "'サンセット' [B]"
+
+#: src-en/data/blueprints.xml.append:1237
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_B\"]/desc"
+msgstr ""
+"このビームはユニークなマルチモーダルパワーコアを誇り、船体、システム、クルーに対して有効だが、同時には機能しない。現在のモード: 対クルー。"
+
+#: src-en/data/blueprints.xml.append:1282
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_L\"]/title"
+msgstr "'イーブンタイド'ビーム [ロング]"
+
+#: src-en/data/blueprints.xml.append:1283
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_L\"]/short"
+msgstr "'イーブンタイド' [L]"
+
+#: src-en/data/blueprints.xml.append:1284
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_L\"]/desc"
+msgstr "'サンセット'の上位版。このビームのコアはより強力なだけでなく、追加のモードも備えている！現在のモード: ロング、純粋ダメージ。"
+
+#: src-en/data/blueprints.xml.append:1310
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_B\"]/title"
+msgstr "'イーブンタイド'ビーム [シュレッド]"
+
+#: src-en/data/blueprints.xml.append:1311
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_B\"]/short"
+msgstr "'イーブンタイド' [S]"
+
+#: src-en/data/blueprints.xml.append:1312
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_B\"]/desc"
+msgstr ""
+"'サンセット'の上位版。このビームのコアはより強力なだけでなく、追加のモードも備えている！現在のモード: "
+"シュレッド、高確率での船体亀裂、システム及びクルーダメージ。"
+
+#: src-en/data/blueprints.xml.append:1349
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_P\"]/title"
+msgstr "'イーブンタイド'ビーム [サーマル]"
+
+#: src-en/data/blueprints.xml.append:1350
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_P\"]/short"
+msgstr "'イーブンタイド' [T]"
+
+#: src-en/data/blueprints.xml.append:1351
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_P\"]/desc"
+msgstr ""
+"'サンセット'の上位版。このビームのコアはより強力なだけでなく、追加のモードも備えている！現在のモード: "
+"サーマルパーティクル、高システムダメージ、確定火災。"
+
+#: src-en/data/blueprints.xml.append:1383
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_H\"]/title"
+msgstr "'イーブンタイド'ビーム [ハック]"
+
+#: src-en/data/blueprints.xml.append:1384
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_H\"]/short"
+msgstr "'イーブンタイド' [H]"
+
+#: src-en/data/blueprints.xml.append:1385
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_H\"]/desc"
+msgstr ""
+"'サンセット'の上位版。このビームのコアはより強力なだけでなく、追加のモードも備えている！現在のモード: "
+"ハック、命中したシステムにハッキング効果を適用する。"
+
+#: src-en/data/blueprints.xml.append:1429
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_B\"]/title"
+msgstr "'アカツキ' [ビーム]"
+
+#: src-en/data/blueprints.xml.append:1430
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_B\"]/short"
+msgstr "'アカツキ' [B]"
+
+#: src-en/data/blueprints.xml.append:1431
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_B\"]/desc"
+msgstr "射撃パターンを即座に切り替え、射程とダメージをトレードオフできる特殊なビーム兵器。現在のモード: ビーム。"
+
+#: src-en/data/blueprints.xml.append:1456
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_F\"]/title"
+msgstr "'アカツキ' [フォーカス]"
+
+#: src-en/data/blueprints.xml.append:1457
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_F\"]/short"
+msgstr "'アカツキ' [F]"
+
+#: src-en/data/blueprints.xml.append:1458
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_F\"]/desc"
+msgstr "射撃パターンを即座に切り替え、射程とダメージをトレードオフできる特殊なビーム兵器。現在のモード: ピンポイント。"
+
+#: src-en/data/blueprints.xml.append:1485
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S\"]/title"
+msgstr "'アカツキ' [スキャッター]"
+
+#: src-en/data/blueprints.xml.append:1486
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S\"]/short"
+msgstr "'アカツキ' [S]"
+
+#: src-en/data/blueprints.xml.append:1487
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S\"]/desc"
+msgstr "射撃パターンを即座に切り替え、射程とダメージをトレードオフできる特殊なビーム兵器。現在のモード: スキャッター。"
+
+#: src-en/data/blueprints.xml.append:1519
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S_BEAM\"]/title"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:1520
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S_BEAM\"]/short"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:1521
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S_BEAM\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1556
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/title"
+msgstr "ビーム 'シザース'"
+
+#: src-en/data/blueprints.xml.append:1557
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/short"
+msgstr "'シザース'"
+
+#: src-en/data/blueprints.xml.append:1558
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/desc"
+msgstr "収束する一対のビームを同時に発射できるユニークな兵器。"
+
+#: src-en/data/blueprints.xml.append:1560
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/descriptionOverride"
+msgstr ""
+"収束する一対のビームを同時に発射できるユニークな兵器。\n"
+"\n"
+"ステータス:\n"
+"必要電力: 4\n"
+"チャージ時間: 20秒\n"
+"\n"
+"ビーム長: 80\n"
+"ビーム速度: 5\n"
+"\n"
+"(プライマリービーム)\n"
+"イオンダメージ: 2\n"
+"火災発生率: 30%\n"
+"スタン確率: 100% (3秒間)\n"
+"\n"
+"(セカンダリービーム)\n"
+"システムのない部屋に2倍の船体ダメージ\n"
+"基本船体ダメージ: 2\n"
+"合計システムダメージ: 3\n"
+"合計クルーダメージ: 45\n"
+"船体亀裂率: 30% (調整後: 30%)\n"
+"\n"
+"基本価格: 100~   -   売却価格: 50~"
+
+#: src-en/data/blueprints.xml.append:1582
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/tooltipOverride"
+msgstr ""
+"必要電力: 4\n"
+"チャージ時間: 20秒\n"
+"\n"
+"ビーム長: 80\n"
+"ビーム速度: 5\n"
+"\n"
+"(プライマリービーム)\n"
+"イオンダメージ: 2\n"
+"火災発生率: 30%\n"
+"スタン確率: 100% (3秒間)\n"
+"\n"
+"(セカンダリービーム)\n"
+"システムのない部屋に2倍の船体ダメージ\n"
+"基本船体ダメージ: 2\n"
+"合計システムダメージ: 3\n"
+"合計クルーダメージ: 45\n"
+"船体亀裂率: 30% (調整後: 30%)"
+
+#: src-en/data/blueprints.xml.append:1629
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_SEC\"]/title"
+msgstr "ビーム 'シザース'"
+
+#: src-en/data/blueprints.xml.append:1630
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_SEC\"]/short"
+msgstr "'シザース'"
+
+#: src-en/data/blueprints.xml.append:1631
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_SEC\"]/desc"
+msgstr "収束する一対のビームを同時に発射できるユニークな兵器。"
+
+#: src-en/data/blueprints.xml.append:1670
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/title"
+msgstr "'シリンジ'ビーム [空]"
+
+#: src-en/data/blueprints.xml.append:1671
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/short"
+msgstr "'シリンジ' [-]"
+
+#: src-en/data/blueprints.xml.append:1672
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/desc"
+msgstr "この兵器は伝統的なビームというより、特大の医療機器に近い。自動化学合成ラボ付属。現在のモード: 空、使用前に設定が必要。"
+
+#: src-en/data/blueprints.xml.append:1706
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/title"
+msgstr "'シリンジ'ビーム [薬品]"
+
+#: src-en/data/blueprints.xml.append:1707
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/short"
+msgstr "'シリンジ' [M]"
+
+#: src-en/data/blueprints.xml.append:1708
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/desc"
+msgstr "この兵器は伝統的なビームというより、特大の医療機器に近い。自動化学合成ラボ付属。現在のモード: 薬品。"
+
+#: src-en/data/blueprints.xml.append:1768
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/title"
+msgstr "'シリンジ'ビーム [興奮剤]"
+
+#: src-en/data/blueprints.xml.append:1769
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/short"
+msgstr "'シリンジ' [S]"
+
+#: src-en/data/blueprints.xml.append:1770
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/desc"
+msgstr "この兵器は伝統的なビームというより、特大の医療機器に近い。自動化学合成ラボ付属。現在のモード: 興奮剤。"
+
+#: src-en/data/blueprints.xml.append:1855
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/title"
+msgstr "'シリンジ'ビーム [毒]"
+
+#: src-en/data/blueprints.xml.append:1856
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/short"
+msgstr "'シリンジ' [P]"
+
+#: src-en/data/blueprints.xml.append:1857
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/desc"
+msgstr "この兵器は伝統的なビームというより、特大の医療機器に近い。自動化学合成ラボ付属。現在のモード: 毒。"
+
+#: src-en/data/blueprints.xml.append:1956
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/title"
+msgstr "'シリンジ'ビーム [酸]"
+
+#: src-en/data/blueprints.xml.append:1957
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/short"
+msgstr "'シリンジ' [A]"
+
+#: src-en/data/blueprints.xml.append:1958
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/desc"
+msgstr "この兵器は伝統的なビームというより、特大の医療機器に近い。自動化学合成ラボ付属。現在のモード: 酸。"
+
+#: src-en/data/blueprints.xml.append:2025
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON\"]/title"
+msgstr "バーストビーム発射体"
+
+#: src-en/data/blueprints.xml.append:2026
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON\"]/short"
+msgstr "バーストビーム発射体"
+
+#: src-en/data/blueprints.xml.append:2027
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2057
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_O\"]/title"
+msgstr "バーストビーム発射体"
+
+#: src-en/data/blueprints.xml.append:2058
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_O\"]/short"
+msgstr "バーストビーム発射体"
+
+#: src-en/data/blueprints.xml.append:2059
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_O\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2093
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/title"
+msgstr "'エジソン'サイフォンビーム [0]"
+
+#: src-en/data/blueprints.xml.append:2094
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/short"
+msgstr "'エジソン' [0]"
+
+#: src-en/data/blueprints.xml.append:2095
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/desc"
+msgstr ""
+"このユニークなビーム兵器は、敵のシールドを吸い取り、その過程で自船のシールドを再充電できる。直撃時にシステムパワーを強制的に1減少させるが、ロックはしない。電力が多いほどバーストが長くなる。現在の電力:"
+" 0 (保守的)。"
+
+#: src-en/data/blueprints.xml.append:2132
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/title"
+msgstr "'エジソン'サイフォンビーム [1]"
+
+#: src-en/data/blueprints.xml.append:2133
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/short"
+msgstr "'エジソン' [1]"
+
+#: src-en/data/blueprints.xml.append:2134
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/desc"
+msgstr ""
+"このユニークなビーム兵器は、敵のシールドを吸い取り、その過程で自船のシールドを再充電できる。直撃時にシステムパワーを強制的に1減少させるが、ロックはしない。電力が多いほどバーストが長くなる。現在の電力:"
+" 1。"
+
+#: src-en/data/blueprints.xml.append:2171
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/title"
+msgstr "'エジソン'サイフォンビーム [2]"
+
+#: src-en/data/blueprints.xml.append:2172
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/short"
+msgstr "'エジソン' [2]"
+
+#: src-en/data/blueprints.xml.append:2173
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/desc"
+msgstr ""
+"このユニークなビーム兵器は、敵のシールドを吸い取り、その過程で自船のシールドを再充電できる。直撃時にシステムパワーを強制的に1減少させるが、ロックはしない。電力が多いほどバーストが長くなる。現在の電力:"
+" 2。"
+
+#: src-en/data/blueprints.xml.append:2209
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/title"
+msgstr "'エジソン'サイフォンビーム [3]"
+
+#: src-en/data/blueprints.xml.append:2210
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/short"
+msgstr "'エジソン' [3]"
+
+#: src-en/data/blueprints.xml.append:2211
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/desc"
+msgstr ""
+"このユニークなビーム兵器は、敵のシールドを吸い取り、その過程で自船のシールドを再充電できる。直撃時にシステムパワーを強制的に1減少させるが、ロックはしない。電力が多いほどバーストが長くなる。現在の電力:"
+" 3。"
+
+#: src-en/data/blueprints.xml.append:2246
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/title"
+msgstr "'エジソン'サイフォンビーム [オーバードライブ]"
+
+#: src-en/data/blueprints.xml.append:2247
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/short"
+msgstr "'エジソン' [OD]"
+
+#: src-en/data/blueprints.xml.append:2248
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/desc"
+msgstr ""
+"このユニークなビーム兵器は、敵のシールドを吸い取り、その過程で自船のシールドを再充電できる。直撃時にシステムパワーを強制的に1減少させるが、ロックはしない。電力が多いほどバーストが長くなる。現在の電力:"
+" オーバードライブ。"
+
+#: src-en/data/blueprints.xml.append:2299
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1\"]/title"
+msgstr "屈折ピンポイント I"
+
+#: src-en/data/blueprints.xml.append:2300
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1\"]/short"
+msgstr "屈折 I"
+
+#: src-en/data/blueprints.xml.append:2301
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1\"]/desc"
+msgstr ""
+"特殊な貫通技術を利用したピンポイントビーム。通常の方法ではシールドを貫通できないが、ビームを屈折させて通過させ、精度は落ちるものの船体に命中させることができる。"
+
+#: src-en/data/blueprints.xml.append:2336
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_R\"]/title"
+msgstr "屈折ピンポイント I"
+
+#: src-en/data/blueprints.xml.append:2337
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_R\"]/short"
+msgstr "屈折 I"
+
+#: src-en/data/blueprints.xml.append:2338
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_R\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2370
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/title"
+msgstr "屈折ピンポイント II"
+
+#: src-en/data/blueprints.xml.append:2371
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/short"
+msgstr "屈折 II"
+
+#: src-en/data/blueprints.xml.append:2372
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/desc"
+msgstr ""
+"特殊な貫通技術を利用したピンポイントビーム。通常の方法ではシールドを貫通できないが、ビームを屈折させて通過させ、精度は落ちるものの船体に命中させることができる。Mk"
+" Iより強力。"
+
+#: src-en/data/blueprints.xml.append:2405
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_R\"]/title"
+msgstr "屈折ピンポイント II"
+
+#: src-en/data/blueprints.xml.append:2406
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_R\"]/short"
+msgstr "屈折 II"
+
+#: src-en/data/blueprints.xml.append:2407
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_R\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2438
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_O\"]/title"
+msgstr "屈折ピンポイント II"
+
+#: src-en/data/blueprints.xml.append:2439
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_O\"]/short"
+msgstr "屈折 II"
+
+#: src-en/data/blueprints.xml.append:2440
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_O\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2471
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_Y\"]/title"
+msgstr "屈折ピンポイント II"
+
+#: src-en/data/blueprints.xml.append:2472
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_Y\"]/short"
+msgstr "屈折 II"
+
+#: src-en/data/blueprints.xml.append:2473
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_Y\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2505
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_G\"]/title"
+msgstr "屈折ピンポイント II"
+
+#: src-en/data/blueprints.xml.append:2506
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_G\"]/short"
+msgstr "屈折 II"
+
+#: src-en/data/blueprints.xml.append:2507
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_G\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2538
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_B\"]/title"
+msgstr "屈折ピンポイント II"
+
+#: src-en/data/blueprints.xml.append:2539
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_B\"]/short"
+msgstr "屈折 II"
+
+#: src-en/data/blueprints.xml.append:2540
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_B\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2571
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_I\"]/title"
+msgstr "屈折ピンポイント II"
+
+#: src-en/data/blueprints.xml.append:2572
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_I\"]/short"
+msgstr "屈折 II"
+
+#: src-en/data/blueprints.xml.append:2573
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_I\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2604
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_V\"]/title"
+msgstr "屈折ピンポイント II"
+
+#: src-en/data/blueprints.xml.append:2605
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_V\"]/short"
+msgstr "屈折 II"
+
+#: src-en/data/blueprints.xml.append:2606
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_V\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2653
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/title"
+msgstr "'アレイ'マルチピンポイント [パターン]"
+
+#: src-en/data/blueprints.xml.append:2654
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/short"
+msgstr "'アレイ' [P]"
+
+#: src-en/data/blueprints.xml.append:2655
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/desc"
+msgstr "3つのピンポイントビームを束ねたアレイ兵器。シールドを剥がせるように改造されている。現在のモード: パターン"
+
+#: src-en/data/blueprints.xml.append:2689
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/title"
+msgstr "'アレイ'マルチピンポイント [スキャッター]"
+
+#: src-en/data/blueprints.xml.append:2690
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/short"
+msgstr "'アレイ' [S]"
+
+#: src-en/data/blueprints.xml.append:2691
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/desc"
+msgstr "3つのピンポイントビームを束ねたアレイ兵器。シールドを剥がせるように改造されている。現在のモード: スキャッター"
+
+#: src-en/data/blueprints.xml.append:2728
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/title"
+msgstr "'マトリックス'マルチピンポイント [パターン]"
+
+#: src-en/data/blueprints.xml.append:2729
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/short"
+msgstr "'マトリックス' [P]"
+
+#: src-en/data/blueprints.xml.append:2730
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/desc"
+msgstr ""
+"9つのピンポイントビームを束ねたアレイ兵器。シールドを剥がせるように改造されている。シールドを剥がし、敵船に混沌をもたらすことができるが、扱いにくく照準が難しい。現在のモード:"
+" パターン"
+
+#: src-en/data/blueprints.xml.append:2764
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/title"
+msgstr "'マトリックス'マルチピンポイント [スキャッター]"
+
+#: src-en/data/blueprints.xml.append:2765
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/short"
+msgstr "'マトリックス' [S]"
+
+#: src-en/data/blueprints.xml.append:2766
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/desc"
+msgstr ""
+"9つのピンポイントビームを束ねたアレイ兵器。シールドを剥がせるように改造されている。シールドを剥がし、敵船に混沌をもたらすことができるが、扱いにくく照準が難しい。現在のモード:"
+" スキャッター"
+
+#: src-en/data/blueprints.xml.append:2813
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/title"
+msgstr "データリンクピンポイント"
+
+#: src-en/data/blueprints.xml.append:2814
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/short"
+msgstr "Dリンク"
+
+#: src-en/data/blueprints.xml.append:2815
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/desc"
+msgstr ""
+"この兵器は無線データ転送を可能にするビームを照射し、システムをハッキングし、命中したクルーをマインドコントロールする。ただし、敵のシールドがダウンしている必要がある。"
+
+#: src-en/data/blueprints.xml.append:2896
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/title"
+msgstr "'クエイク'榴弾砲"
+
+#: src-en/data/blueprints.xml.append:2897
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/short"
+msgstr "'クエイク'"
+
+#: src-en/data/blueprints.xml.append:2898
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/desc"
+msgstr "榴弾砲シリーズの中で最も軽量だが、命中したシステムに大ダメージを与えることができ、命中率とリロード速度もそこそこ。"
+
+#: src-en/data/blueprints.xml.append:2952
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_P\"]/title"
+msgstr "ダメ"
+
+#: src-en/data/blueprints.xml.append:2953
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_P\"]/short"
+msgstr "ダメ"
+
+#: src-en/data/blueprints.xml.append:2954
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_P\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2984
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_S\"]/title"
+msgstr "ダメ"
+
+#: src-en/data/blueprints.xml.append:2985
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_S\"]/short"
+msgstr "ダメ"
+
+#: src-en/data/blueprints.xml.append:2986
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_S\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3025
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_PARTICLE_MINI\"]/title"
+msgstr "ミニパーティクルビーム"
+
+#: src-en/data/blueprints.xml.append:3026
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_PARTICLE_MINI\"]/short"
+msgstr "ミニパーティクルB"
+
+#: src-en/data/blueprints.xml.append:3027
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_PARTICLE_MINI\"]/desc"
+msgstr "システムにダメージを与え、火災を発生させる小さな集中ビームを発射するが、船体やクルーにはダメージを与えない。"
+
+#: src-en/data/blueprints.xml.append:3058
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/title"
+msgstr "サイクロトロン・マグニファイア・ビーム"
+
+#: src-en/data/blueprints.xml.append:3059
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/short"
+msgstr "サイクロトロン"
+
+#: src-en/data/blueprints.xml.append:3061
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3062
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/descriptionOverride"
+msgstr ""
+"マグニファイアは特殊な技術を使用し、追加の弾を発射するのではなく、チャージごとにパワーを強化する。各チャージでダメージ出力と状態異常確率が上昇する。チャージは次第に速くなる。\n"
+"この粒子加速器設計はこの技術を利用し、完全にチャージされると壊滅的なパーティクルビームを生成する。\n"
+"この兵器は異形の存在によって改造されたという噂があるが…噂は噂のままである。\n"
+"\n"
+"ステータス:\n"
+"必要電力: 3\n"
+"チャージ時間: 12秒\n"
+"\n"
+"最大チャージ: 4\n"
+"ボーナスチャージ速度: チャージごとにx1.5\n"
+"\t\t\n"
+"合計システムダメージ: 1/2/3/4\n"
+"シールド貫通: 0/1/2/3\n"
+"合計クルーダメージ: 30/60/90/120\n"
+"\n"
+"ビーム長: 25\n"
+"ビーム速度: 6\n"
+"\t\t\n"
+"船体亀裂率: 20/50/80/110% \n"
+"\n"
+"基本価格: 70~   -   売却価格: 35~"
+
+#: src-en/data/blueprints.xml.append:3084
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/tooltipOverride"
+msgstr ""
+"必要電力: 3\n"
+"チャージ時間: 12秒\n"
+"\n"
+"最大チャージ: 4\n"
+"ボーナスチャージ速度: チャージごとにx1.5\n"
+"\t\t\n"
+"合計システムダメージ: 1/2/3/4\n"
+"シールド貫通: 0/1/2/3\n"
+"合計クルーダメージ: 30/60/90/120\n"
+"\t\t\n"
+"ビーム長: 25\n"
+"ビーム速度: 6\n"
+"\n"
+"船体亀裂率: 20/50/80/110%"
+
+#: src-en/data/blueprints.xml.append:3137
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST\"]/title"
+msgstr "'ポラリス'フロストビーム"
+
+#: src-en/data/blueprints.xml.append:3138
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST\"]/short"
+msgstr "'ポラリス'"
+
+#: src-en/data/blueprints.xml.append:3139
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST\"]/desc"
+msgstr ""
+"この冷たい兵器は液体窒素のビームを発射する。部屋をロックダウンし、ほとんどのクルーの出入りを妨げることができる。\n"
+"過剰な窒素ガスは大気バランスも乱す。"
+
+#: src-en/data/blueprints.xml.append:3219
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/title"
+msgstr "シールドポッパービーム"
+
+#: src-en/data/blueprints.xml.append:3220
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/short"
+msgstr "'ポピー'"
+
+#: src-en/data/blueprints.xml.append:3221
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/desc"
+msgstr ""
+"ダメージを与えないが、2層のシールドを剥がす小さな集中ビームを発射する。影響を受けたクルーを呆然とさせるという珍しい特性も持つ。\n"
+"保守的な兵器は自身では電力を消費しないが、システム自体に電力が供給されている必要がある。"
+
+#: src-en/data/blueprints.xml.append:3258
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/title"
+msgstr "ビーム C.I.W.S."
+
+#: src-en/data/blueprints.xml.append:3259
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/short"
+msgstr "C.I.W.S."
+
+#: src-en/data/blueprints.xml.append:3260
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/desc"
+msgstr ""
+"このビーム兵器は、ユニークな全方位赤外線エミッターと高度な照準装置を備えている。飛来するミサイルやドローンの撃墜に有効だが、他の船に対しては性能が低い。"
+
+#: src-en/data/blueprints.xml.append:3283
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ\"]/title"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:3284
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ\"]/short"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:3285
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ\"]/desc"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:3310
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ_2\"]/title"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:3311
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ_2\"]/short"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:3312
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ_2\"]/desc"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:3349
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/title"
+msgstr "'イーラ'崩壊ビーム"
+
+#: src-en/data/blueprints.xml.append:3350
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/short"
+msgstr "'イーラ'"
+
+#: src-en/data/blueprints.xml.append:3351
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/desc"
+msgstr ""
+"触れた物質を全て崩壊させる混沌の異形エネルギービームを発射する。部屋に侵食効果と、命中した全クルーに持続ダメージを与え、回復と修理を妨害する。\n"
+"シールド1貫通、クルーに-4 hp/秒、回復・修理x0.5。"
+
+#: src-en/data/blueprints.xml.append:3421
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/title"
+msgstr "'アンゴリス'崩壊ビーム"
+
+#: src-en/data/blueprints.xml.append:3422
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/short"
+msgstr "'アンゴリス'"
+
+#: src-en/data/blueprints.xml.append:3423
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/desc"
+msgstr ""
+"触れた物質を全て崩壊させる混沌の異形エネルギービームを発射する。部屋に侵食効果と、命中した全クルーに持続ダメージを与え、回復と修理を妨害する。\n"
+"シールド1貫通、クルーに-4 hp/秒、回復・修理x0.5。"
+
+#: src-en/data/blueprints.xml.append:3493
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/title"
+msgstr "'ドロール'崩壊ビーム"
+
+#: src-en/data/blueprints.xml.append:3494
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/short"
+msgstr "'ドロール'"
+
+#: src-en/data/blueprints.xml.append:3495
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/desc"
+msgstr ""
+"触れた物質を全て崩壊させる混沌の異形エネルギービームを発射する。部屋に侵食効果と、命中した全クルーに持続ダメージを与え、回復と修理を妨害する。\n"
+"シールド2貫通、クルーに-8 hp/秒、回復・修理x0.25。"
+
+#: src-en/data/blueprints.xml.append:3566
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/title"
+msgstr "'トルメンタム'崩壊ビーム"
+
+#: src-en/data/blueprints.xml.append:3567
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/short"
+msgstr "'トルメンタム'"
+
+#: src-en/data/blueprints.xml.append:3568
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/desc"
+msgstr ""
+"触れた物質を全て崩壊させる混沌の異形エネルギービームを発射する。部屋に侵食効果と、命中した全クルーに持続ダメージを与え、回復と修理を妨害する。\n"
+"シールド3貫通、クルーに-8 hp/秒、回復・修理x0.0。"
+
+#: src-en/data/blueprints.xml.append:3639
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/title"
+msgstr "'アルデ'カオスファイア崩壊ビーム"
+
+#: src-en/data/blueprints.xml.append:3640
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/short"
+msgstr "'アルデ'"
+
+#: src-en/data/blueprints.xml.append:3641
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/desc"
+msgstr ""
+"触れた物質を全て崩壊させる混沌の異形エネルギービームを発射する。部屋に侵食効果と、命中した全クルーに持続ダメージを与え、回復と修理を妨害する。さらに、どんな種類のクルーにもダメージを与え（基本速度の1.5倍以上）、酸素なしで燃えるカオスファイアを発生させる。\n"
+"シールド1貫通、クルーに-3 hp/秒、回復・修理x0.5。"
+
+#: src-en/data/blueprints.xml.append:3790
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/title"
+msgstr "'インペディオ'カオスロック崩壊ビーム"
+
+#: src-en/data/blueprints.xml.append:3791
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/short"
+msgstr "'インペディオ'"
+
+#: src-en/data/blueprints.xml.append:3792
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/desc"
+msgstr ""
+"触れた物質を全て崩壊させる混沌の異形エネルギービームを発射する。部屋に侵食効果と、命中した全クルーに持続ダメージを与え、回復と修理を妨害する。さらに、影響を受けた部屋のクルーが配置、戦闘、破壊工作、修理を行うのを妨げ、移動速度を0.25に減少させるカオスロック効果を適用する。\n"
+"シールド1貫通、クルーに-3 hp/秒、回復・修理x0.5。"
+
+#: src-en/data/blueprints.xml.append:3988
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/title"
+msgstr "カオティック'イーラ'崩壊ビーム"
+
+#: src-en/data/blueprints.xml.append:3989
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/short"
+msgstr "'イーラ'™"
+
+#: src-en/data/blueprints.xml.append:3990
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/desc"
+msgstr ""
+"触れた物質を全て崩壊させる混沌の異形エネルギービームを発射する。部屋に侵食効果と、命中した全クルーに持続ダメージを与え、回復と修理を妨害する。\n"
+"シールド3貫通、クルーに-4 hp/秒、回復・修理x0.5。"
+
+#: src-en/data/blueprints.xml.append:4065
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/title"
+msgstr "カオティック'アンゴリス'崩壊ビーム"
+
+#: src-en/data/blueprints.xml.append:4066
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/short"
+msgstr "'アンゴリス'™"
+
+#: src-en/data/blueprints.xml.append:4067
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/desc"
+msgstr ""
+"触れた物質を全て崩壊させる混沌の異形エネルギービームを発射する。部屋に侵食効果と、命中した全クルーに持続ダメージを与え、回復と修理を妨害する。\n"
+"シールド3貫通、クルーに-4 hp/秒、回復・修理x0.5。"
+
+#: src-en/data/blueprints.xml.append:4142
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/title"
+msgstr "カオティック'ドロール'崩壊ビーム"
+
+#: src-en/data/blueprints.xml.append:4143
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/short"
+msgstr "'ドロール'™"
+
+#: src-en/data/blueprints.xml.append:4144
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/desc"
+msgstr ""
+"触れた物質を全て崩壊させる混沌の異形エネルギービームを発射する。部屋に侵食効果と、命中した全クルーに持続ダメージを与え、回復と修理を妨害する。\n"
+"シールド4貫通、クルーに-8 hp/秒、回復・修理x0.25。"
+
+#: src-en/data/blueprints.xml.append:4220
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/title"
+msgstr "カオティック'トルメンタム'崩壊ビーム"
+
+#: src-en/data/blueprints.xml.append:4221
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/short"
+msgstr "'トルメンタム'™"
+
+#: src-en/data/blueprints.xml.append:4222
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/desc"
+msgstr ""
+"触れた物質を全て崩壊させる混沌の異形エネルギービームを発射する。部屋に侵食効果と、命中した全クルーに持続ダメージを与え、回復と修理を妨害する。\n"
+"シールド5貫通、クルーに-4 hp/秒、回復・修理x0.0。"
+
+#: src-en/data/blueprints.xml.append:4298
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/title"
+msgstr "カオティック'アルデ'カオスファイア崩壊ビーム"
+
+#: src-en/data/blueprints.xml.append:4299
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/short"
+msgstr "'アルデ'™"
+
+#: src-en/data/blueprints.xml.append:4300
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/desc"
+msgstr ""
+"触れた物質を全て崩壊させる混沌の異形エネルギービームを発射する。部屋に侵食効果と、命中した全クルーに持続ダメージを与え、回復と修理を妨害する。さらに、どんな種類のクルーにもダメージを与え（基本速度の1.5倍以上）、酸素なしで燃えるカオスファイアを発生させる。\n"
+"シールド3貫通、クルーに-3 hp/秒、回復・修理x0.5。"
+
+#: src-en/data/blueprints.xml.append:4454
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/title"
+msgstr "カオティック'インペディオ'カオスロック崩壊ビーム"
+
+#: src-en/data/blueprints.xml.append:4455
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/short"
+msgstr "'インペディオ'™"
+
+#: src-en/data/blueprints.xml.append:4456
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/desc"
+msgstr ""
+"触れた物質を全て崩壊させる混沌の異形エネルギービームを発射する。部屋に侵食効果と、命中した全クルーに持続ダメージを与え、回復と修理を妨害する。さらに、影響を受けた部屋のクルーが配置、戦闘、破壊工作、修理を行うのを妨げ、移動速度を0.25に減少させるカオスロック効果を適用する。\n"
+"シールド3貫通、クルーに-3 hp/秒、回復・修理x0.5。"
+
+#: src-en/data/blueprints.xml.append:4657
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/title"
+msgstr "エリート'イーラ'崩壊ビーム"
+
+#: src-en/data/blueprints.xml.append:4658
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/short"
+msgstr "€ 'イーラ'"
+
+#: src-en/data/blueprints.xml.append:4659
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/desc"
+msgstr ""
+"触れた物質を全て崩壊させる混沌の異形エネルギービームを発射する。部屋に侵食効果と、命中した全クルーに持続ダメージを与え、回復と修理を妨害する。\n"
+"シールド3貫通、クルーに-6 hp/秒、回復・修理x0.25。"
+
+#: src-en/data/blueprints.xml.append:4734
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/title"
+msgstr "エリート'アンゴリス'崩壊ビーム"
+
+#: src-en/data/blueprints.xml.append:4735
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/short"
+msgstr "€ 'アンゴリス'"
+
+#: src-en/data/blueprints.xml.append:4736
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/desc"
+msgstr ""
+"触れた物質を全て崩壊させる混沌の異形エネルギービームを発射する。部屋に侵食効果と、命中した全クルーに持続ダメージを与え、回復と修理を妨害する。\n"
+"シールド3貫通、クルーに-6 hp/秒、回復・修理x0.25。"
+
+#: src-en/data/blueprints.xml.append:4811
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/title"
+msgstr "エリート'ドロール'崩壊ビーム"
+
+#: src-en/data/blueprints.xml.append:4812
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/short"
+msgstr "€ 'ドロール'"
+
+#: src-en/data/blueprints.xml.append:4813
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/desc"
+msgstr ""
+"触れた物質を全て崩壊させる混沌の異形エネルギービームを発射する。部屋に侵食効果と、命中した全クルーに持続ダメージを与え、回復と修理を妨害する。\n"
+"シールド4貫通、クルーに-12 hp/秒、回復・修理x0.0。"
+
+#: src-en/data/blueprints.xml.append:4889
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/title"
+msgstr "エリート'トルメンタム'崩壊ビーム"
+
+#: src-en/data/blueprints.xml.append:4890
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/short"
+msgstr "€ 'トルメンタム'"
+
+#: src-en/data/blueprints.xml.append:4891
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/desc"
+msgstr ""
+"触れた物質を全て崩壊させる混沌の異形エネルギービームを発射する。部屋に侵食効果と、命中した全クルーに持続ダメージを与え、回復と修理を妨害する。\n"
+"シールド5貫通、クルーに-6 hp/秒、回復・修理x0.25。"
+
+#: src-en/data/blueprints.xml.append:4976
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/title"
+msgstr "エリート'アルデ'カオスファイア崩壊ビーム"
+
+#: src-en/data/blueprints.xml.append:4977
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/short"
+msgstr "€ 'アルデ'"
+
+#: src-en/data/blueprints.xml.append:4978
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/desc"
+msgstr ""
+"触れた物質を全て崩壊させる混沌の異形エネルギービームを発射する。部屋に侵食効果と、命中した全クルーに持続ダメージを与え、回復と修理を妨害する。さらに、どんな種類のクルーにもダメージを与え（基本速度の3倍以上）、酸素なしで燃えるカオスファイアを発生させる。\n"
+"シールド3貫通、クルーに-4 hp/秒、回復・修理x0.25。"
+
+#: src-en/data/blueprints.xml.append:5132
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/title"
+msgstr "エリート'インペディオ'カオスロック崩壊ビーム"
+
+#: src-en/data/blueprints.xml.append:5133
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/short"
+msgstr "€ 'インペディオ'"
+
+#: src-en/data/blueprints.xml.append:5134
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/desc"
+msgstr ""
+"触れた物質を全て崩壊させる混沌の異形エネルギービームを発射する。部屋に侵食効果と、命中した全クルーに持続ダメージを与え、回復と修理を妨害する。さらに、影響を受けた部屋のクルーが移動、配置、戦闘、破壊工作、修理を行うのを妨げるカオスロック効果を適用する。\n"
+"シールド3貫通、クルーに-4 hp/秒、回復・修理x0.25。"
+
+#: src-en/data/blueprints.xml.append:5364
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/title"
+msgstr "セイレーン・アブダクター砲"
+
+#: src-en/data/blueprints.xml.append:5365
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/short"
+msgstr "アブダクター"
+
+#: src-en/data/blueprints.xml.append:5366
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/desc"
+msgstr ""
+"セイレーンによって設計されたビーム兵器。全てのシールドを貫通し、命中したクルーをテレポート室に拉致し、呆然とさせる。機能するにはテレポートシステムが必要。[基本クールダウン:"
+" 15]"
+
+#: src-en/data/blueprints.xml.append:5367
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/tooltip"
+msgstr "セイレーン・アブダクター砲。[基本クールダウン: 15]"
+
+#: src-en/data/blueprints.xml.append:5393
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/title"
+msgstr "セイレーン・カレイドスコープ砲"
+
+#: src-en/data/blueprints.xml.append:5394
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/short"
+msgstr "カレイドスコープ"
+
+#: src-en/data/blueprints.xml.append:5395
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/desc"
+msgstr ""
+"セイレーンによって設計されたビーム兵器。10種類の異なるビームの中からランダムに1つを発射することで混沌を受け入れる。[基本クールダウン: 16] "
+"考えられる効果: 火災、粒子、修理、スタン、船体亀裂、エネルギー、イオン、凍結、ハッキング、放射線"
+
+#: src-en/data/blueprints.xml.append:5396
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/tooltip"
+msgstr "セイレーン・カレイドスコープ砲。[基本クールダウン: 16] ROYLGCBIVM"
+
+#: src-en/data/blueprints.xml.append:5426
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/title"
+msgstr "セイレーン・カオスファイア砲"
+
+#: src-en/data/blueprints.xml.append:5427
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/short"
+msgstr "カオスファイア"
+
+#: src-en/data/blueprints.xml.append:5428
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/desc"
+msgstr ""
+"セイレーンによって設計されたビーム兵器。触れたもの全てをカオスフレイムで燃やす混沌エネルギーのビームを発射する。通常の火災とは異なり、カオスフレイムは酸素なしで燃え、耐火性のクルーにもダメージを与える。シールド2貫通。[基本クールダウン:"
+" 40]"
+
+#: src-en/data/blueprints.xml.append:5429
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/tooltip"
+msgstr "セイレーン・カオスファイア砲。[基本クールダウン: 40]"
+
+#: src-en/data/blueprints.xml.append:5567
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/title"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5568
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/short"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5569
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/desc"
+msgstr "ゲーム内でこれは表示されるべきではありません"
+
+#: src-en/data/blueprints.xml.append:5570
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/tooltip"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5600
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/title"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5601
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/short"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5602
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/desc"
+msgstr "ゲーム内でこれは表示されるべきではありません"
+
+#: src-en/data/blueprints.xml.append:5603
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/tooltip"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5633
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/title"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5634
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/short"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5635
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/desc"
+msgstr "ゲーム内でこれは表示されるべきではありません"
+
+#: src-en/data/blueprints.xml.append:5636
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/tooltip"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5668
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/title"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5669
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/short"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5670
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/desc"
+msgstr "ゲーム内でこれは表示されるべきではありません"
+
+#: src-en/data/blueprints.xml.append:5671
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/tooltip"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5702
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/title"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5703
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/short"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5704
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/desc"
+msgstr "ゲーム内でこれは表示されるべきではありません"
+
+#: src-en/data/blueprints.xml.append:5705
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/tooltip"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5735
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/title"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5736
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/short"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5737
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/desc"
+msgstr "ゲーム内でこれは表示されるべきではありません"
+
+#: src-en/data/blueprints.xml.append:5738
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/tooltip"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5772
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/title"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5773
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/short"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5774
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/desc"
+msgstr "ゲーム内でこれは表示されるべきではありません"
+
+#: src-en/data/blueprints.xml.append:5775
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/tooltip"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5808
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/title"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5809
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/short"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5810
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/desc"
+msgstr "ゲーム内でこれは表示されるべきではありません"
+
+#: src-en/data/blueprints.xml.append:5811
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/tooltip"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5886
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/title"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5887
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/short"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5888
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/desc"
+msgstr "ゲーム内でこれは表示されるべきではありません"
+
+#: src-en/data/blueprints.xml.append:5889
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/tooltip"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5920
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/title"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5921
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/short"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5922
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/desc"
+msgstr "ゲーム内でこれは表示されるべきではありません"
+
+#: src-en/data/blueprints.xml.append:5923
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/tooltip"
+msgstr "---"
+
+#: src-en/data/blueprints.xml.append:5961
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/title"
+msgstr "カオティック'スース'砲"
+
+#: src-en/data/blueprints.xml.append:5962
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/short"
+msgstr "'スース'™"
+
+#: src-en/data/blueprints.xml.append:5963
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/desc"
+msgstr ""
+"悪名高い兵器の砲撃バージョン。この長距離ビームは敵のシステムとクルーを壊滅させ、命中したクルーに一時的な狂気を引き起こし、アクティブ能力を無効にする。味方の異形の存在とセイレーンは代わりに回復する。[基本クールダウン:"
+" 30]"
+
+#: src-en/data/blueprints.xml.append:5964
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/tooltip"
+msgstr "カオティック'スース'砲。[基本クールダウン: 30]"
+
+#: src-en/data/blueprints.xml.append:6059
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/title"
+msgstr "'アズール・ドリーム・ブレード'"
+
+#: src-en/data/blueprints.xml.append:6060
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/short"
+msgstr "'アズール・ブレード'"
+
+#: src-en/data/blueprints.xml.append:6061
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/desc"
+msgstr ""
+"セイレーンとクリスタルの技術を組み合わせたユニークなビーム砲。シールドを3貫通し、システムに1、イオンに1、クルーに30(敵のみ)のダメージを与え、部屋をロックダウンする。これらの部屋にいる敵は凍結デバフを受け、味方はドア通過能力と軽度の回復を得る。[基本クールダウン:"
+" 40]"
+
+#: src-en/data/blueprints.xml.append:6194
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/title"
+msgstr "彼女の'トルメンタム'崩壊砲 :)"
+
+#: src-en/data/blueprints.xml.append:6195
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/short"
+msgstr "€ 'トルメンタム' :)"
+
+#: src-en/data/blueprints.xml.append:6196
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/desc"
+msgstr ""
+"「彼女」の異形の力を利用し、この兵器は触れた物質を急速に崩壊させる壊滅的な混沌の異形エネルギービームを発射する。部屋に侵食効果と、命中した全クルーに持続ダメージを与え、回復と修理を完全に妨げる。[基本クールダウン:"
+" 60]"
+
+#: src-en/data/blueprints.xml.append:6197
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/tooltip"
+msgstr "彼女の'トルメンタム'砲 :) [基本クールダウン: 60]"
+
+#: src-en/data/blueprints.xml.append:6393
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/title"
+msgstr "アズールの破片"
+
+#: src-en/data/blueprints.xml.append:6394
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/short"
+msgstr "アズール"
+
+#: src-en/data/blueprints.xml.append:6395
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/desc"
+msgstr "アズール・クリスタル・ヴェンジ・プロジェクタイル"
+
+#: src-en/data/blueprints.xml.append:6549
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/class"
+msgstr "MV セイレーン輸送船"
+
+#: src-en/data/blueprints.xml.append:6550
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/name"
+msgstr "アオイ・ユメ"
+
+#: src-en/data/blueprints.xml.append:6551
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/desc"
+msgstr ""
+"セイレーンは通常、他の種族と協力的であるとは知られていない。しかし、マルチバースは広大であり、この船のセイレーンとクリスタルのクルーが協力していることは、そのステレオタイプへの例外であることを証明している。"
+
+#: src-en/data/blueprints.xml.append:6630
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/class"
+msgstr "難破したセイレーン輸送船"
+
+#: src-en/data/blueprints.xml.append:6631
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/name"
+msgstr "壊れた夢"
+
+#: src-en/data/blueprints.xml.append:6632
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/desc"
+msgstr ""
+"スターグローブから回収されたセイレーン船の残骸。ボロボロで酸素もなく、今では「きれいな色」を気に入ったラニウスとオーキッドが乗り込んでいる。しかし、特別なセイレーン兵器はまだ残っている。"
+
+#: src-en/data/blueprints.xml.append:6709
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/class"
+msgstr "セイレーン輸送船"
+
+#: src-en/data/blueprints.xml.append:6710
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/name"
+msgstr "テルクシオペ"
+
+#: src-en/data/blueprints.xml.append:6711
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/desc"
+msgstr ""
+"完全に修復・改装されたセイレーン輸送船は、今や戦闘準備の整った船となった。そのユニークな砲撃ビームは命中したクルーを呆然とさせ拉致し、簡単な獲物にする "
+"- セイレーンのお気に入りの戦術の一つだ。"
+
+#: src-en/data/blueprints.xml.append:6790
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/class"
+msgstr "セイレーン輸送船"
+
+#: src-en/data/blueprints.xml.append:6791
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/name"
+msgstr "パルテノペ"
+
+#: src-en/data/blueprints.xml.append:6792
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/desc"
+msgstr "混沌を完全に受け入れたこの船は、8種類の異なるビームの中から完全にランダムに1つを発射する砲を備えている。"
+
+#: src-en/data/blueprints.xml.append:6874
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/class"
+msgstr "セイレーン輸送船"
+
+#: src-en/data/blueprints.xml.append:6875
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/name"
+msgstr "ヒメロペ"
+
+#: src-en/data/blueprints.xml.append:6876
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/desc"
+msgstr ""
+"夢を料理したらどんな味がする？このセイレーンハーピーのカップルは、その進路にあるもの全てを焼き尽くすことができる砲撃ビームを設置して、それを確かめることにした。"
+
+#: src-en/data/blueprints.xml.append:6955
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/class"
+msgstr "ライマー輸送船"
+
+#: src-en/data/blueprints.xml.append:6956
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/name"
+msgstr "イードラ"
+
+#: src-en/data/blueprints.xml.append:6957
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/desc"
+msgstr ""
+"「韻を踏む者」の信奉者によって入手された船で、今や恐ろしく巨大で強力なビームキャノンを「輸送」している。しかし、それはリアクターと異形のシールド以外の防御を犠牲にしている。"
+
+#: src-en/data/blueprints.xml.append:7034
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/class"
+msgstr "リリーのクルーザー"
+
+#: src-en/data/blueprints.xml.append:7035
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/name"
+msgstr "ヴォイド・スター"
+
+#: src-en/data/blueprints.xml.append:7036
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/desc"
+msgstr "「彼女」自身の異形の力によって強化された船。リリーが「彼女」の意志を実行するのに最適な船である。"
