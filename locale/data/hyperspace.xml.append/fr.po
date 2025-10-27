@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-21 06:20+0000\n"
+"PO-Revision-Date: 2025-10-28 02:12+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datahyperspace-xml-append/fr/>\n"
@@ -26,39 +26,43 @@ msgstr "Lily"
 
 #: src-en/data/hyperspace.xml.append:279
 msgid "data/hyperspace.xml.append$//siren[@name=\"Aki\"]/@name"
-msgstr ""
+msgstr "Aki"
 
 #: src-en/data/hyperspace.xml.append:280
 msgid "data/hyperspace.xml.append$//siren[@name=\"Noemi\"]/@name"
-msgstr ""
+msgstr "Noémi"
 
 #: src-en/data/hyperspace.xml.append:281
 msgid "data/hyperspace.xml.append$//crystal[@name=\"Sapphire\"]/@name"
-msgstr ""
+msgstr "Saphir"
 
 #: src-en/data/hyperspace.xml.append:282
 msgid "data/hyperspace.xml.append$//crystal_liberator[@name=\"Emerald\"]/@name"
-msgstr ""
+msgstr "Émeraude"
 
 #: src-en/data/hyperspace.xml.append:730
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "MENTAL"
 
 #: src-en/data/hyperspace.xml.append:731
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : 30s DURÉE : 10s]\n"
+"Contrôle mental sur un membre d'équipage ennemi aléatoire dans la pièce."
 
 #: src-en/data/hyperspace.xml.append:1002
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "MENTAL"
 
 #: src-en/data/hyperspace.xml.append:1003
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : 30s DURÉE : 10s]\n"
+"Contrôle mental sur un membre d'équipage ennemi aléatoire dans la pièce."
 
 #: src-en/data/hyperspace.xml.append:1728
 msgid ""
@@ -466,7 +470,7 @@ msgstr "CHAOS :)"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
 "append:page/mod-append:section[1]/@text"
-msgstr ""
+msgstr "Les Succès de Lily"
 
 #: src-en/data/hyperspace.xml.append:3107
 msgid ""
@@ -591,22 +595,25 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
 "append:page/mod-append:section[2]/@text"
-msgstr ""
+msgstr "Faveur de Thest (Rayons de Lily)"
 
 #: src-en/data/hyperspace.xml.append:3163
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SIREN\"]/name"
-msgstr ""
+msgstr "La Faveur de l'Utopie"
 
 #: src-en/data/hyperspace.xml.append:3165
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SIREN\"]/secretDescription"
-msgstr ""
+msgstr "Recevez la Faveur de ??? de Thest."
 
 #: src-en/data/hyperspace.xml.append:3166
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SIREN\"]/description"
 msgstr ""
+"Montrer une Sirène à Thest. Tant que cet effet est actif : l'équipage Sirène "
+"obtient la vision des pièces adjacentes, l'immunité aux étourdissements, et "
+"ne perd aucune compétence lorsqu'il est cloné."
