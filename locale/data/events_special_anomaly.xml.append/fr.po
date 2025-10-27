@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-21 06:20+0000\n"
+"PO-Revision-Date: 2025-10-27 12:21+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_anomalyxmlappend/fr/>\n"
@@ -23,6 +23,10 @@ msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
+"\"Oh... Merccci de m'en avoir informé. Cccette arme est en effet... assssez "
+"anormale. Je crains de devoir... la confisssquer, mais permettez-moi de vous "
+"zzoffrir une compensssatttion équitable. Maintenant, passssons à autre "
+"chozze.\""
 
 #: src-en/data/events_special_anomaly.xml.append:15
 msgid ""
