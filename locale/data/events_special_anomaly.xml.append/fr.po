@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-27 12:21+0000\n"
+"PO-Revision-Date: 2025-10-28 02:12+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_anomalyxmlappend/fr/>\n"
@@ -45,6 +45,10 @@ msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
+"\"Oh... Merccci de m'en informer. Cccette arme est en effet... "
+"sssurnaturelle. Je crains de devoir la... confisssquer, mais permettez-moi "
+"de vous offrir une jussste compensssation. Maintenant, passssons à autre "
+"chozze.\""
 
 #: src-en/data/events_special_anomaly.xml.append:29
 msgid ""
@@ -63,6 +67,10 @@ msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[3]/event/text"
 msgstr ""
+"\"Oh... Merccci de m'en informer. Cccette arme est en effet... "
+"sssurnaturelle. Je crains de devoir la... confisssquer, mais permettez-moi "
+"de vous offrir une jussste compensssation. Maintenant, passssons à autre "
+"chozze.\""
 
 #: src-en/data/events_special_anomaly.xml.append:43
 msgid ""
@@ -81,6 +89,10 @@ msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[4]/event/text"
 msgstr ""
+"\"Oh... Merccci de m'en informer. Cccette arme est en effet... "
+"sssurnaturelle. Je crains de devoir la... confisssquer, mais permettez-moi "
+"de vous offrir une jussste compensssation. Maintenant, passssons à autre "
+"chozze.\""
 
 #: src-en/data/events_special_anomaly.xml.append:57
 msgid ""
@@ -99,6 +111,10 @@ msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[5]/event/text"
 msgstr ""
+"\"Oh... Merccci de m'en informer. Cccette arme est en effet... "
+"sssurnaturelle. Je crains de devoir la... confisssquer, mais permettez-moi "
+"de vous offrir une jussste compensssation. Maintenant, passssons à autre "
+"chozze.\""
 
 #: src-en/data/events_special_anomaly.xml.append:71
 msgid ""
@@ -110,6 +126,11 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"ANOMALY_CHAOS_POLICE\"]/text"
 msgstr ""
+"La première chose que vous voyez en observant votre environnement est un "
+"vaisseau qui ressemble à l'Investigateur de la Milice, mais noir comme le "
+"vide lui-même et scintillant de couleurs rouges et bleues. Il vous contacte "
+"immédiatement : \"Ici l'unité d'exécution de la Police du Chaos. Soumettez-"
+"vous ainsi que votre vaisseau à une inspection immédiate.\""
 
 #: src-en/data/events_special_anomaly.xml.append:102
 msgid ""
@@ -120,6 +141,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"ANOMALY_CHAOS_POLICE\"]/choice/event/text"
 msgstr ""
+"\"Voyons voir quel genre de crimes vous avez bien pu commettre...\"\n"
+"Le vaisseau commence une sorte de scan, et vous ressentez un sentiment "
+"accablant d'effroi et de malaise."
 
 #: src-en/data/events_special_anomaly.xml.append:107
 msgid ""
@@ -130,16 +154,21 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Attendez, votre dossier est quasiment vierge !\""
+"\n"
+"\"Ce qui signifie que vous et votre vaisseau devez être mis aux arrêts !\""
 
 #: src-en/data/events_special_anomaly.xml.append:142
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[1]/text"
-msgstr ""
+msgstr "Tenter de soudoyer l'Exécuteur. [50~]"
 
 #: src-en/data/events_special_anomaly.xml.append:144
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[1]/event/text"
 msgstr ""
+"Vous tentez de soudoyer l'Exécuteur avec de la ferraille, en espérant que "
+"cela suffise pour qu'il vous laisse partir..."
 
 #: src-en/data/events_special_anomaly.xml.append:149
 msgid ""
@@ -150,6 +179,14 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"\"Qu'est-ce que c'est que ça ? Un pot-de-vin ? Ne savez-vous donc pas que "
+"soudoyer des officiers de police est un crime ?!\"\n"
+"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\"\n"
+"\n"
+"\"N'oubliez pas de toujours commettre des crimes et de causer plus de chaos "
+"! Haha !\""
 
 #: src-en/data/events_special_anomaly.xml.append:160
 msgid ""
@@ -159,17 +196,19 @@ msgstr "Continuer..."
 #: src-en/data/events_special_anomaly.xml.append:162
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Après cela, l'étrange vaisseau quitte immédiatement les lieux."
 
 #: src-en/data/events_special_anomaly.xml.append:172
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "(Armes de pointes) Menacer l'Exécuteur."
 
 #: src-en/data/events_special_anomaly.xml.append:174
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[@req=\"weapons\"]/event/text"
 msgstr ""
+"Vous tentez de menacer l'Exécuteur pour qu'il vous laisse tranquille, en "
+"misant sur votre armement avancé..."
 
 #: src-en/data/events_special_anomaly.xml.append:176
 msgid ""
@@ -180,6 +219,14 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[@req=\"weapons\"]/event/choice/event/text"
 msgstr ""
+"\"Vous me menacez ?! Ne savez-vous donc pas que menacer des officiers de "
+"police est un crime ?!\"\n"
+"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\"\n"
+"\n"
+"\"N'oubliez pas de toujours commettre des crimes et de causer plus de chaos "
+"! Haha !\""
 
 #: src-en/data/events_special_anomaly.xml.append:186
 msgid ""
@@ -189,17 +236,17 @@ msgstr "Continuer..."
 #: src-en/data/events_special_anomaly.xml.append:188
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[@req=\"weapons\"]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Après cela, l'étrange vaisseau quitte immédiatement les lieux."
 
 #: src-en/data/events_special_anomaly.xml.append:198
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/text"
-msgstr ""
+msgstr "Attaquer simplement l'Exécuteur."
 
 #: src-en/data/events_special_anomaly.xml.append:201
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Vous chargez vos armes et vous vous préparez à attaquer l'Exécuteur..."
 
 #: src-en/data/events_special_anomaly.xml.append:203
 msgid ""
@@ -210,6 +257,14 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/event/choice/event/text"
 msgstr ""
+"\"Vous êtes en train de m'ATTAQUER ?! Ne savez-vous donc pas qu'attaquer un "
+"officier de police est un crime SÉRIEUX ?!\"\n"
+"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\"\n"
+"\n"
+"\"N'oubliez pas de toujours commettre des crimes et de causer plus de chaos "
+"! Haha !\""
 
 #: src-en/data/events_special_anomaly.xml.append:213
 msgid ""
@@ -219,12 +274,16 @@ msgstr "Continuer..."
 #: src-en/data/events_special_anomaly.xml.append:215
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Après cela, l'étrange vaisseau quitte immédiatement les lieux."
 
 #: src-en/data/events_special_anomaly.xml.append:227
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Attendez, vous transportez le gnome ?... LE "
+"GNOME ?!\"\n"
+"\"Cette chose va plonger tout cet univers dans le chaos ! Haha !\"\n"
+"\"Plus qu'excellent, vous allez être récompensé !\""
 
 #: src-en/data/events_special_anomaly.xml.append:232
 msgid ""
@@ -235,11 +294,14 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/choice/event/text"
 msgstr ""
+"\"Et vous savez, je connais peut-être un endroit où vous devriez le livrer..."
+"\"\n"
+"\"Laissez-moi me joindre à vous pour vous aider à vous y rendre.\""
 
 #: src-en/data/events_special_anomaly.xml.append:239
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/choice/event/crewMember"
-msgstr ""
+msgstr "Officier Ialera"
 
 #: src-en/data/events_special_anomaly.xml.append:241
 msgid ""
@@ -249,12 +311,16 @@ msgstr "Continuer..."
 #: src-en/data/events_special_anomaly.xml.append:243
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "Après cela, l'étrange vaisseau quitte immédiatement les lieux."
 
 #: src-en/data/events_special_anomaly.xml.append:253
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL_HIGH\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un grand criminel notoire "
+"dans l'ensemble de la Fédération !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:259
 msgid ""
@@ -265,6 +331,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_REWARD_HIGH\"]/text"
 msgstr ""
+"\"N'oubliez pas de toujours commettre des crimes et de causer plus de chaos "
+"! Haha !\""
 
 #: src-en/data/events_special_anomaly.xml.append:265
 msgid ""
@@ -274,12 +342,16 @@ msgstr "Continuer..."
 #: src-en/data/events_special_anomaly.xml.append:267
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_REWARD_HIGH\"]/choice/event/text"
-msgstr ""
+msgstr "Après cela, l'étrange vaisseau quitte immédiatement les lieux."
 
 #: src-en/data/events_special_anomaly.xml.append:276
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_UNION_HIGH\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un grand criminel notoire "
+"dans l'Union Galactique !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:282
 msgid ""
@@ -290,6 +362,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ENGI_HIGH\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un grand criminel notoire "
+"dans l'Harmonie Engi !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:294
 msgid ""
@@ -300,6 +376,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ZOLTAN_HIGH\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un grand criminel notoire "
+"dans le Ministère Zoltan !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:306
 msgid ""
@@ -310,6 +390,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ORCHID_HIGH\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un grand criminel notoire "
+"dans la Congrégation Florale !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:318
 msgid ""
@@ -320,6 +404,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_VAMPWEED_HIGH\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un grand criminel notoire "
+"dans la Confédération Vampiflore !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:330
 msgid ""
@@ -330,6 +418,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_FREEMANTIS_HIGH\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un grand criminel notoire "
+"dans les clans des Mantis Libres !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:342
 msgid ""
@@ -340,6 +432,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_CRYSTAL_HIGH\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un grand criminel notoire "
+"dans l'Empire Cristalien !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:354
 msgid ""
@@ -350,6 +446,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_OUTCAST_HIGH\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un grand criminel notoire "
+"chez les Rocailleux Exilés !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:366
 msgid ""
@@ -360,6 +460,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_SHELL_HIGH\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un grand criminel notoire "
+"dans la Géniocratie Coquille !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:379
 msgid ""
@@ -370,6 +474,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un grand criminel notoire "
+"dans la Fédération !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:393
 msgid ""
@@ -380,6 +488,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_REWARD\"]/text"
 msgstr ""
+"\"N'oubliez pas de toujours commettre des crimes et de causer plus de chaos "
+"! Haha !\""
 
 #: src-en/data/events_special_anomaly.xml.append:398
 msgid ""
@@ -389,12 +499,16 @@ msgstr "Continuer..."
 #: src-en/data/events_special_anomaly.xml.append:400
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_REWARD\"]/choice/event/text"
-msgstr ""
+msgstr "Après cela, l'étrange vaisseau quitte immédiatement les lieux."
 
 #: src-en/data/events_special_anomaly.xml.append:409
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_UNION\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un criminel dans l'Union "
+"Galactique !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:415
 msgid ""
@@ -405,6 +519,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ENGI\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un criminel dans "
+"l'Harmonie Engi !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:427
 msgid ""
@@ -415,6 +533,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ZOLTAN\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un criminel dans le "
+"Ministère Zoltan !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:439
 msgid ""
@@ -425,6 +547,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ORCHID\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un criminel dans la "
+"Congrégation Florale !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:451
 msgid ""
@@ -435,6 +561,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_VAMPWEED\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un criminel dans la "
+"Confédération Vampiflore !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:463
 msgid ""
@@ -445,6 +575,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_FREEMANTIS\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un criminel dans les "
+"clans de Mantis LIbres !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:475
 msgid ""
@@ -455,6 +589,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_OUTCAST\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un criminel chez les "
+"Rocailleux Exilés !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:487
 msgid ""
@@ -465,6 +603,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_CRYSTAL\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un criminel dans l'Empire "
+"Cristallien !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:499
 msgid ""
@@ -475,6 +617,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_SHELL\"]/text"
 msgstr ""
+"\"Et d'après vos dossiers... Vous êtes bel et bien un criminel dans la "
+"Géniocratie Coquille !...\"\n"
+"\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
+"cela.\""
 
 #: src-en/data/events_special_anomaly.xml.append:511
 msgid ""
