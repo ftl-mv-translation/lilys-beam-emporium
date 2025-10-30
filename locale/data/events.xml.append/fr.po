@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-10-30 20:39+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/"
+"lilys-beam-emporium/dataeventsxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events.xml.append:5
 msgid "data/events.xml.append$//event[@name=\"STORE_LOAD_LILY_EMPORIUM\"]/text"
@@ -41,6 +48,8 @@ msgstr "Ne rien faire."
 #: src-en/data/events.xml.append:30
 msgid "data/events.xml.append$//event[@name=\"LILY_MAD_FIGHT\"]/text"
 msgstr ""
+"On dirait que Lily est furieuse. Il n’y a pas d’autre option que d’engager "
+"le combat contre ce vaisseau !"
 
 #: src-en/data/events.xml.append:32
 msgid "data/events.xml.append$//event[@name=\"LILY_MAD_FIGHT\"]/choice/text"
