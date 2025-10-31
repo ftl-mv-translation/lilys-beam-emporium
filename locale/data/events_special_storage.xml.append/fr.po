@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-27 12:21+0000\n"
+"PO-Revision-Date: 2025-11-01 10:20+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_storagexmlappend/fr/>\n"
@@ -74,78 +74,84 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/text"
 msgstr ""
+"Ah, un classique...\n"
+"Ce type d’arme existe depuis des millénaires, et reste l’une des plus "
+"puissantes.\n"
+"Pas assez puissante pour faire ce que j’espérais...\n"
+"Mais bon, apportez‑moi juste des matériaux et je vous en fabriquerai une.\n"
+"2 à 3 pièces de technologie ancienne devraient suffire."
 
 #: src-en/data/events_special_storage.xml.append:75
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "[Pièces actuelles : 0]"
 
 #: src-en/data/events_special_storage.xml.append:79
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "[Pièces actuelles : 1]"
 
 #: src-en/data/events_special_storage.xml.append:83
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "[Pièces actuelles : 2]"
 
 #: src-en/data/events_special_storage.xml.append:87
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "[Pièces actuelles : 3]"
 
 #: src-en/data/events_special_storage.xml.append:91
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "[Pièces actuelles : 4]"
 
 #: src-en/data/events_special_storage.xml.append:95
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "[Pièces actuelles : 5]"
 
 #: src-en/data/events_special_storage.xml.append:99
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "[Pièces actuelles : 6]"
 
 #: src-en/data/events_special_storage.xml.append:103
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "[Pièces actuelles : 7]"
 
 #: src-en/data/events_special_storage.xml.append:107
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "[Pièces actuelles : 8]"
 
 #: src-en/data/events_special_storage.xml.append:111
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "[Pièces actuelles : 9]"
 
 #: src-en/data/events_special_storage.xml.append:115
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "[Pièces actuelles : 10]"
 
 #: src-en/data/events_special_storage.xml.append:119
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"11\"]/text"
-msgstr ""
+msgstr "[Pièces actuelles : 10+]"
 
 #: src-en/data/events_special_storage.xml.append:123
 msgid ""
