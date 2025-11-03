@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-01 10:20+0000\n"
+"PO-Revision-Date: 2025-11-03 16:50+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataeventsxmlappend/fr/>\n"
@@ -240,7 +240,7 @@ msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/choice/event/choice/event/text"
 msgstr ""
 "Allons‑y, alors !\n"
-"(Note : Lily peut être contactée depuis le menu de stockage)"
+"(Remarque : Lily peut être contactée depuis le menu de stockage)"
 
 #: src-en/data/events.xml.append:288
 msgid ""
@@ -280,7 +280,7 @@ msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/choice[1]/event/text"
 msgstr ""
 "Dépêchons‑nous alors !\n"
-"(Note : Lily peut être contactée depuis le menu de stockage.)"
+"(Remarque : Lily peut être contactée depuis le menu de stockage.)"
 
 #: src-en/data/events.xml.append:311
 msgid ""
@@ -332,7 +332,7 @@ msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/choice[1]/event/text"
 msgstr ""
 "Dépêchons‑nous alors !\n"
-"(Note : Lily peut être contactée depuis le menu de stockage.)"
+"(Remarque : Lily peut être contactée depuis le menu de stockage.)"
 
 #: src-en/data/events.xml.append:346
 msgid ""
