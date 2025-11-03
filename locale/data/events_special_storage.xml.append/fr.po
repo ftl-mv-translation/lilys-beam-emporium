@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-01 10:20+0000\n"
+"PO-Revision-Date: 2025-11-03 16:50+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_storagexmlappend/fr/>\n"
@@ -22,28 +22,30 @@ msgstr "(Lily) Contacter Lily."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/text"
 msgstr ""
+"Vous parvenez à contacter Lily à distance.\n"
+"Que voulez-vous lui demander ?"
 
 #: src-en/data/events_special_storage.xml.append:20
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[1]/text"
-msgstr ""
+msgstr "Lui demander de vous rappeler son passé."
 
 #: src-en/data/events_special_storage.xml.append:24
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[2]/text"
-msgstr ""
+msgstr "Lui demander des informations sur les armes à rayons spéciaux."
 
 #: src-en/data/events_special_storage.xml.append:28
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[@req=\"unique_lily_avatar\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "Lui demander personnellement de se joindre à vous."
 
 #: src-en/data/events_special_storage.xml.append:32
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[@req=\"unique_lily_avatar\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Elle vous accompagne déjà."
 
 #: src-en/data/events_special_storage.xml.append:36
 msgid ""
@@ -54,16 +56,22 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/text"
 msgstr ""
+"Oh, vous voulez l’une de ces armes à rayons sophistiqués que personne d’"
+"autre n’a ?\n"
+"Eh bien, nous avons quelque chose en commun, alors...\n"
+"Procurez vous les matériaux et les connaissances nécessaires, et je les "
+"partagerai volontiers avec vous."
 
 #: src-en/data/events_special_storage.xml.append:50
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[1]/text"
-msgstr ""
+msgstr "Lui demander des informations sur les armes Éther."
 
 #: src-en/data/events_special_storage.xml.append:54
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[2]/text"
 msgstr ""
+"D’autres options de dialogue seront ajoutées dans de prochaines mises à jour."
 
 #: src-en/data/events_special_storage.xml.append:58
 msgid ""
@@ -156,12 +164,13 @@ msgstr "[Pièces actuelles : 10+]"
 #: src-en/data/events_special_storage.xml.append:123
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[13]/text"
-msgstr ""
+msgstr "Lui donner du matériel technologique à utiliser pour les pièces."
 
 #: src-en/data/events_special_storage.xml.append:127
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[14]/text"
 msgstr ""
+"Lui demander de fabriquer une nouvelle arme à partir des pièces fournies."
 
 #: src-en/data/events_special_storage.xml.append:131
 msgid ""
@@ -171,77 +180,77 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:137
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/text"
-msgstr ""
+msgstr "Sélectionner ce que vous voulez donner :"
 
 #: src-en/data/events_special_storage.xml.append:139
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER\"]/text"
-msgstr ""
+msgstr "Lui offrir un Laser Ancien I."
 
 #: src-en/data/events_special_storage.xml.append:149
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_2\"]/text"
-msgstr ""
+msgstr "Lui offrir un Laser Ancien II."
 
 #: src-en/data/events_special_storage.xml.append:159
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_3\"]/text"
-msgstr ""
+msgstr "Lui offrir un Laser Ancien III."
 
 #: src-en/data/events_special_storage.xml.append:169
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BEAM\"]/text"
-msgstr ""
+msgstr "Lui offrir un Rayon Ancien I."
 
 #: src-en/data/events_special_storage.xml.append:179
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[5]/text"
-msgstr ""
+msgstr "Lui offrir un Rayon Ancien II."
 
 #: src-en/data/events_special_storage.xml.append:189
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[6]/text"
-msgstr ""
+msgstr "Lui offrir un Rayon Ancien III."
 
 #: src-en/data/events_special_storage.xml.append:199
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS\"]/text"
-msgstr ""
+msgstr "Lui offrir un Aiguillon Ancien I."
 
 #: src-en/data/events_special_storage.xml.append:209
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS_2\"]/text"
-msgstr ""
+msgstr "Lui offrir un Aiguillon Ancien II."
 
 #: src-en/data/events_special_storage.xml.append:219
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"HAVOC\"]/text"
-msgstr ""
+msgstr "Lui offrir un Ravageur Ancien."
 
 #: src-en/data/events_special_storage.xml.append:229
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_MISSILES\"]/text"
-msgstr ""
+msgstr "Lui offrir un Lance-missiles Ancien."
 
 #: src-en/data/events_special_storage.xml.append:239
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BOMB\"]/text"
-msgstr ""
+msgstr "Lui offrir un Lance-bombes Ancien."
 
 #: src-en/data/events_special_storage.xml.append:249
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_MINELAUNCHER\"]/text"
-msgstr ""
+msgstr "Lui offrir un Lance-mines Ancien."
 
 #: src-en/data/events_special_storage.xml.append:259
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_ION_1\"]/text"
-msgstr ""
+msgstr "Lui offrir un Lance-plasma Ancien I."
 
 #: src-en/data/events_special_storage.xml.append:269
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_ION_2\"]/text"
-msgstr ""
+msgstr "Lui offrir un Lance-plasma Ancien II."
 
 #: src-en/data/events_special_storage.xml.append:279
 msgid ""
@@ -256,42 +265,42 @@ msgstr "Lui offrir un Pacificateur Ancien."
 #: src-en/data/events_special_storage.xml.append:299
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_LASER\"]/text"
-msgstr ""
+msgstr "Lui offrir un Drone Laser Ancien."
 
 #: src-en/data/events_special_storage.xml.append:309
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_ION\"]/text"
-msgstr ""
+msgstr "Lui offrir un Drone Ionique Ancien."
 
 #: src-en/data/events_special_storage.xml.append:319
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_MISSILE\"]/text"
-msgstr ""
+msgstr "Lui offrir un Drone missiles Ancien."
 
 #: src-en/data/events_special_storage.xml.append:329
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_DEFENSE_1\"]/text"
-msgstr ""
+msgstr "Lui offrir un Drone Surveilleur Ancien."
 
 #: src-en/data/events_special_storage.xml.append:339
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"MENDER\"]/text"
-msgstr ""
+msgstr "Lui offrir un Drone Reconstructeur Ancien."
 
 #: src-en/data/events_special_storage.xml.append:349
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"DIRECTOR\"]/text"
-msgstr ""
+msgstr "Lui offrir un Directeur Ancien."
 
 #: src-en/data/events_special_storage.xml.append:359
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_DEFEND\"]/text"
-msgstr ""
+msgstr "Lui offrir un Atomiseur Ancien."
 
 #: src-en/data/events_special_storage.xml.append:369
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_BOARDER\"]/text"
-msgstr ""
+msgstr "Lui offrir un Atomiseur Ancien."
 
 #: src-en/data/events_special_storage.xml.append:379
 msgid ""
@@ -301,99 +310,99 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:386
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/text"
-msgstr ""
+msgstr "Sélectionner ce que vous voulez qu’elle fabrique :"
 
 #: src-en/data/events_special_storage.xml.append:389
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Fabriquer un Éradicateur Royal III. [5 pts]"
 
 #: src-en/data/events_special_storage.xml.append:399
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[2]/text"
-msgstr ""
+msgstr "Fabriquer un Éradicateur Royal III. [5 pts]"
 
 #: src-en/data/events_special_storage.xml.append:404
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[3]/text"
-msgstr ""
+msgstr "Fabriquer un Purificateur Royal. [4 pts]"
 
 #: src-en/data/events_special_storage.xml.append:414
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[4]/text"
-msgstr ""
+msgstr "Fabriquer un Purificateur Royal. [4 pts]"
 
 #: src-en/data/events_special_storage.xml.append:419
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[5]/text"
-msgstr ""
+msgstr "Fabriquer un Ravageur Royal. [4 pts]"
 
 #: src-en/data/events_special_storage.xml.append:429
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[6]/text"
-msgstr ""
+msgstr "Fabriquer un Ravageur Royal. [4 pts]"
 
 #: src-en/data/events_special_storage.xml.append:434
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[7]/text"
-msgstr ""
+msgstr "Fabriquer un Éradicateur III. [4 pts]"
 
 #: src-en/data/events_special_storage.xml.append:444
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[8]/text"
-msgstr ""
+msgstr "Fabriquer un Éradicateur III. [4 pts]"
 
 #: src-en/data/events_special_storage.xml.append:449
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[9]/text"
-msgstr ""
+msgstr "Fabriquer un Éradicateur II. [3 pts]"
 
 #: src-en/data/events_special_storage.xml.append:459
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[10]/text"
-msgstr ""
+msgstr "Fabriquer un Éradicateur II. [3 pts]"
 
 #: src-en/data/events_special_storage.xml.append:464
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[11]/text"
-msgstr ""
+msgstr "Fabriquer un Éradicateur I. [2 pts]"
 
 #: src-en/data/events_special_storage.xml.append:474
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[12]/text"
-msgstr ""
+msgstr "Fabriquer un Éradicateur I. [2 pts]"
 
 #: src-en/data/events_special_storage.xml.append:479
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Fabriquer un Purificateur II. [3 pts]"
 
 #: src-en/data/events_special_storage.xml.append:489
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[14]/text"
-msgstr ""
+msgstr "Fabriquer un Purificateur II. [3 pts]"
 
 #: src-en/data/events_special_storage.xml.append:494
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[15]/text"
-msgstr ""
+msgstr "Fabriquer un Purificateur I. [2 pts]"
 
 #: src-en/data/events_special_storage.xml.append:504
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[16]/text"
-msgstr ""
+msgstr "Fabriquer un Purificateur I. [2 pts]"
 
 #: src-en/data/events_special_storage.xml.append:509
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[17]/text"
-msgstr ""
+msgstr "Fabriquer un Ravageur. [2 pts]"
 
 #: src-en/data/events_special_storage.xml.append:519
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[18]/text"
-msgstr ""
+msgstr "Fabriquer un Ravageur. [2 pts]"
 
 #: src-en/data/events_special_storage.xml.append:524
 msgid ""
@@ -404,18 +413,33 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/text"
 msgstr ""
+"Oh, vous voulez que je vous rejoigne en personne ?\n"
+"Je ne peux pas faire ça, pour... diverses raisons. Mais je peux vous prêter "
+"mon Avatar.\n"
+"Pensez-y comme à un genre de drone contrôlé à distance... sauf que ce n’en "
+"est pas un. \n"
+"Et n’allez surtout pas le considérer comme jetable, ou vous le regretterez "
+"amèrement. \n"
+"\n"
+"Vous allez cependant avoir besoin d’un équipement spécial pour que je puisse "
+"le faire..."
 
 #: src-en/data/events_special_storage.xml.append:550
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Vous avez déjà la technologie nécessaire, utilisez-la pour invoquer l’Avatar "
+"de Lily..."
 
 #: src-en/data/events_special_storage.xml.append:552
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Une faille dans l’espace s’ouvre soudain près de vous, matérialisant... un "
+"être humain à l’apparence tout à fait ordinaire. Cependant, une sensation "
+"étrange vous traverse..."
 
 #: src-en/data/events_special_storage.xml.append:553
 msgid ""
@@ -426,12 +450,17 @@ msgstr "Lily"
 #: src-en/data/events_special_storage.xml.append:560
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/text"
-msgstr ""
+msgstr "(Celui qui Rimes) Permettez-moi de compter : trois, deux, un.."
 
 #: src-en/data/events_special_storage.xml.append:562
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/event/text"
 msgstr ""
+"Et tout ce qu’il fallait faire est enfin terminé !\n"
+"\n"
+"Une faille dans l’espace s’ouvre soudain près de vous, matérialisant... un "
+"être humain à l’apparence tout à fait ordinaire. Cependant, une sensation "
+"étrange vous traverse..."
 
 #: src-en/data/events_special_storage.xml.append:566
 msgid ""
@@ -441,12 +470,12 @@ msgstr "Lily"
 #: src-en/data/events_special_storage.xml.append:573
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"BLUELIST_AETHER\"]/text"
-msgstr ""
+msgstr "(Technologie Éther) Installer la technologie et l’utiliser [30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:575
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/text"
-msgstr ""
+msgstr "Vous installez la technologie requise..."
 
 #: src-en/data/events_special_storage.xml.append:582
 msgid ""
@@ -457,6 +486,11 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/event/text"
 msgstr ""
+"Et vous l’activez !\n"
+"\n"
+"Une faille dans l’espace s’ouvre soudain près de vous, matérialisant... un "
+"être humain à l’apparence tout à fait ordinaire. Cependant, une sensation "
+"étrange vous traverse..."
 
 #: src-en/data/events_special_storage.xml.append:587
 msgid ""
@@ -466,13 +500,15 @@ msgstr "Lily"
 #: src-en/data/events_special_storage.xml.append:595
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"lily_aether_points\"]/text"
-msgstr ""
+msgstr "(Points d’Éther) Installer la technologie et l’utiliser [30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:599
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Remarque : vous devez être en possession de la Technologie Éther "
+"(ou d’une alternative) pour pouvoir l’installer."
 
 #: src-en/data/events_special_storage.xml.append:603
 msgid ""
@@ -483,6 +519,9 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/text"
 msgstr ""
+"Hé ! Je vous avais bien dit de ne pas considérer mon avatar comme jetable, "
+"non ?\n"
+"Très bien, je vais prendre ça pour un accident... mais seulement cette fois !"
 
 #: src-en/data/events_special_storage.xml.append:615
 msgid ""
@@ -493,6 +532,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/event/text"
 msgstr ""
+"Une faille dans l’espace s’ouvre soudain près de vous, matérialisant à "
+"nouveau l’avatar. Il semble qu’elle ne puisse pas vraiment mourir..."
 
 #: src-en/data/events_special_storage.xml.append:618
 msgid ""
@@ -508,6 +549,10 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/text"
 msgstr ""
+"Hé ! Je vous avais bien dit de ne pas considérer mon avatar comme jetable, "
+"non ?\n"
+"Mais, puisque Celui qui Rime est ici avec vous, je vais faire une "
+"exception... Je ne voudrais pas rater l’amusement, après tout !"
 
 #: src-en/data/events_special_storage.xml.append:637
 msgid ""
@@ -518,6 +563,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/event/text"
 msgstr ""
+"Une faille dans l’espace s’ouvre soudain près de vous, matérialisant à "
+"nouveau l’avatar. Il semble qu’elle ne puisse pas vraiment mourir..."
 
 #: src-en/data/events_special_storage.xml.append:640
 msgid ""
@@ -532,7 +579,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:653
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/text"
-msgstr ""
+msgstr "Bien sûr !"
 
 #: src-en/data/events_special_storage.xml.append:656
 msgid ""
@@ -543,6 +590,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[1]/event/text"
 msgstr ""
+"Une faille dans l’espace s’ouvre soudain près de vous, matérialisant à "
+"nouveau l’avatar. Il semble qu’elle ne puisse pas vraiment mourir..."
 
 #: src-en/data/events_special_storage.xml.append:659
 msgid ""
@@ -558,16 +607,23 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/text"
 msgstr ""
+"Eh bien… payez-moi, alors. \n"
+"Qu’est-ce que les Renégats apprécient, déjà... de la ferraille ? Très bien, "
+"vous pouvez m’en donner... ou je peux tout aussi bien la prendre directement "
+"sur votre vaisseau !"
 
 #: src-en/data/events_special_storage.xml.append:677
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/text"
-msgstr ""
+msgstr "Lui verser 100~"
 
 #: src-en/data/events_special_storage.xml.append:682
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/event/text"
 msgstr ""
+"Une faille dans l’espace s’ouvre soudain, aspirant toute votre ferraille. "
+"Peu après, une autre faille surgit à vos côtés, matérialisant à nouveau l’"
+"avatar. Il semble qu’elle ne puisse pas vraiment mourir..."
 
 #: src-en/data/events_special_storage.xml.append:683
 msgid ""
@@ -578,13 +634,17 @@ msgstr "Lily"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/text"
-msgstr ""
+msgstr "La payer en utilisant votre vaisseau. [20 points de coque endommagés]"
 
 #: src-en/data/events_special_storage.xml.append:694
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/event/text"
 msgstr ""
+"De multiples failles s’ouvrent soudain dans l’espace, manquant de déchirer "
+"votre vaisseau et lui infligeant de lourds dégâts à la coque ! Peu après, "
+"une nouvelle faille apparaît à vos côtés, matérialisant une fois de plus l’"
+"avatar. Il semble qu’elle ne puisse pas vraiment mourir..."
 
 #: src-en/data/events_special_storage.xml.append:695
 msgid ""
@@ -596,7 +656,7 @@ msgstr "Lily"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "La payer en utilisant votre vaisseau. [20 points de coque endommagés]"
 
 #: src-en/data/events_special_storage.xml.append:709
 msgid ""
@@ -607,6 +667,9 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/text"
 msgstr ""
+"Alors, vous voulez connaître mon histoire ?\n"
+"Eh bien, par où commencer ?...\n"
+"Je suppose... par la structure du multivers, peut-être ?"
 
 #: src-en/data/events_special_storage.xml.append:719
 msgid ""
@@ -617,6 +680,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/text"
 msgstr ""
+"Comme vous le savez déjà, en tant que Renégat du Multivers, il existe une "
+"multitude d’univers entre lesquels vous pouvez voyager grâce au moteur "
+"Multiversel. Et leur nombre est infini. \n"
+"Dans certains d’entre eux, c’est la Fédération qui l’emporte "
+"(et si vous menez à bien votre mission, cet univers en fera partie). Dans d’"
+"autres, c’est la Rébellion qui triomphe. Bon sang, j’ai même vu des univers "
+"où les Orchidées et les Vampiflores se sont alliées aux Limaces pour "
+"conquérir des galaxies entières...\n"
+"Mais dans l’ensemble, ils se ressemblent souvent : il y a des vaisseaux "
+"spatiaux, la Fédération, la Rébellion, les Mantiss, les Rocailleux, et tout "
+"ce genre de choses...\n"
+"Et cet ensemble d’univers similaires est généralement appelé un 'amas'. "
+"Votre amas peut contenir une infinité d’univers, mais il n’est pas le seul..."
 
 #: src-en/data/events_special_storage.xml.append:726
 msgid ""
@@ -627,6 +703,17 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/text"
 msgstr ""
+"Cependant, d’autres amas peuvent être très, très différents du vôtre. J’ai "
+"déjà été dans un amas où il n’y avait aucun humain, aucune vie "
+"traditionnelle. À la place, les seuls habitants étaient d’énormes essaims de "
+"machines intelligentes, qui utilisaient toute la matière et l’énergie "
+"disponibles pour construire des montagnes de... quelque chose qui "
+"ressemblait à des trombones ?\n"
+"Certainement pas un endroit agréable pour les vacances, contrairement à un "
+"amas où les rivières sont faites de boissons gazeuses, le sol de guimauve, "
+"et les plantes de chocolat noir et blanc...\n"
+"Et il existe de très nombreuses possibilités quant au contenu des différents "
+"amas."
 
 #: src-en/data/events_special_storage.xml.append:732
 msgid ""
@@ -637,6 +724,12 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/text"
 msgstr ""
+"Et comme vous vous en doutez peut-être, je ne viens pas de cet amas non plus."
+"\n"
+"Je viens d’un endroit très, très, très lointain. Un lieu dangereux, ravagé "
+"par des conflits incessants...\n"
+"Alors, ayant compris qu’il valait mieux partir, je me suis 'auto-exilée', "
+"pour ainsi dire, et je suis partie explorer d’autres amas."
 
 #: src-en/data/events_special_storage.xml.append:738
 msgid ""
@@ -647,6 +740,13 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/text"
 msgstr ""
+"Et c’était une période vraiment merveilleuse ! J’ai exploré tout ce qu’il y "
+"avait à explorer, appris d’innombrables technologies, mené toutes sortes "
+"d’expériences...\n"
+"...J’ai peut-être provoqué l’implosion de quelques réalités au passage, bien "
+"sûr...\n"
+"Oups !!!\n"
+"Mais c’était drôlement amusant, alors laissons le passé là où il est."
 
 #: src-en/data/events_special_storage.xml.append:745
 msgid ""
@@ -657,6 +757,17 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/text"
 msgstr ""
+"Mais bien sûr, tout a changé lorsque ces fichues Limaces, avec leurs "
+"vaisseaux gris et verts, sont arrivées...\n"
+"Vous savez, celles qui portent ce symbole étrange, le chiffre '8 ' !!!\n"
+"Non seulement elles ont réussi à capturer ma Maîtresse, sans doute grâce à "
+"leurs sales ruses de Limaces, mais en plus elles passent leur temps à me "
+"harceler dès que j’essaie de m’amuser un peu !\n"
+"C’est pour ça que je me limite, ces temps-ci, à vendre quelques armes à "
+"rayons...\n"
+"Et tout ça, soi-disant pour \"l’Ordre\" et la \"Continuité Multiverselle\" ? "
+"Pff ! Comme si les Limaces savaient quoi que ce soit sur \"l’ordre\" ! "
+"Quelle absurdité !"
 
 #: src-en/data/events_special_storage.xml.append:753
 msgid ""
@@ -667,6 +778,14 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/text"
 msgstr ""
+"Et je ne laisserai pas ces saletés visqueuses s’en tirer comme ça ! Elles "
+"vont tomber, tôt ou tard !\n"
+"...Enfin, dès que je trouverai un moyen de réellement les vaincre... Une "
+"arme à rayons spéciale pourrait faire l’affaire, ou peut-être une arme de "
+"destruction massive...\n"
+"...Et dès que je découvrirai aussi leur repaire, bien sûr. Mais j’ai entendu "
+"dire qu’il existe, dans cet univers, un passage, quelque chose en rapport "
+"avec le 'Cœur de la Tempête'..."
 
 #: src-en/data/events_special_storage.xml.append:759
 msgid ""
@@ -677,6 +796,15 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/text"
 msgstr ""
+"...Heureusement, ma Maîtresse est patiente et rusée... et moi aussi.\n"
+"Nous finirons bien par trouver une solution, tôt ou tard.\n"
+"...Mais cela ne veut pas dire que vous ne pouvez pas aider. Si vous parvenez "
+"à réussir, vous serez amplement récompensé.\n"
+"Oh, et vous aurez accès à toutes sortes d’armes prototypes que je vais "
+"tester et développer. N’est-ce pas excitant ?\n"
+"...Et si vous échouez, eh bien, les données recueillies au cours de vos "
+"voyages serviront quand même notre objectif. Peut-être que le prochain "
+"Renégat réussira, si ce n’est pas vous..."
 
 #: src-en/data/events_special_storage.xml.append:767
 msgid ""
@@ -687,6 +815,12 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_9\"]/text"
 msgstr ""
+"Eh bien, c’était toute une histoire, n’est-ce pas ? J’espère que vous "
+"comprenez mieux, maintenant, et que vous serez plus motivé à nous aider...\n"
+"Non seulement cela me profitera, mais aussi à vous également ! On peut dire "
+"que c’est une situation gagnant-gagnant !\n"
+"Bref, y avait-il autre chose que vous vouliez me demander ?\n"
+"(P.-S. : Bravo si vous avez réellement tout lu jusqu’ici !)"
 
 #: src-en/data/events_special_storage.xml.append:775
 msgid ""
@@ -696,22 +830,22 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:781
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/choice[2]/text"
-msgstr ""
+msgstr "J'espère que vous avez terminé ?"
 
 #: src-en/data/events_special_storage.xml.append:787
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/choice[2]/text"
-msgstr ""
+msgstr "Arrêtez."
 
 #: src-en/data/events_special_storage.xml.append:793
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/choice[2]/text"
-msgstr ""
+msgstr "Arrêtez, s'il vous plaît."
 
 #: src-en/data/events_special_storage.xml.append:799
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/choice[2]/text"
-msgstr ""
+msgstr "Ça suffit !"
 
 #: src-en/data/events_special_storage.xml.append:805
 msgid ""
@@ -721,116 +855,140 @@ msgstr "Arrêter d'écouter."
 #: src-en/data/events_special_storage.xml.append:811
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/choice[2]/text"
-msgstr ""
+msgstr "Sortez de la pièce."
 
 #: src-en/data/events_special_storage.xml.append:817
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/choice[2]/text"
-msgstr ""
+msgstr "Arrêtez de parler, s'il vous plaît."
 
 #: src-en/data/events_special_storage.xml.append:823
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/choice[2]/text"
-msgstr ""
+msgstr "En fait, je ne suis pas d'humeur pour ça."
 
 #: src-en/data/events_special_storage.xml.append:837
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Lily) Invoquez la Galerie de Lily. [Flotte boostée pour 1 saut]"
 
 #: src-en/data/events_special_storage.xml.append:850
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Sirène."
 
 #: src-en/data/events_special_storage.xml.append:863
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/text"
-msgstr ""
+msgstr "Vous consultez le menu du laboratoire pour : [SIRENES]"
 
 #: src-en/data/events_special_storage.xml.append:865
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_VAMP\"]/text"
 msgstr ""
+"Actuellement installé : Siphon d'Âme.\n"
+" [Les sirènes soignent désormais en fonction des dégâts qu'elles infligent, "
+"mais leurs dégâts sont réduits de moitié]"
 
 #: src-en/data/events_special_storage.xml.append:870
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_BUFF\"]/text"
 msgstr ""
+"Actuellement installé : Rêves colorés.\n"
+"[Les membres de l'équipage alliés non sirènes se trouvant dans la même pièce "
+"que les sirènes subissent désormais 30 % de dégâts en moins, se réparent 50 "
+"% plus rapidement et deviennent immunisés contre le contrôle mental, mais "
+"perdent 50 % de leur vitesse de déplacement]"
 
 #: src-en/data/events_special_storage.xml.append:875
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_DAMAGE\"]/text"
 msgstr ""
+"Actuellement installé : Regard Flétrissant.\n"
+"[Les ennemis directement ciblés par les sirènes subissent 30 % de dégâts "
+"supplémentaires provenant de toutes les sources et perdent leur immunité au "
+"contrôle mental s'ils en avaient une. Cela n'affecte pas les autres sirènes "
+"ni les créatures surnaturelles]"
 
 #: src-en/data/events_special_storage.xml.append:880
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[4]/text"
-msgstr ""
+msgstr "Actuellement installé : Aucune"
 
 #: src-en/data/events_special_storage.xml.append:884
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[5]/text"
-msgstr ""
+msgstr "Primaire : Siphon d'Âme. [Une amélioration est déjà installée]"
 
 #: src-en/data/events_special_storage.xml.append:888
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[6]/text"
-msgstr ""
+msgstr "Primaire : Siphon d'Âme. [Coût : 30~, 2{, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:892
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[7]/text"
-msgstr ""
+msgstr "Primaire : Rêves colorés. [Une amélioration est déjà installée]"
 
 #: src-en/data/events_special_storage.xml.append:896
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[8]/text"
-msgstr ""
+msgstr "Primaire : Rêves colorés. [Coût : 6{]"
 
 #: src-en/data/events_special_storage.xml.append:900
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[9]/text"
-msgstr ""
+msgstr "Primaire : Regard Flétrissant. [Une amélioration est déjà installée]"
 
 #: src-en/data/events_special_storage.xml.append:904
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[10]/text"
-msgstr ""
+msgstr "Primaire : Regard Flétrissant. [Coût : 40~, 8}]"
 
 #: src-en/data/events_special_storage.xml.append:908
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_HARPY_MIND\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Secondaire [Harpie] : Assaut Mental. [Une amélioration est déjà installée]\n"
+"\t\t[Les Harpies Sirènes obtiennent une nouvelle capacité : contrôler "
+"mentalement un membre d’équipage ennemi aléatoire dans la salle actuelle "
+"pendant 10 secondes, avec un temps de recharge de 30 secondes]"
 
 #: src-en/data/events_special_storage.xml.append:913
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_HARPY_MIND\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Secondaire [Harpie] : Assaut Mental. [Coût : 50~, 5{]"
 
 #: src-en/data/events_special_storage.xml.append:917
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[13]/text"
-msgstr ""
+msgstr "Revenir en arrière."
 
 #: src-en/data/events_special_storage.xml.append:922
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/text"
 msgstr ""
+"Vous êtes sur le point d’installer la modification Siphon d’Âme.\n"
+"\t[Effets : Les Sirènes récupèrent des points de vie en infligeant des "
+"dégâts, mais leurs dégâts sont réduits de moitié.]\n"
+"\t\n"
+"\t[Avertissement : Après avoir installé cela, vous ne pourrez plus installer "
+"d'autres améliorations primaires pour les membres d'équipage Sirènes. Vous "
+"ne pourrez pas non plus désactiver cette modification.]"
 
 #: src-en/data/events_special_storage.xml.append:927
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/text"
-msgstr ""
+msgstr "Installer la modification. [Coût : 30~, 2{, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:929
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Vous installez la modification."
 
 #: src-en/data/events_special_storage.xml.append:936
 msgid ""
@@ -846,16 +1004,25 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/text"
 msgstr ""
+"Vous êtes sur le point d’installer la modification Rêves Colorés.\n"
+"\t[Effets : Les membres d’équipage alliés non-Sirènes présents dans la même "
+"salle que les Sirènes subissent 30 % de dégâts en moins, réparent 50 % plus "
+"rapidement et deviennent immunisés au contrôle mental, mais perdent 50 % de "
+"leur vitesse de déplacement.]\n"
+"\t\n"
+"\t[Avertissement : Après avoir installé cela, vous ne pourrez plus installer "
+"d'autres améliorations primaires pour les membres d'équipage Sirènes. Vous "
+"ne pourrez pas non plus désactiver cette modification.]"
 
 #: src-en/data/events_special_storage.xml.append:958
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/text"
-msgstr ""
+msgstr "Installer la modification. [Coût : 6{]"
 
 #: src-en/data/events_special_storage.xml.append:960
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Vous installez la modification."
 
 #: src-en/data/events_special_storage.xml.append:965
 msgid ""
@@ -871,16 +1038,25 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/text"
 msgstr ""
+"Vous êtes sur le point d’installer la modification Regard Flétrissant.\n"
+"\t[Effets : Les ennemis directement ciblés par les Sirènes subissent 30 % de "
+"dégâts supplémentaires de toutes sources et perdent leur immunité au "
+"contrôle mental, le cas échéant. N’affecte pas les autres Sirènes ni les "
+"êtres Eldritch.]\n"
+"\t\n"
+"\t[Avertissement : Après avoir installé cela, vous ne pourrez plus installer "
+"d'autres améliorations primaires pour les membres d'équipage Sirènes. Vous "
+"ne pourrez pas non plus désactiver cette modification.]"
 
 #: src-en/data/events_special_storage.xml.append:987
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/text"
-msgstr ""
+msgstr "Installer la modification. [Coût : 40~, 8}]"
 
 #: src-en/data/events_special_storage.xml.append:989
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Vous installez la modification."
 
 #: src-en/data/events_special_storage.xml.append:995
 msgid ""
@@ -896,18 +1072,26 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/text"
 msgstr ""
+"Vous êtes sur le point d’installer la modification Assaut Mental.\n"
+" [Effets : Les Harpies Sirènes obtiennent une nouvelle capacité : contrôler "
+"mentalement un membre d’équipage ennemi aléatoire dans la salle actuelle "
+"pendant 10 secondes, avec un temps de recharge de 30 secondes.]\n"
+"\n"
+" [Avertissement : Cette modification n'affectera que les Harpies Sirènes. "
+"Vous pourrez installer d'autres modifications secondaires et primaires par "
+"la suite.]"
 
 #: src-en/data/events_special_storage.xml.append:1017
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Installer la modification. [Coût : 50~, 5{]"
 
 #: src-en/data/events_special_storage.xml.append:1019
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "Vous installez la modification."
 
 #: src-en/data/events_special_storage.xml.append:1025
 msgid ""
@@ -920,6 +1104,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer de l'amélioration du laboratoire pour cette modification."
 
 #: src-en/data/events_special_storage.xml.append:1035
 msgid ""
@@ -931,28 +1116,32 @@ msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"Rayon 'Sunset' Définir l’état de l’arme. [Mode actuel : Démolition de Coque]"
 
 #: src-en/data/events_special_storage.xml.append:1054
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Rayon 'Sunset' Définir l’état de l’arme. [Mode actuel : Particule]"
 
 #: src-en/data/events_special_storage.xml.append:1058
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[3]/text"
 msgstr ""
+"Rayon 'Sunset' Définir l’état de l’arme. [Mode actuel : Anti-Biologique]"
 
 #: src-en/data/events_special_storage.xml.append:1066
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/text"
 msgstr ""
+"Quel mode voulez-vous pour votre arme ?\n"
+"\tMode actuel : Démolition de Coque."
 
 #: src-en/data/events_special_storage.xml.append:1069
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/text"
-msgstr ""
+msgstr "Passer en mode Particules."
 
 #: src-en/data/events_special_storage.xml.append:1071
 msgid ""
@@ -977,7 +1166,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1087
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/text"
-msgstr ""
+msgstr "Passer en mode Anti-biologique."
 
 #: src-en/data/events_special_storage.xml.append:1089
 msgid ""
@@ -1008,11 +1197,13 @@ msgstr "Retourner au menu Interchanger."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/text"
 msgstr ""
+"Quel mode voulez-vous pour votre arme ?\n"
+"\tMode actuel : Particule."
 
 #: src-en/data/events_special_storage.xml.append:1113
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/text"
-msgstr ""
+msgstr "Passer en mode Démolition de Coque."
 
 #: src-en/data/events_special_storage.xml.append:1115
 msgid ""
@@ -1037,7 +1228,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1131
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/text"
-msgstr ""
+msgstr "Passer en mode Anti-biologique."
 
 #: src-en/data/events_special_storage.xml.append:1133
 msgid ""
@@ -1068,11 +1259,13 @@ msgstr "Retourner au menu Interchanger."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/text"
 msgstr ""
+"Quel mode voulez-vous pour votre arme ?\n"
+"\tMode actuel : Anti-Biologique."
 
 #: src-en/data/events_special_storage.xml.append:1157
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/text"
-msgstr ""
+msgstr "Passer en mode Démolition de Coque."
 
 #: src-en/data/events_special_storage.xml.append:1159
 msgid ""
@@ -1097,7 +1290,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1175
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/text"
-msgstr ""
+msgstr "Passer en mode Particules."
 
 #: src-en/data/events_special_storage.xml.append:1177
 msgid ""
@@ -1128,35 +1321,37 @@ msgstr "Retourner au menu Interchanger."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "(Rayon 'Eventide') Définir l’état de l’arme. [Mode actuel : Long]"
 
 #: src-en/data/events_special_storage.xml.append:1206
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "(Rayon 'Eventide') Définir l’état de l’arme. [Mode actuel : Déchirer]"
 
 #: src-en/data/events_special_storage.xml.append:1210
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "(Rayon 'Eventide') Définir l’état de l’arme. [Mode actuel : Thermique]"
 
 #: src-en/data/events_special_storage.xml.append:1214
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "(Rayon 'Eventide') Définir l’état de l’arme. [Mode actuel : Piratage]"
 
 #: src-en/data/events_special_storage.xml.append:1220
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/text"
 msgstr ""
+"Quel mode voulez-vous pour votre arme ?\n"
+"\tMode actuel : Long."
 
 #: src-en/data/events_special_storage.xml.append:1223
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/text"
-msgstr ""
+msgstr "Passer en mode Déchirer."
 
 #: src-en/data/events_special_storage.xml.append:1225
 msgid ""
@@ -1181,7 +1376,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1241
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/text"
-msgstr ""
+msgstr "Passer en mode Thermique."
 
 #: src-en/data/events_special_storage.xml.append:1243
 msgid ""
@@ -1206,7 +1401,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1259
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/text"
-msgstr ""
+msgstr "Passer en mode Piratage."
 
 #: src-en/data/events_special_storage.xml.append:1261
 msgid ""
@@ -1237,11 +1432,13 @@ msgstr "Retourner au menu Interchanger."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/text"
 msgstr ""
+"Quel mode voulez-vous pour votre arme ?\n"
+"\tMode actuel : Déchirer."
 
 #: src-en/data/events_special_storage.xml.append:1286
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/text"
-msgstr ""
+msgstr "Passer en mode Long."
 
 #: src-en/data/events_special_storage.xml.append:1288
 msgid ""
@@ -1266,7 +1463,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1304
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/text"
-msgstr ""
+msgstr "Passer en mode Thermique."
 
 #: src-en/data/events_special_storage.xml.append:1306
 msgid ""
@@ -1291,7 +1488,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1322
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/text"
-msgstr ""
+msgstr "Passer en mode Piratage."
 
 #: src-en/data/events_special_storage.xml.append:1324
 msgid ""
@@ -1322,11 +1519,13 @@ msgstr "Retourner au menu Interchanger."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/text"
 msgstr ""
+"Quel mode voulez-vous pour votre arme ?\n"
+"\tMode actuel : Thermique."
 
 #: src-en/data/events_special_storage.xml.append:1350
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/text"
-msgstr ""
+msgstr "Passer en mode Long."
 
 #: src-en/data/events_special_storage.xml.append:1352
 msgid ""
@@ -1351,7 +1550,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1368
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/text"
-msgstr ""
+msgstr "Passer en mode Déchirer."
 
 #: src-en/data/events_special_storage.xml.append:1370
 msgid ""
@@ -1376,7 +1575,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1386
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/text"
-msgstr ""
+msgstr "Passer en mode Piratage."
 
 #: src-en/data/events_special_storage.xml.append:1388
 msgid ""
@@ -1407,11 +1606,13 @@ msgstr "Retourner au menu Interchanger."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/text"
 msgstr ""
+"Quel mode voulez-vous pour votre arme ?\n"
+"\tMode actuel : Piratage."
 
 #: src-en/data/events_special_storage.xml.append:1412
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/text"
-msgstr ""
+msgstr "Passer en mode Long."
 
 #: src-en/data/events_special_storage.xml.append:1414
 msgid ""
@@ -1436,7 +1637,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1430
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/text"
-msgstr ""
+msgstr "Passer en mode Déchirer."
 
 #: src-en/data/events_special_storage.xml.append:1432
 msgid ""
@@ -1461,7 +1662,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1448
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/text"
-msgstr ""
+msgstr "Passer en mode Thermique."
 
 #: src-en/data/events_special_storage.xml.append:1450
 msgid ""
@@ -1492,29 +1693,31 @@ msgstr "Retourner au menu Interchanger."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "('Akatsuki') Définir l’état de l’arme. [Mode actuel : Rayon]"
 
 #: src-en/data/events_special_storage.xml.append:1480
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "('Akatsuki') Définir l’état de l’arme. [Mode actuel : Focaliser]"
 
 #: src-en/data/events_special_storage.xml.append:1484
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "('Akatsuki') Définir l’état de l’arme. [Mode actuel : Disperseur]"
 
 #: src-en/data/events_special_storage.xml.append:1492
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/text"
 msgstr ""
+"Quel mode voulez-vous pour votre arme ?\n"
+"\tMode actuel : Rayon."
 
 #: src-en/data/events_special_storage.xml.append:1495
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/text"
-msgstr ""
+msgstr "Passer en mode Focaliser."
 
 #: src-en/data/events_special_storage.xml.append:1497
 msgid ""
@@ -1539,7 +1742,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1513
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/text"
-msgstr ""
+msgstr "Passer en mode Disperseur."
 
 #: src-en/data/events_special_storage.xml.append:1515
 msgid ""
@@ -1570,11 +1773,13 @@ msgstr "Retourner au menu Interchanger."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/text"
 msgstr ""
+"Quel mode voulez-vous pour votre arme ?\n"
+"\tMode actuel : Focaliser."
 
 #: src-en/data/events_special_storage.xml.append:1539
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/text"
-msgstr ""
+msgstr "Passer en mode Rayon."
 
 #: src-en/data/events_special_storage.xml.append:1541
 msgid ""
@@ -1599,7 +1804,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1557
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/text"
-msgstr ""
+msgstr "Passer en mode Disperseur."
 
 #: src-en/data/events_special_storage.xml.append:1559
 msgid ""
@@ -1630,11 +1835,13 @@ msgstr "Retourner au menu Interchanger."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/text"
 msgstr ""
+"Quel mode voulez-vous pour votre arme ?\n"
+"\tMode actuel : Disperseur."
 
 #: src-en/data/events_special_storage.xml.append:1583
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/text"
-msgstr ""
+msgstr "Passer en mode Rayon."
 
 #: src-en/data/events_special_storage.xml.append:1585
 msgid ""
@@ -1659,7 +1866,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1601
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/text"
-msgstr ""
+msgstr "Passer en mode Focaliser."
 
 #: src-en/data/events_special_storage.xml.append:1603
 msgid ""
@@ -1690,41 +1897,45 @@ msgstr "Retourner au menu Interchanger."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "(Rayon 'Seringue') Définir l’état de l’arme. [Mode actuel : Vide]"
 
 #: src-en/data/events_special_storage.xml.append:1634
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[2]/text"
 msgstr ""
+"(Rayon 'Seringue') Réinitialiser l’état de l’arme. [Mode actuel : Médical]"
 
 #: src-en/data/events_special_storage.xml.append:1638
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[3]/text"
 msgstr ""
+"(Rayon 'Seringue') Réinitialiser l’état de l’arme. [Mode actuel : Stimulant]"
 
 #: src-en/data/events_special_storage.xml.append:1642
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[4]/text"
 msgstr ""
+"(Rayon 'Seringue') Réinitialiser l’état de l’arme. [Mode actuel : Poison]"
 
 #: src-en/data/events_special_storage.xml.append:1646
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[5]/text"
 msgstr ""
+"(Rayon 'Seringue') Réinitialiser l’état de l’arme. [Mode actuel : Acide]"
 
 #: src-en/data/events_special_storage.xml.append:1654
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/text"
-msgstr ""
+msgstr "Avec quoi voulez-vous charger l'arme ?"
 
 #: src-en/data/events_special_storage.xml.append:1656
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/text"
-msgstr ""
+msgstr "Médical."
 
 #: src-en/data/events_special_storage.xml.append:1658
 msgid ""
@@ -1749,7 +1960,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1674
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/text"
-msgstr ""
+msgstr "Stimulant."
 
 #: src-en/data/events_special_storage.xml.append:1676
 msgid ""
@@ -1774,7 +1985,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1692
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/text"
-msgstr ""
+msgstr "Poison."
 
 #: src-en/data/events_special_storage.xml.append:1694
 msgid ""
@@ -1799,7 +2010,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1710
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/text"
-msgstr ""
+msgstr "Acide."
 
 #: src-en/data/events_special_storage.xml.append:1712
 msgid ""
@@ -1911,40 +2122,48 @@ msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"(Rayon 'Edison') Régler la puissance de l’arme. [Puissance actuelle : 0]"
 
 #: src-en/data/events_special_storage.xml.append:1817
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[2]/text"
 msgstr ""
+"(Rayon 'Edison') Régler la puissance de l’arme. [Puissance actuelle : 1]"
 
 #: src-en/data/events_special_storage.xml.append:1820
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[3]/text"
 msgstr ""
+"(Rayon 'Edison') Régler la puissance de l’arme. [Puissance actuelle : 2]"
 
 #: src-en/data/events_special_storage.xml.append:1824
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[4]/text"
 msgstr ""
+"(Rayon 'Edison') Régler la puissance de l’arme. [Puissance actuelle : 3]"
 
 #: src-en/data/events_special_storage.xml.append:1828
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[5]/text"
 msgstr ""
+"(Rayon 'Edison') Régler la puissance de l’arme. "
+"[Puissance actuelle : SURMULTIPLICATEUR]"
 
 #: src-en/data/events_special_storage.xml.append:1836
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/text"
 msgstr ""
+"Quelle puissance voulez-vous donner à l'arme ?\n"
+"\tActuellement : [Puissance : 0 ; Tirs : 2]."
 
 #: src-en/data/events_special_storage.xml.append:1839
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/text"
-msgstr ""
+msgstr "Réglé sur : [Puissance : 1 ; Tirs : 3]"
 
 #: src-en/data/events_special_storage.xml.append:1841
 msgid ""
@@ -1969,7 +2188,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1857
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/text"
-msgstr ""
+msgstr "Réglé sur : [Puissance : 2 ; Tirs : 5]"
 
 #: src-en/data/events_special_storage.xml.append:1859
 msgid ""
@@ -1994,7 +2213,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1875
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/text"
-msgstr ""
+msgstr "Réglé sur : [Puissance : 3 ; Tirs : 8]"
 
 #: src-en/data/events_special_storage.xml.append:1877
 msgid ""
@@ -2019,7 +2238,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1893
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/text"
-msgstr ""
+msgstr "Réglé sur : [SURMULTIPLICATEUR]"
 
 #: src-en/data/events_special_storage.xml.append:1895
 msgid ""
@@ -2050,11 +2269,13 @@ msgstr "Retourner au menu Interchanger."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/text"
 msgstr ""
+"Quelle puissance voulez-vous donner à l'arme ?\n"
+"\tActuellement : [Puissance : 1 ; Tirs : 3]."
 
 #: src-en/data/events_special_storage.xml.append:1921
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/text"
-msgstr ""
+msgstr "Réglé sur : [Puissance : 0 ; Tirs : 2]"
 
 #: src-en/data/events_special_storage.xml.append:1923
 msgid ""
@@ -2079,7 +2300,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1939
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/text"
-msgstr ""
+msgstr "Réglé sur : [Puissance : 2 ; Tirs : 5]"
 
 #: src-en/data/events_special_storage.xml.append:1941
 msgid ""
@@ -2104,7 +2325,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1957
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/text"
-msgstr ""
+msgstr "Réglé sur : [Puissance : 3 ; Tirs : 8]"
 
 #: src-en/data/events_special_storage.xml.append:1959
 msgid ""
@@ -2129,7 +2350,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1975
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/text"
-msgstr ""
+msgstr "Réglé sur : [SURMULTIPLICATEUR]"
 
 #: src-en/data/events_special_storage.xml.append:1977
 msgid ""
@@ -2160,11 +2381,13 @@ msgstr "Retourner au menu Interchanger."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/text"
 msgstr ""
+"Quelle puissance voulez-vous donner à l'arme ?\n"
+"\tActuellement : [Puissance : 5 ; Tirs : 5]."
 
 #: src-en/data/events_special_storage.xml.append:2002
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/text"
-msgstr ""
+msgstr "Réglé sur : [Puissance : 0 ; Tirs : 2]"
 
 #: src-en/data/events_special_storage.xml.append:2004
 msgid ""
@@ -2189,7 +2412,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:2020
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/text"
-msgstr ""
+msgstr "Réglé sur : [Puissance : 1 ; Tirs : 3]"
 
 #: src-en/data/events_special_storage.xml.append:2022
 msgid ""
@@ -2214,7 +2437,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:2038
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/text"
-msgstr ""
+msgstr "Réglé sur : [Puissance : 3 ; Tirs : 8]"
 
 #: src-en/data/events_special_storage.xml.append:2040
 msgid ""
@@ -2239,7 +2462,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:2056
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/text"
-msgstr ""
+msgstr "Réglé sur : [SURMULTIPLICATEUR]"
 
 #: src-en/data/events_special_storage.xml.append:2058
 msgid ""
@@ -2270,11 +2493,13 @@ msgstr "Retourner au menu Interchanger."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/text"
 msgstr ""
+"Quelle puissance voulez-vous donner à l'arme ?\n"
+"\tActuellement : [Puissance : 3 ; Tirs : 8]."
 
 #: src-en/data/events_special_storage.xml.append:2083
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/text"
-msgstr ""
+msgstr "Réglé sur : [Puissance : 0 ; Tirs : 2]"
 
 #: src-en/data/events_special_storage.xml.append:2085
 msgid ""
@@ -2299,7 +2524,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:2101
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/text"
-msgstr ""
+msgstr "Réglé sur : [Puissance : 1 ; Tirs : 3]"
 
 #: src-en/data/events_special_storage.xml.append:2103
 msgid ""
@@ -2324,7 +2549,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:2119
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/text"
-msgstr ""
+msgstr "Réglé sur : [Puissance : 2 ; Tirs : 5]"
 
 #: src-en/data/events_special_storage.xml.append:2121
 msgid ""
@@ -2349,7 +2574,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:2137
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/text"
-msgstr ""
+msgstr "Réglé sur : [SURMULTIPLICATEUR]"
 
 #: src-en/data/events_special_storage.xml.append:2139
 msgid ""
@@ -2380,11 +2605,13 @@ msgstr "Retourner au menu Interchanger."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/text"
 msgstr ""
+"Quelle puissance voulez-vous donner à l'arme ?\n"
+"\tActuellement : [SURMULTIPLICATEUR]."
 
 #: src-en/data/events_special_storage.xml.append:2164
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/text"
-msgstr ""
+msgstr "Réglé sur : [Puissance : 0 ; Tirs : 2]"
 
 #: src-en/data/events_special_storage.xml.append:2166
 msgid ""
@@ -2409,7 +2636,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:2182
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/text"
-msgstr ""
+msgstr "Réglé sur : [Puissance : 1 ; Tirs : 3]"
 
 #: src-en/data/events_special_storage.xml.append:2184
 msgid ""
@@ -2434,7 +2661,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:2200
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/text"
-msgstr ""
+msgstr "Réglé sur : [Puissance : 2 ; Tirs : 5]"
 
 #: src-en/data/events_special_storage.xml.append:2202
 msgid ""
@@ -2459,7 +2686,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:2218
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/text"
-msgstr ""
+msgstr "Réglé sur : [Puissance : 3 ; Tirs : 8]"
 
 #: src-en/data/events_special_storage.xml.append:2220
 msgid ""
@@ -2490,18 +2717,18 @@ msgstr "Retourner au menu Interchanger."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Postcombustion) Activer la Postcombustion !"
 
 #: src-en/data/events_special_storage.xml.append:2253
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_FAIL_REAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Postcombustion) Activer la Postcombustion !"
 
 #: src-en/data/events_special_storage.xml.append:2259
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/text"
-msgstr ""
+msgstr "Comment souhaitez-vous utiliser l’augmentation ?"
 
 #: src-en/data/events_special_storage.xml.append:2261
 msgid ""
@@ -2518,7 +2745,7 @@ msgstr "Vous activez l'augmentation de combat."
 #: src-en/data/events_special_storage.xml.append:2271
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Votre postcombustion s’éteindra dans ce laps de temps."
 
 #: src-en/data/events_special_storage.xml.append:2276
 msgid ""
@@ -2540,7 +2767,7 @@ msgstr "Vous activez l'augmentation de combat."
 #: src-en/data/events_special_storage.xml.append:2292
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Votre postcombustion s’éteindra dans ce laps de temps."
 
 #: src-en/data/events_special_storage.xml.append:2297
 msgid ""
@@ -2551,6 +2778,9 @@ msgstr "Poursuivre le combat !"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[3]/text"
 msgstr ""
+"Brûler l’ennemi ! \n"
+"[-3{, inflige des dégâts à l’ennemi équivalents à votre niveau de moteur, "
+"provoque des incendies]"
 
 #: src-en/data/events_special_storage.xml.append:2306
 msgid ""
@@ -2566,6 +2796,9 @@ msgstr "Poursuivre le combat !"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[4]/text"
 msgstr ""
+"Brûler l’ennemi ! (En utilisant le Générateur de secours)\n"
+"[-2{, inflige des dégâts à l’ennemi équivalents à votre niveau de moteur, "
+"provoque des incendies]"
 
 #: src-en/data/events_special_storage.xml.append:2331
 msgid ""
@@ -2596,6 +2829,8 @@ msgstr "Vous décidez de ne rien faire et de vous préparer à vous battre."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER_POWERDOWN\"]/text"
 msgstr ""
+"Votre postcombustion a surchauffé et s’est arrêtée. Votre esquive est "
+"revenue à la normale."
 
 #: src-en/data/events_special_storage.xml.append:2369
 msgid ""
@@ -2607,12 +2842,14 @@ msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"(Multi-Aiguillon 'Réseau') Passer en mode Disperseur. [Mode actuel : Motif]"
 
 #: src-en/data/events_special_storage.xml.append:2444
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[2]/text"
 msgstr ""
+"(Multi-Aiguillon 'Réseau') Passer en mode Motif. [Mode actuel : Disperseur]"
 
 #: src-en/data/events_special_storage.xml.append:2452
 msgid ""
@@ -2659,12 +2896,14 @@ msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"(Multi-Aiguillon 'Matrix') Passer en mode Disperseur. [Mode actuel : Motif]"
 
 #: src-en/data/events_special_storage.xml.append:2490
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
 "append:choice[2]/text"
 msgstr ""
+"(Multi-Aiguillon 'Matrix') Passer en mode Motif. [Mode actuel : Disperseur]"
 
 #: src-en/data/events_special_storage.xml.append:2496
 msgid ""
