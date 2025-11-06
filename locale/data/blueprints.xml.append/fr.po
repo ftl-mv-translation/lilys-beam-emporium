@@ -314,6 +314,16 @@ msgstr ""
 "Une voyageuse multiverselle, vendeuse de rayons lumineux et fidèle servante "
 "de la Déesse suprême et mystérieuse du Chaos véritable. Oui, c'est moi..."
 
+#: src-en/data/blueprints.xml.append:431
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:432
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/short"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:435
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[1]"
