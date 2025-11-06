@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-11-07 02:19+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/"
+"lilys-beam-emporium/datahyperspace-xml-append/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/hyperspace.xml.append:85
 msgid "data/hyperspace.xml.append$//siren_harpy[@name=\"Liliana\"]/@name"
@@ -615,58 +622,66 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/name"
-msgstr ""
+msgstr "Faveur des Anomalies"
 
 #: src-en/data/hyperspace.xml.append:3249
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/secretDescription"
-msgstr ""
+msgstr "Recevez la Faveur de ??? de Thest."
 
 #: src-en/data/hyperspace.xml.append:3250
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/description"
 msgstr ""
+"Montrer l’Avatar de Lily à Thest. Tant que l’effet est actif, l’indice de "
+"stabilité du parcours est fixé à 1."
 
 #: src-en/data/hyperspace.xml.append:3258
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
 "append:page/mod-append:section[3]/@text"
-msgstr ""
+msgstr "Les bénédictions de Wakeson (LilyBeam)"
 
 #: src-en/data/hyperspace.xml.append:3260
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SPECTRUM\"]/name"
-msgstr ""
+msgstr "Bénédiction du Spectre"
 
 #: src-en/data/hyperspace.xml.append:3262
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SPECTRUM\"]/secretDescription"
-msgstr ""
+msgstr "Recevez la Bénédiction de ??? de Wakeson."
 
 #: src-en/data/hyperspace.xml.append:3263
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SPECTRUM\"]/description"
 msgstr ""
+"Montrer à Wakeson le rayon multi-mode de Lily. Tant que l’effet est actif, "
+"les armes à rayon traversent une couche de bouclier supplémentaire."
 
 #: src-en/data/hyperspace.xml.append:3271
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/name"
-msgstr ""
+msgstr "Bénédiction de la Désintégration"
 
 #: src-en/data/hyperspace.xml.append:3273
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/secretDescription"
-msgstr ""
+msgstr "Recevez la Bénédiction de ??? de Wakeson."
 
 #: src-en/data/hyperspace.xml.append:3274
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/description"
 msgstr ""
+"Montrer à Wakeson le rayon désintégrateur. Tant que l’effet est actif, les "
+"membres d’équipage ennemis perdent 25 % de leur vitesse de soin et de "
+"réparation, et subissent 2 points de dégâts supplémentaires par seconde à "
+"bord de votre vaisseau."
