@@ -8,13 +8,13 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:5
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
-"append:choice/text"
+"append:choice[1]/text"
 msgstr "Представить сирену."
 
 #: src-en/data/events_special_multiverse.xml.append:7
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
-"append:choice/event/text"
+"append:choice[1]/event/text"
 msgstr ""
 "\"Сирены... таинственная раса неизвестного происхождения... обладающая "
 "способностью сломать человеческий разум одним лишь своим присутствием... И "
@@ -25,5 +25,64 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:12
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
-"append:choice/event/choice/text"
-msgstr "Продолжить..."
+"append:choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:18
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:20
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:25
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:33
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:35
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:40
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:46
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:48
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:53
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[2]/event/choice/text"
+msgstr ""
+
+#~ msgid ""
+#~ "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+#~ "append:choice/event/choice/text"
+#~ msgstr "Продолжить..."

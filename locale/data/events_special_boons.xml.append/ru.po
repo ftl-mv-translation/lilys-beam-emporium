@@ -18,3 +18,33 @@ msgstr ""
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SIREN\"]/choice/text"
 msgstr "Продолжить..."
+
+#: src-en/data/events_special_boons.xml.append:13
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_AVATAR\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_boons.xml.append:16
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_AVATAR\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_boons.xml.append:23
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SPECTRUM\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_boons.xml.append:26
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SPECTRUM\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_boons.xml.append:33
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_DISINTEGRATOR\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_boons.xml.append:36
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_DISINTEGRATOR\"]/choice/text"
+msgstr ""

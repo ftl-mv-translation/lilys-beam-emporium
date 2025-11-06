@@ -11,32 +11,32 @@ msgid ""
 "append:backgroundObject[@name=\"LILY_MYSTERIOUS_NOTE\"]/tooltip"
 msgstr ""
 
-#: src-en/data/events_special_main.xml.append:27
+#: src-en/data/events_special_main.xml.append:32
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_main.xml.append:37
+#: src-en/data/events_special_main.xml.append:42
 #, fuzzy
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/choice[@req=\"LILY_PATRONAGE\""
 " and @lvl=\"0\"]/text"
 msgstr "Continua..."
 
-#: src-en/data/events_special_main.xml.append:39
+#: src-en/data/events_special_main.xml.append:44
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/choice[@req=\"LILY_PATRONAGE\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_main.xml.append:44
+#: src-en/data/events_special_main.xml.append:49
 #, fuzzy
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/choice[@req=\"LILY_PATRONAGE\""
 " and not(@lvl)]/text"
 msgstr "Continua..."
 
-#: src-en/data/events_special_main.xml.append:46
+#: src-en/data/events_special_main.xml.append:51
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/choice[@req=\"LILY_PATRONAGE\""
 " and not(@lvl)]/event/text"

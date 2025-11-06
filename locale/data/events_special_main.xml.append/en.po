@@ -11,7 +11,7 @@ msgid ""
 "append:backgroundObject[@name=\"LILY_MYSTERIOUS_NOTE\"]/tooltip"
 msgstr "An odd looking note."
 
-#: src-en/data/events_special_main.xml.append:27
+#: src-en/data/events_special_main.xml.append:32
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/text"
 msgstr ""
@@ -22,13 +22,13 @@ msgstr ""
 "/\n"
 ":)"
 
-#: src-en/data/events_special_main.xml.append:37
+#: src-en/data/events_special_main.xml.append:42
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/choice[@req=\"LILY_PATRONAGE\""
 " and @lvl=\"0\"]/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_main.xml.append:39
+#: src-en/data/events_special_main.xml.append:44
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/choice[@req=\"LILY_PATRONAGE\""
 " and @lvl=\"0\"]/event/text"
@@ -36,13 +36,13 @@ msgstr ""
 "Unnerved by such direct approach, you still pocket the note for the future. "
 "Let's hope nothing bad comes of it."
 
-#: src-en/data/events_special_main.xml.append:44
+#: src-en/data/events_special_main.xml.append:49
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/choice[@req=\"LILY_PATRONAGE\""
 " and not(@lvl)]/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_main.xml.append:46
+#: src-en/data/events_special_main.xml.append:51
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/choice[@req=\"LILY_PATRONAGE\""
 " and not(@lvl)]/event/text"

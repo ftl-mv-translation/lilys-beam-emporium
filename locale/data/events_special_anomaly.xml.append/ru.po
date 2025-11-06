@@ -1,17 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-19 16:20+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"lilys-beam-emporium/dataevents_special_anomalyxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_anomaly.xml.append:7
 msgid ""
@@ -300,8 +292,7 @@ msgstr "После этого странный корабль сразу уда�
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL_HIGH\"]/text"
 msgstr ""
-"\"И согласно вашим записям... Вы действительно очень известный преступник во "
-"всей Федерации! ...\"\n"
+"\"И согласно вашим записям... Вы действительно очень известный преступник во всей Федерации! ...\"\n"
 "\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:259
@@ -436,8 +427,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL\"]/text"
 msgstr ""
-"\"И согласно вашим записям... Вы действительно являетесь преступником в "
-"глазах Федерации...!\"\n"
+"\"И согласно вашим записям... Вы действительно являетесь преступником в глазах Федерации...!\"\n"
 "\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:393
