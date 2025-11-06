@@ -28,6 +28,8 @@
 
         "//crewBlueprint/desc",
         "//crewBlueprint/powerList/power",
+		"//crewBlueprint/title",
+		"//crewBlueprint/short",
         "//weaponBlueprint/title",
         "//weaponBlueprint/desc",
         "//weaponBlueprint/short",
@@ -99,6 +101,6 @@
             "https://github.com/ftl-mv-translation/lilys-beam-emporium/raw/lilys-beam-emporium-english/lilys-beam-emporium.ftl",
         ],
         "prefix": "Lilys-Beam-Emporium",
-        "version": "1.5.2"
+        "version": "1.5.4"
     }
 }
