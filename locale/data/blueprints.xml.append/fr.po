@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-11-13 23:24+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/"
+"lilys-beam-emporium/datablueprintsxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:196
 msgid ""
@@ -453,11 +460,13 @@ msgstr ""
 "plus rapidement que le modèle précédent."
 
 #: src-en/data/blueprints.xml.append:827
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2_PLAYER\"]/title"
 msgstr "Aiguillon Ionique II"
 
 #: src-en/data/blueprints.xml.append:828
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2_PLAYER\"]/short"
 msgstr "Aiguill-ion II"
@@ -889,11 +898,13 @@ msgstr ""
 "convergents."
 
 #: src-en/data/blueprints.xml.append:1707
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/title"
 msgstr "Rayon 'Ciseaux'"
 
 #: src-en/data/blueprints.xml.append:1708
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/short"
 msgstr "'Ciseaux'"
@@ -906,10 +917,12 @@ msgstr ""
 "convergents."
 
 #: src-en/data/blueprints.xml.append:1711
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/descriptionOverride"
 msgstr ""
-"Une arme unique capable de tirer simultanément une paire de rayons convergents.\n"
+"Une arme unique capable de tirer simultanément une paire de rayons "
+"convergents.\n"
 "\n"
 "Stats :\n"
 "Puissance requise : 4\n"
@@ -1191,11 +1204,13 @@ msgstr ""
 "d’une perte de précision."
 
 #: src-en/data/blueprints.xml.append:2465
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/title"
 msgstr "Aiguillon réfractif I"
 
 #: src-en/data/blueprints.xml.append:2466
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/short"
 msgstr "Réfr. I"
@@ -1244,11 +1259,13 @@ msgstr ""
 "d’une perte de précision. Plus puissant que la version I."
 
 #: src-en/data/blueprints.xml.append:2571
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/title"
 msgstr "Aiguillon réfractif II"
 
 #: src-en/data/blueprints.xml.append:2572
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/short"
 msgstr "Réfr. II"
@@ -1600,6 +1617,7 @@ msgstr ""
 "L’excès de gaz d’azote perturbe également l’équilibre atmosphérique."
 
 #: src-en/data/blueprints.xml.append:3419
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/title"
 msgstr "Rayon givrant 'Polaris'"
@@ -1610,10 +1628,13 @@ msgid ""
 msgstr "'Polaris'†"
 
 #: src-en/data/blueprints.xml.append:3421
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/desc"
 msgstr ""
-"Cette arme glaciale projette un rayon d'azote liquide. Elle est capable de verrouiller des pièces, empêchant la plupart des membres d’équipage d’entrer ou de sortir.\n"
+"Cette arme glaciale projette un rayon d'azote liquide. Elle est capable de "
+"verrouiller des pièces, empêchant la plupart des membres d’équipage d’entrer "
+"ou de sortir.\n"
 "L’excès de gaz d’azote perturbe également l’équilibre atmosphérique."
 
 #: src-en/data/blueprints.xml.append:3500
