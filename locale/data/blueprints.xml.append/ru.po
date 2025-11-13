@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-11-13 23:24+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -455,12 +455,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:827
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2_PLAYER\"]/title"
-msgstr "Точечный ион II"
+msgstr "Точечный ион II†"
 
 #: src-en/data/blueprints.xml.append:828
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2_PLAYER\"]/short"
-msgstr "Точеч. ион II"
+msgstr "Точеч. ион II†"
 
 #: src-en/data/blueprints.xml.append:829
 msgid ""
@@ -888,12 +888,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1707
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/title"
-msgstr "Луч \"Ножницы\""
+msgstr "Луч \"Ножницы\"†"
 
 #: src-en/data/blueprints.xml.append:1708
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/short"
-msgstr "Ножницы"
+msgstr "Ножницы†"
 
 #: src-en/data/blueprints.xml.append:1709
 msgid ""
@@ -908,7 +908,7 @@ msgstr ""
 "Уникальное оружие, способное стрелять парой сходящихся лучей одновременно.\n"
 "\n"
 "Характеристики:\n"
-"Необходимая мощность: 4\n"
+"Необходимая мощность: 3\n"
 "Время перезарядки: 20 сек.\n"
 "\n"
 "Длина луча: 80\n"
@@ -1187,12 +1187,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2465
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/title"
-msgstr "Рефракционный точечный луч I"
+msgstr "Рефракционный точечный луч I†"
 
 #: src-en/data/blueprints.xml.append:2466
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/short"
-msgstr "Рефракц. I"
+msgstr "Рефракц. I†"
 
 #: src-en/data/blueprints.xml.append:2467
 msgid ""
@@ -1239,12 +1239,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2571
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/title"
-msgstr "Рефракционный точечный луч II"
+msgstr "Рефракционный точечный луч II†"
 
 #: src-en/data/blueprints.xml.append:2572
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/short"
-msgstr "Рефракц. II"
+msgstr "Рефракц. II†"
 
 #: src-en/data/blueprints.xml.append:2573
 msgid ""
@@ -1598,12 +1598,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3419
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/title"
-msgstr "Морозный луч \"Полярис\""
+msgstr "Морозный луч \"Полярис\"†"
 
 #: src-en/data/blueprints.xml.append:3420
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/short"
-msgstr "Полярис"
+msgstr "Полярис†"
 
 #: src-en/data/blueprints.xml.append:3421
 msgid ""
@@ -1611,7 +1611,7 @@ msgid ""
 msgstr ""
 "Это оружие выстреливает луч жидкого азота. Оно способно запирать отсеки, не "
 "позволяя большинству членов экипажа войти или выйти.\n"
-"Избыток азота также нарушает атмосферный баланс."
+"    Избыток азота также нарушает атмосферный баланс."
 
 #: src-en/data/blueprints.xml.append:3500
 msgid ""
