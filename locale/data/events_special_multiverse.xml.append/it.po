@@ -76,9 +76,3 @@ msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[2]/event/choice/text"
 msgstr ""
-
-#, fuzzy
-#~ msgid ""
-#~ "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
-#~ "append:choice/event/choice/text"
-#~ msgstr "Continua..."

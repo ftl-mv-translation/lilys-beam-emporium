@@ -388,2432 +388,2432 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[19]/text"
 msgstr "No importa."
 
-#: src-en/data/events_special_storage.xml.append:541
+#: src-en/data/events_special_storage.xml.append:542
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:550
+#: src-en/data/events_special_storage.xml.append:551
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/text"
-msgstr ""
-
-#: src-en/data/events_special_storage.xml.append:552
-msgid ""
-"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
-" and @lvl=\"1\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:553
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:554
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/event/crewMember"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:560
+#: src-en/data/events_special_storage.xml.append:561
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:562
+#: src-en/data/events_special_storage.xml.append:563
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:566
+#: src-en/data/events_special_storage.xml.append:567
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/event/crewMember"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:573
+#: src-en/data/events_special_storage.xml.append:574
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"BLUELIST_AETHER\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:575
+#: src-en/data/events_special_storage.xml.append:576
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:582
+#: src-en/data/events_special_storage.xml.append:583
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:584
+#: src-en/data/events_special_storage.xml.append:585
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:587
+#: src-en/data/events_special_storage.xml.append:588
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/event/crewMember"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:595
+#: src-en/data/events_special_storage.xml.append:596
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"lily_aether_points\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:599
+#: src-en/data/events_special_storage.xml.append:600
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"0\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:603
+#: src-en/data/events_special_storage.xml.append:604
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[6]/text"
 msgstr "No importa."
 
-#: src-en/data/events_special_storage.xml.append:610
+#: src-en/data/events_special_storage.xml.append:611
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:615
+#: src-en/data/events_special_storage.xml.append:616
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:617
+#: src-en/data/events_special_storage.xml.append:618
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:618
+#: src-en/data/events_special_storage.xml.append:619
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/event/crewMember"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:626
+#: src-en/data/events_special_storage.xml.append:627
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[2]/text"
 msgstr "No importa."
 
-#: src-en/data/events_special_storage.xml.append:632
+#: src-en/data/events_special_storage.xml.append:633
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:637
+#: src-en/data/events_special_storage.xml.append:638
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:639
+#: src-en/data/events_special_storage.xml.append:640
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:640
+#: src-en/data/events_special_storage.xml.append:641
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/event/crewMember"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:647
+#: src-en/data/events_special_storage.xml.append:648
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[2]/text"
 msgstr "No importa."
 
-#: src-en/data/events_special_storage.xml.append:653
+#: src-en/data/events_special_storage.xml.append:654
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:656
+#: src-en/data/events_special_storage.xml.append:657
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[1]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:658
+#: src-en/data/events_special_storage.xml.append:659
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:659
+#: src-en/data/events_special_storage.xml.append:660
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[1]/event/crewMember"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:666
+#: src-en/data/events_special_storage.xml.append:667
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[2]/text"
 msgstr "No importa."
 
-#: src-en/data/events_special_storage.xml.append:672
+#: src-en/data/events_special_storage.xml.append:673
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:677
+#: src-en/data/events_special_storage.xml.append:678
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:682
+#: src-en/data/events_special_storage.xml.append:683
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:683
+#: src-en/data/events_special_storage.xml.append:684
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/event/crewMember"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:691
+#: src-en/data/events_special_storage.xml.append:692
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:694
+#: src-en/data/events_special_storage.xml.append:695
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:695
+#: src-en/data/events_special_storage.xml.append:696
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/event/crewMember"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:703
+#: src-en/data/events_special_storage.xml.append:704
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and not(@lvl)]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:709
+#: src-en/data/events_special_storage.xml.append:710
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[4]/text"
 msgstr "No importa."
 
-#: src-en/data/events_special_storage.xml.append:715
+#: src-en/data/events_special_storage.xml.append:716
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:719
+#: src-en/data/events_special_storage.xml.append:720
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/choice[1]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:721
+#: src-en/data/events_special_storage.xml.append:722
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:726
+#: src-en/data/events_special_storage.xml.append:727
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/choice[1]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:728
+#: src-en/data/events_special_storage.xml.append:729
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:732
+#: src-en/data/events_special_storage.xml.append:733
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/choice[1]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:734
+#: src-en/data/events_special_storage.xml.append:735
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:738
+#: src-en/data/events_special_storage.xml.append:739
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/choice[1]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:740
+#: src-en/data/events_special_storage.xml.append:741
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:745
+#: src-en/data/events_special_storage.xml.append:746
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/choice[1]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:747
+#: src-en/data/events_special_storage.xml.append:748
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:753
+#: src-en/data/events_special_storage.xml.append:754
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/choice[1]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:755
+#: src-en/data/events_special_storage.xml.append:756
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:759
+#: src-en/data/events_special_storage.xml.append:760
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/choice[1]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:761
+#: src-en/data/events_special_storage.xml.append:762
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:767
+#: src-en/data/events_special_storage.xml.append:768
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/choice[1]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:769
+#: src-en/data/events_special_storage.xml.append:770
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_9\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:775
+#: src-en/data/events_special_storage.xml.append:776
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_9\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:781
+#: src-en/data/events_special_storage.xml.append:782
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:787
+#: src-en/data/events_special_storage.xml.append:788
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:793
+#: src-en/data/events_special_storage.xml.append:794
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:799
+#: src-en/data/events_special_storage.xml.append:800
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:805
+#: src-en/data/events_special_storage.xml.append:806
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:811
+#: src-en/data/events_special_storage.xml.append:812
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:817
+#: src-en/data/events_special_storage.xml.append:818
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:823
+#: src-en/data/events_special_storage.xml.append:824
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:837
+#: src-en/data/events_special_storage.xml.append:838
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:850
+#: src-en/data/events_special_storage.xml.append:865
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:863
+#: src-en/data/events_special_storage.xml.append:878
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:865
+#: src-en/data/events_special_storage.xml.append:880
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_VAMP\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:870
+#: src-en/data/events_special_storage.xml.append:885
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_BUFF\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:875
+#: src-en/data/events_special_storage.xml.append:890
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_DAMAGE\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:880
+#: src-en/data/events_special_storage.xml.append:895
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:884
+#: src-en/data/events_special_storage.xml.append:899
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[5]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:888
+#: src-en/data/events_special_storage.xml.append:903
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[6]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:892
+#: src-en/data/events_special_storage.xml.append:907
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[7]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:896
+#: src-en/data/events_special_storage.xml.append:911
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[8]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:900
+#: src-en/data/events_special_storage.xml.append:915
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[9]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:904
+#: src-en/data/events_special_storage.xml.append:919
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[10]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:908
+#: src-en/data/events_special_storage.xml.append:923
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_HARPY_MIND\""
 " and @lvl=\"1\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:913
+#: src-en/data/events_special_storage.xml.append:928
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_HARPY_MIND\""
 " and @lvl=\"0\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:917
+#: src-en/data/events_special_storage.xml.append:932
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[13]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:922
+#: src-en/data/events_special_storage.xml.append:937
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:927
+#: src-en/data/events_special_storage.xml.append:942
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:929
+#: src-en/data/events_special_storage.xml.append:944
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:936
+#: src-en/data/events_special_storage.xml.append:951
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:942
+#: src-en/data/events_special_storage.xml.append:957
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[@req=\"pilot\"]/text"
 msgstr "No importa."
 
-#: src-en/data/events_special_storage.xml.append:953
+#: src-en/data/events_special_storage.xml.append:968
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:958
+#: src-en/data/events_special_storage.xml.append:973
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:960
+#: src-en/data/events_special_storage.xml.append:975
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:965
+#: src-en/data/events_special_storage.xml.append:980
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:971
+#: src-en/data/events_special_storage.xml.append:986
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[@req=\"pilot\"]/text"
 msgstr "No importa."
 
-#: src-en/data/events_special_storage.xml.append:982
+#: src-en/data/events_special_storage.xml.append:997
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:987
+#: src-en/data/events_special_storage.xml.append:1002
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:989
+#: src-en/data/events_special_storage.xml.append:1004
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:995
+#: src-en/data/events_special_storage.xml.append:1010
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1001
+#: src-en/data/events_special_storage.xml.append:1016
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[@req=\"pilot\"]/text"
 msgstr "No importa."
 
-#: src-en/data/events_special_storage.xml.append:1012
+#: src-en/data/events_special_storage.xml.append:1027
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1017
+#: src-en/data/events_special_storage.xml.append:1032
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1019
+#: src-en/data/events_special_storage.xml.append:1034
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1025
+#: src-en/data/events_special_storage.xml.append:1040
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1031
+#: src-en/data/events_special_storage.xml.append:1046
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"0\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1035
+#: src-en/data/events_special_storage.xml.append:1050
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"pilot\"]/text"
 msgstr "No importa."
 
-#: src-en/data/events_special_storage.xml.append:1050
+#: src-en/data/events_special_storage.xml.append:1065
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1054
+#: src-en/data/events_special_storage.xml.append:1069
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1058
+#: src-en/data/events_special_storage.xml.append:1073
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1066
+#: src-en/data/events_special_storage.xml.append:1081
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1069
+#: src-en/data/events_special_storage.xml.append:1084
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1071
+#: src-en/data/events_special_storage.xml.append:1086
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1074
+#: src-en/data/events_special_storage.xml.append:1089
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1076
+#: src-en/data/events_special_storage.xml.append:1091
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1079
+#: src-en/data/events_special_storage.xml.append:1094
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1087
+#: src-en/data/events_special_storage.xml.append:1102
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1089
+#: src-en/data/events_special_storage.xml.append:1104
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1092
+#: src-en/data/events_special_storage.xml.append:1107
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1094
+#: src-en/data/events_special_storage.xml.append:1109
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1097
+#: src-en/data/events_special_storage.xml.append:1112
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1105
+#: src-en/data/events_special_storage.xml.append:1120
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[3]/text"
 msgstr "Regresar al menú de alternaciones."
 
-#: src-en/data/events_special_storage.xml.append:1110
+#: src-en/data/events_special_storage.xml.append:1125
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1113
+#: src-en/data/events_special_storage.xml.append:1128
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1115
+#: src-en/data/events_special_storage.xml.append:1130
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1118
+#: src-en/data/events_special_storage.xml.append:1133
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1120
+#: src-en/data/events_special_storage.xml.append:1135
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1123
+#: src-en/data/events_special_storage.xml.append:1138
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1131
+#: src-en/data/events_special_storage.xml.append:1146
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1133
+#: src-en/data/events_special_storage.xml.append:1148
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1136
+#: src-en/data/events_special_storage.xml.append:1151
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1138
+#: src-en/data/events_special_storage.xml.append:1153
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1141
+#: src-en/data/events_special_storage.xml.append:1156
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1149
+#: src-en/data/events_special_storage.xml.append:1164
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[3]/text"
 msgstr "Regresar al menú de alternaciones."
 
-#: src-en/data/events_special_storage.xml.append:1154
+#: src-en/data/events_special_storage.xml.append:1169
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1157
+#: src-en/data/events_special_storage.xml.append:1172
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1159
+#: src-en/data/events_special_storage.xml.append:1174
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1162
+#: src-en/data/events_special_storage.xml.append:1177
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1164
+#: src-en/data/events_special_storage.xml.append:1179
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1167
+#: src-en/data/events_special_storage.xml.append:1182
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1175
+#: src-en/data/events_special_storage.xml.append:1190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1177
+#: src-en/data/events_special_storage.xml.append:1192
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1180
+#: src-en/data/events_special_storage.xml.append:1195
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1182
+#: src-en/data/events_special_storage.xml.append:1197
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1185
+#: src-en/data/events_special_storage.xml.append:1200
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1193
+#: src-en/data/events_special_storage.xml.append:1208
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[3]/text"
 msgstr "Regresar al menú de alternaciones."
 
-#: src-en/data/events_special_storage.xml.append:1202
+#: src-en/data/events_special_storage.xml.append:1217
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1206
+#: src-en/data/events_special_storage.xml.append:1221
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1210
+#: src-en/data/events_special_storage.xml.append:1225
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1214
+#: src-en/data/events_special_storage.xml.append:1229
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1220
+#: src-en/data/events_special_storage.xml.append:1235
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1223
+#: src-en/data/events_special_storage.xml.append:1238
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1225
+#: src-en/data/events_special_storage.xml.append:1240
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1228
+#: src-en/data/events_special_storage.xml.append:1243
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1230
+#: src-en/data/events_special_storage.xml.append:1245
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1233
+#: src-en/data/events_special_storage.xml.append:1248
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1241
+#: src-en/data/events_special_storage.xml.append:1256
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1243
+#: src-en/data/events_special_storage.xml.append:1258
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1246
+#: src-en/data/events_special_storage.xml.append:1261
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1248
+#: src-en/data/events_special_storage.xml.append:1263
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1251
+#: src-en/data/events_special_storage.xml.append:1266
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1259
+#: src-en/data/events_special_storage.xml.append:1274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1261
+#: src-en/data/events_special_storage.xml.append:1276
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1264
+#: src-en/data/events_special_storage.xml.append:1279
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1266
+#: src-en/data/events_special_storage.xml.append:1281
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1269
+#: src-en/data/events_special_storage.xml.append:1284
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1277
+#: src-en/data/events_special_storage.xml.append:1292
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[4]/text"
 msgstr "Regresar al menú de alternaciones."
 
-#: src-en/data/events_special_storage.xml.append:1283
+#: src-en/data/events_special_storage.xml.append:1298
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1286
+#: src-en/data/events_special_storage.xml.append:1301
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1288
+#: src-en/data/events_special_storage.xml.append:1303
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1291
+#: src-en/data/events_special_storage.xml.append:1306
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1293
+#: src-en/data/events_special_storage.xml.append:1308
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1296
+#: src-en/data/events_special_storage.xml.append:1311
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1304
+#: src-en/data/events_special_storage.xml.append:1319
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1306
+#: src-en/data/events_special_storage.xml.append:1321
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1309
+#: src-en/data/events_special_storage.xml.append:1324
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1311
+#: src-en/data/events_special_storage.xml.append:1326
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1314
+#: src-en/data/events_special_storage.xml.append:1329
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1322
+#: src-en/data/events_special_storage.xml.append:1337
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1324
+#: src-en/data/events_special_storage.xml.append:1339
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1327
+#: src-en/data/events_special_storage.xml.append:1342
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1329
+#: src-en/data/events_special_storage.xml.append:1344
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1332
+#: src-en/data/events_special_storage.xml.append:1347
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1340
+#: src-en/data/events_special_storage.xml.append:1355
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[4]/text"
 msgstr "Regresar al menú de alternaciones."
 
-#: src-en/data/events_special_storage.xml.append:1347
+#: src-en/data/events_special_storage.xml.append:1362
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1350
+#: src-en/data/events_special_storage.xml.append:1365
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1352
+#: src-en/data/events_special_storage.xml.append:1367
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1355
+#: src-en/data/events_special_storage.xml.append:1370
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1357
+#: src-en/data/events_special_storage.xml.append:1372
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1360
+#: src-en/data/events_special_storage.xml.append:1375
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1368
+#: src-en/data/events_special_storage.xml.append:1383
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1370
+#: src-en/data/events_special_storage.xml.append:1385
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1373
+#: src-en/data/events_special_storage.xml.append:1388
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1375
+#: src-en/data/events_special_storage.xml.append:1390
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1378
+#: src-en/data/events_special_storage.xml.append:1393
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1386
+#: src-en/data/events_special_storage.xml.append:1401
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1388
+#: src-en/data/events_special_storage.xml.append:1403
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1391
+#: src-en/data/events_special_storage.xml.append:1406
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1393
+#: src-en/data/events_special_storage.xml.append:1408
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1396
+#: src-en/data/events_special_storage.xml.append:1411
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1404
+#: src-en/data/events_special_storage.xml.append:1419
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[4]/text"
 msgstr "Regresar al menú de alternaciones."
 
-#: src-en/data/events_special_storage.xml.append:1409
+#: src-en/data/events_special_storage.xml.append:1424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1412
+#: src-en/data/events_special_storage.xml.append:1427
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1414
+#: src-en/data/events_special_storage.xml.append:1429
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1417
+#: src-en/data/events_special_storage.xml.append:1432
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1419
+#: src-en/data/events_special_storage.xml.append:1434
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1422
+#: src-en/data/events_special_storage.xml.append:1437
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1430
+#: src-en/data/events_special_storage.xml.append:1445
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1432
+#: src-en/data/events_special_storage.xml.append:1447
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1435
+#: src-en/data/events_special_storage.xml.append:1450
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1437
+#: src-en/data/events_special_storage.xml.append:1452
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1440
+#: src-en/data/events_special_storage.xml.append:1455
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1448
+#: src-en/data/events_special_storage.xml.append:1463
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1450
+#: src-en/data/events_special_storage.xml.append:1465
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1453
+#: src-en/data/events_special_storage.xml.append:1468
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1455
+#: src-en/data/events_special_storage.xml.append:1470
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1458
+#: src-en/data/events_special_storage.xml.append:1473
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1466
+#: src-en/data/events_special_storage.xml.append:1481
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[4]/text"
 msgstr "Regresar al menú de alternaciones."
 
-#: src-en/data/events_special_storage.xml.append:1476
+#: src-en/data/events_special_storage.xml.append:1491
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1480
+#: src-en/data/events_special_storage.xml.append:1495
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1484
+#: src-en/data/events_special_storage.xml.append:1499
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1492
+#: src-en/data/events_special_storage.xml.append:1507
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1495
+#: src-en/data/events_special_storage.xml.append:1510
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1497
+#: src-en/data/events_special_storage.xml.append:1512
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1500
+#: src-en/data/events_special_storage.xml.append:1515
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1502
+#: src-en/data/events_special_storage.xml.append:1517
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1505
+#: src-en/data/events_special_storage.xml.append:1520
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1513
+#: src-en/data/events_special_storage.xml.append:1528
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1515
+#: src-en/data/events_special_storage.xml.append:1530
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1518
+#: src-en/data/events_special_storage.xml.append:1533
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1520
+#: src-en/data/events_special_storage.xml.append:1535
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1523
+#: src-en/data/events_special_storage.xml.append:1538
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1531
+#: src-en/data/events_special_storage.xml.append:1546
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[3]/text"
 msgstr "Regresar al menú de alternaciones."
 
-#: src-en/data/events_special_storage.xml.append:1536
+#: src-en/data/events_special_storage.xml.append:1551
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1539
+#: src-en/data/events_special_storage.xml.append:1554
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1541
+#: src-en/data/events_special_storage.xml.append:1556
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1544
+#: src-en/data/events_special_storage.xml.append:1559
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1546
+#: src-en/data/events_special_storage.xml.append:1561
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1549
+#: src-en/data/events_special_storage.xml.append:1564
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1557
+#: src-en/data/events_special_storage.xml.append:1572
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1559
+#: src-en/data/events_special_storage.xml.append:1574
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1562
+#: src-en/data/events_special_storage.xml.append:1577
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1564
+#: src-en/data/events_special_storage.xml.append:1579
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1567
+#: src-en/data/events_special_storage.xml.append:1582
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1575
+#: src-en/data/events_special_storage.xml.append:1590
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[3]/text"
 msgstr "Regresar al menú de alternaciones."
 
-#: src-en/data/events_special_storage.xml.append:1580
+#: src-en/data/events_special_storage.xml.append:1595
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1583
+#: src-en/data/events_special_storage.xml.append:1598
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1585
+#: src-en/data/events_special_storage.xml.append:1600
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1588
+#: src-en/data/events_special_storage.xml.append:1603
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1590
+#: src-en/data/events_special_storage.xml.append:1605
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1593
+#: src-en/data/events_special_storage.xml.append:1608
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1601
+#: src-en/data/events_special_storage.xml.append:1616
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1603
+#: src-en/data/events_special_storage.xml.append:1618
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1606
+#: src-en/data/events_special_storage.xml.append:1621
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1608
+#: src-en/data/events_special_storage.xml.append:1623
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1611
+#: src-en/data/events_special_storage.xml.append:1626
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1619
+#: src-en/data/events_special_storage.xml.append:1634
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[3]/text"
 msgstr "Regresar al menú de alternaciones."
 
-#: src-en/data/events_special_storage.xml.append:1630
+#: src-en/data/events_special_storage.xml.append:1645
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1634
+#: src-en/data/events_special_storage.xml.append:1649
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1638
+#: src-en/data/events_special_storage.xml.append:1653
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1642
+#: src-en/data/events_special_storage.xml.append:1657
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1646
+#: src-en/data/events_special_storage.xml.append:1661
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[5]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1654
+#: src-en/data/events_special_storage.xml.append:1669
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1656
+#: src-en/data/events_special_storage.xml.append:1671
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1658
+#: src-en/data/events_special_storage.xml.append:1673
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1661
+#: src-en/data/events_special_storage.xml.append:1676
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1663
+#: src-en/data/events_special_storage.xml.append:1678
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1666
+#: src-en/data/events_special_storage.xml.append:1681
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1674
+#: src-en/data/events_special_storage.xml.append:1689
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1676
+#: src-en/data/events_special_storage.xml.append:1691
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1679
+#: src-en/data/events_special_storage.xml.append:1694
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1681
+#: src-en/data/events_special_storage.xml.append:1696
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1684
+#: src-en/data/events_special_storage.xml.append:1699
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1692
+#: src-en/data/events_special_storage.xml.append:1707
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1694
+#: src-en/data/events_special_storage.xml.append:1709
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1697
+#: src-en/data/events_special_storage.xml.append:1712
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1699
+#: src-en/data/events_special_storage.xml.append:1714
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1702
+#: src-en/data/events_special_storage.xml.append:1717
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1710
+#: src-en/data/events_special_storage.xml.append:1725
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1712
+#: src-en/data/events_special_storage.xml.append:1727
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1715
+#: src-en/data/events_special_storage.xml.append:1730
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1717
+#: src-en/data/events_special_storage.xml.append:1732
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1720
+#: src-en/data/events_special_storage.xml.append:1735
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1728
+#: src-en/data/events_special_storage.xml.append:1743
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[5]/text"
 msgstr "Regresar al menú de alternaciones."
 
-#: src-en/data/events_special_storage.xml.append:1735
-msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/text"
-msgstr ""
-
-#: src-en/data/events_special_storage.xml.append:1738
-#, fuzzy
-msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/text"
-msgstr "Continuar..."
-
-#: src-en/data/events_special_storage.xml.append:1740
-msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_special_storage.xml.append:1743
-#, fuzzy
-msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/event/choice/text"
-msgstr "Continuar..."
-
 #: src-en/data/events_special_storage.xml.append:1750
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/text"
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/text"
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1753
 #, fuzzy
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/text"
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/text"
 msgstr "Continuar..."
 
 #: src-en/data/events_special_storage.xml.append:1755
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/event/text"
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1758
 #, fuzzy
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/event/choice/text"
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/event/choice/text"
 msgstr "Continuar..."
 
 #: src-en/data/events_special_storage.xml.append:1765
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/text"
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/text"
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1768
 #, fuzzy
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/text"
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/text"
 msgstr "Continuar..."
 
 #: src-en/data/events_special_storage.xml.append:1770
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/event/text"
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1773
 #, fuzzy
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/event/choice/text"
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/event/choice/text"
 msgstr "Continuar..."
 
 #: src-en/data/events_special_storage.xml.append:1780
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/text"
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/text"
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1783
 #, fuzzy
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/choice/text"
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/text"
 msgstr "Continuar..."
 
 #: src-en/data/events_special_storage.xml.append:1785
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/choice/event/text"
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1788
 #, fuzzy
 msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/event/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events_special_storage.xml.append:1795
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1798
+#, fuzzy
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events_special_storage.xml.append:1800
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1803
+#, fuzzy
+msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1813
+#: src-en/data/events_special_storage.xml.append:1828
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1817
+#: src-en/data/events_special_storage.xml.append:1832
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1820
+#: src-en/data/events_special_storage.xml.append:1835
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1824
+#: src-en/data/events_special_storage.xml.append:1839
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1828
+#: src-en/data/events_special_storage.xml.append:1843
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[5]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1836
+#: src-en/data/events_special_storage.xml.append:1851
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1839
+#: src-en/data/events_special_storage.xml.append:1854
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1841
+#: src-en/data/events_special_storage.xml.append:1856
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1844
+#: src-en/data/events_special_storage.xml.append:1859
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1846
+#: src-en/data/events_special_storage.xml.append:1861
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1849
+#: src-en/data/events_special_storage.xml.append:1864
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1857
+#: src-en/data/events_special_storage.xml.append:1872
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1859
+#: src-en/data/events_special_storage.xml.append:1874
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1862
+#: src-en/data/events_special_storage.xml.append:1877
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1864
+#: src-en/data/events_special_storage.xml.append:1879
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1867
+#: src-en/data/events_special_storage.xml.append:1882
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1875
+#: src-en/data/events_special_storage.xml.append:1890
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1877
+#: src-en/data/events_special_storage.xml.append:1892
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1880
+#: src-en/data/events_special_storage.xml.append:1895
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1882
+#: src-en/data/events_special_storage.xml.append:1897
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1885
+#: src-en/data/events_special_storage.xml.append:1900
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1893
+#: src-en/data/events_special_storage.xml.append:1908
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1895
+#: src-en/data/events_special_storage.xml.append:1910
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1898
+#: src-en/data/events_special_storage.xml.append:1913
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1900
+#: src-en/data/events_special_storage.xml.append:1915
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1903
+#: src-en/data/events_special_storage.xml.append:1918
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1911
+#: src-en/data/events_special_storage.xml.append:1926
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[5]/text"
 msgstr "Regresar al menú de alternaciones."
 
-#: src-en/data/events_special_storage.xml.append:1918
+#: src-en/data/events_special_storage.xml.append:1933
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1921
+#: src-en/data/events_special_storage.xml.append:1936
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1923
+#: src-en/data/events_special_storage.xml.append:1938
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1926
+#: src-en/data/events_special_storage.xml.append:1941
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1928
+#: src-en/data/events_special_storage.xml.append:1943
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1931
+#: src-en/data/events_special_storage.xml.append:1946
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1939
+#: src-en/data/events_special_storage.xml.append:1954
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1941
+#: src-en/data/events_special_storage.xml.append:1956
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1944
+#: src-en/data/events_special_storage.xml.append:1959
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1946
+#: src-en/data/events_special_storage.xml.append:1961
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1949
+#: src-en/data/events_special_storage.xml.append:1964
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1957
+#: src-en/data/events_special_storage.xml.append:1972
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1959
+#: src-en/data/events_special_storage.xml.append:1974
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1962
+#: src-en/data/events_special_storage.xml.append:1977
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1964
+#: src-en/data/events_special_storage.xml.append:1979
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1967
+#: src-en/data/events_special_storage.xml.append:1982
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1975
+#: src-en/data/events_special_storage.xml.append:1990
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1977
+#: src-en/data/events_special_storage.xml.append:1992
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1980
+#: src-en/data/events_special_storage.xml.append:1995
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1982
+#: src-en/data/events_special_storage.xml.append:1997
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1985
+#: src-en/data/events_special_storage.xml.append:2000
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:1993
+#: src-en/data/events_special_storage.xml.append:2008
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[5]/text"
 msgstr "Regresar al menú de alternaciones."
 
-#: src-en/data/events_special_storage.xml.append:1999
+#: src-en/data/events_special_storage.xml.append:2014
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2002
+#: src-en/data/events_special_storage.xml.append:2017
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2004
+#: src-en/data/events_special_storage.xml.append:2019
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2007
+#: src-en/data/events_special_storage.xml.append:2022
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2009
+#: src-en/data/events_special_storage.xml.append:2024
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2012
+#: src-en/data/events_special_storage.xml.append:2027
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2020
+#: src-en/data/events_special_storage.xml.append:2035
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2022
+#: src-en/data/events_special_storage.xml.append:2037
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2025
+#: src-en/data/events_special_storage.xml.append:2040
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2027
+#: src-en/data/events_special_storage.xml.append:2042
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2030
+#: src-en/data/events_special_storage.xml.append:2045
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2038
+#: src-en/data/events_special_storage.xml.append:2053
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2040
+#: src-en/data/events_special_storage.xml.append:2055
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2043
+#: src-en/data/events_special_storage.xml.append:2058
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2045
+#: src-en/data/events_special_storage.xml.append:2060
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2048
+#: src-en/data/events_special_storage.xml.append:2063
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2056
+#: src-en/data/events_special_storage.xml.append:2071
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2058
+#: src-en/data/events_special_storage.xml.append:2073
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2061
+#: src-en/data/events_special_storage.xml.append:2076
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2063
+#: src-en/data/events_special_storage.xml.append:2078
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2066
+#: src-en/data/events_special_storage.xml.append:2081
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2074
+#: src-en/data/events_special_storage.xml.append:2089
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[5]/text"
 msgstr "Regresar al menú de alternaciones."
 
-#: src-en/data/events_special_storage.xml.append:2080
+#: src-en/data/events_special_storage.xml.append:2095
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2083
+#: src-en/data/events_special_storage.xml.append:2098
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2085
+#: src-en/data/events_special_storage.xml.append:2100
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2088
+#: src-en/data/events_special_storage.xml.append:2103
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2090
+#: src-en/data/events_special_storage.xml.append:2105
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2093
+#: src-en/data/events_special_storage.xml.append:2108
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2101
+#: src-en/data/events_special_storage.xml.append:2116
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2103
+#: src-en/data/events_special_storage.xml.append:2118
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2106
+#: src-en/data/events_special_storage.xml.append:2121
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2108
+#: src-en/data/events_special_storage.xml.append:2123
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2111
+#: src-en/data/events_special_storage.xml.append:2126
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2119
+#: src-en/data/events_special_storage.xml.append:2134
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2121
+#: src-en/data/events_special_storage.xml.append:2136
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2124
+#: src-en/data/events_special_storage.xml.append:2139
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2126
+#: src-en/data/events_special_storage.xml.append:2141
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2129
+#: src-en/data/events_special_storage.xml.append:2144
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2137
+#: src-en/data/events_special_storage.xml.append:2152
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2139
+#: src-en/data/events_special_storage.xml.append:2154
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2142
+#: src-en/data/events_special_storage.xml.append:2157
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2144
+#: src-en/data/events_special_storage.xml.append:2159
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2147
+#: src-en/data/events_special_storage.xml.append:2162
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2155
+#: src-en/data/events_special_storage.xml.append:2170
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[5]/text"
 msgstr "Regresar al menú de alternaciones."
 
-#: src-en/data/events_special_storage.xml.append:2161
+#: src-en/data/events_special_storage.xml.append:2176
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2164
+#: src-en/data/events_special_storage.xml.append:2179
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2166
+#: src-en/data/events_special_storage.xml.append:2181
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2169
+#: src-en/data/events_special_storage.xml.append:2184
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2171
+#: src-en/data/events_special_storage.xml.append:2186
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2174
+#: src-en/data/events_special_storage.xml.append:2189
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2182
+#: src-en/data/events_special_storage.xml.append:2197
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2184
+#: src-en/data/events_special_storage.xml.append:2199
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2187
+#: src-en/data/events_special_storage.xml.append:2202
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2189
+#: src-en/data/events_special_storage.xml.append:2204
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2192
+#: src-en/data/events_special_storage.xml.append:2207
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2200
+#: src-en/data/events_special_storage.xml.append:2215
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2202
+#: src-en/data/events_special_storage.xml.append:2217
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2205
+#: src-en/data/events_special_storage.xml.append:2220
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2207
+#: src-en/data/events_special_storage.xml.append:2222
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2210
+#: src-en/data/events_special_storage.xml.append:2225
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2218
+#: src-en/data/events_special_storage.xml.append:2233
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2220
+#: src-en/data/events_special_storage.xml.append:2235
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2223
+#: src-en/data/events_special_storage.xml.append:2238
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2225
+#: src-en/data/events_special_storage.xml.append:2240
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2228
+#: src-en/data/events_special_storage.xml.append:2243
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2236
+#: src-en/data/events_special_storage.xml.append:2251
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[5]/text"
 msgstr "Regresar al menú de alternaciones."
 
-#: src-en/data/events_special_storage.xml.append:2246
+#: src-en/data/events_special_storage.xml.append:2261
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2253
+#: src-en/data/events_special_storage.xml.append:2268
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_FAIL_REAL\"]/mod-"
 "append:choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2259
+#: src-en/data/events_special_storage.xml.append:2274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2261
+#: src-en/data/events_special_storage.xml.append:2276
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2264
+#: src-en/data/events_special_storage.xml.append:2279
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/event/text"
 msgstr "Activas el aumento de combate."
 
-#: src-en/data/events_special_storage.xml.append:2271
+#: src-en/data/events_special_storage.xml.append:2286
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2276
+#: src-en/data/events_special_storage.xml.append:2291
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/event/choice/text"
 msgstr "¡Continuar con el combate!"
 
-#: src-en/data/events_special_storage.xml.append:2282
+#: src-en/data/events_special_storage.xml.append:2297
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2285
+#: src-en/data/events_special_storage.xml.append:2300
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/event/text"
 msgstr "Activas el aumento de combate."
 
-#: src-en/data/events_special_storage.xml.append:2292
+#: src-en/data/events_special_storage.xml.append:2307
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2297
+#: src-en/data/events_special_storage.xml.append:2312
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/event/choice/text"
 msgstr "¡Continuar con el combate!"
 
-#: src-en/data/events_special_storage.xml.append:2303
+#: src-en/data/events_special_storage.xml.append:2318
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2306
+#: src-en/data/events_special_storage.xml.append:2321
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[3]/event/text"
 msgstr "Activas el aumento de combate."
 
-#: src-en/data/events_special_storage.xml.append:2311
+#: src-en/data/events_special_storage.xml.append:2326
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[3]/event/choice/text"
 msgstr "¡Continuar con el combate!"
 
-#: src-en/data/events_special_storage.xml.append:2328
+#: src-en/data/events_special_storage.xml.append:2343
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2331
+#: src-en/data/events_special_storage.xml.append:2346
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[4]/event/text"
 msgstr "Activas el aumento de combate."
 
-#: src-en/data/events_special_storage.xml.append:2336
+#: src-en/data/events_special_storage.xml.append:2351
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[4]/event/choice/text"
 msgstr "¡Continuar con el combate!"
 
-#: src-en/data/events_special_storage.xml.append:2354
+#: src-en/data/events_special_storage.xml.append:2377
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[5]/text"
 msgstr "Hacer algo más en vez."
 
-#: src-en/data/events_special_storage.xml.append:2358
+#: src-en/data/events_special_storage.xml.append:2381
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[6]/text"
 msgstr "No importa, ¡a combatir!"
 
-#: src-en/data/events_special_storage.xml.append:2360
+#: src-en/data/events_special_storage.xml.append:2383
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[6]/event/text"
 msgstr "Decides no hacer nada y prepararte para el combate."
 
-#: src-en/data/events_special_storage.xml.append:2366
+#: src-en/data/events_special_storage.xml.append:2389
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER_POWERDOWN\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2369
+#: src-en/data/events_special_storage.xml.append:2392
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER_POWERDOWN\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2440
+#: src-en/data/events_special_storage.xml.append:2586
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2444
+#: src-en/data/events_special_storage.xml.append:2590
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2452
+#: src-en/data/events_special_storage.xml.append:2598
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2455
+#: src-en/data/events_special_storage.xml.append:2601
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2457
+#: src-en/data/events_special_storage.xml.append:2603
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2460
+#: src-en/data/events_special_storage.xml.append:2606
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2468
+#: src-en/data/events_special_storage.xml.append:2614
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2471
+#: src-en/data/events_special_storage.xml.append:2617
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2473
+#: src-en/data/events_special_storage.xml.append:2619
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2476
+#: src-en/data/events_special_storage.xml.append:2622
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2486
+#: src-en/data/events_special_storage.xml.append:2632
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
 "append:choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2490
+#: src-en/data/events_special_storage.xml.append:2636
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
 "append:choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2496
+#: src-en/data/events_special_storage.xml.append:2642
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2499
+#: src-en/data/events_special_storage.xml.append:2645
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2501
+#: src-en/data/events_special_storage.xml.append:2647
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2504
+#: src-en/data/events_special_storage.xml.append:2650
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2512
+#: src-en/data/events_special_storage.xml.append:2658
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2515
+#: src-en/data/events_special_storage.xml.append:2661
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_storage.xml.append:2517
+#: src-en/data/events_special_storage.xml.append:2663
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2520
+#: src-en/data/events_special_storage.xml.append:2666
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/choice/event/choice/text"

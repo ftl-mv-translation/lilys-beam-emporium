@@ -7,67 +7,29 @@ msgstr ""
 
 #: src-en/data/events_sector_stargrove.xml.append:4
 msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
-"append:choice/text"
-msgstr ""
-"(Postcombustion) Risquer votre vaisseau en volant suffisamment près pour "
-"démanteler le vaisseau et sauver son seul occupant. [3{]"
-
-#: src-en/data/events_sector_stargrove.xml.append:6
-msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
-"append:choice/event/text"
-msgstr "Postcombustion enclenchée"
-
-#: src-en/data/events_sector_stargrove.xml.append:11
-msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
-"append:choice/event/choice/text"
-msgstr "Continuer..."
-
-#: src-en/data/events_sector_stargrove.xml.append:13
-msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
-"append:choice/event/choice/event/text"
-msgstr ""
-"Les moteurs en postcombustion de votre vaisseau luttent contre la gravité "
-"extrême tandis qu’il progresse lentement. Le temps se dilate de plus en "
-"plus, mais votre vaisseau encaisse sans trop de dommages. En prime, non "
-"seulement vous sauvez Mafan, mais vous avez aussi l’occasion de récupérer de"
-" la ferraille avant de ressortir du puit gravitationnel. Malheureusement, la"
-" dilatation temporelle a permis à la flotte d’avancer, mais pas de beaucoup."
-
-#: src-en/data/events_sector_stargrove.xml.append:19
-msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
-"append:choice/event/choice/event/choice/text"
-msgstr "Contact avec le vaisseau scientifique..."
-
-#: src-en/data/events_sector_stargrove.xml.append:29
-msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
-"append:choice/text"
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[1]/text"
 msgstr ""
 "(Moteurs de pointe + Postcombustion) Enclencher la postcombustion des "
 "moteurs pour s'approcher suffisamment afin de démanteler le vaisseau, tout "
 "en sauvant son seul occupant. [3{]"
 
-#: src-en/data/events_sector_stargrove.xml.append:31
+#: src-en/data/events_sector_stargrove.xml.append:6
 msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
-"append:choice/event/text"
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[1]/event/text"
 msgstr "Postcombustion enclenchée"
 
-#: src-en/data/events_sector_stargrove.xml.append:36
+#: src-en/data/events_sector_stargrove.xml.append:11
 msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
-"append:choice/event/choice/text"
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_stargrove.xml.append:38
+#: src-en/data/events_sector_stargrove.xml.append:13
 msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
-"append:choice/event/choice/event/text"
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[1]/event/choice/event/text"
 msgstr ""
 "Les moteurs en postcombustion de votre vaisseau luttent contre la gravité "
 "extrême tandis qu’il progresse lentement. Le temps se dilate de plus en "
@@ -77,8 +39,46 @@ msgstr ""
 "assez rapide pour que la dilatation temporelle n’offre aucun avantage à la "
 "flotte."
 
-#: src-en/data/events_sector_stargrove.xml.append:41
+#: src-en/data/events_sector_stargrove.xml.append:16
 msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
-"append:choice/event/choice/event/choice/text"
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[1]/event/choice/event/choice/text"
+msgstr "Contact avec le vaisseau scientifique..."
+
+#: src-en/data/events_sector_stargrove.xml.append:24
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+"(Postcombustion) Risquer votre vaisseau en volant suffisamment près pour "
+"démanteler le vaisseau et sauver son seul occupant. [3{]"
+
+#: src-en/data/events_sector_stargrove.xml.append:26
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[2]/event/text"
+msgstr "Postcombustion enclenchée"
+
+#: src-en/data/events_sector_stargrove.xml.append:31
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[2]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_stargrove.xml.append:33
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[2]/event/choice/event/text"
+msgstr ""
+"Les moteurs en postcombustion de votre vaisseau luttent contre la gravité "
+"extrême tandis qu’il progresse lentement. Le temps se dilate de plus en "
+"plus, mais votre vaisseau encaisse sans trop de dommages. En prime, non "
+"seulement vous sauvez Mafan, mais vous avez aussi l’occasion de récupérer de"
+" la ferraille avant de ressortir du puit gravitationnel. Malheureusement, la"
+" dilatation temporelle a permis à la flotte d’avancer, mais pas de beaucoup."
+
+#: src-en/data/events_sector_stargrove.xml.append:39
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[2]/event/choice/event/choice/text"
 msgstr "Contact avec le vaisseau scientifique..."

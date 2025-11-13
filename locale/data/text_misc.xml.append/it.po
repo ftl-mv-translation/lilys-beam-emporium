@@ -82,5 +82,90 @@ msgid "data/text_misc.xml.append$//text[@name=\"loot_zoltan_2\"]"
 msgstr ""
 
 #: src-en/data/text_misc.xml.append:36
+#, fuzzy
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_continue\"]"
+msgstr "Continua..."
+
+#: src-en/data/text_misc.xml.append:38
+msgid "data/text_misc.xml.append$//text[@name=\"lily_text_multiverse_crp\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:40
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_nospareprime\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:41
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_lilysnipesprime\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:43
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_herrealm_alt\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:50
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_hernofight\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:52
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_hernukewarning\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:57
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight1\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:58
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight2\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:59
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight3\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:60
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight4\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:61
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight5\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:63
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur1\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:64
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur2\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:65
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur3\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:66
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur4\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:67
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur5\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:69
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext1\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:70
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext2\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:71
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext3\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:72
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext4\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:74
 msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_nexus_her_lily\"]"
 msgstr ""

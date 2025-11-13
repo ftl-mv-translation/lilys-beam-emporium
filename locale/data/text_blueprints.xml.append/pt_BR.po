@@ -39,3 +39,53 @@ msgstr ""
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_LILY_MV_SIREN_TRANSPORT_unlock\"]"
 msgstr ""
+
+#: src-en/data/text_blueprints.xml.append:10
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescZoltan2_alt\"]"
+msgstr ""
+
+#: src-en/data/text_blueprints.xml.append:11
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIon1_alt\"]"
+msgstr ""
+
+#: src-en/data/text_blueprints.xml.append:12
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIon2_alt\"]"
+msgstr ""
+
+#: src-en/data/text_blueprints.xml.append:13
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIonHeavy_alt\"]"
+msgstr ""
+
+#: src-en/data/text_blueprints.xml.append:14
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIonChain_alt\"]"
+msgstr ""
+
+#: src-en/data/text_blueprints.xml.append:15
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIonPhase_alt\"]"
+msgstr ""
+
+#: src-en/data/text_blueprints.xml.append:16
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIonFire_alt\"]"
+msgstr ""
+
+#: src-en/data/text_blueprints.xml.append:17
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIonStun_alt\"]"
+msgstr ""
+
+#: src-en/data/text_blueprints.xml.append:18
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIonBio_alt\"]"
+msgstr ""
+
+#: src-en/data/text_blueprints.xml.append:19
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIon2Player_alt\"]"
+msgstr ""

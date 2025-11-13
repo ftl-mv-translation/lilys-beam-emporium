@@ -1,0 +1,64 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_boons.xml.append:3
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SIREN\"]/text"
+msgstr ""
+"From nowhere, you hear a voice speaking to you. \"The Boon... of Utopia. "
+"Your Siren crew... reveal adjacent rooms, become immune to stuns, and... "
+"don't lose skills when cloned. You may... thank the previous challenger. Or "
+"maybe you... do not? Who can say...\""
+
+#: src-en/data/events_special_boons.xml.append:6
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SIREN\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_boons.xml.append:13
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_AVATAR\"]/text"
+msgstr ""
+"You hear a voice out of nowhere speaking as if directly into your mind. "
+"\"The Boon of Anomalies-- I've heard you like them, so I've set your run's "
+"stability to 1, expect a bunch!-- Hahe!-- Feel free to thank me-- Oh, and "
+"the previous challanger too, they were quite fun-- And you better not "
+"disappoint me either!--\""
+
+#: src-en/data/events_special_boons.xml.append:16
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_AVATAR\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_boons.xml.append:23
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SPECTRUM\"]/text"
+msgstr ""
+"From nowhere, you hear a voice speaking to you. \"CHALLENGER! For you, I "
+"grant the BLESSING OF SPECTRUM! All your beam weapons will pierce an "
+"additional shield layer! May your travels be BLESSED! For whom do you thank?"
+" Why, the PREVIOUS CHALLENGER! Hahah!\""
+
+#: src-en/data/events_special_boons.xml.append:26
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SPECTRUM\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_boons.xml.append:33
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_DISINTEGRATOR\"]/text"
+msgstr ""
+"From nowhere, you hear a voice speaking to you. \"CHALLENGER! For you, I "
+"grant the BLESSING OF DISINTEGRATION! Enemy crew and drones will lose 25% "
+"healing and repair speed, and will take an extra 2 hp/s damage onboard your "
+"ship! May your travels be BLESSED! For whom do you thank? Why, the PREVIOUS "
+"CHALLENGER! Hahah!\""
+
+#: src-en/data/events_special_boons.xml.append:36
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_DISINTEGRATOR\"]/choice/text"
+msgstr "Continue..."
