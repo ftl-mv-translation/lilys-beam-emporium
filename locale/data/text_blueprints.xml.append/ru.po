@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-11-13 23:24+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"lilys-beam-emporium/datatext_blueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/text_blueprints.xml.append:1
 msgid ""
@@ -57,49 +65,49 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:10
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescZoltan2_alt\"]"
-msgstr ""
+msgstr "Протоцерн"
 
 #: src-en/data/text_blueprints.xml.append:11
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIon1_alt\"]"
-msgstr ""
+msgstr "Точеч. ион I"
 
 #: src-en/data/text_blueprints.xml.append:12
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIon2_alt\"]"
-msgstr ""
+msgstr "Точеч. ион II"
 
 #: src-en/data/text_blueprints.xml.append:13
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIonHeavy_alt\"]"
-msgstr ""
+msgstr "Тяж. точеч. ион"
 
 #: src-en/data/text_blueprints.xml.append:14
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIonChain_alt\"]"
-msgstr ""
+msgstr "Цеп. точеч. ион"
 
 #: src-en/data/text_blueprints.xml.append:15
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIonPhase_alt\"]"
-msgstr ""
+msgstr "Точеч. фазер"
 
 #: src-en/data/text_blueprints.xml.append:16
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIonFire_alt\"]"
-msgstr ""
+msgstr "Тепл. точеч. ион"
 
 #: src-en/data/text_blueprints.xml.append:17
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIonStun_alt\"]"
-msgstr ""
+msgstr "Огл. точеч. ион"
 
 #: src-en/data/text_blueprints.xml.append:18
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIonBio_alt\"]"
-msgstr ""
+msgstr "Рад-точеч. ион"
 
 #: src-en/data/text_blueprints.xml.append:19
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIon2Player_alt\"]"
-msgstr ""
+msgstr "Точеч. ион II†"
