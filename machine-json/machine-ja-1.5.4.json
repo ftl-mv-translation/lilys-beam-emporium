@@ -1,7 +1,7 @@
 {
   "lang": "ja",
   "originalLang": "en",
-  "version": "1.5.2",
+  "version": "1.5.4",
   "translation": {
     "Beam Emporium": {
       "advanced": {
@@ -511,6 +511,18 @@
       "machine": "",
       "done": false
     },
+    "Eldritch Avatar": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Avatar": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Immune to fires, suffocation, stun and mind control": {
       "advanced": {
         "10": {
@@ -700,6 +712,18 @@
           "text": "1イオンダメージを与える改造ピンポイントビーム。前モデルよりチャージが速い。"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Ion Pinpoint II†": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Ionpoint II†": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -1320,6 +1344,24 @@
       "machine": "",
       "done": false
     },
+    "Beam 'Scissors'†": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "'Scissors'†": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "An unique weapon capable of firing a pair of converging beams at once.\n\nStats:\nRequired Power: 3\nCharge Time: 20 seconds\n\nBeam Length: 80\nBeam Speed: 5\n\n(Primary Beam)\nIon Damage: 2\nFire Chance: 30%\nStun Chance: 100% (3 seconds long)\n\n(Secondary Beam)\n2x hull damage on systemlesss rooms.\nBase Hull Damage: 2\nTotal System Damage: 3\nTotal Crew Damage: 45\nBreach Chance: 30% (Adjusted: 30%)\n\nDefault Price: 100~   -   Selling Price: 50~": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "'Syringe' Beam [Empty]": {
       "advanced": {
         "10": {
@@ -1694,6 +1736,18 @@
       "machine": "",
       "done": false
     },
+    "Refractive Pinpoint I†": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Refr. I†": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Refractive Pinpoint II": {
       "advanced": {
         "10": {
@@ -1723,6 +1777,18 @@
           "text": "特殊な貫通技術を利用したピンポイントビーム。通常の方法ではシールドを貫通できないが、ビームを屈折させて通過させ、精度は落ちるものの船体に命中させることができる。Mk Iより強力。"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Refractive Pinpoint II†": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Refr. II†": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -2031,6 +2097,24 @@
           "text": "この冷たい兵器は液体窒素のビームを発射する。部屋をロックダウンし、ほとんどのクルーの出入りを妨げることができる。\n過剰な窒素ガスは大気バランスも乱す。"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "'Polaris' Frost Beam†": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "'Polaris'†": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This chilling weapon fires a beam of liquid nitrogen. Capable of locking down rooms, keeping most crew from entering or leaving.\n    The excessive nitrogen gas also upsets the atmospheric balance.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -4386,6 +4470,39 @@
       "machine": "",
       "done": false
     },
+    "(Adv. Engines + Afterburner) Engage the afterburned advanced engines to fly close enough to scrap the ship and save its sole crew. [3{]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "(先進エンジン + アフターバーナー) アフターバーナー付き先進エンジンを起動し、船をスクラップにして唯一のクルーを救うために十分に接近する。[3{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Your ship's advanced afterburned engines fight the extreme gravitation as it inches closer. Time scales more and more, but your ship can handle it easily. As a bonus, not only do you save Mafan, but you have the opportunity to scrap the ship before you return from within the gravity well. You were even fast enough to not let time dilation advance the fleet.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "あなたの船の先進的なアフターバーナー付きエンジンは、近づくにつれて極端な重力と戦う。時間はますます引き伸ばされるが、あなたの船はそれを容易に処理できる。おまけに、マファンを救うだけでなく、重力井戸から戻る前に船をスクラップにする機会もある。あなたは時間の遅れが艦隊を進軍させないほど速かった。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Contact science vessel...": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "科学船に連絡…"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "(Afterburner) Risk your ship by flying close enough to scrap the ship and save its sole crew. [3{]": {
       "advanced": {
         "10": {
@@ -4408,35 +4525,44 @@
       "machine": "",
       "done": false
     },
-    "Contact science vessel...": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "科学船に連絡…"
-        }
-      },
+    "Upgrade your Ion Pinpoint II.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
     },
-    "(Adv. Engines + Afterburner) Engage the afterburned advanced engines to fly close enough to scrap the ship and save its sole crew. [3{]": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "(先進エンジン + アフターバーナー) アフターバーナー付き先進エンジンを起動し、船をスクラップにして唯一のクルーを救うために十分に接近する。[3{]"
-        }
-      },
+    "You give the weapon to the engineer, allowing him to work on it.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
     },
-    "Your ship's advanced afterburned engines fight the extreme gravitation as it inches closer. Time scales more and more, but your ship can handle it easily. As a bonus, not only do you save Mafan, but you have the opportunity to scrap the ship before you return from within the gravity well. You were even fast enough to not let time dilation advance the fleet.": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "あなたの船の先進的なアフターバーナー付きエンジンは、近づくにつれて極端な重力と戦う。時間はますます引き伸ばされるが、あなたの船はそれを容易に処理できる。おまけに、マファンを救うだけでなく、重力井戸から戻る前に船をスクラップにする機会もある。あなたは時間の遅れが艦隊を進軍させないほど速かった。"
-        }
-      },
+    "After a short time, your weapon is returned to you, clad with an optimization.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Upgrade your Beam 'Scissors'.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Upgrade your Refractive Pinpoint I.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Upgrade your Refractive Pinpoint II.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Upgrade your 'Polaris' Frost Beam.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -4925,6 +5051,24 @@
       "machine": "",
       "done": false
     },
+    "You hear a voice out of nowhere speaking as if directly into your mind. \"The Boon of Anomalies-- I've heard you like them, so I've set your run's stability to 1, expect a bunch!-- Hahe!-- Feel free to thank me-- Oh, and the previous challanger too, they were quite fun-- And you better not disappoint me either!--\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "From nowhere, you hear a voice speaking to you. \"CHALLENGER! For you, I grant the BLESSING OF SPECTRUM! All your beam weapons will pierce an additional shield layer! May your travels be BLESSED! For whom do you thank? Why, the PREVIOUS CHALLENGER! Hahah!\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "From nowhere, you hear a voice speaking to you. \"CHALLENGER! For you, I grant the BLESSING OF DISINTEGRATION! Enemy crew and drones will lose 25% healing and repair speed, and will take an extra 2 hp/s damage onboard your ship! May your travels be BLESSED! For whom do you thank? Why, the PREVIOUS CHALLENGER! Hahah!\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "An odd looking note.": {
       "advanced": {
         "10": {
@@ -4987,6 +5131,42 @@
           "text": "「セイレーン…起源不明の謎の種族…その存在だけで人の精神を破壊できる力を持つ…それなのに…お前は彼らの一人を味方にした…そうだ、私は…非常に感銘を受けた。よくやった、旅人よ。次の旅の前に…報酬を期待するがいい。」"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Present Lily's Avatar.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You suddenly feel an overwhelming sense of unease for a moment. \"Wait... This energy... Is she ... Who I think she is?... Oh, please ignore my ramblings, Renegade... The creed... Forbids me from telling much anyway... All I can tell is she is an anomaly... Of immense threat and power... But the fact that you are still alive tells me that she is on your side, for now at least, whatever her motives might be... Yes, this is... very impressive. Expect... rewards before your next journey. Just... Please be careful.\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Present a Multi-Mode Beam.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"Oh, this is a FINELY CRAFTED weapon. A Beam, yes? That can do MANY THINGS in ONE PACKAGE? Does it do your LAUNDRY too? Haha! Sure. This is a good TRIBUTE! I shall BLESS you with the BLESSING OF SPECTRUM. But have PATIENCE. It is not for now, but for LATER!\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Present a Disintegrator.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"Oh my... A DISINTEGRATOR? Now THIS is TRIBUTE! Truly EVIL weapons, dealing UNHEALABLE wounds to METAL and FLESH alike! But as EVIL those WEAPONS might be, their POWER can't be denied! I shall BLESS you with the BLESSING OF DISINTEGRATION. But have PATIENCE. It is not for now, but for LATER!\"": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -7596,6 +7776,54 @@
       "machine": "",
       "done": false
     },
+    "Boon of Anomalies": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Show a Lily's Avatar to Thest. While in effect; Sets the run's stability index to 1.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Wakeson's Blessings (LilyBeam)": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Blessing of Spectrum": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Receive the Blessing of ??? from Wakeson.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Show a Lily's Multi-Modal beam to Wakeson. While in effect; Beam weapons pierce 1 extra shield layer.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Blessing of Disintegration": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Show a Disintegrator Beam to Wakeson. While in effect; Enemy crewmembers lose 25% healing and repair speed, and take an extra 2 hp/s onboard your ship.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Recover this ship intact from the place, where many stars shine, with the help of an unusual woman to unlock it.": {
       "advanced": {
         "10": {
@@ -7669,6 +7897,66 @@
           "text": "MV帝国巡洋艦でゲームに勝利し、この船をアンロックする。"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "'Lootcerne'": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Pinion I": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Pinion II": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Hv. Pinion": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Ch. Pinion": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Ph. Pinion": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Th. Pinion": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "St. Pinion": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Rad Pinion": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Pinion II†": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -7856,6 +8144,126 @@
           "text": "ゾルタンの戦利品\nシステムに追加ダメージ\n-1秒のクールダウン、+20%の船体亀裂率"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "FTL: Multiverse :)": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You may be willing to spare Prime. But I am certainly not--": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "As your hull is reduced to critical levels, you notice Prime himself has dismounted from his rings, and is now holding them above his head. \"You're right, it wasss my missstake to keep you around. Good thing I didn't make the missstake of making it perma-\" Prime doesn't get to finish his words as a beam striking from an unknown direction vaporizes him instantly.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You've arrived in some kind of swirling hellscape, mired by a blurry haze of what seems to be taunting barely human faces flying through the abyss. Despite the nighmarishness of the surrounding space, you feel ...oddly content and at peace.\n\n\"Ah, my home at last--\" - says Lily.\n\"Shame that I haven't been there in eons; Charming, isn't?--\"\n\n\"Don't worry, I'll make sure you are in no danger here--\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You've finally made it to the location of Her. The entire space around is nothing but darkness, with every star having been pulled out of the night sky and consumed by some ancient evil. This is it. You're about to meet with perhaps the most powerful and evil entity known to exist in the Multiverse... again.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "However, even there, you receive a message:\n\"Hey, sorry for the delay but I'll be here soon!--\nI've got gome gifts that should SERIOUSLY turn the tide of battle, just wait--\nJust need to get a proper object to calibrate my jump drive at--\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Prepare to get obliterated, pest!--": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Are you ready - to meet you maker?--": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "EXTERMINATION PROTOCOL: TARGET ACQUIRED": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Die, in Her name!--": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Yet another slimy pest about to bite the dust--": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "No mercy for insects!--": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Get Crushed!--": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Begging won't help--": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Any last words?": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "How pathetic--": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "A vessel as black as night approaches, and without words and starts charging it's weapons. But soon realizing Lily is with you, they quickly stop.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"And so this is the Renegade that set the eternal reign of chaos in motion?\" How helpful, but don't even try to undo the inevietable. Maybe there's a place for you still.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "An alien vessel, another of Her minions, approaches. There is seemingly no end to these legions of darkness. Luckily... it doesn't seem to attack you.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You think you might be hallucinating at first, but a black vessel begins to take form in front of you. In the darkness of space, you narrowly avoid colliding with it.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false

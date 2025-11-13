@@ -7,63 +7,63 @@ msgstr ""
 
 #: src-en/data/events_sector_stargrove.xml.append:4
 msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
-"append:choice/text"
-msgstr "(アフターバーナー) 船を危険にさらし、船をスクラップにして唯一のクルーを救うために十分に接近する。[3{]"
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[1]/text"
+msgstr ""
+"(先進エンジン + アフターバーナー) アフターバーナー付き先進エンジンを起動し、船をスクラップにして唯一のクルーを救うために十分に接近する。[3{]"
 
 #: src-en/data/events_sector_stargrove.xml.append:6
 msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
-"append:choice/event/text"
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[1]/event/text"
 msgstr "アフターバーナー作動"
 
 #: src-en/data/events_sector_stargrove.xml.append:11
 msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
-"append:choice/event/choice/text"
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[1]/event/choice/text"
 msgstr ""
 
 #: src-en/data/events_sector_stargrove.xml.append:13
 msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
-"append:choice/event/choice/event/text"
-msgstr ""
-"あなたの船のアフターバーナー付きエンジンは、近づくにつれて極端な重力と戦う。時間はますます引き伸ばされるが、あなたの船は大きな損傷なくそれに耐えることができる。おまけに、マファンを救うだけでなく、重力井戸から戻る前に船をスクラップにする機会もある。残念ながら、時間の遅れによって艦隊は進軍したが、それほどではない。"
-
-#: src-en/data/events_sector_stargrove.xml.append:19
-msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
-"append:choice/event/choice/event/choice/text"
-msgstr "科学船に連絡…"
-
-#: src-en/data/events_sector_stargrove.xml.append:29
-msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
-"append:choice/text"
-msgstr ""
-"(先進エンジン + アフターバーナー) アフターバーナー付き先進エンジンを起動し、船をスクラップにして唯一のクルーを救うために十分に接近する。[3{]"
-
-#: src-en/data/events_sector_stargrove.xml.append:31
-msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
-"append:choice/event/text"
-msgstr "アフターバーナー作動"
-
-#: src-en/data/events_sector_stargrove.xml.append:36
-msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
-"append:choice/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_stargrove.xml.append:38
-msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
-"append:choice/event/choice/event/text"
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[1]/event/choice/event/text"
 msgstr ""
 "あなたの船の先進的なアフターバーナー付きエンジンは、近づくにつれて極端な重力と戦う。時間はますます引き伸ばされるが、あなたの船はそれを容易に処理できる。おまけに、マファンを救うだけでなく、重力井戸から戻る前に船をスクラップにする機会もある。あなたは時間の遅れが艦隊を進軍させないほど速かった。"
 
-#: src-en/data/events_sector_stargrove.xml.append:41
+#: src-en/data/events_sector_stargrove.xml.append:16
 msgid ""
-"data/events_sector_stargrove.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
-"append:choice/event/choice/event/choice/text"
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[1]/event/choice/event/choice/text"
+msgstr "科学船に連絡…"
+
+#: src-en/data/events_sector_stargrove.xml.append:24
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[2]/text"
+msgstr "(アフターバーナー) 船を危険にさらし、船をスクラップにして唯一のクルーを救うために十分に接近する。[3{]"
+
+#: src-en/data/events_sector_stargrove.xml.append:26
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[2]/event/text"
+msgstr "アフターバーナー作動"
+
+#: src-en/data/events_sector_stargrove.xml.append:31
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_stargrove.xml.append:33
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[2]/event/choice/event/text"
+msgstr ""
+"あなたの船のアフターバーナー付きエンジンは、近づくにつれて極端な重力と戦う。時間はますます引き伸ばされるが、あなたの船は大きな損傷なくそれに耐えることができる。おまけに、マファンを救うだけでなく、重力井戸から戻る前に船をスクラップにする機会もある。残念ながら、時間の遅れによって艦隊は進軍したが、それほどではない。"
+
+#: src-en/data/events_sector_stargrove.xml.append:39
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[2]/event/choice/event/choice/text"
 msgstr "科学船に連絡…"

@@ -1607,7 +1607,7 @@ msgstr "Rayon givrant 'Polaris'"
 #: src-en/data/blueprints.xml.append:3420
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/short"
-msgstr "'Polaris'"
+msgstr "'Polaris'†"
 
 #: src-en/data/blueprints.xml.append:3421
 msgid ""

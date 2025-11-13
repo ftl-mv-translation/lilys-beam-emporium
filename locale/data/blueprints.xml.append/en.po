@@ -437,12 +437,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:827
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2_PLAYER\"]/title"
-msgstr "Ion Pinpoint II"
+msgstr "Ion Pinpoint II†"
 
 #: src-en/data/blueprints.xml.append:828
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2_PLAYER\"]/short"
-msgstr "Ionpoint II"
+msgstr "Ionpoint II†"
 
 #: src-en/data/blueprints.xml.append:829
 msgid ""
@@ -867,12 +867,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1707
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/title"
-msgstr "Beam 'Scissors'"
+msgstr "Beam 'Scissors'†"
 
 #: src-en/data/blueprints.xml.append:1708
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/short"
-msgstr "'Scissors'"
+msgstr "'Scissors'†"
 
 #: src-en/data/blueprints.xml.append:1709
 msgid ""
@@ -887,7 +887,7 @@ msgstr ""
 "An unique weapon capable of firing a pair of converging beams at once.\n"
 "\n"
 "Stats:\n"
-"Required Power: 4\n"
+"Required Power: 3\n"
 "Charge Time: 20 seconds\n"
 "\n"
 "Beam Length: 80\n"
@@ -1161,12 +1161,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2465
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/title"
-msgstr "Refractive Pinpoint I"
+msgstr "Refractive Pinpoint I†"
 
 #: src-en/data/blueprints.xml.append:2466
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/short"
-msgstr "Refr. I"
+msgstr "Refr. I†"
 
 #: src-en/data/blueprints.xml.append:2467
 msgid ""
@@ -1213,12 +1213,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2571
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/title"
-msgstr "Refractive Pinpoint II"
+msgstr "Refractive Pinpoint II†"
 
 #: src-en/data/blueprints.xml.append:2572
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/short"
-msgstr "Refr. II"
+msgstr "Refr. II†"
 
 #: src-en/data/blueprints.xml.append:2573
 msgid ""
@@ -1567,19 +1567,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3419
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/title"
-msgstr "'Polaris' Frost Beam"
+msgstr "'Polaris' Frost Beam†"
 
 #: src-en/data/blueprints.xml.append:3420
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/short"
-msgstr "'Polaris'"
+msgstr "'Polaris'†"
 
 #: src-en/data/blueprints.xml.append:3421
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/desc"
 msgstr ""
 "This chilling weapon fires a beam of liquid nitrogen. Capable of locking down rooms, keeping most crew from entering or leaving.\n"
-"The excessive nitrogen gas also upsets the atmospheric balance."
+"    The excessive nitrogen gas also upsets the atmospheric balance."
 
 #: src-en/data/blueprints.xml.append:3500
 msgid ""
