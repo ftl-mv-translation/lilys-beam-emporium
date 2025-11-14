@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-11-14 11:05+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"lilys-beam-emporium/datatext_miscxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/text_misc.xml.append:3
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_pointer\"]"
@@ -130,23 +138,43 @@ msgstr "Продолжить..."
 
 #: src-en/data/text_misc.xml.append:38
 msgid "data/text_misc.xml.append$//text[@name=\"lily_text_multiverse_crp\"]"
-msgstr ""
+msgstr "FTL: Multiverse :)"
 
 #: src-en/data/text_misc.xml.append:40
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_nospareprime\"]"
-msgstr ""
+msgstr "Возможно, ты готов пощадить Первого. Но я точно нет--"
 
 #: src-en/data/text_misc.xml.append:41
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_lilysnipesprime\"]"
 msgstr ""
+"Когда прочность корпуса корабля падает до критического уровня, вы замечаете, "
+"что сам Первый отсоединился от своих колец и теперь держит их над головой. "
+"\"Ты права, это была моя ошшшибка - держать тебя рядом. Хорошшшо, что я не "
+"сссделал ошшшибку, сссделав ее поссст...\". Первый не успевает закончить "
+"свою фразу, как луч, пришедший из неизвестного направления, мгновенно "
+"испаряет его."
 
 #: src-en/data/text_misc.xml.append:43
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_herrealm_alt\"]"
 msgstr ""
+"Вы оказались в каком-то вихревом аду, окутанном туманной дымкой, в которой "
+"мелькают едва человеческие лица, летящие через бездну. Несмотря на "
+"кошмарность окружающего пространства, вы чувствуете... странное "
+"удовлетворение и покой.\n"
+"\n"
+"\"Ах, наконец-то мой дом--\", — говорит Лили.\n"
+"\"Жаль, что я не была там вечность; очаровательно, не правда ли?--\"\n"
+"\n"
+"\"Не волнуйся, я позабочусь о том, чтобы тебе здесь ничего не угрожало--\""
 
 #: src-en/data/text_misc.xml.append:50
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_hernofight\"]"
 msgstr ""
+"Наконец-то вы добрались до места, где находится Она. Все пространство вокруг "
+"- сплошная тьма, каждая звезда вырвана из ночного неба и поглощена каким-то "
+"древним злом. Это конец, второго шанса уже не будет. Вам предстоит "
+"сразиться, возможно, с самой могущественной и злой сущностью, известной в "
+"Мультивселенной... снова"
 
 #: src-en/data/text_misc.xml.append:52
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_hernukewarning\"]"
@@ -166,47 +194,59 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:60
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight4\"]"
-msgstr ""
+msgstr "Умри во имя Ее!!--"
 
 #: src-en/data/text_misc.xml.append:61
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight5\"]"
-msgstr ""
+msgstr "Еще один скользкий вредитель, готовый укусить пыль--"
 
 #: src-en/data/text_misc.xml.append:63
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur1\"]"
-msgstr ""
+msgstr "Никакой пощады насекомым!--"
 
 #: src-en/data/text_misc.xml.append:64
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur2\"]"
-msgstr ""
+msgstr "Будешь раздавлен!--"
 
 #: src-en/data/text_misc.xml.append:65
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur3\"]"
-msgstr ""
+msgstr "Мольбы не помогут--"
 
 #: src-en/data/text_misc.xml.append:66
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur4\"]"
-msgstr ""
+msgstr "Последние слова?"
 
 #: src-en/data/text_misc.xml.append:67
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur5\"]"
-msgstr ""
+msgstr "Как жалко--"
 
 #: src-en/data/text_misc.xml.append:69
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext1\"]"
 msgstr ""
+"Судно, черное как ночь, приближается, не произнося ни слова, и начинает "
+"заряжать свое оружие. Но вскоре, понимая, что Лили с вами, оно быстро "
+"останавливается/"
 
 #: src-en/data/text_misc.xml.append:70
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext2\"]"
 msgstr ""
+"\"Так это тот самый Ренегат, который положил начало вечному царству хаоса?\" "
+"Как любезно, но даже не пытайтесь изменить неизбежное. Может быть, для вас "
+"еще найдется место."
 
 #: src-en/data/text_misc.xml.append:71
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext3\"]"
 msgstr ""
+"Приближается инопланетное судно, еще один из Ее приспешников. Кажется, что "
+"этим легионам тьмы нет конца. К счастью... оно, похоже, не собирается вас "
+"атаковать."
 
 #: src-en/data/text_misc.xml.append:72
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext4\"]"
 msgstr ""
+"Сначала вы думаете, что это галлюцинации, но перед вами начинает "
+"формироваться черный корабль. В темноте космоса вы едва избегаете "
+"столкновения с ним."
 
 #: src-en/data/text_misc.xml.append:74
 msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_nexus_her_lily\"]"
