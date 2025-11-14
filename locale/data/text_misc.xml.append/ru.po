@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-14 11:05+0000\n"
+"PO-Revision-Date: 2025-11-14 17:42+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datatext_miscxmlappend/ru/>\n"
@@ -179,18 +179,24 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:52
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_hernukewarning\"]"
 msgstr ""
+"Однако даже там вы получаете сообщение:\n"
+"\"Эй, извини за задержку, но я скоро буду!--\n"
+"У меня есть подарки, которые ДЕЙСТВИТЕЛЬНО могут переломить ход битвы, "
+"просто подожди--\n"
+"Мне только нужно найти подходящий объект, чтобы откалибровать мой прыжковый "
+"двигатель--"
 
 #: src-en/data/text_misc.xml.append:57
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight1\"]"
-msgstr ""
+msgstr "Приготовься к уничтожению, вредитель!--"
 
 #: src-en/data/text_misc.xml.append:58
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight2\"]"
-msgstr ""
+msgstr "Ты готов встретиться со своим создателем?--"
 
 #: src-en/data/text_misc.xml.append:59
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight3\"]"
-msgstr ""
+msgstr "ПРОТОКОЛ УНИЧТОЖЕНИЯ: ЦЕЛЬ ЗАФИКСИРОВАНА"
 
 #: src-en/data/text_misc.xml.append:60
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight4\"]"
