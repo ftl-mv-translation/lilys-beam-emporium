@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-13 23:24+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-11-16 16:32+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/fr/>\n"
 "Language: fr\n"
@@ -460,16 +460,14 @@ msgstr ""
 "plus rapidement que le modèle précédent."
 
 #: src-en/data/blueprints.xml.append:827
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2_PLAYER\"]/title"
-msgstr "Aiguillon Ionique II"
+msgstr "Aiguillon Ionique II†"
 
 #: src-en/data/blueprints.xml.append:828
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2_PLAYER\"]/short"
-msgstr "Aiguill-ion II"
+msgstr "Aiguill-ion II†"
 
 #: src-en/data/blueprints.xml.append:829
 msgid ""
@@ -898,16 +896,14 @@ msgstr ""
 "convergents."
 
 #: src-en/data/blueprints.xml.append:1707
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/title"
-msgstr "Rayon 'Ciseaux'"
+msgstr "Rayon 'Ciseaux'†"
 
 #: src-en/data/blueprints.xml.append:1708
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/short"
-msgstr "'Ciseaux'"
+msgstr "'Ciseaux'†"
 
 #: src-en/data/blueprints.xml.append:1709
 msgid ""
@@ -917,7 +913,6 @@ msgstr ""
 "convergents."
 
 #: src-en/data/blueprints.xml.append:1711
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/descriptionOverride"
 msgstr ""
@@ -925,7 +920,7 @@ msgstr ""
 "convergents.\n"
 "\n"
 "Stats :\n"
-"Puissance requise : 4\n"
+"Puissance requise : 3\n"
 "Temps de charge : 20 secondes\n"
 "\n"
 "Longueur du rayon : 80\n"
@@ -1204,16 +1199,14 @@ msgstr ""
 "d’une perte de précision."
 
 #: src-en/data/blueprints.xml.append:2465
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/title"
-msgstr "Aiguillon réfractif I"
+msgstr "Aiguillon réfractif I†"
 
 #: src-en/data/blueprints.xml.append:2466
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/short"
-msgstr "Réfr. I"
+msgstr "Réfr. I†"
 
 #: src-en/data/blueprints.xml.append:2467
 msgid ""
@@ -1259,16 +1252,14 @@ msgstr ""
 "d’une perte de précision. Plus puissant que la version I."
 
 #: src-en/data/blueprints.xml.append:2571
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/title"
-msgstr "Aiguillon réfractif II"
+msgstr "Aiguillon réfractif II†"
 
 #: src-en/data/blueprints.xml.append:2572
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/short"
-msgstr "Réfr. II"
+msgstr "Réfr. II†"
 
 #: src-en/data/blueprints.xml.append:2573
 msgid ""
@@ -1617,10 +1608,9 @@ msgstr ""
 "L’excès de gaz d’azote perturbe également l’équilibre atmosphérique."
 
 #: src-en/data/blueprints.xml.append:3419
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/title"
-msgstr "Rayon givrant 'Polaris'"
+msgstr "Rayon givrant 'Polaris'†"
 
 #: src-en/data/blueprints.xml.append:3420
 msgid ""
@@ -1628,14 +1618,13 @@ msgid ""
 msgstr "'Polaris'†"
 
 #: src-en/data/blueprints.xml.append:3421
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/desc"
 msgstr ""
 "Cette arme glaciale projette un rayon d'azote liquide. Elle est capable de "
 "verrouiller des pièces, empêchant la plupart des membres d’équipage d’entrer "
 "ou de sortir.\n"
-"L’excès de gaz d’azote perturbe également l’équilibre atmosphérique."
+"   L’excès de gaz d’azote perturbe également l’équilibre atmosphérique."
 
 #: src-en/data/blueprints.xml.append:3500
 msgid ""
