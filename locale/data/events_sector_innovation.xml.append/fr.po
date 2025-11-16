@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-11-16 17:25+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/"
+"lilys-beam-emporium/dataevents_sector_innovationxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_innovation.xml.append:8
 msgid ""
@@ -32,11 +39,11 @@ msgid ""
 msgstr ""
 "Avec la statue arrimée à votre coque, vous enclenchez la postcombustion et "
 "la catapultez vers la planète. Elle avance à toute vitesse vers la surface, "
-"et l’impact soulève un gigantesque nuage de poussière et de débris qui vous "
-"masque la vue pendant de longues minutes. Lorsqu’il se dissipe, vous "
-"constatez que le choc a ravagé bien plus que l’installation militaire. La "
-"ville, réduite en gravats par l’onde de choc, offre désormais des richesses "
-"considérables. Au moins, ces enfants n’auront plus à craindre de mauvaises "
+"et l'impact soulève un gigantesque nuage de poussière et de débris qui vous "
+"masque la vue pendant de longues minutes. Lorsqu'il se dissipe, vous "
+"constatez que le choc a ravagé bien plus que l'installation militaire. La "
+"ville, réduite en gravats par l'onde de choc, offre désormais des richesses "
+"considérables. Au moins, ces enfants n'auront plus à craindre de mauvaises "
 "nuits de sommeil."
 
 #: src-en/data/events_sector_innovation.xml.append:20
