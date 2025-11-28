@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-11-28 19:31+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -16,22 +16,29 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:195
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_VERDANT\"]/title"
-msgstr ""
+msgstr "Эксенет мейнфрейм (З)"
 
 #: src-en/data/blueprints.xml.append:196
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_VERDANT\"]/desc"
 msgstr ""
+"Зеленый мейнфрейм с поддержкой экзонет установленный на вашем корабле. "
+"Обеспечивает накопительный энергетический щит размером в 3 единицы прочности "
+"и 3 бонусных мощности двигателя."
 
 #: src-en/data/blueprints.xml.append:204
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_CRIMSON\"]/title"
-msgstr ""
+msgstr "Экзонет мейнфрейм (К)"
 
 #: src-en/data/blueprints.xml.append:205
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_CRIMSON\"]/desc"
 msgstr ""
+"Красный мейнфрейм с поддержкой экзонет установленный на вашем корабле. "
+"Обеспечивает накопительный энергетический щит размером в 5 единицы "
+"прочности, 4 бонусных мощности двигателя, 2 - щитам и брони и 1 - другим "
+"системам."
 
 #: src-en/data/blueprints.xml.append:213
 msgid ""
