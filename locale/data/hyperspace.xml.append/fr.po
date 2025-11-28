@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-11-29 00:54+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/"
+"lilys-beam-emporium/datahyperspace-xml-append/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/hyperspace.xml.append:86
 msgid "data/hyperspace.xml.append$//siren_harpy[@name=\"Liliana\"]/@name"
@@ -525,19 +532,21 @@ msgstr "Lire."
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_EXONET_TEST\"]/name"
-msgstr ""
+msgstr "Ce Fut un Triomphe"
 
 #: src-en/data/hyperspace.xml.append:3308
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_EXONET_TEST\"]/description"
 msgstr ""
+"Détruire la station Galerie de Lily, pour lui permettre d'obtenir une tonne "
+"de données de test, et du matériel expérimental pour vous."
 
 #: src-en/data/hyperspace.xml.append:3309
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_EXONET_TEST\"]/secretDescription"
-msgstr ""
+msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:3316
 msgid ""
