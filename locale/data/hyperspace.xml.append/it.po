@@ -5,639 +5,657 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src-en/data/hyperspace.xml.append:85
+#: src-en/data/hyperspace.xml.append:86
 msgid "data/hyperspace.xml.append$//siren_harpy[@name=\"Liliana\"]/@name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:86
+#: src-en/data/hyperspace.xml.append:87
 msgid "data/hyperspace.xml.append$//siren_harpy[@name=\"Katherine\"]/@name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:194
+#: src-en/data/hyperspace.xml.append:195
 msgid "data/hyperspace.xml.append$//unique_lily_avatar[@name=\"Lily\"]/@name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:280
+#: src-en/data/hyperspace.xml.append:281
 msgid "data/hyperspace.xml.append$//siren[@name=\"Aki\"]/@name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:281
+#: src-en/data/hyperspace.xml.append:282
 msgid "data/hyperspace.xml.append$//siren[@name=\"Noemi\"]/@name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:282
+#: src-en/data/hyperspace.xml.append:283
 msgid "data/hyperspace.xml.append$//crystal[@name=\"Sapphire\"]/@name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:283
+#: src-en/data/hyperspace.xml.append:284
 msgid "data/hyperspace.xml.append$//crystal_liberator[@name=\"Emerald\"]/@name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:750
+#: src-en/data/hyperspace.xml.append:809
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:751
+#: src-en/data/hyperspace.xml.append:810
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1043
+#: src-en/data/hyperspace.xml.append:1102
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1044
+#: src-en/data/hyperspace.xml.append:1103
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1842
+#: src-en/data/hyperspace.xml.append:1901
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[1]/buttonText"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1843
+#: src-en/data/hyperspace.xml.append:1902
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[1]/tooltip"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1862
+#: src-en/data/hyperspace.xml.append:1921
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[2]/buttonText"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1863
+#: src-en/data/hyperspace.xml.append:1922
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[2]/tooltip"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1915
+#: src-en/data/hyperspace.xml.append:1974
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[1]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1931
+#: src-en/data/hyperspace.xml.append:1990
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[2]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1947
+#: src-en/data/hyperspace.xml.append:2006
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[3]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1963
+#: src-en/data/hyperspace.xml.append:2022
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[4]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1979
+#: src-en/data/hyperspace.xml.append:2038
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[5]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1995
+#: src-en/data/hyperspace.xml.append:2054
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[6]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2011
+#: src-en/data/hyperspace.xml.append:2070
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[7]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2031
+#: src-en/data/hyperspace.xml.append:2090
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[8]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2050
+#: src-en/data/hyperspace.xml.append:2109
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[9]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2069
+#: src-en/data/hyperspace.xml.append:2128
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[10]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2088
+#: src-en/data/hyperspace.xml.append:2147
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[11]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2107
+#: src-en/data/hyperspace.xml.append:2166
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[12]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2126
+#: src-en/data/hyperspace.xml.append:2185
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[13]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2145
+#: src-en/data/hyperspace.xml.append:2204
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[14]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2164
+#: src-en/data/hyperspace.xml.append:2223
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[15]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2183
+#: src-en/data/hyperspace.xml.append:2242
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[16]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2256
+#: src-en/data/hyperspace.xml.append:2315
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[1]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2272
+#: src-en/data/hyperspace.xml.append:2331
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[2]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2288
+#: src-en/data/hyperspace.xml.append:2347
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[3]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2304
+#: src-en/data/hyperspace.xml.append:2363
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[4]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2320
+#: src-en/data/hyperspace.xml.append:2379
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[5]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2336
+#: src-en/data/hyperspace.xml.append:2395
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[6]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2352
+#: src-en/data/hyperspace.xml.append:2411
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[7]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2372
+#: src-en/data/hyperspace.xml.append:2431
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[8]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2391
+#: src-en/data/hyperspace.xml.append:2450
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[9]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2410
+#: src-en/data/hyperspace.xml.append:2469
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[10]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2429
+#: src-en/data/hyperspace.xml.append:2488
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[11]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2448
+#: src-en/data/hyperspace.xml.append:2507
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[12]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2467
+#: src-en/data/hyperspace.xml.append:2526
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[13]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2486
+#: src-en/data/hyperspace.xml.append:2545
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[14]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2505
+#: src-en/data/hyperspace.xml.append:2564
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[15]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2524
+#: src-en/data/hyperspace.xml.append:2583
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[16]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2574
+#: src-en/data/hyperspace.xml.append:2633
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[19]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2593
+#: src-en/data/hyperspace.xml.append:2652
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[20]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2613
+#: src-en/data/hyperspace.xml.append:2672
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[21]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2632
+#: src-en/data/hyperspace.xml.append:2691
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[22]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2678
+#: src-en/data/hyperspace.xml.append:2737
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[1]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2697
+#: src-en/data/hyperspace.xml.append:2756
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[2]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2716
+#: src-en/data/hyperspace.xml.append:2775
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[3]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2735
+#: src-en/data/hyperspace.xml.append:2794
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[4]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2754
+#: src-en/data/hyperspace.xml.append:2813
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[5]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2773
+#: src-en/data/hyperspace.xml.append:2832
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[6]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2792
+#: src-en/data/hyperspace.xml.append:2851
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[7]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2812
+#: src-en/data/hyperspace.xml.append:2871
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[8]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2831
+#: src-en/data/hyperspace.xml.append:2890
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[9]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2850
+#: src-en/data/hyperspace.xml.append:2909
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[10]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2869
+#: src-en/data/hyperspace.xml.append:2928
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[11]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2889
+#: src-en/data/hyperspace.xml.append:2948
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[12]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2908
+#: src-en/data/hyperspace.xml.append:2967
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[13]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2927
+#: src-en/data/hyperspace.xml.append:2986
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[14]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2946
+#: src-en/data/hyperspace.xml.append:3005
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[15]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2965
+#: src-en/data/hyperspace.xml.append:3024
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[16]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2979
+#: src-en/data/hyperspace.xml.append:3038
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[17]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2998
+#: src-en/data/hyperspace.xml.append:3057
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[18]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3059
+#: src-en/data/hyperspace.xml.append:3118
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[22]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3078
+#: src-en/data/hyperspace.xml.append:3137
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[23]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3098
+#: src-en/data/hyperspace.xml.append:3157
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[24]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3117
+#: src-en/data/hyperspace.xml.append:3176
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[25]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3136
+#: src-en/data/hyperspace.xml.append:3195
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[26]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3155
+#: src-en/data/hyperspace.xml.append:3214
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[27]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3174
+#: src-en/data/hyperspace.xml.append:3233
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[28]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3193
+#: src-en/data/hyperspace.xml.append:3252
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[29]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3219
+#: src-en/data/hyperspace.xml.append:3278
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
 "append:page/mod-append:section[1]/@text"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3221
+#: src-en/data/hyperspace.xml.append:3280
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_STORE\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3222
+#: src-en/data/hyperspace.xml.append:3281
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_STORE\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3223
+#: src-en/data/hyperspace.xml.append:3282
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_STORE\"]/secretDescription"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3230
+#: src-en/data/hyperspace.xml.append:3289
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_AVATAR\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3231
+#: src-en/data/hyperspace.xml.append:3290
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_AVATAR\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3232
+#: src-en/data/hyperspace.xml.append:3291
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_AVATAR\"]/secretDescription"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3239
+#: src-en/data/hyperspace.xml.append:3298
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_LORE\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3240
+#: src-en/data/hyperspace.xml.append:3299
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_LORE\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3241
+#: src-en/data/hyperspace.xml.append:3300
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_LORE\"]/secretDescription"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3248
+#: src-en/data/hyperspace.xml.append:3307
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_EXONET_TEST\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:3308
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_EXONET_TEST\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:3309
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"LILY_ACH_GEN_EXONET_TEST\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:3316
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_EXCHANGE\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3249
+#: src-en/data/hyperspace.xml.append:3317
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_EXCHANGE\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3250
+#: src-en/data/hyperspace.xml.append:3318
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_EXCHANGE\"]/secretDescription"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3257
+#: src-en/data/hyperspace.xml.append:3325
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_RHYMES\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3258
+#: src-en/data/hyperspace.xml.append:3326
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_RHYMES\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3259
+#: src-en/data/hyperspace.xml.append:3327
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_RHYMES\"]/secretDescription"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3266
+#: src-en/data/hyperspace.xml.append:3334
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_NUKED\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3267
+#: src-en/data/hyperspace.xml.append:3335
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_NUKED\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3268
+#: src-en/data/hyperspace.xml.append:3336
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_NUKED\"]/secretDescription"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3275
+#: src-en/data/hyperspace.xml.append:3343
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
 "append:page/mod-append:section[2]/@text"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3277
+#: src-en/data/hyperspace.xml.append:3345
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SIREN\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3279
+#: src-en/data/hyperspace.xml.append:3347
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SIREN\"]/secretDescription"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3280
+#: src-en/data/hyperspace.xml.append:3348
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SIREN\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3288
+#: src-en/data/hyperspace.xml.append:3356
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3290
+#: src-en/data/hyperspace.xml.append:3358
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/secretDescription"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3291
+#: src-en/data/hyperspace.xml.append:3359
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3299
+#: src-en/data/hyperspace.xml.append:3367
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
 "append:page/mod-append:section[3]/@text"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3301
+#: src-en/data/hyperspace.xml.append:3369
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SPECTRUM\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3303
+#: src-en/data/hyperspace.xml.append:3371
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SPECTRUM\"]/secretDescription"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3304
+#: src-en/data/hyperspace.xml.append:3372
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SPECTRUM\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3312
+#: src-en/data/hyperspace.xml.append:3380
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3314
+#: src-en/data/hyperspace.xml.append:3382
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/secretDescription"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:3315
+#: src-en/data/hyperspace.xml.append:3383
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/description"

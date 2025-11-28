@@ -1,23 +1,66 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-16 17:25+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/"
-"lilys-beam-emporium/datablueprintsxmlappend/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13.3\n"
+
+#: src-en/data/blueprints.xml.append:195
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_VERDANT\"]/title"
+msgstr ""
 
 #: src-en/data/blueprints.xml.append:196
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_VERDANT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:204
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_CRIMSON\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:205
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_CRIMSON\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:213
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_AZURE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:214
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_AZURE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:222
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_RADIANT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:223
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_RADIANT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:231
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_IRIDIUM\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:232
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_IRIDIUM\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:241
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_TARGETING_BYPASS\"]/title"
 msgstr "Hyperchargeur"
 
-#: src-en/data/blueprints.xml.append:197
+#: src-en/data/blueprints.xml.append:242
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_TARGETING_BYPASS\"]/desc"
 msgstr ""
@@ -25,12 +68,12 @@ msgstr ""
 "interférences font que toutes les armes subissent aussi une pénalité de -20 "
 "% de précision lorsqu'elles visent d'autres vaisseaux."
 
-#: src-en/data/blueprints.xml.append:205
+#: src-en/data/blueprints.xml.append:250
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_TARGETING_BYPASS_LOCKED\"]/title"
 msgstr "Hyperchargeur"
 
-#: src-en/data/blueprints.xml.append:206
+#: src-en/data/blueprints.xml.append:251
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_TARGETING_BYPASS_LOCKED\"]/desc"
 msgstr ""
@@ -38,115 +81,110 @@ msgstr ""
 "interférences font que toutes les armes subissent aussi une pénalité de -20 "
 "% de précision lorsqu'elles visent d'autres vaisseaux."
 
-#: src-en/data/blueprints.xml.append:214
+#: src-en/data/blueprints.xml.append:259
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ASB_SCRAMBLER\"]/title"
 msgstr "Brouilleur de Batterie Anti-Vaisseaux (ASB)"
 
-#: src-en/data/blueprints.xml.append:215
+#: src-en/data/blueprints.xml.append:260
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ASB_SCRAMBLER\"]/desc"
 msgstr ""
-"Brouille la signature longue portée de votre vaisseau, empêchant la Batterie "
-"Anti-Vaisseaux (ASB) ennemis d'obtenir un verrouillage précis."
+"Brouille la signature longue portée de votre vaisseau, empêchant la Batterie"
+" Anti-Vaisseaux (ASB) ennemis d'obtenir un verrouillage précis."
 
-#: src-en/data/blueprints.xml.append:223
+#: src-en/data/blueprints.xml.append:268
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_COMBAT_AFTERBURNER\"]/title"
 msgstr "Postcombustion"
 
-#: src-en/data/blueprints.xml.append:224
+#: src-en/data/blueprints.xml.append:269
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_COMBAT_AFTERBURNER\"]/desc"
 msgstr ""
-"Postcombustion à fusion pour vos moteurs : offre une poussée considérable "
-"mais consomme énormément de carburant.\n"
-"[3 unités de carburant, +20 % d'évasion pendant 60 secondes OU inflige des "
-"dégâts à l'ennemi selon le niveau de vos moteurs]"
+"Postcombustion à fusion pour vos moteurs : offre une poussée considérable mais consomme énormément de carburant.\n"
+"[3 unités de carburant, +20 % d'évasion pendant 60 secondes OU inflige des dégâts à l'ennemi selon le niveau de vos moteurs]"
 
-#: src-en/data/blueprints.xml.append:233
+#: src-en/data/blueprints.xml.append:278
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/title"
 msgstr "Résonateur anti-L.A.C."
 
-#: src-en/data/blueprints.xml.append:234
+#: src-en/data/blueprints.xml.append:279
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/desc"
 msgstr ""
 "Cet étrange dispositif semble amener vos armes à résonner avec la "
-"technologie L.A.C. des vaisseaux ennemis, permettant d'infliger le double de "
-"dégâts. Une note jointe indique : "
-"\"Un petit coup de main pour vous occuper de ces parasites. :)\""
+"technologie L.A.C. des vaisseaux ennemis, permettant d'infliger le double de"
+" dégâts. Une note jointe indique : \"Un petit coup de main pour vous occuper"
+" de ces parasites. :)\""
 
-#: src-en/data/blueprints.xml.append:242
+#: src-en/data/blueprints.xml.append:287
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_PATRONAGE\"]/title"
 msgstr "Lily"
 
-#: src-en/data/blueprints.xml.append:243
+#: src-en/data/blueprints.xml.append:288
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_PATRONAGE\"]/desc"
 msgstr "Vous n'êtes pas censé voir ça."
 
-#: src-en/data/blueprints.xml.append:251
+#: src-en/data/blueprints.xml.append:296
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AVATAR_LINKER\"]/title"
 msgstr "Avatar de Lily"
 
-#: src-en/data/blueprints.xml.append:252
+#: src-en/data/blueprints.xml.append:297
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AVATAR_LINKER\"]/desc"
 msgstr "Vous n'êtes pas censé voir ça."
 
-#: src-en/data/blueprints.xml.append:260
+#: src-en/data/blueprints.xml.append:305
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_NOTE\"]/title"
 msgstr "Note ?"
 
-#: src-en/data/blueprints.xml.append:261
+#: src-en/data/blueprints.xml.append:306
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_NOTE\"]/desc"
 msgstr "Vous n'êtes pas censé voir ça."
 
-#: src-en/data/blueprints.xml.append:269
+#: src-en/data/blueprints.xml.append:314
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ESTROGEN_DISPERSAL\"]/title"
 msgstr "E"
 
-#: src-en/data/blueprints.xml.append:270
+#: src-en/data/blueprints.xml.append:315
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ESTROGEN_DISPERSAL\"]/desc"
 msgstr ""
 "\"Ils rejettent des produits chimiques dans l'air pour influencer nos désirs"
 " !\""
 
-#: src-en/data/blueprints.xml.append:279
+#: src-en/data/blueprints.xml.append:324
 msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_SHIELDS\"]/title"
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ADV_ELDRITCH_SHIELDS\"]/title"
 msgstr "Bouclier mystérieux"
 
-#: src-en/data/blueprints.xml.append:280
+#: src-en/data/blueprints.xml.append:325
 msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_SHIELDS\"]/desc"
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ADV_ELDRITCH_SHIELDS\"]/desc"
 msgstr ""
-"Une barrière d'énergie chaotique surnaturelle qui fournit un super bouclier "
-"de 42 points. Sa source d'énergie semble ne pas provenir du vaisseau lui-"
-"même..."
 
-#: src-en/data/blueprints.xml.append:288
+#: src-en/data/blueprints.xml.append:333
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_ELITE\"]/title"
 msgstr "Énergie Chaotique Intense"
 
-#: src-en/data/blueprints.xml.append:289
+#: src-en/data/blueprints.xml.append:334
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_ELITE\"]/desc"
 msgstr ""
 "L'équipage non-Sirène perd ses capacités actives, sa capacité à combattre, à"
 " manœuvrer, à réparer ou à saboter, et se déplace au quart de sa vitesse "
 "tant qu'il se trouve dans les champs d'énergie chaotique intense."
 
-#: src-en/data/blueprints.xml.append:298
+#: src-en/data/blueprints.xml.append:343
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_AZURE\"]/title"
 msgstr "Énergie Azur"
 
-#: src-en/data/blueprints.xml.append:299
+#: src-en/data/blueprints.xml.append:344
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_AZURE\"]/desc"
 msgstr ""
 "Les membres d'équipage non-Sirènes ennemis à bord du vaisseau voient leur "
@@ -156,12 +194,12 @@ msgstr ""
 "et à l'étourdissement, et récupère 1 point de vie par seconde lorsqu'il se "
 "trouve dans les Champs d'Énergie Azur."
 
-#: src-en/data/blueprints.xml.append:307
+#: src-en/data/blueprints.xml.append:352
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AZURE_ARMOR\"]/title"
 msgstr "Armure Azur"
 
-#: src-en/data/blueprints.xml.append:308
+#: src-en/data/blueprints.xml.append:353
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AZURE_ARMOR\"]/desc"
 msgstr ""
 "Chaque fois que votre vaisseau subit des dégâts, un éclat cristalien "
@@ -170,34 +208,34 @@ msgstr ""
 "pièces, et exerce un contrôle mental sur les membres d'équipage ennemis "
 "pendant 20 secondes."
 
-#: src-en/data/blueprints.xml.append:316
+#: src-en/data/blueprints.xml.append:361
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_INSTALLED\"]/title"
 msgstr "Amélioration du Laboratoire Sirène Installée"
 
-#: src-en/data/blueprints.xml.append:317
+#: src-en/data/blueprints.xml.append:362
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_INSTALLED\"]/desc"
 msgstr "Amélioration du Laboratoire Sirène Installée."
 
-#: src-en/data/blueprints.xml.append:326
+#: src-en/data/blueprints.xml.append:371
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_VAMP\"]/title"
 msgstr "Siphon d'Âme"
 
-#: src-en/data/blueprints.xml.append:327
+#: src-en/data/blueprints.xml.append:372
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_VAMP\"]/desc"
 msgstr ""
 "Les Sirènes se soignent désormais proportionnellement aux dégâts qu'elles "
 "infligent. Cependant, leurs dégâts sont réduits de moitié."
 
-#: src-en/data/blueprints.xml.append:334
+#: src-en/data/blueprints.xml.append:379
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_BUFF\"]/title"
 msgstr "Rêves Colorés"
 
-#: src-en/data/blueprints.xml.append:335
+#: src-en/data/blueprints.xml.append:380
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_BUFF\"]/desc"
 msgstr ""
@@ -206,12 +244,12 @@ msgstr ""
 "devient immunisé au contrôle mental, mais perd 50 % de sa vitesse de "
 "déplacement."
 
-#: src-en/data/blueprints.xml.append:342
+#: src-en/data/blueprints.xml.append:387
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_DAMAGE\"]/title"
 msgstr "Regard Flétrissant"
 
-#: src-en/data/blueprints.xml.append:343
+#: src-en/data/blueprints.xml.append:388
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_DAMAGE\"]/desc"
 msgstr ""
@@ -220,12 +258,12 @@ msgstr ""
 "mental s'ils en avaient une. N'affecte pas les autres Sirènes ni les êtres "
 "surnaturels."
 
-#: src-en/data/blueprints.xml.append:350
+#: src-en/data/blueprints.xml.append:395
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/title"
 msgstr "Assaut Mental"
 
-#: src-en/data/blueprints.xml.append:351
+#: src-en/data/blueprints.xml.append:396
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/desc"
 msgstr ""
@@ -233,12 +271,12 @@ msgstr ""
 " un membre d'équipage ennemi aléatoire dans la pièce actuelle pendant 10 "
 "secondes. Temps de recharge : 30 secondes."
 
-#: src-en/data/blueprints.xml.append:361
+#: src-en/data/blueprints.xml.append:406
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_VAMP\"]/title"
 msgstr "[L] Siphon d'Âme"
 
-#: src-en/data/blueprints.xml.append:362
+#: src-en/data/blueprints.xml.append:407
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_VAMP\"]/desc"
 msgstr ""
@@ -246,12 +284,12 @@ msgstr ""
 "        \n"
 "[L] -Amélioration de labo externe, fournit son effet mais occupe un emplacement. Elle ne peut pas être converti en véritable amélioration de laboratoire, mais n'utilisera pas votre emplacement principal. Ne se cumule pas avec elle-même."
 
-#: src-en/data/blueprints.xml.append:371
+#: src-en/data/blueprints.xml.append:416
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_BUFF\"]/title"
 msgstr "[L] Rêves Colorés"
 
-#: src-en/data/blueprints.xml.append:372
+#: src-en/data/blueprints.xml.append:417
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_BUFF\"]/desc"
 msgstr ""
@@ -259,12 +297,12 @@ msgstr ""
 "        \n"
 "[L] -Amélioration de labo externe, fournit son effet mais occupe un emplacement. Elle ne peut pas être converti en véritable amélioration de laboratoire, mais n'utilisera pas votre emplacement principal. Ne se cumule pas avec elle-même."
 
-#: src-en/data/blueprints.xml.append:381
+#: src-en/data/blueprints.xml.append:426
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_DAMAGE\"]/title"
 msgstr "[L] Regard Flétrissant"
 
-#: src-en/data/blueprints.xml.append:382
+#: src-en/data/blueprints.xml.append:427
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_DAMAGE\"]/desc"
 msgstr ""
@@ -272,12 +310,12 @@ msgstr ""
 "      \n"
 "[L] -Amélioration de labo externe, fournit son effet mais occupe un emplacement. Elle ne peut pas être converti en véritable amélioration de laboratoire, mais n'utilisera pas votre emplacement principal. Ne se cumule pas avec elle-même."
 
-#: src-en/data/blueprints.xml.append:391
+#: src-en/data/blueprints.xml.append:436
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/title"
 msgstr "[L] Assaut Mental"
 
-#: src-en/data/blueprints.xml.append:392
+#: src-en/data/blueprints.xml.append:437
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/desc"
 msgstr ""
@@ -285,20 +323,20 @@ msgstr ""
 "        \n"
 "[L] -Amélioration de labo externe, fournit son effet mais occupe un emplacement. Elle ne peut pas être converti en véritable amélioration de laboratoire, mais n'utilisera pas votre emplacement principal. Ne se cumule pas avec elle-même."
 
-#: src-en/data/blueprints.xml.append:402
+#: src-en/data/blueprints.xml.append:447
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SIREN\"]/title"
 msgstr "La Faveur de l'Utopie"
 
-#: src-en/data/blueprints.xml.append:403
+#: src-en/data/blueprints.xml.append:448
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SIREN\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
-#: src-en/data/blueprints.xml.append:410
+#: src-en/data/blueprints.xml.append:455
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_HER_EMPOWERMENT\"]/title"
 msgstr "Son Renforcement"
 
-#: src-en/data/blueprints.xml.append:411
+#: src-en/data/blueprints.xml.append:456
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_HER_EMPOWERMENT\"]/desc"
 msgstr ""
@@ -308,296 +346,308 @@ msgstr ""
 "équipage surnaturel et Sirène est également renforcé, lui accordant une "
 "résistance aux dégâts et l'immunité aux dégâts environnementaux."
 
-#: src-en/data/blueprints.xml.append:418
+#: src-en/data/blueprints.xml.append:463
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_SHIP_HER\"]/title"
 msgstr "Son croiseur"
 
-#: src-en/data/blueprints.xml.append:419
+#: src-en/data/blueprints.xml.append:464
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_SHIP_HER\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
-#: src-en/data/blueprints.xml.append:428
+#: src-en/data/blueprints.xml.append:473
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/desc"
 msgstr ""
 "Une voyageuse multiverselle, vendeuse de rayons lumineux et fidèle servante "
 "de la Déesse suprême et mystérieuse du Chaos véritable. Oui, c'est moi..."
 
-#: src-en/data/blueprints.xml.append:431
+#: src-en/data/blueprints.xml.append:476
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/title"
 msgstr "Avatar surnaturel"
 
-#: src-en/data/blueprints.xml.append:432
+#: src-en/data/blueprints.xml.append:477
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/short"
 msgstr "Avatar"
 
-#: src-en/data/blueprints.xml.append:435
+#: src-en/data/blueprints.xml.append:480
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[1]"
 msgstr ""
 "Immunisé contre les feus, la suffocation, l'étourdissement et le contrôle "
 "mental"
 
-#: src-en/data/blueprints.xml.append:436
+#: src-en/data/blueprints.xml.append:481
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[2]"
 msgstr "Peut se téléporter n'importe où sur le vaisseau actuel"
 
-#: src-en/data/blueprints.xml.append:437
+#: src-en/data/blueprints.xml.append:482
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[3]"
 msgstr "Maîtrise un vaste arsenal de pouvoirs surnaturels"
 
-#: src-en/data/blueprints.xml.append:438
+#: src-en/data/blueprints.xml.append:483
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[4]"
 msgstr ""
 "Seulement 100 points de santé maximum, mais se régénère automatiquement "
 "après 5 secondes"
 
-#: src-en/data/blueprints.xml.append:439
+#: src-en/data/blueprints.xml.append:484
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[5]"
 msgstr ""
 "L'unité ne subit pas de mort définitive. Elle peut être régénérée à partir "
 "du menu de stockage moyennant un coût en ressources"
 
-#: src-en/data/blueprints.xml.append:456
+#: src-en/data/blueprints.xml.append:501
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_ZOLTAN_2\"]/title"
 msgstr "Rayon 'Lucerne'"
 
-#: src-en/data/blueprints.xml.append:457
+#: src-en/data/blueprints.xml.append:502
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_ZOLTAN_2\"]/short"
 msgstr "'Lucerne'"
 
-#: src-en/data/blueprints.xml.append:458
+#: src-en/data/blueprints.xml.append:503
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_ZOLTAN_2\"]/desc"
 msgstr ""
 "Arme de butin spéciale. Voir l'astuce dans l'inventaire pour consulter ses "
 "améliorations par rapport au modèle de base."
 
-#: src-en/data/blueprints.xml.append:486
+#: src-en/data/blueprints.xml.append:531
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_LILY_BEAM\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:532
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_LILY_BEAM\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:533
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_LILY_BEAM\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:602
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POINTER\"]/title"
 msgstr "'Pointeur' Aiguillon"
 
-#: src-en/data/blueprints.xml.append:487
+#: src-en/data/blueprints.xml.append:603
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POINTER\"]/short"
 msgstr "'Pointeur'"
 
-#: src-en/data/blueprints.xml.append:488
+#: src-en/data/blueprints.xml.append:604
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POINTER\"]/desc"
 msgstr ""
 "Ceci... n'est pas une arme militaire, mais un simple pointeur laser. Que "
 "fait-il ici ?"
 
-#: src-en/data/blueprints.xml.append:602
+#: src-en/data/blueprints.xml.append:718
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_BEAM\"]/title"
 msgstr "NON"
 
-#: src-en/data/blueprints.xml.append:603
+#: src-en/data/blueprints.xml.append:719
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_BEAM\"]/short"
 msgstr "NON"
 
-#: src-en/data/blueprints.xml.append:604
+#: src-en/data/blueprints.xml.append:720
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_BEAM\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
-#: src-en/data/blueprints.xml.append:686
+#: src-en/data/blueprints.xml.append:802
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_ION\"]/title"
 msgstr "NON"
 
-#: src-en/data/blueprints.xml.append:687
+#: src-en/data/blueprints.xml.append:803
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_ION\"]/short"
 msgstr "NON"
 
-#: src-en/data/blueprints.xml.append:688
+#: src-en/data/blueprints.xml.append:804
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_ION\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
-#: src-en/data/blueprints.xml.append:731
+#: src-en/data/blueprints.xml.append:847
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_1\"]/title"
 msgstr "Aiguillon Ionique I"
 
-#: src-en/data/blueprints.xml.append:732
+#: src-en/data/blueprints.xml.append:848
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_1\"]/short"
 msgstr "Aiguill-ion I"
 
-#: src-en/data/blueprints.xml.append:733
+#: src-en/data/blueprints.xml.append:849
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_1\"]/desc"
 msgstr ""
 "Un rayon Aiguillon modifié infligeant 1 point de dégât ionique. Sa charge "
 "est plus lente que celle des armes ioniques classiques."
 
-#: src-en/data/blueprints.xml.append:779
+#: src-en/data/blueprints.xml.append:895
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2\"]/title"
 msgstr "Aiguillon Ionique II"
 
-#: src-en/data/blueprints.xml.append:780
+#: src-en/data/blueprints.xml.append:896
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2\"]/short"
 msgstr "Aiguill-ion II"
 
-#: src-en/data/blueprints.xml.append:781
+#: src-en/data/blueprints.xml.append:897
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2\"]/desc"
 msgstr ""
 "Un rayon Aiguillon modifié infligeant 1 point de dégât ionique. Se recharge "
 "plus rapidement que le modèle précédent."
 
-#: src-en/data/blueprints.xml.append:827
+#: src-en/data/blueprints.xml.append:943
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2_PLAYER\"]/title"
 msgstr "Aiguillon Ionique II†"
 
-#: src-en/data/blueprints.xml.append:828
+#: src-en/data/blueprints.xml.append:944
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2_PLAYER\"]/short"
 msgstr "Aiguill-ion II†"
 
-#: src-en/data/blueprints.xml.append:829
+#: src-en/data/blueprints.xml.append:945
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2_PLAYER\"]/desc"
 msgstr ""
 "Un rayon Aiguillon modifié infligeant 1 point de dégât ionique. Se recharge "
 "plus rapidement que le modèle précédent."
 
-#: src-en/data/blueprints.xml.append:875
+#: src-en/data/blueprints.xml.append:991
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_HEAVY\"]/title"
 msgstr "Aiguillon Ionique Lourd"
 
-#: src-en/data/blueprints.xml.append:876
+#: src-en/data/blueprints.xml.append:992
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_HEAVY\"]/short"
 msgstr "Aiguill-ion Lourd"
 
-#: src-en/data/blueprints.xml.append:877
+#: src-en/data/blueprints.xml.append:993
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_HEAVY\"]/desc"
 msgstr ""
 "Un rayon Aiguillon modifié infligeant 3 points de dégâts ioniques, mais qui "
 "se recharge lentement."
 
-#: src-en/data/blueprints.xml.append:924
+#: src-en/data/blueprints.xml.append:1040
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_CHAIN\"]/title"
 msgstr "Aiguillon Ionique en Chaîne"
 
-#: src-en/data/blueprints.xml.append:925
+#: src-en/data/blueprints.xml.append:1041
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_CHAIN\"]/short"
 msgstr "Aiguill-ion Chaîne"
 
-#: src-en/data/blueprints.xml.append:926
+#: src-en/data/blueprints.xml.append:1042
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_CHAIN\"]/desc"
 msgstr ""
-"Cette arme Aiguillon modifiée inflige peu de dégâts ioniques au départ, mais "
-"sa cadence de tir augmente rapidement jusqu'à pouvoir neutraliser plusieurs "
-"systèmes à elle seule."
+"Cette arme Aiguillon modifiée inflige peu de dégâts ioniques au départ, mais"
+" sa cadence de tir augmente rapidement jusqu'à pouvoir neutraliser plusieurs"
+" systèmes à elle seule."
 
-#: src-en/data/blueprints.xml.append:978
+#: src-en/data/blueprints.xml.append:1094
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_FIRE\"]/title"
 msgstr "Aiguillon Ionique Thermique"
 
-#: src-en/data/blueprints.xml.append:979
+#: src-en/data/blueprints.xml.append:1095
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_FIRE\"]/short"
 msgstr "Aiguill-ion Therm."
 
-#: src-en/data/blueprints.xml.append:980
+#: src-en/data/blueprints.xml.append:1096
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_FIRE\"]/desc"
 msgstr ""
 "Un rayon Aiguillon modifié qui projette un flux d'ions surchauffés. Inflige "
 "1 point de dégâts ioniques et enflamme automatiquement la case touchée."
 
-#: src-en/data/blueprints.xml.append:1026
+#: src-en/data/blueprints.xml.append:1142
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_STUN\"]/title"
 msgstr "Aiguillon Ionique Étourdissant"
 
-#: src-en/data/blueprints.xml.append:1027
+#: src-en/data/blueprints.xml.append:1143
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_STUN\"]/short"
 msgstr "Aiguill-ion Étourd."
 
-#: src-en/data/blueprints.xml.append:1028
+#: src-en/data/blueprints.xml.append:1144
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_STUN\"]/desc"
 msgstr ""
 "Un rayon Aiguillon modifié infligeant 2 points de dégâts ioniques et "
 "étourdissant l'équipage touché."
 
-#: src-en/data/blueprints.xml.append:1075
+#: src-en/data/blueprints.xml.append:1191
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_BIO\"]/title"
 msgstr "Aiguillon à Radiation Ionisante"
 
-#: src-en/data/blueprints.xml.append:1076
+#: src-en/data/blueprints.xml.append:1192
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_BIO\"]/short"
 msgstr "Aiguill-ion Rad."
 
-#: src-en/data/blueprints.xml.append:1077
+#: src-en/data/blueprints.xml.append:1193
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_BIO\"]/desc"
 msgstr ""
 "Un rayon Aiguillon modifié qui projette un flux de particules bêta, "
 "perturbant les systèmes et irradiant l'équipage."
 
-#: src-en/data/blueprints.xml.append:1129
+#: src-en/data/blueprints.xml.append:1245
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/title"
 msgstr "Aiguillon Ionique à Phase"
 
-#: src-en/data/blueprints.xml.append:1130
+#: src-en/data/blueprints.xml.append:1246
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/short"
 msgstr "Aiguill-ion Phase"
 
-#: src-en/data/blueprints.xml.append:1131
+#: src-en/data/blueprints.xml.append:1247
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/desc"
 msgstr ""
-"Un rayon Aiguillon modifié infligeant 2 points de dégâts ioniques et capable "
-"de traverser les boucliers. Il s'adapte progressivement aux défenses "
+"Un rayon Aiguillon modifié infligeant 2 points de dégâts ioniques et capable"
+" de traverser les boucliers. Il s'adapte progressivement aux défenses "
 "ennemies, traversant des couches supplémentaires à chaque tir consécutif."
 
-#: src-en/data/blueprints.xml.append:1133
+#: src-en/data/blueprints.xml.append:1249
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/descriptionOverride"
 msgstr ""
-"Un rayon Aiguillon modifié infligeant 2 points de dégâts ioniques et capable "
-"de traverser les boucliers. \n"
-"Il s'adapte progressivement aux défenses ennemies, traversant des couches "
-"supplémentaires à chaque tir consécutif.\n"
+"Un rayon Aiguillon modifié infligeant 2 points de dégâts ioniques et capable de traverser les boucliers. \n"
+"Il s'adapte progressivement aux défenses ennemies, traversant des couches supplémentaires à chaque tir consécutif.\n"
 "\n"
 "Stats :\n"
 "Puissance requise : 3\n"
 "Temps de charge : 13 secondes\n"
 "\n"
 "Effets en chaîne : Augmente le perçage de bouclier de 1\n"
-"Effets en chaîne : Si le perçage de bouclier est supérieur à 10, augmente "
-"les dégâts ioniques de 0,1\n"
+"Effets en chaîne : Si le perçage de bouclier est supérieur à 10, augmente les dégâts ioniques de 0,1\n"
 "Nombre maximum de chaînes : 999\n"
 "\n"
 "Longueur du rayon : Aiguillon\n"
@@ -608,7 +658,7 @@ msgstr ""
 "\n"
 "Prix par défaut : 85~   -   Prix de vente : 42~"
 
-#: src-en/data/blueprints.xml.append:1152
+#: src-en/data/blueprints.xml.append:1268
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/tooltipOverride"
 msgstr ""
@@ -625,17 +675,17 @@ msgstr ""
 "Dégâts ioniques : 2\n"
 "Perçage de bouclier : 2"
 
-#: src-en/data/blueprints.xml.append:1223
+#: src-en/data/blueprints.xml.append:1339
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_H\"]/title"
 msgstr "Rayon 'Sunset' [Démolition de Coque]"
 
-#: src-en/data/blueprints.xml.append:1224
+#: src-en/data/blueprints.xml.append:1340
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_H\"]/short"
 msgstr "'Sunset' [H]"
 
-#: src-en/data/blueprints.xml.append:1225
+#: src-en/data/blueprints.xml.append:1341
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_H\"]/desc"
 msgstr ""
@@ -643,17 +693,17 @@ msgstr ""
 "contre les coques, les systèmes et l'équipage, mais pas simultanément. Mode "
 "actuel : Anti-coque."
 
-#: src-en/data/blueprints.xml.append:1251
+#: src-en/data/blueprints.xml.append:1367
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_P\"]/title"
 msgstr "Rayon 'Sunset' [Particule]"
 
-#: src-en/data/blueprints.xml.append:1252
+#: src-en/data/blueprints.xml.append:1368
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_P\"]/short"
 msgstr "'Sunset' [P]"
 
-#: src-en/data/blueprints.xml.append:1253
+#: src-en/data/blueprints.xml.append:1369
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_P\"]/desc"
 msgstr ""
@@ -661,17 +711,17 @@ msgstr ""
 "contre les coques, les systèmes et l'équipage, mais pas simultanément. Mode "
 "actuel : Anti-système."
 
-#: src-en/data/blueprints.xml.append:1283
+#: src-en/data/blueprints.xml.append:1399
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_B\"]/title"
 msgstr "Rayon 'Sunset' [Anti-Biologique]"
 
-#: src-en/data/blueprints.xml.append:1284
+#: src-en/data/blueprints.xml.append:1400
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_B\"]/short"
 msgstr "'Sunset' [B]"
 
-#: src-en/data/blueprints.xml.append:1285
+#: src-en/data/blueprints.xml.append:1401
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_B\"]/desc"
 msgstr ""
@@ -679,17 +729,17 @@ msgstr ""
 "contre les coques, les systèmes et l'équipage, mais pas simultanément. Mode "
 "actuel : Anti-équipage."
 
-#: src-en/data/blueprints.xml.append:1330
+#: src-en/data/blueprints.xml.append:1446
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_L\"]/title"
 msgstr "Rayon 'Eventide' [Long]"
 
-#: src-en/data/blueprints.xml.append:1331
+#: src-en/data/blueprints.xml.append:1447
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_L\"]/short"
 msgstr "'Eventide' [L]"
 
-#: src-en/data/blueprints.xml.append:1332
+#: src-en/data/blueprints.xml.append:1448
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_L\"]/desc"
 msgstr ""
@@ -697,17 +747,17 @@ msgstr ""
 "puissant, mais doté d'un mode supplémentaire ! Mode actuel : Long, dégâts "
 "purs."
 
-#: src-en/data/blueprints.xml.append:1358
+#: src-en/data/blueprints.xml.append:1474
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_B\"]/title"
 msgstr "Rayon 'Eventide' [Déchirer]"
 
-#: src-en/data/blueprints.xml.append:1359
+#: src-en/data/blueprints.xml.append:1475
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_B\"]/short"
 msgstr "'Eventide' [D]"
 
-#: src-en/data/blueprints.xml.append:1360
+#: src-en/data/blueprints.xml.append:1476
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_B\"]/desc"
 msgstr ""
@@ -715,17 +765,17 @@ msgstr ""
 "puissant, mais doté d'un mode supplémentaire ! Mode actuel : Déchirer, "
 "brèche importante, dommages au système et à l'équipage."
 
-#: src-en/data/blueprints.xml.append:1397
+#: src-en/data/blueprints.xml.append:1513
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_P\"]/title"
 msgstr "Rayon 'Eventide' [Thermique]"
 
-#: src-en/data/blueprints.xml.append:1398
+#: src-en/data/blueprints.xml.append:1514
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_P\"]/short"
 msgstr "'Eventide' [T]"
 
-#: src-en/data/blueprints.xml.append:1399
+#: src-en/data/blueprints.xml.append:1515
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_P\"]/desc"
 msgstr ""
@@ -733,17 +783,17 @@ msgstr ""
 "puissant, mais doté d'un mode supplémentaire ! Mode actuel : Particule "
 "thermique, dégâts importants au système, incendie garanti."
 
-#: src-en/data/blueprints.xml.append:1431
+#: src-en/data/blueprints.xml.append:1547
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_H\"]/title"
 msgstr "Rayon 'Eventide' [Piratage]"
 
-#: src-en/data/blueprints.xml.append:1432
+#: src-en/data/blueprints.xml.append:1548
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_H\"]/short"
 msgstr "'Eventide' [P]"
 
-#: src-en/data/blueprints.xml.append:1433
+#: src-en/data/blueprints.xml.append:1549
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_H\"]/desc"
 msgstr ""
@@ -751,95 +801,94 @@ msgstr ""
 "puissant, mais doté d'un mode supplémentaire ! Mode actuel : Piratage, "
 "applique un effet de piratage à tout système touché."
 
-#: src-en/data/blueprints.xml.append:1477
+#: src-en/data/blueprints.xml.append:1593
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_B\"]/title"
 msgstr "'Akatsuki' [Rayon]"
 
-#: src-en/data/blueprints.xml.append:1478
+#: src-en/data/blueprints.xml.append:1594
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_B\"]/short"
 msgstr "'Akatsuki' [R]"
 
-#: src-en/data/blueprints.xml.append:1479
+#: src-en/data/blueprints.xml.append:1595
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_B\"]/desc"
 msgstr ""
 "Une arme à rayon spéciale capable de modifier son schéma de tir à la volée, "
 "échangeant portée contre puissance. Mode actuel : Rayon."
 
-#: src-en/data/blueprints.xml.append:1504
+#: src-en/data/blueprints.xml.append:1620
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_F\"]/title"
 msgstr "'Akatsuki' [Focalisé]"
 
-#: src-en/data/blueprints.xml.append:1505
+#: src-en/data/blueprints.xml.append:1621
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_F\"]/short"
 msgstr "'Akatsuki' [F]"
 
-#: src-en/data/blueprints.xml.append:1506
+#: src-en/data/blueprints.xml.append:1622
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_F\"]/desc"
 msgstr ""
 "Une arme à rayon spéciale capable de modifier son schéma de tir à la volée, "
 "échangeant portée contre puissance. Mode actuel : Aiguillon."
 
-#: src-en/data/blueprints.xml.append:1533
+#: src-en/data/blueprints.xml.append:1649
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S\"]/title"
 msgstr "'Akatsuki' [Disperseur]"
 
-#: src-en/data/blueprints.xml.append:1534
+#: src-en/data/blueprints.xml.append:1650
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S\"]/short"
 msgstr "'Akatsuki' [D]"
 
-#: src-en/data/blueprints.xml.append:1535
+#: src-en/data/blueprints.xml.append:1651
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S\"]/desc"
 msgstr ""
 "Une arme à rayon spéciale capable de modifier son schéma de tir à la volée, "
 "échangeant portée contre puissance. Mode actuel : Disperseur."
 
-#: src-en/data/blueprints.xml.append:1567
+#: src-en/data/blueprints.xml.append:1683
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S_BEAM\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:1568
+#: src-en/data/blueprints.xml.append:1684
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S_BEAM\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:1569
+#: src-en/data/blueprints.xml.append:1685
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S_BEAM\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
-#: src-en/data/blueprints.xml.append:1604
+#: src-en/data/blueprints.xml.append:1720
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/title"
 msgstr "Rayon 'Ciseaux'"
 
-#: src-en/data/blueprints.xml.append:1605
+#: src-en/data/blueprints.xml.append:1721
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/short"
 msgstr "'Ciseaux'"
 
-#: src-en/data/blueprints.xml.append:1606
+#: src-en/data/blueprints.xml.append:1722
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/desc"
 msgstr ""
 "Une arme unique capable de tirer simultanément une paire de rayons "
 "convergents."
 
-#: src-en/data/blueprints.xml.append:1608
+#: src-en/data/blueprints.xml.append:1724
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/descriptionOverride"
 msgstr ""
-"Une arme unique capable de tirer simultanément une paire de rayons "
-"convergents.\n"
+"Une arme unique capable de tirer simultanément une paire de rayons convergents.\n"
 "\n"
 "Stats :\n"
 "Puissance requise : 4\n"
@@ -862,7 +911,7 @@ msgstr ""
 "\n"
 "Prix par défaut : 100~   -   Prix de vente : 50~"
 
-#: src-en/data/blueprints.xml.append:1630
+#: src-en/data/blueprints.xml.append:1746
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/tooltipOverride"
 msgstr ""
@@ -884,46 +933,45 @@ msgstr ""
 "Dégâts totaux à l'équipage : 45\n"
 "Chance de brèche : 30 % (ajustée : 30 %)"
 
-#: src-en/data/blueprints.xml.append:1677
+#: src-en/data/blueprints.xml.append:1793
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_SEC\"]/title"
 msgstr "Rayon 'Ciseaux'"
 
-#: src-en/data/blueprints.xml.append:1678
+#: src-en/data/blueprints.xml.append:1794
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_SEC\"]/short"
 msgstr "'Ciseaux'"
 
-#: src-en/data/blueprints.xml.append:1679
+#: src-en/data/blueprints.xml.append:1795
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_SEC\"]/desc"
 msgstr ""
 "Une arme unique capable de tirer simultanément une paire de rayons "
 "convergents."
 
-#: src-en/data/blueprints.xml.append:1707
+#: src-en/data/blueprints.xml.append:1823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/title"
 msgstr "Rayon 'Ciseaux'†"
 
-#: src-en/data/blueprints.xml.append:1708
+#: src-en/data/blueprints.xml.append:1824
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/short"
 msgstr "'Ciseaux'†"
 
-#: src-en/data/blueprints.xml.append:1709
+#: src-en/data/blueprints.xml.append:1825
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/desc"
 msgstr ""
 "Une arme unique capable de tirer simultanément une paire de rayons "
 "convergents."
 
-#: src-en/data/blueprints.xml.append:1711
+#: src-en/data/blueprints.xml.append:1827
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/descriptionOverride"
 msgstr ""
-"Une arme unique capable de tirer simultanément une paire de rayons "
-"convergents.\n"
+"Une arme unique capable de tirer simultanément une paire de rayons convergents.\n"
 "\n"
 "Stats :\n"
 "Puissance requise : 3\n"
@@ -946,7 +994,7 @@ msgstr ""
 "\n"
 "Prix par défaut : 100~   -   Prix de vente : 50~"
 
-#: src-en/data/blueprints.xml.append:1733
+#: src-en/data/blueprints.xml.append:1849
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/tooltipOverride"
 msgstr ""
@@ -968,17 +1016,17 @@ msgstr ""
 "Dégâts totaux à l'équipage : 45\n"
 "Chance de brèche : 30 % (ajustée : 30 %)"
 
-#: src-en/data/blueprints.xml.append:1790
+#: src-en/data/blueprints.xml.append:1906
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/title"
 msgstr "Rayon 'Seringue' [Vide]"
 
-#: src-en/data/blueprints.xml.append:1791
+#: src-en/data/blueprints.xml.append:1907
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/short"
 msgstr "'seringue' [-]"
 
-#: src-en/data/blueprints.xml.append:1792
+#: src-en/data/blueprints.xml.append:1908
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/desc"
 msgstr ""
@@ -986,17 +1034,17 @@ msgstr ""
 "surdimensionné. Laboratoire de synthèse chimique automatique inclus. Mode "
 "actuel : Vide - nécessite d'être configuré avant utilisation."
 
-#: src-en/data/blueprints.xml.append:1826
+#: src-en/data/blueprints.xml.append:1942
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/title"
 msgstr "Rayon 'Seringue' [Médical]"
 
-#: src-en/data/blueprints.xml.append:1827
+#: src-en/data/blueprints.xml.append:1943
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/short"
 msgstr "'Seringue' [M]"
 
-#: src-en/data/blueprints.xml.append:1828
+#: src-en/data/blueprints.xml.append:1944
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/desc"
 msgstr ""
@@ -1004,17 +1052,17 @@ msgstr ""
 "surdimensionné. Laboratoire de synthèse chimique automatique inclus. Mode "
 "actuel : Médical."
 
-#: src-en/data/blueprints.xml.append:1888
+#: src-en/data/blueprints.xml.append:2004
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/title"
 msgstr "Rayon 'Seringue' [Stimulant]"
 
-#: src-en/data/blueprints.xml.append:1889
+#: src-en/data/blueprints.xml.append:2005
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/short"
 msgstr "'Seringue' [S]"
 
-#: src-en/data/blueprints.xml.append:1890
+#: src-en/data/blueprints.xml.append:2006
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/desc"
 msgstr ""
@@ -1022,17 +1070,17 @@ msgstr ""
 "surdimensionné. Laboratoire de synthèse chimique automatique inclus. Mode "
 "actuel : Stimulant."
 
-#: src-en/data/blueprints.xml.append:1975
+#: src-en/data/blueprints.xml.append:2091
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/title"
 msgstr "Rayon 'Seringue' [Poison]"
 
-#: src-en/data/blueprints.xml.append:1976
+#: src-en/data/blueprints.xml.append:2092
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/short"
 msgstr "'Seringue' [P]"
 
-#: src-en/data/blueprints.xml.append:1977
+#: src-en/data/blueprints.xml.append:2093
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/desc"
 msgstr ""
@@ -1040,17 +1088,17 @@ msgstr ""
 "surdimensionné. Laboratoire de synthèse chimique automatique inclus. Mode "
 "actuel : Poison."
 
-#: src-en/data/blueprints.xml.append:2076
+#: src-en/data/blueprints.xml.append:2192
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/title"
 msgstr "Rayon 'Seringue' [Acide]"
 
-#: src-en/data/blueprints.xml.append:2077
+#: src-en/data/blueprints.xml.append:2193
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/short"
 msgstr "'Seringue' [A]"
 
-#: src-en/data/blueprints.xml.append:2078
+#: src-en/data/blueprints.xml.append:2194
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/desc"
 msgstr ""
@@ -1058,47 +1106,47 @@ msgstr ""
 "surdimensionné. Laboratoire de synthèse chimique automatique inclus. Mode "
 "actuel : Acide."
 
-#: src-en/data/blueprints.xml.append:2155
+#: src-en/data/blueprints.xml.append:2271
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON\"]/title"
 msgstr "Projectile de Rayon en Rafale"
 
-#: src-en/data/blueprints.xml.append:2156
+#: src-en/data/blueprints.xml.append:2272
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON\"]/short"
 msgstr "Projectile de Rayon en Rafale"
 
-#: src-en/data/blueprints.xml.append:2157
+#: src-en/data/blueprints.xml.append:2273
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
-#: src-en/data/blueprints.xml.append:2187
+#: src-en/data/blueprints.xml.append:2303
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_O\"]/title"
 msgstr "Projectile de Rayon en Rafale"
 
-#: src-en/data/blueprints.xml.append:2188
+#: src-en/data/blueprints.xml.append:2304
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_O\"]/short"
 msgstr "Projectile de Rayon en Rafale"
 
-#: src-en/data/blueprints.xml.append:2189
+#: src-en/data/blueprints.xml.append:2305
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_O\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
-#: src-en/data/blueprints.xml.append:2223
+#: src-en/data/blueprints.xml.append:2339
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/title"
 msgstr "Rayon siphon 'Edison' [0]"
 
-#: src-en/data/blueprints.xml.append:2224
+#: src-en/data/blueprints.xml.append:2340
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/short"
 msgstr "'Edison' [0]"
 
-#: src-en/data/blueprints.xml.append:2225
+#: src-en/data/blueprints.xml.append:2341
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/desc"
 msgstr ""
@@ -1108,17 +1156,17 @@ msgstr ""
 "supérieure permet une rafale plus longue. Puissance actuelle : 0 "
 "(conservateur)."
 
-#: src-en/data/blueprints.xml.append:2262
+#: src-en/data/blueprints.xml.append:2378
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/title"
 msgstr "Rayon siphon 'Edison' [1]"
 
-#: src-en/data/blueprints.xml.append:2263
+#: src-en/data/blueprints.xml.append:2379
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/short"
 msgstr "'Edison' [1]"
 
-#: src-en/data/blueprints.xml.append:2264
+#: src-en/data/blueprints.xml.append:2380
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/desc"
 msgstr ""
@@ -1127,17 +1175,17 @@ msgstr ""
 " système en cas d'impact direct, sans le verrouiller. Une puissance "
 "supérieure permet une rafale plus longue. Puissance actuelle : 1."
 
-#: src-en/data/blueprints.xml.append:2301
+#: src-en/data/blueprints.xml.append:2417
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/title"
 msgstr "Rayon siphon 'Edison' [2]"
 
-#: src-en/data/blueprints.xml.append:2302
+#: src-en/data/blueprints.xml.append:2418
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/short"
 msgstr "'Edison' [2]"
 
-#: src-en/data/blueprints.xml.append:2303
+#: src-en/data/blueprints.xml.append:2419
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/desc"
 msgstr ""
@@ -1146,17 +1194,17 @@ msgstr ""
 " système en cas d'impact direct, sans le verrouiller. Une puissance "
 "supérieure permet une rafale plus longue. Puissance actuelle : 2."
 
-#: src-en/data/blueprints.xml.append:2339
+#: src-en/data/blueprints.xml.append:2455
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/title"
 msgstr "Rayon siphon 'Edison' [3]"
 
-#: src-en/data/blueprints.xml.append:2340
+#: src-en/data/blueprints.xml.append:2456
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/short"
 msgstr "'Edison' [3]"
 
-#: src-en/data/blueprints.xml.append:2341
+#: src-en/data/blueprints.xml.append:2457
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/desc"
 msgstr ""
@@ -1165,17 +1213,17 @@ msgstr ""
 " système en cas d'impact direct, sans le verrouiller. Une puissance "
 "supérieure permet une rafale plus longue. Puissance actuelle : 3."
 
-#: src-en/data/blueprints.xml.append:2376
+#: src-en/data/blueprints.xml.append:2492
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/title"
 msgstr "Rayon siphon 'Edison' [SURMULTIPLICATEUR]"
 
-#: src-en/data/blueprints.xml.append:2377
+#: src-en/data/blueprints.xml.append:2493
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/short"
 msgstr "'Edison' [SM]"
 
-#: src-en/data/blueprints.xml.append:2378
+#: src-en/data/blueprints.xml.append:2494
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/desc"
 msgstr ""
@@ -1185,17 +1233,17 @@ msgstr ""
 "supérieure permet une rafale plus longue. Puissance actuelle : "
 "SURMULTIPLICATEUR."
 
-#: src-en/data/blueprints.xml.append:2429
+#: src-en/data/blueprints.xml.append:2545
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1\"]/title"
 msgstr "Aiguillon réfractif I"
 
-#: src-en/data/blueprints.xml.append:2430
+#: src-en/data/blueprints.xml.append:2546
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1\"]/short"
 msgstr "Réfr. I"
 
-#: src-en/data/blueprints.xml.append:2431
+#: src-en/data/blueprints.xml.append:2547
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1\"]/desc"
 msgstr ""
@@ -1204,17 +1252,17 @@ msgstr ""
 "se réfracter à travers eux et atteindre tout de même le vaisseau, au prix "
 "d'une perte de précision."
 
-#: src-en/data/blueprints.xml.append:2465
+#: src-en/data/blueprints.xml.append:2581
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/title"
 msgstr "Aiguillon réfractif I†"
 
-#: src-en/data/blueprints.xml.append:2466
+#: src-en/data/blueprints.xml.append:2582
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/short"
 msgstr "Réfr. I†"
 
-#: src-en/data/blueprints.xml.append:2467
+#: src-en/data/blueprints.xml.append:2583
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/desc"
 msgstr ""
@@ -1223,32 +1271,32 @@ msgstr ""
 "se réfracter à travers eux et atteindre tout de même le vaisseau, au prix "
 "d'une perte de précision."
 
-#: src-en/data/blueprints.xml.append:2502
+#: src-en/data/blueprints.xml.append:2618
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_R\"]/title"
 msgstr "Aiguillon réfractif I"
 
-#: src-en/data/blueprints.xml.append:2503
+#: src-en/data/blueprints.xml.append:2619
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_R\"]/short"
 msgstr "Réfr. I"
 
-#: src-en/data/blueprints.xml.append:2504
+#: src-en/data/blueprints.xml.append:2620
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_R\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
-#: src-en/data/blueprints.xml.append:2536
+#: src-en/data/blueprints.xml.append:2652
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/title"
 msgstr "Aiguillon réfractif II"
 
-#: src-en/data/blueprints.xml.append:2537
+#: src-en/data/blueprints.xml.append:2653
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/short"
 msgstr "Réfr. II"
 
-#: src-en/data/blueprints.xml.append:2538
+#: src-en/data/blueprints.xml.append:2654
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/desc"
 msgstr ""
@@ -1257,17 +1305,17 @@ msgstr ""
 "se réfracter à travers eux et atteindre tout de même le vaisseau, au prix "
 "d'une perte de précision. Plus puissant que la version I."
 
-#: src-en/data/blueprints.xml.append:2571
+#: src-en/data/blueprints.xml.append:2687
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/title"
 msgstr "Aiguillon réfractif II†"
 
-#: src-en/data/blueprints.xml.append:2572
+#: src-en/data/blueprints.xml.append:2688
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/short"
 msgstr "Réfr. II†"
 
-#: src-en/data/blueprints.xml.append:2573
+#: src-en/data/blueprints.xml.append:2689
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/desc"
 msgstr ""
@@ -1276,156 +1324,156 @@ msgstr ""
 "se réfracter à travers eux et atteindre tout de même le vaisseau, au prix "
 "d'une perte de précision. Plus puissant que la version I."
 
-#: src-en/data/blueprints.xml.append:2606
+#: src-en/data/blueprints.xml.append:2722
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_R\"]/title"
 msgstr "Aiguillon réfractif II"
 
-#: src-en/data/blueprints.xml.append:2607
+#: src-en/data/blueprints.xml.append:2723
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_R\"]/short"
 msgstr "Réfr. II"
 
-#: src-en/data/blueprints.xml.append:2608
+#: src-en/data/blueprints.xml.append:2724
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_R\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
-#: src-en/data/blueprints.xml.append:2639
+#: src-en/data/blueprints.xml.append:2755
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_O\"]/title"
 msgstr "Aiguillon réfractif II"
 
-#: src-en/data/blueprints.xml.append:2640
+#: src-en/data/blueprints.xml.append:2756
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_O\"]/short"
 msgstr "Réfr. II"
 
-#: src-en/data/blueprints.xml.append:2641
+#: src-en/data/blueprints.xml.append:2757
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_O\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
-#: src-en/data/blueprints.xml.append:2672
+#: src-en/data/blueprints.xml.append:2788
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_Y\"]/title"
 msgstr "Aiguillon réfractif II"
 
-#: src-en/data/blueprints.xml.append:2673
+#: src-en/data/blueprints.xml.append:2789
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_Y\"]/short"
 msgstr "Réfr. II"
 
-#: src-en/data/blueprints.xml.append:2674
+#: src-en/data/blueprints.xml.append:2790
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_Y\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
-#: src-en/data/blueprints.xml.append:2706
+#: src-en/data/blueprints.xml.append:2822
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_G\"]/title"
 msgstr "Aiguillon réfractif II"
 
-#: src-en/data/blueprints.xml.append:2707
+#: src-en/data/blueprints.xml.append:2823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_G\"]/short"
 msgstr "Réfr. II"
 
-#: src-en/data/blueprints.xml.append:2708
+#: src-en/data/blueprints.xml.append:2824
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_G\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
-#: src-en/data/blueprints.xml.append:2739
+#: src-en/data/blueprints.xml.append:2855
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_B\"]/title"
 msgstr "Aiguillon réfractif II"
 
-#: src-en/data/blueprints.xml.append:2740
+#: src-en/data/blueprints.xml.append:2856
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_B\"]/short"
 msgstr "Réfr. II"
 
-#: src-en/data/blueprints.xml.append:2741
+#: src-en/data/blueprints.xml.append:2857
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_B\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
-#: src-en/data/blueprints.xml.append:2772
+#: src-en/data/blueprints.xml.append:2888
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_I\"]/title"
 msgstr "Aiguillon réfractif II"
 
-#: src-en/data/blueprints.xml.append:2773
+#: src-en/data/blueprints.xml.append:2889
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_I\"]/short"
 msgstr "Réfr. II"
 
-#: src-en/data/blueprints.xml.append:2774
+#: src-en/data/blueprints.xml.append:2890
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_I\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
-#: src-en/data/blueprints.xml.append:2805
+#: src-en/data/blueprints.xml.append:2921
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_V\"]/title"
 msgstr "Aiguillon réfractif II"
 
-#: src-en/data/blueprints.xml.append:2806
+#: src-en/data/blueprints.xml.append:2922
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_V\"]/short"
 msgstr "Réfr. II"
 
-#: src-en/data/blueprints.xml.append:2807
+#: src-en/data/blueprints.xml.append:2923
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_V\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
-#: src-en/data/blueprints.xml.append:2854
+#: src-en/data/blueprints.xml.append:2970
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/title"
 msgstr "Multi-Aiguillon 'Réseau' [Motif]"
 
-#: src-en/data/blueprints.xml.append:2855
+#: src-en/data/blueprints.xml.append:2971
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/short"
 msgstr "'Réseau' [M]"
 
-#: src-en/data/blueprints.xml.append:2856
+#: src-en/data/blueprints.xml.append:2972
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/desc"
 msgstr ""
 "Cette arme est un réseau de 3 rayons aiguillons regroupés, modifiés pour "
 "pouvoir percer les boucliers. Mode actuel : Motif"
 
-#: src-en/data/blueprints.xml.append:2890
+#: src-en/data/blueprints.xml.append:3006
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/title"
 msgstr "Multi-Aiguillon 'Réseau' [Disperseur]"
 
-#: src-en/data/blueprints.xml.append:2891
+#: src-en/data/blueprints.xml.append:3007
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/short"
 msgstr "'Réseau' [D]"
 
-#: src-en/data/blueprints.xml.append:2892
+#: src-en/data/blueprints.xml.append:3008
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/desc"
 msgstr ""
 "Cette arme est un réseau de 3 rayons aiguillons regroupés, modifiés pour "
 "pouvoir percer les boucliers. Mode actuel : Disperseur"
 
-#: src-en/data/blueprints.xml.append:2929
+#: src-en/data/blueprints.xml.append:3045
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/title"
 msgstr "Multi-Aiguillon 'Matrix' [Motif]"
 
-#: src-en/data/blueprints.xml.append:2930
+#: src-en/data/blueprints.xml.append:3046
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/short"
 msgstr "'Matrix' [M]"
 
-#: src-en/data/blueprints.xml.append:2931
+#: src-en/data/blueprints.xml.append:3047
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/desc"
 msgstr ""
@@ -1434,17 +1482,17 @@ msgstr ""
 " bord du vaisseau ennemi, mais il est encombrant et difficile à viser. Mode "
 "actuel : Motif"
 
-#: src-en/data/blueprints.xml.append:2965
+#: src-en/data/blueprints.xml.append:3081
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/title"
 msgstr "Multi-Aiguillon 'Matrix' [Disperseur]"
 
-#: src-en/data/blueprints.xml.append:2966
+#: src-en/data/blueprints.xml.append:3082
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/short"
 msgstr "'Matrix' [D]"
 
-#: src-en/data/blueprints.xml.append:2967
+#: src-en/data/blueprints.xml.append:3083
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/desc"
 msgstr ""
@@ -1453,17 +1501,17 @@ msgstr ""
 " bord du vaisseau ennemi, mais il est encombrant et difficile à viser. Mode "
 "actuel : Disperseur"
 
-#: src-en/data/blueprints.xml.append:3014
+#: src-en/data/blueprints.xml.append:3130
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/title"
 msgstr "Aiguillon Datalink"
 
-#: src-en/data/blueprints.xml.append:3015
+#: src-en/data/blueprints.xml.append:3131
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/short"
 msgstr "D-Link"
 
-#: src-en/data/blueprints.xml.append:3016
+#: src-en/data/blueprints.xml.append:3132
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/desc"
 msgstr ""
@@ -1471,17 +1519,17 @@ msgstr ""
 " piratage de systèmes et le contrôle mental de tout membre d'équipage "
 "touché. Cependant, elle nécessite que les boucliers ennemis soient abaissés."
 
-#: src-en/data/blueprints.xml.append:3097
+#: src-en/data/blueprints.xml.append:3213
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/title"
 msgstr "Obusier 'Quake'"
 
-#: src-en/data/blueprints.xml.append:3098
+#: src-en/data/blueprints.xml.append:3214
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/short"
 msgstr "'Quake'"
 
-#: src-en/data/blueprints.xml.append:3099
+#: src-en/data/blueprints.xml.append:3215
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/desc"
 msgstr ""
@@ -1489,69 +1537,69 @@ msgstr ""
 "d'infliger de lourds dégâts au système visé, et présente une précision et "
 "une cadence de rechargement correctes."
 
-#: src-en/data/blueprints.xml.append:3153
+#: src-en/data/blueprints.xml.append:3269
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_P\"]/title"
 msgstr "NON"
 
-#: src-en/data/blueprints.xml.append:3154
+#: src-en/data/blueprints.xml.append:3270
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_P\"]/short"
 msgstr "NON"
 
-#: src-en/data/blueprints.xml.append:3155
+#: src-en/data/blueprints.xml.append:3271
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_P\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
-#: src-en/data/blueprints.xml.append:3185
+#: src-en/data/blueprints.xml.append:3301
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_S\"]/title"
 msgstr "NON"
 
-#: src-en/data/blueprints.xml.append:3186
+#: src-en/data/blueprints.xml.append:3302
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_S\"]/short"
 msgstr "NON"
 
-#: src-en/data/blueprints.xml.append:3187
+#: src-en/data/blueprints.xml.append:3303
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_S\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
-#: src-en/data/blueprints.xml.append:3226
+#: src-en/data/blueprints.xml.append:3342
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_PARTICLE_MINI\"]/title"
 msgstr "Mini Rayon à Particules"
 
-#: src-en/data/blueprints.xml.append:3227
+#: src-en/data/blueprints.xml.append:3343
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_PARTICLE_MINI\"]/short"
 msgstr "Mini Rayon P."
 
-#: src-en/data/blueprints.xml.append:3228
+#: src-en/data/blueprints.xml.append:3344
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_PARTICLE_MINI\"]/desc"
 msgstr ""
 "Tire un petit rayon concentré qui endommage les systèmes et déclenche des "
 "incendies, mais n'inflige aucun dommage à la coque ni à l'équipage."
 
-#: src-en/data/blueprints.xml.append:3259
+#: src-en/data/blueprints.xml.append:3375
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/title"
 msgstr "Rayon Magnifieur Cyclotron"
 
-#: src-en/data/blueprints.xml.append:3260
+#: src-en/data/blueprints.xml.append:3376
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/short"
 msgstr "Cyclotron"
 
-#: src-en/data/blueprints.xml.append:3262
+#: src-en/data/blueprints.xml.append:3378
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
-#: src-en/data/blueprints.xml.append:3263
+#: src-en/data/blueprints.xml.append:3379
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/descriptionOverride"
 msgstr ""
@@ -1577,7 +1625,7 @@ msgstr ""
 "\n"
 "Prix par défaut : 70~   -   Prix de vente : 35~"
 
-#: src-en/data/blueprints.xml.append:3285
+#: src-en/data/blueprints.xml.append:3401
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/tooltipOverride"
 msgstr ""
@@ -1596,501 +1644,548 @@ msgstr ""
 "\n"
 "Chances de trou dans la coque : 20 / 50 / 80 / 110 %"
 
-#: src-en/data/blueprints.xml.append:3338
+#: src-en/data/blueprints.xml.append:3454
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST\"]/title"
 msgstr "Rayon givrant 'Polaris'"
 
-#: src-en/data/blueprints.xml.append:3339
+#: src-en/data/blueprints.xml.append:3455
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST\"]/short"
 msgstr "'Polaris'"
 
-#: src-en/data/blueprints.xml.append:3340
+#: src-en/data/blueprints.xml.append:3456
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST\"]/desc"
 msgstr ""
-"Cette arme glaciale projette un rayon d'azote liquide. Elle est capable de "
-"verrouiller des pièces, empêchant la plupart des membres d'équipage d'entrer "
-"ou de sortir.\n"
+"Cette arme glaciale projette un rayon d'azote liquide. Elle est capable de verrouiller des pièces, empêchant la plupart des membres d'équipage d'entrer ou de sortir.\n"
 "L'excès de gaz d'azote perturbe également l'équilibre atmosphérique."
 
-#: src-en/data/blueprints.xml.append:3419
+#: src-en/data/blueprints.xml.append:3535
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/title"
 msgstr "Rayon givrant 'Polaris'†"
 
-#: src-en/data/blueprints.xml.append:3420
+#: src-en/data/blueprints.xml.append:3536
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/short"
 msgstr "'Polaris'†"
 
-#: src-en/data/blueprints.xml.append:3421
+#: src-en/data/blueprints.xml.append:3537
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/desc"
 msgstr ""
-"Cette arme glaciale projette un rayon d'azote liquide. Elle est capable de "
-"verrouiller des pièces, empêchant la plupart des membres d'équipage d'entrer "
-"ou de sortir.\n"
+"Cette arme glaciale projette un rayon d'azote liquide. Elle est capable de verrouiller des pièces, empêchant la plupart des membres d'équipage d'entrer ou de sortir.\n"
 "   L'excès de gaz d'azote perturbe également l'équilibre atmosphérique."
 
-#: src-en/data/blueprints.xml.append:3500
+#: src-en/data/blueprints.xml.append:3616
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/title"
 msgstr "Rayon bouclier Popper"
 
-#: src-en/data/blueprints.xml.append:3501
+#: src-en/data/blueprints.xml.append:3617
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/short"
 msgstr "'Poppy'"
 
-#: src-en/data/blueprints.xml.append:3502
+#: src-en/data/blueprints.xml.append:3618
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/desc"
 msgstr ""
-"Tire un petit rayon concentré qui n'inflige aucun dommage mais détruit deux "
-"couches de boucliers. Possède la propriété inhabituelle de mettre également "
-"les membres d'équipage touchés dans un état de confusion.\n"
-"Les armes Conservatrices ne consomment pas de courant mais requièrent "
-"d'autres armes actives."
+"Tire un petit rayon concentré qui n'inflige aucun dommage mais détruit deux couches de boucliers. Possède la propriété inhabituelle de mettre également les membres d'équipage touchés dans un état de confusion.\n"
+"Les armes Conservatrices ne consomment pas de courant mais requièrent d'autres armes actives."
 
-#: src-en/data/blueprints.xml.append:3539
+#: src-en/data/blueprints.xml.append:3655
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/title"
 msgstr "Rayon C.I.W.S."
 
-#: src-en/data/blueprints.xml.append:3540
+#: src-en/data/blueprints.xml.append:3656
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/short"
 msgstr "C.I.W.S."
 
-#: src-en/data/blueprints.xml.append:3541
+#: src-en/data/blueprints.xml.append:3657
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/desc"
 msgstr ""
 "Cette arme à rayon est équipée d'un émetteur infrarouge omnidirectionnel "
 "unique ainsi que d'un système de ciblage avancé. Elle est efficace pour "
-"abattre les missiles et drones entrants, mais montre de faibles performances "
-"contre d'autres vaisseaux."
+"abattre les missiles et drones entrants, mais montre de faibles performances"
+" contre d'autres vaisseaux."
 
-#: src-en/data/blueprints.xml.append:3564
+#: src-en/data/blueprints.xml.append:3680
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3565
+#: src-en/data/blueprints.xml.append:3681
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3566
+#: src-en/data/blueprints.xml.append:3682
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ\"]/desc"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3591
+#: src-en/data/blueprints.xml.append:3707
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ_2\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3592
+#: src-en/data/blueprints.xml.append:3708
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ_2\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3593
+#: src-en/data/blueprints.xml.append:3709
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ_2\"]/desc"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3630
+#: src-en/data/blueprints.xml.append:3761
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3762
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3763
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3766
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3778
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/tooltipOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3800
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3801
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3802
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3805
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3817
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/tooltipOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3839
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3840
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3841
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3844
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3856
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/tooltipOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3878
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3879
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3880
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3883
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3897
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/tooltipOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3921
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3922
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3923
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3926
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3940
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/tooltipOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3971
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/title"
 msgstr "Rayon Désintégrateur 'Ira'"
 
-#: src-en/data/blueprints.xml.append:3631
+#: src-en/data/blueprints.xml.append:3972
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/short"
 msgstr "'Ira'"
 
-#: src-en/data/blueprints.xml.append:3632
+#: src-en/data/blueprints.xml.append:3973
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/desc"
 msgstr ""
-"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute "
-"matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
-"et les réparations.\n"
+"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts sur la durée à tout membre d'équipage touché, tout en ralentissant les soins et les réparations.\n"
 "Traverse 1 bouclier, -4 PV/s et x0,5 soins et réparations pour l'équipage."
 
-#: src-en/data/blueprints.xml.append:3702
+#: src-en/data/blueprints.xml.append:4043
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/title"
 msgstr "Rayon Désintégrateur 'Angoris'"
 
-#: src-en/data/blueprints.xml.append:3703
+#: src-en/data/blueprints.xml.append:4044
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/short"
 msgstr "'Angoris'"
 
-#: src-en/data/blueprints.xml.append:3704
+#: src-en/data/blueprints.xml.append:4045
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/desc"
 msgstr ""
-"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute "
-"matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
-"et les réparations.\n"
+"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts sur la durée à tout membre d'équipage touché, tout en ralentissant les soins et les réparations.\n"
 "Traverse 1 bouclier, -4 PV/s et x0,5 soins et réparations pour l'équipage."
 
-#: src-en/data/blueprints.xml.append:3774
+#: src-en/data/blueprints.xml.append:4115
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/title"
 msgstr "Rayon Désintégrateur 'Dolor'"
 
-#: src-en/data/blueprints.xml.append:3775
+#: src-en/data/blueprints.xml.append:4116
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/short"
 msgstr "'Dolor'"
 
-#: src-en/data/blueprints.xml.append:3776
+#: src-en/data/blueprints.xml.append:4117
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/desc"
 msgstr ""
-"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute "
-"matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
-"et les réparations.\n"
+"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts sur la durée à tout membre d'équipage touché, tout en ralentissant les soins et les réparations.\n"
 "Traverse 2 boucliers, -8 PV/s et x0,25 soins et réparations pour l'équipage."
 
-#: src-en/data/blueprints.xml.append:3847
+#: src-en/data/blueprints.xml.append:4188
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/title"
 msgstr "Rayon Désintégrateur 'Tormentum'"
 
-#: src-en/data/blueprints.xml.append:3848
+#: src-en/data/blueprints.xml.append:4189
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/short"
 msgstr "'Tormentum'"
 
-#: src-en/data/blueprints.xml.append:3849
+#: src-en/data/blueprints.xml.append:4190
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/desc"
 msgstr ""
-"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute "
-"matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
-"et les réparations.\n"
+"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts sur la durée à tout membre d'équipage touché, tout en ralentissant les soins et les réparations.\n"
 "Traverse 3 boucliers, -8 PV/s et x0,0 soins et réparations pour l'équipage."
 
-#: src-en/data/blueprints.xml.append:3920
+#: src-en/data/blueprints.xml.append:4261
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/title"
 msgstr "Rayon Désintégrateur Chaosfire 'Arde'"
 
-#: src-en/data/blueprints.xml.append:3921
+#: src-en/data/blueprints.xml.append:4262
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/short"
 msgstr "'Arde'"
 
-#: src-en/data/blueprints.xml.append:3922
+#: src-en/data/blueprints.xml.append:4263
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/desc"
 msgstr ""
-"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute "
-"matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
-"et les réparations. De plus, cela déclenche des feux chaotiques capables de "
-"blesser n'importe quel type d'équipage "
-"(à une vitesse supérieure ou égale à 1,5 fois la vitesse de base) et brûlant "
-"sans oxygène.\n"
+"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts sur la durée à tout membre d'équipage touché, tout en ralentissant les soins et les réparations. De plus, cela déclenche des feux chaotiques capables de blesser n'importe quel type d'équipage (à une vitesse supérieure ou égale à 1,5 fois la vitesse de base) et brûlant sans oxygène.\n"
 "Traverse 1 bouclier, -3 PV/s et x0,5 soins et réparations pour l'équipage."
 
-#: src-en/data/blueprints.xml.append:4071
+#: src-en/data/blueprints.xml.append:4412
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/title"
 msgstr "Rayon Désintégrateur Chaoslock 'Impedio'"
 
-#: src-en/data/blueprints.xml.append:4072
+#: src-en/data/blueprints.xml.append:4413
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/short"
 msgstr "'Impedio'"
 
-#: src-en/data/blueprints.xml.append:4073
+#: src-en/data/blueprints.xml.append:4414
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/desc"
 msgstr ""
-"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute "
-"matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
-"et les réparations. De plus, cela applique également l'effet verrouillage "
-"chaotique, empêchant les membres d'équipage dans les pièces touchées de "
-"manœuvrer, combattre, saboter ou réparer, et réduit leur vitesse de "
-"déplacement à 0,25.\n"
+"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts sur la durée à tout membre d'équipage touché, tout en ralentissant les soins et les réparations. De plus, cela applique également l'effet verrouillage chaotique, empêchant les membres d'équipage dans les pièces touchées de manœuvrer, combattre, saboter ou réparer, et réduit leur vitesse de déplacement à 0,25.\n"
 "Traverse 1 bouclier, -3 PVs et x0,5 soins et réparations, pour l'équipage."
 
-#: src-en/data/blueprints.xml.append:4269
+#: src-en/data/blueprints.xml.append:4610
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/title"
 msgstr "Rayon Désintégrateur Chaotique 'Ira'"
 
-#: src-en/data/blueprints.xml.append:4270
+#: src-en/data/blueprints.xml.append:4611
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/short"
 msgstr "'Ira'™"
 
-#: src-en/data/blueprints.xml.append:4271
+#: src-en/data/blueprints.xml.append:4612
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/desc"
 msgstr ""
-"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute "
-"matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
-"et les réparations.\n"
+"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts sur la durée à tout membre d'équipage touché, tout en ralentissant les soins et les réparations.\n"
 "Traverse 3 boucliers, -4 PV/s et x0,5 soins et réparations pour l'équipage."
 
-#: src-en/data/blueprints.xml.append:4346
+#: src-en/data/blueprints.xml.append:4687
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/title"
 msgstr "Rayon Désintégrateur Chaotique 'Angoris'"
 
-#: src-en/data/blueprints.xml.append:4347
+#: src-en/data/blueprints.xml.append:4688
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/short"
 msgstr "'Angoris'™"
 
-#: src-en/data/blueprints.xml.append:4348
+#: src-en/data/blueprints.xml.append:4689
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/desc"
 msgstr ""
-"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute "
-"matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
-"et les réparations.\n"
+"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts sur la durée à tout membre d'équipage touché, tout en ralentissant les soins et les réparations.\n"
 "Traverse 3 boucliers, -4 PV/s et x0,5 soins et réparations pour l'équipage."
 
-#: src-en/data/blueprints.xml.append:4423
+#: src-en/data/blueprints.xml.append:4764
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/title"
 msgstr "Rayon Désintégrateur Chaotique 'Dolor'"
 
-#: src-en/data/blueprints.xml.append:4424
+#: src-en/data/blueprints.xml.append:4765
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/short"
 msgstr "'Dolor'™"
 
-#: src-en/data/blueprints.xml.append:4425
+#: src-en/data/blueprints.xml.append:4766
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/desc"
 msgstr ""
-"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute "
-"matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
-"et les réparations.\n"
+"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts sur la durée à tout membre d'équipage touché, tout en ralentissant les soins et les réparations.\n"
 "Traverse 4 boucliers, -8 PV/s et x0,25 soins et réparations pour l'équipage."
 
-#: src-en/data/blueprints.xml.append:4501
+#: src-en/data/blueprints.xml.append:4842
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/title"
 msgstr "Rayon Désintégrateur Chaotique 'Tormentum'"
 
-#: src-en/data/blueprints.xml.append:4502
+#: src-en/data/blueprints.xml.append:4843
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/short"
 msgstr "'Tormentum'™"
 
-#: src-en/data/blueprints.xml.append:4503
+#: src-en/data/blueprints.xml.append:4844
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/desc"
 msgstr ""
-"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute "
-"matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
-"et les réparations.\n"
+"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts sur la durée à tout membre d'équipage touché, tout en ralentissant les soins et les réparations.\n"
 "Traverse 5 boucliers, -4 PV/s et x0,0 soins et réparations pour l'équipage."
 
-#: src-en/data/blueprints.xml.append:4579
+#: src-en/data/blueprints.xml.append:4920
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/title"
 msgstr "Rayon Désintégrateur Chaotique Chaosfire 'Arde'"
 
-#: src-en/data/blueprints.xml.append:4580
+#: src-en/data/blueprints.xml.append:4921
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/short"
 msgstr "'Arde'™"
 
-#: src-en/data/blueprints.xml.append:4581
+#: src-en/data/blueprints.xml.append:4922
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/desc"
 msgstr ""
-"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute "
-"matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
-"et les réparations. De plus, cela déclenche des feux chaotiques capables de "
-"blesser n'importe quel type d'équipage "
-"(à une vitesse supérieure ou égale à 1,5 fois la vitesse de base) et brûlant "
-"sans oxygène.\n"
+"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts sur la durée à tout membre d'équipage touché, tout en ralentissant les soins et les réparations. De plus, cela déclenche des feux chaotiques capables de blesser n'importe quel type d'équipage (à une vitesse supérieure ou égale à 1,5 fois la vitesse de base) et brûlant sans oxygène.\n"
 "Traverse 3 boucliers, -3 PV/s et x0,5 soins et réparations pour l'équipage."
 
-#: src-en/data/blueprints.xml.append:4735
+#: src-en/data/blueprints.xml.append:5076
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/title"
 msgstr "Rayon Désintégrateur Chaotique Chaoslock 'Impedio'"
 
-#: src-en/data/blueprints.xml.append:4736
+#: src-en/data/blueprints.xml.append:5077
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/short"
 msgstr "'Impedio'™"
 
-#: src-en/data/blueprints.xml.append:4737
+#: src-en/data/blueprints.xml.append:5078
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/desc"
 msgstr ""
-"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute "
-"matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
-"et les réparations. De plus, cela applique également l'effet verrouillage "
-"chaotique, empêchant les membres d'équipage dans les pièces touchées de "
-"manœuvrer, combattre, saboter ou réparer, et réduit leur vitesse de "
-"déplacement à 0,25.\n"
+"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts sur la durée à tout membre d'équipage touché, tout en ralentissant les soins et les réparations. De plus, cela applique également l'effet verrouillage chaotique, empêchant les membres d'équipage dans les pièces touchées de manœuvrer, combattre, saboter ou réparer, et réduit leur vitesse de déplacement à 0,25.\n"
 "Traverse 3 boucliers, -3 PVs et x0,5 soins et réparations, pour l'équipage."
 
-#: src-en/data/blueprints.xml.append:4938
+#: src-en/data/blueprints.xml.append:5279
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/title"
 msgstr "Rayon Désintégrateur Élite 'Ira'"
 
-#: src-en/data/blueprints.xml.append:4939
+#: src-en/data/blueprints.xml.append:5280
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/short"
 msgstr "€ 'Ira'"
 
-#: src-en/data/blueprints.xml.append:4940
+#: src-en/data/blueprints.xml.append:5281
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/desc"
 msgstr ""
-"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute "
-"matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
-"et les réparations.\n"
+"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts sur la durée à tout membre d'équipage touché, tout en ralentissant les soins et les réparations.\n"
 "Traverse 3 boucliers, -6 PVs et x0,25 soins et réparations pour l'équipage."
 
-#: src-en/data/blueprints.xml.append:5015
+#: src-en/data/blueprints.xml.append:5356
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/title"
 msgstr "Rayon Désintégrateur Élite 'Angoris'"
 
-#: src-en/data/blueprints.xml.append:5016
+#: src-en/data/blueprints.xml.append:5357
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/short"
 msgstr "€ 'Angoris'"
 
-#: src-en/data/blueprints.xml.append:5017
+#: src-en/data/blueprints.xml.append:5358
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/desc"
 msgstr ""
-"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute "
-"matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
-"et les réparations.\n"
+"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts sur la durée à tout membre d'équipage touché, tout en ralentissant les soins et les réparations.\n"
 "Traverse 3 boucliers, -6 PVs et x0,25 soins et réparations pour l'équipage."
 
-#: src-en/data/blueprints.xml.append:5092
+#: src-en/data/blueprints.xml.append:5433
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/title"
 msgstr "Rayon Désintégrateur Élite 'Dolor'"
 
-#: src-en/data/blueprints.xml.append:5093
+#: src-en/data/blueprints.xml.append:5434
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/short"
 msgstr "€ 'Dolor'"
 
-#: src-en/data/blueprints.xml.append:5094
+#: src-en/data/blueprints.xml.append:5435
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/desc"
 msgstr ""
-"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute "
-"matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
-"et les réparations.\n"
+"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts sur la durée à tout membre d'équipage touché, tout en ralentissant les soins et les réparations.\n"
 "Traverse 4 boucliers, -12 PVs et x0,0 soins et réparations pour l'équipage."
 
-#: src-en/data/blueprints.xml.append:5170
+#: src-en/data/blueprints.xml.append:5511
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/title"
 msgstr "Rayon Désintégrateur Élite 'Tormentum'"
 
-#: src-en/data/blueprints.xml.append:5171
+#: src-en/data/blueprints.xml.append:5512
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/short"
 msgstr "€ 'Tormentum'"
 
-#: src-en/data/blueprints.xml.append:5172
+#: src-en/data/blueprints.xml.append:5513
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/desc"
 msgstr ""
-"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute "
-"matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
-"et les réparations.\n"
+"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts sur la durée à tout membre d'équipage touché, tout en ralentissant les soins et les réparations.\n"
 "Traverse 5 boucliers, -6 PVs et x0,25 soins et réparations pour l'équipage."
 
-#: src-en/data/blueprints.xml.append:5257
+#: src-en/data/blueprints.xml.append:5598
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/title"
 msgstr "Rayon Désintégrateur Élite Chaosfire 'Arde'"
 
-#: src-en/data/blueprints.xml.append:5258
+#: src-en/data/blueprints.xml.append:5599
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/short"
 msgstr "€ 'Arde'"
 
-#: src-en/data/blueprints.xml.append:5259
+#: src-en/data/blueprints.xml.append:5600
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/desc"
 msgstr ""
-"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute "
-"matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
-"et les réparations. De plus, cela déclenche des feux chaotiques capables de "
-"blesser n'importe quel type d'équipage "
-"(à une vitesse trois fois supérieure à la vitesse de base ou plus) et "
-"brûlant sans oxygène.\n"
+"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts sur la durée à tout membre d'équipage touché, tout en ralentissant les soins et les réparations. De plus, cela déclenche des feux chaotiques capables de blesser n'importe quel type d'équipage (à une vitesse trois fois supérieure à la vitesse de base ou plus) et brûlant sans oxygène.\n"
 "Traverse 3 boucliers, -4 PVs et x0,25 soins et réparations pour l'équipage."
 
-#: src-en/data/blueprints.xml.append:5413
+#: src-en/data/blueprints.xml.append:5754
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/title"
 msgstr "Rayon Désintégrateur Élite Chaoslock 'Impedio'"
 
-#: src-en/data/blueprints.xml.append:5414
+#: src-en/data/blueprints.xml.append:5755
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/short"
 msgstr "€ 'Impedio'"
 
-#: src-en/data/blueprints.xml.append:5415
+#: src-en/data/blueprints.xml.append:5756
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/desc"
 msgstr ""
-"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute "
-"matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
-"sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
-"et les réparations. De plus, cela applique également l'effet verrouillage "
-"chaotique, empêchant les membres d'équipage dans les pièces touchées de se "
-"déplacer, manœuvrer, combattre, saboter ou réparer.\n"
+"Tire un rayon d'énergie surnaturel chaotique qui fait se désintégrer toute matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts sur la durée à tout membre d'équipage touché, tout en ralentissant les soins et les réparations. De plus, cela applique également l'effet verrouillage chaotique, empêchant les membres d'équipage dans les pièces touchées de se déplacer, manœuvrer, combattre, saboter ou réparer.\n"
 "Traverse 3 boucliers, -4 PVs et x0,25 soins et réparations pour l'équipage."
 
-#: src-en/data/blueprints.xml.append:5645
+#: src-en/data/blueprints.xml.append:5986
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/title"
 msgstr "Artillerie Ravisseur Sirène"
 
-#: src-en/data/blueprints.xml.append:5646
+#: src-en/data/blueprints.xml.append:5987
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/short"
 msgstr "Ravisseur"
 
-#: src-en/data/blueprints.xml.append:5647
+#: src-en/data/blueprints.xml.append:5988
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/desc"
 msgstr ""
@@ -2099,47 +2194,47 @@ msgstr ""
 "en les mettant dans un état d'étourdissement. Nécessite le système de "
 "téléporteur pour fonctionner. [Temps de recharge par défaut : 15]"
 
-#: src-en/data/blueprints.xml.append:5648
+#: src-en/data/blueprints.xml.append:5989
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/tooltip"
 msgstr "Artillerie Ravisseur Sirène. [Temps de recharge par défaut : 15]"
 
-#: src-en/data/blueprints.xml.append:5674
+#: src-en/data/blueprints.xml.append:6015
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/title"
 msgstr "Artillerie Kaléidoscope Sirène"
 
-#: src-en/data/blueprints.xml.append:5675
+#: src-en/data/blueprints.xml.append:6016
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/short"
 msgstr "Kaléidoscope"
 
-#: src-en/data/blueprints.xml.append:5676
+#: src-en/data/blueprints.xml.append:6017
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/desc"
 msgstr ""
 "Arme à rayon conçue par les Sirènes, elle embrasse le chaos en tirant "
-"aléatoirement l'un des 10 rayons possibles. "
-"[Temps de recharge par défaut : 16] Effets possibles : Feu, Particules, "
-"Réparation, Étourdissement, Brèche, Énergie, Ion, Givre, Piratage, Radiation"
+"aléatoirement l'un des 10 rayons possibles. [Temps de recharge par défaut : "
+"16] Effets possibles : Feu, Particules, Réparation, Étourdissement, Brèche, "
+"Énergie, Ion, Givre, Piratage, Radiation"
 
-#: src-en/data/blueprints.xml.append:5677
+#: src-en/data/blueprints.xml.append:6018
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/tooltip"
 msgstr ""
 "Artillerie Ravisseur Sirène. [Temps de recharge par défaut : 16] ROYLGCBIVM"
 
-#: src-en/data/blueprints.xml.append:5707
+#: src-en/data/blueprints.xml.append:6048
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/title"
 msgstr "Artillerie Chaosfire Sirène"
 
-#: src-en/data/blueprints.xml.append:5708
+#: src-en/data/blueprints.xml.append:6049
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/short"
 msgstr "Chaosfire"
 
-#: src-en/data/blueprints.xml.append:5709
+#: src-en/data/blueprints.xml.append:6050
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/desc"
 msgstr ""
@@ -2149,222 +2244,222 @@ msgstr ""
 "oxygène et infliger des dégâts même aux membres d'équipage résistants au "
 "feu. Traverse 2 boucliers. [Temps de recharge par défaut : 40]"
 
-#: src-en/data/blueprints.xml.append:5710
+#: src-en/data/blueprints.xml.append:6051
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/tooltip"
 msgstr "Artillerie Chaosfire Sirène. [Temps de recharge par défaut : 40]"
 
-#: src-en/data/blueprints.xml.append:5848
+#: src-en/data/blueprints.xml.append:6189
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5849
+#: src-en/data/blueprints.xml.append:6190
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5850
+#: src-en/data/blueprints.xml.append:6191
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/desc"
 msgstr "VOUS NE DEVRIEZ JAMAIS VOIR CELA DANS LE JEU"
 
-#: src-en/data/blueprints.xml.append:5851
+#: src-en/data/blueprints.xml.append:6192
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5881
+#: src-en/data/blueprints.xml.append:6222
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5882
+#: src-en/data/blueprints.xml.append:6223
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5883
+#: src-en/data/blueprints.xml.append:6224
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/desc"
 msgstr "VOUS NE DEVRIEZ JAMAIS VOIR CELA DANS LE JEU"
 
-#: src-en/data/blueprints.xml.append:5884
+#: src-en/data/blueprints.xml.append:6225
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5914
+#: src-en/data/blueprints.xml.append:6255
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5915
+#: src-en/data/blueprints.xml.append:6256
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5916
+#: src-en/data/blueprints.xml.append:6257
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/desc"
 msgstr "VOUS NE DEVRIEZ JAMAIS VOIR CELA DANS LE JEU"
 
-#: src-en/data/blueprints.xml.append:5917
+#: src-en/data/blueprints.xml.append:6258
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5949
+#: src-en/data/blueprints.xml.append:6290
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5950
+#: src-en/data/blueprints.xml.append:6291
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5951
+#: src-en/data/blueprints.xml.append:6292
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/desc"
 msgstr "VOUS NE DEVRIEZ JAMAIS VOIR CELA DANS LE JEU"
 
-#: src-en/data/blueprints.xml.append:5952
+#: src-en/data/blueprints.xml.append:6293
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5983
+#: src-en/data/blueprints.xml.append:6324
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5984
+#: src-en/data/blueprints.xml.append:6325
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5985
+#: src-en/data/blueprints.xml.append:6326
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/desc"
 msgstr "VOUS NE DEVRIEZ JAMAIS VOIR CELA DANS LE JEU"
 
-#: src-en/data/blueprints.xml.append:5986
+#: src-en/data/blueprints.xml.append:6327
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6016
+#: src-en/data/blueprints.xml.append:6357
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6017
+#: src-en/data/blueprints.xml.append:6358
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6018
+#: src-en/data/blueprints.xml.append:6359
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/desc"
 msgstr "VOUS NE DEVRIEZ JAMAIS VOIR CELA DANS LE JEU"
 
-#: src-en/data/blueprints.xml.append:6019
+#: src-en/data/blueprints.xml.append:6360
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6053
+#: src-en/data/blueprints.xml.append:6394
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6054
+#: src-en/data/blueprints.xml.append:6395
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6055
+#: src-en/data/blueprints.xml.append:6396
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/desc"
 msgstr "VOUS NE DEVRIEZ JAMAIS VOIR CELA DANS LE JEU"
 
-#: src-en/data/blueprints.xml.append:6056
+#: src-en/data/blueprints.xml.append:6397
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6089
+#: src-en/data/blueprints.xml.append:6430
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6090
+#: src-en/data/blueprints.xml.append:6431
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6091
+#: src-en/data/blueprints.xml.append:6432
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/desc"
 msgstr "VOUS NE DEVRIEZ JAMAIS VOIR CELA DANS LE JEU"
 
-#: src-en/data/blueprints.xml.append:6092
+#: src-en/data/blueprints.xml.append:6433
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6167
+#: src-en/data/blueprints.xml.append:6508
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6168
+#: src-en/data/blueprints.xml.append:6509
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6169
+#: src-en/data/blueprints.xml.append:6510
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/desc"
 msgstr "VOUS NE DEVRIEZ JAMAIS VOIR CELA DANS LE JEU"
 
-#: src-en/data/blueprints.xml.append:6170
+#: src-en/data/blueprints.xml.append:6511
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6201
+#: src-en/data/blueprints.xml.append:6542
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6202
+#: src-en/data/blueprints.xml.append:6543
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6203
+#: src-en/data/blueprints.xml.append:6544
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/desc"
 msgstr "VOUS NE DEVRIEZ JAMAIS VOIR CELA DANS LE JEU"
 
-#: src-en/data/blueprints.xml.append:6204
+#: src-en/data/blueprints.xml.append:6545
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6242
+#: src-en/data/blueprints.xml.append:6583
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/title"
 msgstr "Artillerie Chaotique 'Seuss'"
 
-#: src-en/data/blueprints.xml.append:6243
+#: src-en/data/blueprints.xml.append:6584
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/short"
 msgstr "'Seuss'™"
 
-#: src-en/data/blueprints.xml.append:6244
+#: src-en/data/blueprints.xml.append:6585
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/desc"
 msgstr ""
@@ -2374,22 +2469,22 @@ msgstr ""
 "surnaturels et les Sirènes alliés sont soignés à la place. [Temps de "
 "recharge par défaut : 30]"
 
-#: src-en/data/blueprints.xml.append:6245
+#: src-en/data/blueprints.xml.append:6586
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/tooltip"
 msgstr "Artillerie Chaotique 'Seuss' [Temps de recharge par défaut : 30]"
 
-#: src-en/data/blueprints.xml.append:6340
+#: src-en/data/blueprints.xml.append:6681
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/title"
 msgstr "Lame du Rêve Azur"
 
-#: src-en/data/blueprints.xml.append:6341
+#: src-en/data/blueprints.xml.append:6682
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/short"
 msgstr "'Lame Azur'"
 
-#: src-en/data/blueprints.xml.append:6342
+#: src-en/data/blueprints.xml.append:6683
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/desc"
 msgstr ""
@@ -2401,17 +2496,17 @@ msgstr ""
 "la capacité de traverser les portes et un soin mineur. [Temps de recharge "
 "par défaut : 40]"
 
-#: src-en/data/blueprints.xml.append:6475
+#: src-en/data/blueprints.xml.append:6816
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/title"
 msgstr "Son Artillerie Désintégrateur 'Tormentum' :)"
 
-#: src-en/data/blueprints.xml.append:6476
+#: src-en/data/blueprints.xml.append:6817
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/short"
 msgstr "€ 'Tormentum' :)"
 
-#: src-en/data/blueprints.xml.append:6477
+#: src-en/data/blueprints.xml.append:6818
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/desc"
 msgstr ""
@@ -2421,37 +2516,37 @@ msgstr ""
 "dégâts sur la durée à tout membre d'équipage touché, tout en empêchant "
 "complètement le soin et les réparations. [Temps de recharge par défaut : 60]"
 
-#: src-en/data/blueprints.xml.append:6478
+#: src-en/data/blueprints.xml.append:6819
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/tooltip"
 msgstr "Son Artillerie 'Tormentum' :) [Temps de recharge par défaut : 60]"
 
-#: src-en/data/blueprints.xml.append:6674
+#: src-en/data/blueprints.xml.append:7015
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/title"
 msgstr "Éclat Azur"
 
-#: src-en/data/blueprints.xml.append:6675
+#: src-en/data/blueprints.xml.append:7016
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/short"
 msgstr "Azur"
 
-#: src-en/data/blueprints.xml.append:6676
+#: src-en/data/blueprints.xml.append:7017
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/desc"
 msgstr "PROJECTILE VENG DE CRISTAL AZUR"
 
-#: src-en/data/blueprints.xml.append:6830
+#: src-en/data/blueprints.xml.append:7171
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/class"
 msgstr "Transporteur Sirène Multiversel"
 
-#: src-en/data/blueprints.xml.append:6831
+#: src-en/data/blueprints.xml.append:7172
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/name"
 msgstr "Aoi Yume"
 
-#: src-en/data/blueprints.xml.append:6832
+#: src-en/data/blueprints.xml.append:7173
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/desc"
 msgstr ""
@@ -2459,17 +2554,17 @@ msgstr ""
 " autres races. Cependant, le Multivers est vaste, et l'équipage Sirène et "
 "Cristalien de ce vaisseau s'avère être une exception à ce stéréotype."
 
-#: src-en/data/blueprints.xml.append:6911
+#: src-en/data/blueprints.xml.append:7252
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/class"
 msgstr "Épave de Transporteur Sirène"
 
-#: src-en/data/blueprints.xml.append:6912
+#: src-en/data/blueprints.xml.append:7253
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/name"
 msgstr "Le Rêve Brisé"
 
-#: src-en/data/blueprints.xml.append:6913
+#: src-en/data/blueprints.xml.append:7254
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/desc"
 msgstr ""
@@ -2478,17 +2573,17 @@ msgstr ""
 "'les jolies couleurs'. Cependant, l'arme spéciale Sirène est toujours "
 "présente."
 
-#: src-en/data/blueprints.xml.append:6990
+#: src-en/data/blueprints.xml.append:7331
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/class"
 msgstr "Transporteur Sirène"
 
-#: src-en/data/blueprints.xml.append:6991
+#: src-en/data/blueprints.xml.append:7332
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/name"
 msgstr "Thelxiope"
 
-#: src-en/data/blueprints.xml.append:6992
+#: src-en/data/blueprints.xml.append:7333
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/desc"
 msgstr ""
@@ -2497,52 +2592,52 @@ msgstr ""
 " et enlève tout membre d'équipage touché, en faisant une proie facile - "
 "l'une des tactiques favorites des Sirènes."
 
-#: src-en/data/blueprints.xml.append:7071
+#: src-en/data/blueprints.xml.append:7412
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/class"
 msgstr "Transporteur Sirène"
 
-#: src-en/data/blueprints.xml.append:7072
+#: src-en/data/blueprints.xml.append:7413
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/name"
 msgstr "Parthenope"
 
-#: src-en/data/blueprints.xml.append:7073
+#: src-en/data/blueprints.xml.append:7414
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/desc"
 msgstr ""
 "Embrassant pleinement le chaos, ce vaisseau est équipé d'une artillerie qui "
 "tire au hasard l'un des huit rayons différents."
 
-#: src-en/data/blueprints.xml.append:7155
+#: src-en/data/blueprints.xml.append:7496
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/class"
 msgstr "Transporteur Sirène"
 
-#: src-en/data/blueprints.xml.append:7156
+#: src-en/data/blueprints.xml.append:7497
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/name"
 msgstr "Himerope"
 
-#: src-en/data/blueprints.xml.append:7157
+#: src-en/data/blueprints.xml.append:7498
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/desc"
 msgstr ""
-"Quel goût ont les rêves lorsqu'on les cuisine ? Ce couple de harpies Sirènes "
-"a décidé de le découvrir, en installant un rayon d'artillerie capable de "
+"Quel goût ont les rêves lorsqu'on les cuisine ? Ce couple de harpies Sirènes"
+" a décidé de le découvrir, en installant un rayon d'artillerie capable de "
 "tout brûler sur son passage."
 
-#: src-en/data/blueprints.xml.append:7236
+#: src-en/data/blueprints.xml.append:7577
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/class"
 msgstr "Transporteur Rimeur"
 
-#: src-en/data/blueprints.xml.append:7237
+#: src-en/data/blueprints.xml.append:7578
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/name"
 msgstr "Yidhra"
 
-#: src-en/data/blueprints.xml.append:7238
+#: src-en/data/blueprints.xml.append:7579
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/desc"
 msgstr ""
@@ -2551,17 +2646,17 @@ msgstr ""
 "Cependant, cela s'est fait au détriment de son réacteur et de toute défense "
 "au-delà de son bouclier surnaturel."
 
-#: src-en/data/blueprints.xml.append:7315
+#: src-en/data/blueprints.xml.append:7656
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/class"
 msgstr "Croiseur de Lily"
 
-#: src-en/data/blueprints.xml.append:7316
+#: src-en/data/blueprints.xml.append:7657
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/name"
 msgstr "Étoile du Néant"
 
-#: src-en/data/blueprints.xml.append:7317
+#: src-en/data/blueprints.xml.append:7658
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/desc"
 msgstr ""

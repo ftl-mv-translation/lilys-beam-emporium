@@ -1,0 +1,81 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_stargrove.xml.append:4
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[1]/text"
+msgstr ""
+"(Adv. Engines + Afterburner) Engage the afterburned advanced engines to fly "
+"close enough to scrap the ship and save its sole crew. [3{]"
+
+#: src-en/data/events_sector_stargrove.xml.append:6
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[1]/event/text"
+msgstr "Afterburner engaged"
+
+#: src-en/data/events_sector_stargrove.xml.append:11
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_stargrove.xml.append:13
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[1]/event/choice/event/text"
+msgstr ""
+"Your ship's advanced afterburned engines fight the extreme gravitation as it"
+" inches closer. Time scales more and more, but your ship can handle it "
+"easily. As a bonus, not only do you save Mafan, but you have the opportunity"
+" to scrap the ship before you return from within the gravity well. You were "
+"even fast enough to not let time dilation advance the fleet."
+
+#: src-en/data/events_sector_stargrove.xml.append:16
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[1]/event/choice/event/choice/text"
+msgstr "Contact science vessel..."
+
+#: src-en/data/events_sector_stargrove.xml.append:24
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+"(Afterburner) Risk your ship by flying close enough to scrap the ship and "
+"save its sole crew. [3{]"
+
+#: src-en/data/events_sector_stargrove.xml.append:26
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[2]/event/text"
+msgstr "Afterburner engaged"
+
+#: src-en/data/events_sector_stargrove.xml.append:31
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_stargrove.xml.append:33
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[2]/event/choice/event/text"
+msgstr ""
+"Your ship's afterburned engines fight the extreme gravitation as it inches "
+"closer. Time scales more and more, but your ship can handle it without much "
+"damage. As a bonus, not only do you save Mafan, but you have the opportunity"
+" to scrap the ship before you return from within the gravity well. "
+"Unfortunately, the time dilation has allowed the fleet to advance, but not "
+"by much."
+
+#: src-en/data/events_sector_stargrove.xml.append:39
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
+"append:choice[2]/event/choice/event/choice/text"
+msgstr "Contact science vessel..."

@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-16 17:25+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/"
-"lilys-beam-emporium/dataevents_special_storagexmlappend/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_storage.xml.append:6
 msgid ""
@@ -37,14 +30,13 @@ msgstr "Lui demander des informations sur les armes à rayons spéciaux."
 
 #: src-en/data/events_special_storage.xml.append:28
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[@req=\"unique_lily_avatar\""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[@req=\"LIST_CREW_LILY_AVATAR\""
 " and @lvl=\"-999\"]/text"
 msgstr "Lui demander personnellement de se joindre à vous."
 
 #: src-en/data/events_special_storage.xml.append:32
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[@req=\"unique_lily_avatar\""
-" and @lvl=\"1\"]/text"
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[4]/text"
 msgstr "Elle vous accompagne déjà."
 
 #: src-en/data/events_special_storage.xml.append:36
@@ -52,387 +44,386 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[5]/text"
 msgstr "Laisser tomber."
 
-#: src-en/data/events_special_storage.xml.append:46
+#: src-en/data/events_special_storage.xml.append:40
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[6]/text"
+msgstr "Laisser tomber."
+
+#: src-en/data/events_special_storage.xml.append:50
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/text"
 msgstr ""
-"Oh, vous voulez l'une de ces armes à rayons sophistiqués que personne "
-"d'autre n'a ?\n"
+"Oh, vous voulez l'une de ces armes à rayons sophistiqués que personne d'autre n'a ?\n"
 "Eh bien, nous avons quelque chose en commun, alors...\n"
-"Procurez vous les matériaux et les connaissances nécessaires, et je les "
-"partagerai volontiers avec vous."
+"Procurez vous les matériaux et les connaissances nécessaires, et je les partagerai volontiers avec vous."
 
-#: src-en/data/events_special_storage.xml.append:50
+#: src-en/data/events_special_storage.xml.append:55
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[1]/text"
 msgstr "Lui demander des informations sur les armes Éther."
 
-#: src-en/data/events_special_storage.xml.append:54
+#: src-en/data/events_special_storage.xml.append:59
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[2]/text"
 msgstr ""
-"D'autres options de dialogue seront ajoutées dans de prochaines mises à jour."
+"D'autres options de dialogue seront ajoutées dans de prochaines mises à "
+"jour."
 
-#: src-en/data/events_special_storage.xml.append:58
+#: src-en/data/events_special_storage.xml.append:63
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[3]/text"
 msgstr "Laisser tomber."
 
-#: src-en/data/events_special_storage.xml.append:69
+#: src-en/data/events_special_storage.xml.append:74
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/text"
 msgstr ""
 "Ah, un classique...\n"
-"Ce type d'arme existe depuis des millénaires, et reste l'une des plus "
-"puissantes.\n"
+"Ce type d'arme existe depuis des millénaires, et reste l'une des plus puissantes.\n"
 "Pas assez puissante pour faire ce que j'espérais...\n"
 "Mais bon, apportez‑moi juste des matériaux et je vous en fabriquerai une.\n"
 "2 à 3 pièces de technologie ancienne devraient suffire."
 
-#: src-en/data/events_special_storage.xml.append:75
+#: src-en/data/events_special_storage.xml.append:80
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"-999\"]/text"
 msgstr "[Pièces actuelles : 0]"
 
-#: src-en/data/events_special_storage.xml.append:79
+#: src-en/data/events_special_storage.xml.append:84
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"1\"]/text"
 msgstr "[Pièces actuelles : 1]"
 
-#: src-en/data/events_special_storage.xml.append:83
+#: src-en/data/events_special_storage.xml.append:88
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"2\"]/text"
 msgstr "[Pièces actuelles : 2]"
 
-#: src-en/data/events_special_storage.xml.append:87
+#: src-en/data/events_special_storage.xml.append:92
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"3\"]/text"
 msgstr "[Pièces actuelles : 3]"
 
-#: src-en/data/events_special_storage.xml.append:91
+#: src-en/data/events_special_storage.xml.append:96
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"4\"]/text"
 msgstr "[Pièces actuelles : 4]"
 
-#: src-en/data/events_special_storage.xml.append:95
+#: src-en/data/events_special_storage.xml.append:100
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"5\"]/text"
 msgstr "[Pièces actuelles : 5]"
 
-#: src-en/data/events_special_storage.xml.append:99
+#: src-en/data/events_special_storage.xml.append:104
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"6\"]/text"
 msgstr "[Pièces actuelles : 6]"
 
-#: src-en/data/events_special_storage.xml.append:103
+#: src-en/data/events_special_storage.xml.append:108
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"7\"]/text"
 msgstr "[Pièces actuelles : 7]"
 
-#: src-en/data/events_special_storage.xml.append:107
+#: src-en/data/events_special_storage.xml.append:112
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"8\"]/text"
 msgstr "[Pièces actuelles : 8]"
 
-#: src-en/data/events_special_storage.xml.append:111
+#: src-en/data/events_special_storage.xml.append:116
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"9\"]/text"
 msgstr "[Pièces actuelles : 9]"
 
-#: src-en/data/events_special_storage.xml.append:115
+#: src-en/data/events_special_storage.xml.append:120
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"10\"]/text"
 msgstr "[Pièces actuelles : 10]"
 
-#: src-en/data/events_special_storage.xml.append:119
+#: src-en/data/events_special_storage.xml.append:124
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"11\"]/text"
 msgstr "[Pièces actuelles : 10+]"
 
-#: src-en/data/events_special_storage.xml.append:123
+#: src-en/data/events_special_storage.xml.append:128
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[13]/text"
 msgstr "Lui donner du matériel technologique à utiliser pour les pièces."
 
-#: src-en/data/events_special_storage.xml.append:127
+#: src-en/data/events_special_storage.xml.append:132
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[14]/text"
 msgstr ""
 "Lui demander de fabriquer une nouvelle arme à partir des pièces fournies."
 
-#: src-en/data/events_special_storage.xml.append:131
+#: src-en/data/events_special_storage.xml.append:136
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[15]/text"
 msgstr "Laisser tomber."
 
-#: src-en/data/events_special_storage.xml.append:137
+#: src-en/data/events_special_storage.xml.append:142
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/text"
 msgstr "Sélectionner ce que vous voulez donner :"
 
-#: src-en/data/events_special_storage.xml.append:139
+#: src-en/data/events_special_storage.xml.append:144
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER\"]/text"
 msgstr "Lui offrir un Laser Ancien I."
 
-#: src-en/data/events_special_storage.xml.append:149
+#: src-en/data/events_special_storage.xml.append:154
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_2\"]/text"
 msgstr "Lui offrir un Laser Ancien II."
 
-#: src-en/data/events_special_storage.xml.append:159
+#: src-en/data/events_special_storage.xml.append:164
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_3\"]/text"
 msgstr "Lui offrir un Laser Ancien III."
 
-#: src-en/data/events_special_storage.xml.append:169
+#: src-en/data/events_special_storage.xml.append:174
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BEAM\"]/text"
 msgstr "Lui offrir un Rayon Ancien I."
 
-#: src-en/data/events_special_storage.xml.append:179
+#: src-en/data/events_special_storage.xml.append:184
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[5]/text"
 msgstr "Lui offrir un Rayon Ancien II."
 
-#: src-en/data/events_special_storage.xml.append:189
+#: src-en/data/events_special_storage.xml.append:194
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[6]/text"
 msgstr "Lui offrir un Rayon Ancien III."
 
-#: src-en/data/events_special_storage.xml.append:199
+#: src-en/data/events_special_storage.xml.append:204
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS\"]/text"
 msgstr "Lui offrir un Aiguillon Ancien I."
 
-#: src-en/data/events_special_storage.xml.append:209
+#: src-en/data/events_special_storage.xml.append:214
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS_2\"]/text"
 msgstr "Lui offrir un Aiguillon Ancien II."
 
-#: src-en/data/events_special_storage.xml.append:219
+#: src-en/data/events_special_storage.xml.append:224
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"HAVOC\"]/text"
 msgstr "Lui offrir un Ravageur Ancien."
 
-#: src-en/data/events_special_storage.xml.append:229
+#: src-en/data/events_special_storage.xml.append:234
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_MISSILES\"]/text"
 msgstr "Lui offrir un Lance-missiles Ancien."
 
-#: src-en/data/events_special_storage.xml.append:239
+#: src-en/data/events_special_storage.xml.append:244
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BOMB\"]/text"
 msgstr "Lui offrir un Lance-bombes Ancien."
 
-#: src-en/data/events_special_storage.xml.append:249
+#: src-en/data/events_special_storage.xml.append:254
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_MINELAUNCHER\"]/text"
 msgstr "Lui offrir un Lance-mines Ancien."
 
-#: src-en/data/events_special_storage.xml.append:259
+#: src-en/data/events_special_storage.xml.append:264
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_ION_1\"]/text"
 msgstr "Lui offrir un Lance-plasma Ancien I."
 
-#: src-en/data/events_special_storage.xml.append:269
+#: src-en/data/events_special_storage.xml.append:274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_ION_2\"]/text"
 msgstr "Lui offrir un Lance-plasma Ancien II."
 
-#: src-en/data/events_special_storage.xml.append:279
+#: src-en/data/events_special_storage.xml.append:284
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[15]/text"
 msgstr "Lui offrir un Pacificateur Ancien."
 
-#: src-en/data/events_special_storage.xml.append:289
+#: src-en/data/events_special_storage.xml.append:294
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[16]/text"
 msgstr "Lui offrir un Pacificateur Ancien."
 
-#: src-en/data/events_special_storage.xml.append:299
+#: src-en/data/events_special_storage.xml.append:304
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_LASER\"]/text"
 msgstr "Lui offrir un Drone Laser Ancien."
 
-#: src-en/data/events_special_storage.xml.append:309
+#: src-en/data/events_special_storage.xml.append:314
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_ION\"]/text"
 msgstr "Lui offrir un Drone Ionique Ancien."
 
-#: src-en/data/events_special_storage.xml.append:319
+#: src-en/data/events_special_storage.xml.append:324
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_MISSILE\"]/text"
 msgstr "Lui offrir un Drone missiles Ancien."
 
-#: src-en/data/events_special_storage.xml.append:329
+#: src-en/data/events_special_storage.xml.append:334
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_DEFENSE_1\"]/text"
 msgstr "Lui offrir un Drone Surveilleur Ancien."
 
-#: src-en/data/events_special_storage.xml.append:339
+#: src-en/data/events_special_storage.xml.append:344
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"MENDER\"]/text"
 msgstr "Lui offrir un Drone Reconstructeur Ancien."
 
-#: src-en/data/events_special_storage.xml.append:349
+#: src-en/data/events_special_storage.xml.append:354
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"DIRECTOR\"]/text"
 msgstr "Lui offrir un Directeur Ancien."
 
-#: src-en/data/events_special_storage.xml.append:359
+#: src-en/data/events_special_storage.xml.append:364
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_DEFEND\"]/text"
 msgstr "Lui offrir un Atomiseur Ancien."
 
-#: src-en/data/events_special_storage.xml.append:369
+#: src-en/data/events_special_storage.xml.append:374
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_BOARDER\"]/text"
 msgstr "Lui offrir un Atomiseur Ancien."
 
-#: src-en/data/events_special_storage.xml.append:379
+#: src-en/data/events_special_storage.xml.append:384
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[25]/text"
 msgstr "Laisser tomber."
 
-#: src-en/data/events_special_storage.xml.append:386
+#: src-en/data/events_special_storage.xml.append:391
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/text"
 msgstr "Sélectionner ce que vous voulez qu'elle fabrique :"
 
-#: src-en/data/events_special_storage.xml.append:389
+#: src-en/data/events_special_storage.xml.append:394
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"5\"]/text"
 msgstr "Fabriquer un Éradicateur Royal III. [5 pts]"
 
-#: src-en/data/events_special_storage.xml.append:399
+#: src-en/data/events_special_storage.xml.append:404
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[2]/text"
 msgstr "Fabriquer un Éradicateur Royal III. [5 pts]"
 
-#: src-en/data/events_special_storage.xml.append:404
+#: src-en/data/events_special_storage.xml.append:409
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[3]/text"
 msgstr "Fabriquer un Purificateur Royal. [4 pts]"
 
-#: src-en/data/events_special_storage.xml.append:414
+#: src-en/data/events_special_storage.xml.append:419
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[4]/text"
 msgstr "Fabriquer un Purificateur Royal. [4 pts]"
 
-#: src-en/data/events_special_storage.xml.append:419
+#: src-en/data/events_special_storage.xml.append:424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[5]/text"
 msgstr "Fabriquer un Ravageur Royal. [4 pts]"
 
-#: src-en/data/events_special_storage.xml.append:429
+#: src-en/data/events_special_storage.xml.append:434
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[6]/text"
 msgstr "Fabriquer un Ravageur Royal. [4 pts]"
 
-#: src-en/data/events_special_storage.xml.append:434
+#: src-en/data/events_special_storage.xml.append:439
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[7]/text"
 msgstr "Fabriquer un Éradicateur III. [4 pts]"
 
-#: src-en/data/events_special_storage.xml.append:444
+#: src-en/data/events_special_storage.xml.append:449
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[8]/text"
 msgstr "Fabriquer un Éradicateur III. [4 pts]"
 
-#: src-en/data/events_special_storage.xml.append:449
+#: src-en/data/events_special_storage.xml.append:454
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[9]/text"
 msgstr "Fabriquer un Éradicateur II. [3 pts]"
 
-#: src-en/data/events_special_storage.xml.append:459
+#: src-en/data/events_special_storage.xml.append:464
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[10]/text"
 msgstr "Fabriquer un Éradicateur II. [3 pts]"
 
-#: src-en/data/events_special_storage.xml.append:464
+#: src-en/data/events_special_storage.xml.append:469
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[11]/text"
 msgstr "Fabriquer un Éradicateur I. [2 pts]"
 
-#: src-en/data/events_special_storage.xml.append:474
+#: src-en/data/events_special_storage.xml.append:479
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[12]/text"
 msgstr "Fabriquer un Éradicateur I. [2 pts]"
 
-#: src-en/data/events_special_storage.xml.append:479
+#: src-en/data/events_special_storage.xml.append:484
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"3\"]/text"
 msgstr "Fabriquer un Purificateur II. [3 pts]"
 
-#: src-en/data/events_special_storage.xml.append:489
+#: src-en/data/events_special_storage.xml.append:494
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[14]/text"
 msgstr "Fabriquer un Purificateur II. [3 pts]"
 
-#: src-en/data/events_special_storage.xml.append:494
+#: src-en/data/events_special_storage.xml.append:499
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[15]/text"
 msgstr "Fabriquer un Purificateur I. [2 pts]"
 
-#: src-en/data/events_special_storage.xml.append:504
+#: src-en/data/events_special_storage.xml.append:509
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[16]/text"
 msgstr "Fabriquer un Purificateur I. [2 pts]"
 
-#: src-en/data/events_special_storage.xml.append:509
+#: src-en/data/events_special_storage.xml.append:514
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[17]/text"
 msgstr "Fabriquer un Ravageur. [2 pts]"
 
-#: src-en/data/events_special_storage.xml.append:519
+#: src-en/data/events_special_storage.xml.append:524
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[18]/text"
 msgstr "Fabriquer un Ravageur. [2 pts]"
 
-#: src-en/data/events_special_storage.xml.append:524
+#: src-en/data/events_special_storage.xml.append:529
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[19]/text"
 msgstr "Laisser tomber."
 
-#: src-en/data/events_special_storage.xml.append:542
+#: src-en/data/events_special_storage.xml.append:547
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/text"
 msgstr ""
 "Oh, vous voulez que je vous rejoigne en personne ?\n"
-"Je ne peux pas faire ça, pour... diverses raisons. Mais je peux vous prêter "
-"mon Avatar.\n"
-"Pensez-y comme à un genre de drone contrôlé à distance... sauf que ce n'en "
-"est pas un. \n"
-"Et n'allez surtout pas le considérer comme jetable, ou vous le regretterez "
-"amèrement. \n"
+"Je ne peux pas faire ça, pour... diverses raisons. Mais je peux vous prêter mon Avatar.\n"
+"Pensez-y comme à un genre de drone contrôlé à distance... sauf que ce n'en est pas un. \n"
+"Et n'allez surtout pas le considérer comme jetable, ou vous le regretterez amèrement. \n"
 "\n"
-"Vous allez cependant avoir besoin d'un équipement spécial pour que je puisse "
-"le faire..."
+"Vous allez cependant avoir besoin d'un équipement spécial pour que je puisse le faire..."
 
-#: src-en/data/events_special_storage.xml.append:551
+#: src-en/data/events_special_storage.xml.append:556
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/text"
 msgstr ""
-"Vous avez déjà la technologie nécessaire, utilisez-la pour invoquer l'Avatar "
-"de Lily..."
+"Vous avez déjà la technologie nécessaire, utilisez-la pour invoquer l'Avatar"
+" de Lily..."
 
-#: src-en/data/events_special_storage.xml.append:553
+#: src-en/data/events_special_storage.xml.append:558
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/event/text"
@@ -441,182 +432,174 @@ msgstr ""
 "être humain à l'apparence tout à fait ordinaire. Cependant, une sensation "
 "étrange vous traverse..."
 
-#: src-en/data/events_special_storage.xml.append:554
+#: src-en/data/events_special_storage.xml.append:559
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/event/crewMember"
 msgstr "Lily"
 
-#: src-en/data/events_special_storage.xml.append:561
+#: src-en/data/events_special_storage.xml.append:566
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/text"
 msgstr "(Celui qui Rimes) Permettez-moi de compter : trois, deux, un.."
 
-#: src-en/data/events_special_storage.xml.append:563
+#: src-en/data/events_special_storage.xml.append:568
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/event/text"
 msgstr ""
 "Et tout ce qu'il fallait faire est enfin terminé !\n"
 "\n"
-"Une faille dans l'espace s'ouvre soudain près de vous, matérialisant... un "
-"être humain à l'apparence tout à fait ordinaire. Cependant, une sensation "
-"étrange vous traverse..."
+"Une faille dans l'espace s'ouvre soudain près de vous, matérialisant... un être humain à l'apparence tout à fait ordinaire. Cependant, une sensation étrange vous traverse..."
 
-#: src-en/data/events_special_storage.xml.append:567
+#: src-en/data/events_special_storage.xml.append:572
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/event/crewMember"
 msgstr "Lily"
 
-#: src-en/data/events_special_storage.xml.append:574
+#: src-en/data/events_special_storage.xml.append:579
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"BLUELIST_AETHER\"]/text"
 msgstr "(Technologie Éther) Installer la technologie et l'utiliser [30~, 5|]"
 
-#: src-en/data/events_special_storage.xml.append:576
+#: src-en/data/events_special_storage.xml.append:583
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"lily_aether_points\"]/text"
+msgstr "(Points d'Éther) Installer la technologie et l'utiliser [30~, 5|]"
+
+#: src-en/data/events_special_storage.xml.append:585
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/text"
 msgstr "Vous installez la technologie requise..."
 
-#: src-en/data/events_special_storage.xml.append:583
+#: src-en/data/events_special_storage.xml.append:593
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:585
+#: src-en/data/events_special_storage.xml.append:595
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/event/text"
 msgstr ""
 "Et vous l'activez !\n"
 "\n"
-"Une faille dans l'espace s'ouvre soudain près de vous, matérialisant... un "
-"être humain à l'apparence tout à fait ordinaire. Cependant, une sensation "
-"étrange vous traverse..."
+"Une faille dans l'espace s'ouvre soudain près de vous, matérialisant... un être humain à l'apparence tout à fait ordinaire. Cependant, une sensation étrange vous traverse..."
 
-#: src-en/data/events_special_storage.xml.append:588
+#: src-en/data/events_special_storage.xml.append:598
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/event/crewMember"
 msgstr "Lily"
 
-#: src-en/data/events_special_storage.xml.append:596
-msgid ""
-"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"lily_aether_points\"]/text"
-msgstr "(Points d'Éther) Installer la technologie et l'utiliser [30~, 5|]"
-
-#: src-en/data/events_special_storage.xml.append:600
+#: src-en/data/events_special_storage.xml.append:606
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Remarque : vous devez être en possession de la Technologie Éther "
-"(ou d'une alternative) pour pouvoir l'installer."
+"Remarque : vous devez être en possession de la Technologie Éther (ou d'une "
+"alternative) pour pouvoir l'installer."
 
-#: src-en/data/events_special_storage.xml.append:604
+#: src-en/data/events_special_storage.xml.append:610
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[6]/text"
 msgstr "Laisser tomber."
 
-#: src-en/data/events_special_storage.xml.append:611
+#: src-en/data/events_special_storage.xml.append:617
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/text"
 msgstr ""
 "Hé ! Je vous avais bien dit de ne pas considérer mon avatar comme jetable, non ?\n"
 "Très bien, je vais prendre ça pour un accident... mais seulement cette fois !"
 
-#: src-en/data/events_special_storage.xml.append:616
+#: src-en/data/events_special_storage.xml.append:622
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:618
+#: src-en/data/events_special_storage.xml.append:624
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/event/text"
 msgstr ""
 "Une faille dans l'espace s'ouvre soudain près de vous, matérialisant à "
 "nouveau l'avatar. Il semble qu'elle ne puisse pas vraiment mourir..."
 
-#: src-en/data/events_special_storage.xml.append:619
+#: src-en/data/events_special_storage.xml.append:625
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/event/crewMember"
 msgstr "Lily"
 
-#: src-en/data/events_special_storage.xml.append:627
+#: src-en/data/events_special_storage.xml.append:633
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[2]/text"
 msgstr "Laisser tomber."
 
-#: src-en/data/events_special_storage.xml.append:633
+#: src-en/data/events_special_storage.xml.append:639
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/text"
 msgstr ""
-"Hé ! Je vous avais bien dit de ne pas considérer mon avatar comme jetable, "
-"non ?\n"
-"Mais, puisque Celui qui Rime est ici avec vous, je vais faire une "
-"exception... Je ne voudrais pas rater l'amusement, après tout !"
+"Hé ! Je vous avais bien dit de ne pas considérer mon avatar comme jetable, non ?\n"
+"Mais, puisque Celui qui Rime est ici avec vous, je vais faire une exception... Je ne voudrais pas rater l'amusement, après tout !"
 
-#: src-en/data/events_special_storage.xml.append:638
+#: src-en/data/events_special_storage.xml.append:644
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:640
+#: src-en/data/events_special_storage.xml.append:646
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/event/text"
 msgstr ""
 "Une faille dans l'espace s'ouvre soudain près de vous, matérialisant à "
 "nouveau l'avatar. Il semble qu'elle ne puisse pas vraiment mourir..."
 
-#: src-en/data/events_special_storage.xml.append:641
+#: src-en/data/events_special_storage.xml.append:647
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/event/crewMember"
 msgstr "Lily"
 
-#: src-en/data/events_special_storage.xml.append:648
+#: src-en/data/events_special_storage.xml.append:654
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[2]/text"
 msgstr "Laisser tomber."
 
-#: src-en/data/events_special_storage.xml.append:654
+#: src-en/data/events_special_storage.xml.append:660
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/text"
 msgstr "Bien sûr !"
 
-#: src-en/data/events_special_storage.xml.append:657
+#: src-en/data/events_special_storage.xml.append:663
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[1]/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:659
+#: src-en/data/events_special_storage.xml.append:665
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[1]/event/text"
 msgstr ""
 "Une faille dans l'espace s'ouvre soudain près de vous, matérialisant à "
 "nouveau l'avatar. Il semble qu'elle ne puisse pas vraiment mourir..."
 
-#: src-en/data/events_special_storage.xml.append:660
+#: src-en/data/events_special_storage.xml.append:666
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[1]/event/crewMember"
 msgstr "Lily"
 
-#: src-en/data/events_special_storage.xml.append:667
+#: src-en/data/events_special_storage.xml.append:673
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[2]/text"
 msgstr "Laisser tomber."
 
-#: src-en/data/events_special_storage.xml.append:673
+#: src-en/data/events_special_storage.xml.append:679
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/text"
 msgstr ""
 "Eh bien... payez-moi, alors. \n"
-"Qu'est-ce que les Renégats apprécient, déjà... de la ferraille ? Très bien, "
-"vous pouvez m'en donner... ou je peux tout aussi bien la prendre directement "
-"sur votre vaisseau !"
+"Qu'est-ce que les Renégats apprécient, déjà... de la ferraille ? Très bien, vous pouvez m'en donner... ou je peux tout aussi bien la prendre directement sur votre vaisseau !"
 
-#: src-en/data/events_special_storage.xml.append:678
+#: src-en/data/events_special_storage.xml.append:684
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/text"
 msgstr "Lui verser 100~"
 
-#: src-en/data/events_special_storage.xml.append:683
+#: src-en/data/events_special_storage.xml.append:689
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/event/text"
 msgstr ""
@@ -624,18 +607,18 @@ msgstr ""
 "Peu après, une autre faille surgit à vos côtés, matérialisant à nouveau "
 "l'avatar. Il semble qu'elle ne puisse pas vraiment mourir..."
 
-#: src-en/data/events_special_storage.xml.append:684
+#: src-en/data/events_special_storage.xml.append:690
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/event/crewMember"
 msgstr "Lily"
 
-#: src-en/data/events_special_storage.xml.append:692
+#: src-en/data/events_special_storage.xml.append:698
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/text"
 msgstr "La payer en utilisant votre vaisseau. [20 points de coque endommagés]"
 
-#: src-en/data/events_special_storage.xml.append:695
+#: src-en/data/events_special_storage.xml.append:701
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/event/text"
@@ -645,24 +628,24 @@ msgstr ""
 "une nouvelle faille apparaît à vos côtés, matérialisant une fois de plus "
 "l'avatar. Il semble qu'elle ne puisse pas vraiment mourir..."
 
-#: src-en/data/events_special_storage.xml.append:696
+#: src-en/data/events_special_storage.xml.append:702
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/event/crewMember"
 msgstr "Lily"
 
-#: src-en/data/events_special_storage.xml.append:704
+#: src-en/data/events_special_storage.xml.append:710
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and not(@lvl)]/text"
 msgstr "La payer en utilisant votre vaisseau. [20 points de coque endommagés]"
 
-#: src-en/data/events_special_storage.xml.append:710
+#: src-en/data/events_special_storage.xml.append:716
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[4]/text"
 msgstr "Laisser tomber."
 
-#: src-en/data/events_special_storage.xml.append:716
+#: src-en/data/events_special_storage.xml.append:722
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/text"
 msgstr ""
@@ -670,428 +653,439 @@ msgstr ""
 "Eh bien, par où commencer ?...\n"
 "Je suppose... par la structure du multivers, peut-être ?"
 
-#: src-en/data/events_special_storage.xml.append:720
+#: src-en/data/events_special_storage.xml.append:726
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/choice[1]/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:722
+#: src-en/data/events_special_storage.xml.append:728
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/text"
 msgstr ""
-"Comme vous le savez déjà, en tant que Renégat du Multivers, il existe une "
-"multitude d'univers entre lesquels vous pouvez voyager grâce au moteur "
-"Multiversel. Et leur nombre est infini. \n"
-"Dans certains d'entre eux, c'est la Fédération qui l'emporte "
-"(et si vous menez à bien votre mission, cet univers en fera partie). Dans "
-"d'autres, c'est la Rébellion qui triomphe. Bon sang, j'ai même vu des "
-"univers où les Orchidées et les Vampiflores se sont alliées aux Limaces pour "
-"conquérir des galaxies entières...\n"
-"Mais dans l'ensemble, ils se ressemblent souvent : il y a des vaisseaux "
-"spatiaux, la Fédération, la Rébellion, les Mantiss, les Rocailleux, et tout "
-"ce genre de choses...\n"
-"Et cet ensemble d'univers similaires est généralement appelé un 'amas'. "
-"Votre amas peut contenir une infinité d'univers, mais il n'est pas le seul..."
+"Comme vous le savez déjà, en tant que Renégat du Multivers, il existe une multitude d'univers entre lesquels vous pouvez voyager grâce au moteur Multiversel. Et leur nombre est infini. \n"
+"Dans certains d'entre eux, c'est la Fédération qui l'emporte (et si vous menez à bien votre mission, cet univers en fera partie). Dans d'autres, c'est la Rébellion qui triomphe. Bon sang, j'ai même vu des univers où les Orchidées et les Vampiflores se sont alliées aux Limaces pour conquérir des galaxies entières...\n"
+"Mais dans l'ensemble, ils se ressemblent souvent : il y a des vaisseaux spatiaux, la Fédération, la Rébellion, les Mantiss, les Rocailleux, et tout ce genre de choses...\n"
+"Et cet ensemble d'univers similaires est généralement appelé un 'amas'. Votre amas peut contenir une infinité d'univers, mais il n'est pas le seul..."
 
-#: src-en/data/events_special_storage.xml.append:727
+#: src-en/data/events_special_storage.xml.append:733
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/choice[1]/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:729
+#: src-en/data/events_special_storage.xml.append:735
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/text"
 msgstr ""
-"Cependant, d'autres amas peuvent être très, très différents du vôtre. J'ai "
-"déjà été dans un amas où il n'y avait aucun humain, aucune vie "
-"traditionnelle. À la place, les seuls habitants étaient d'énormes essaims de "
-"machines intelligentes, qui utilisaient toute la matière et l'énergie "
-"disponibles pour construire des montagnes de... quelque chose qui "
-"ressemblait à des trombones ?\n"
-"Certainement pas un endroit agréable pour les vacances, contrairement à un "
-"amas où les rivières sont faites de boissons gazeuses, le sol de guimauve, "
-"et les plantes de chocolat noir et blanc...\n"
-"Et il existe de très nombreuses possibilités quant au contenu des différents "
-"amas."
+"Cependant, d'autres amas peuvent être très, très différents du vôtre. J'ai déjà été dans un amas où il n'y avait aucun humain, aucune vie traditionnelle. À la place, les seuls habitants étaient d'énormes essaims de machines intelligentes, qui utilisaient toute la matière et l'énergie disponibles pour construire des montagnes de... quelque chose qui ressemblait à des trombones ?\n"
+"Certainement pas un endroit agréable pour les vacances, contrairement à un amas où les rivières sont faites de boissons gazeuses, le sol de guimauve, et les plantes de chocolat noir et blanc...\n"
+"Et il existe de très nombreuses possibilités quant au contenu des différents amas."
 
-#: src-en/data/events_special_storage.xml.append:733
+#: src-en/data/events_special_storage.xml.append:739
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/choice[1]/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:735
+#: src-en/data/events_special_storage.xml.append:741
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/text"
 msgstr ""
-"Et comme vous vous en doutez peut-être, je ne viens pas de cet amas non plus."
-"\n"
-"Je viens d'un endroit très, très, très lointain. Un lieu dangereux, ravagé "
-"par des conflits incessants...\n"
-"Alors, ayant compris qu'il valait mieux partir, je me suis 'auto-exilée', "
-"pour ainsi dire, et je suis partie explorer d'autres amas."
+"Et comme vous vous en doutez peut-être, je ne viens pas de cet amas non plus.\n"
+"Je viens d'un endroit très, très, très lointain. Un lieu dangereux, ravagé par des conflits incessants...\n"
+"Alors, ayant compris qu'il valait mieux partir, je me suis 'auto-exilée', pour ainsi dire, et je suis partie explorer d'autres amas."
 
-#: src-en/data/events_special_storage.xml.append:739
+#: src-en/data/events_special_storage.xml.append:745
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/choice[1]/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:741
+#: src-en/data/events_special_storage.xml.append:747
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/text"
 msgstr ""
-"Et c'était une période vraiment merveilleuse ! J'ai exploré tout ce qu'il y "
-"avait à explorer, appris d'innombrables technologies, mené toutes sortes "
-"d'expériences...\n"
-"...J'ai peut-être provoqué l'implosion de quelques réalités au passage, bien "
-"sûr...\n"
+"Et c'était une période vraiment merveilleuse ! J'ai exploré tout ce qu'il y avait à explorer, appris d'innombrables technologies, mené toutes sortes d'expériences...\n"
+"...J'ai peut-être provoqué l'implosion de quelques réalités au passage, bien sûr...\n"
 "Oups !!!\n"
 "Mais c'était drôlement amusant, alors laissons le passé là où il est."
 
-#: src-en/data/events_special_storage.xml.append:746
+#: src-en/data/events_special_storage.xml.append:752
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/choice[1]/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:748
+#: src-en/data/events_special_storage.xml.append:754
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/text"
 msgstr ""
-"Mais bien sûr, tout a changé lorsque ces fichues Limaces, avec leurs "
-"vaisseaux gris et verts, sont arrivées...\n"
+"Mais bien sûr, tout a changé lorsque ces fichues Limaces, avec leurs vaisseaux gris et verts, sont arrivées...\n"
 "Vous savez, celles qui portent ce symbole étrange, le chiffre '8 ' !!!\n"
-"Non seulement elles ont réussi à capturer ma Maîtresse, sans doute grâce à "
-"leurs sales ruses de Limaces, mais en plus elles passent leur temps à me "
-"harceler dès que j'essaie de m'amuser un peu !\n"
-"C'est pour ça que je me limite, ces temps-ci, à vendre quelques armes à "
-"rayons...\n"
-"Et tout ça, soi-disant pour \"l'Ordre\" et la \"Continuité Multiverselle\" ? "
-"Pff ! Comme si les Limaces savaient quoi que ce soit sur \"l'ordre\" ! "
-"Quelle absurdité !"
+"Non seulement elles ont réussi à capturer ma Maîtresse, sans doute grâce à leurs sales ruses de Limaces, mais en plus elles passent leur temps à me harceler dès que j'essaie de m'amuser un peu !\n"
+"C'est pour ça que je me limite, ces temps-ci, à vendre quelques armes à rayons...\n"
+"Et tout ça, soi-disant pour \"l'Ordre\" et la \"Continuité Multiverselle\" ? Pff ! Comme si les Limaces savaient quoi que ce soit sur \"l'ordre\" ! Quelle absurdité !"
 
-#: src-en/data/events_special_storage.xml.append:754
+#: src-en/data/events_special_storage.xml.append:760
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/choice[1]/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:756
+#: src-en/data/events_special_storage.xml.append:762
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/text"
 msgstr ""
-"Et je ne laisserai pas ces saletés visqueuses s'en tirer comme ça ! Elles "
-"vont tomber, tôt ou tard !\n"
-"...Enfin, dès que je trouverai un moyen de réellement les vaincre... Une "
-"arme à rayons spéciale pourrait faire l'affaire, ou peut-être une arme de "
-"destruction massive...\n"
-"...Et dès que je découvrirai aussi leur repaire, bien sûr. Mais j'ai entendu "
-"dire qu'il existe, dans cet univers, un passage, quelque chose en rapport "
-"avec le 'Cœur de la Tempête'..."
+"Et je ne laisserai pas ces saletés visqueuses s'en tirer comme ça ! Elles vont tomber, tôt ou tard !\n"
+"...Enfin, dès que je trouverai un moyen de réellement les vaincre... Une arme à rayons spéciale pourrait faire l'affaire, ou peut-être une arme de destruction massive...\n"
+"...Et dès que je découvrirai aussi leur repaire, bien sûr. Mais j'ai entendu dire qu'il existe, dans cet univers, un passage, quelque chose en rapport avec le 'Cœur de la Tempête'..."
 
-#: src-en/data/events_special_storage.xml.append:760
+#: src-en/data/events_special_storage.xml.append:766
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/choice[1]/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:762
+#: src-en/data/events_special_storage.xml.append:768
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/text"
 msgstr ""
 "...Heureusement, ma Maîtresse est patiente et rusée... et moi aussi.\n"
 "Nous finirons bien par trouver une solution, tôt ou tard.\n"
-"...Mais cela ne veut pas dire que vous ne pouvez pas aider. Si vous parvenez "
-"à réussir, vous serez amplement récompensé.\n"
-"Oh, et vous aurez accès à toutes sortes d'armes prototypes que je vais "
-"tester et développer. N'est-ce pas excitant ?\n"
-"...Et si vous échouez, eh bien, les données recueillies au cours de vos "
-"voyages serviront quand même notre objectif. Peut-être que le prochain "
-"Renégat réussira, si ce n'est pas vous..."
+"...Mais cela ne veut pas dire que vous ne pouvez pas aider. Si vous parvenez à réussir, vous serez amplement récompensé.\n"
+"Oh, et vous aurez accès à toutes sortes d'armes prototypes que je vais tester et développer. N'est-ce pas excitant ?\n"
+"...Et si vous échouez, eh bien, les données recueillies au cours de vos voyages serviront quand même notre objectif. Peut-être que le prochain Renégat réussira, si ce n'est pas vous..."
 
-#: src-en/data/events_special_storage.xml.append:768
+#: src-en/data/events_special_storage.xml.append:774
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/choice[1]/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:770
+#: src-en/data/events_special_storage.xml.append:776
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_9\"]/text"
 msgstr ""
-"Eh bien, c'était toute une histoire, n'est-ce pas ? J'espère que vous "
-"comprenez mieux, maintenant, et que vous serez plus motivé à nous aider...\n"
-"Non seulement cela me profitera, mais aussi à vous également ! On peut dire "
-"que c'est une situation gagnant-gagnant !\n"
+"Eh bien, c'était toute une histoire, n'est-ce pas ? J'espère que vous comprenez mieux, maintenant, et que vous serez plus motivé à nous aider...\n"
+"Non seulement cela me profitera, mais aussi à vous également ! On peut dire que c'est une situation gagnant-gagnant !\n"
 "Bref, y avait-il autre chose que vous vouliez me demander ?\n"
 "(P.-S. : Bravo si vous avez réellement tout lu jusqu'ici !)"
 
-#: src-en/data/events_special_storage.xml.append:776
+#: src-en/data/events_special_storage.xml.append:782
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_9\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:782
+#: src-en/data/events_special_storage.xml.append:788
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/choice[2]/text"
 msgstr "J'espère que vous avez terminé ?"
 
-#: src-en/data/events_special_storage.xml.append:788
+#: src-en/data/events_special_storage.xml.append:794
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/choice[2]/text"
 msgstr "Arrêtez."
 
-#: src-en/data/events_special_storage.xml.append:794
+#: src-en/data/events_special_storage.xml.append:800
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/choice[2]/text"
 msgstr "Arrêtez, s'il vous plaît."
 
-#: src-en/data/events_special_storage.xml.append:800
+#: src-en/data/events_special_storage.xml.append:806
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/choice[2]/text"
 msgstr "Ça suffit !"
 
-#: src-en/data/events_special_storage.xml.append:806
+#: src-en/data/events_special_storage.xml.append:812
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/choice[2]/text"
 msgstr "Arrêter d'écouter."
 
-#: src-en/data/events_special_storage.xml.append:812
+#: src-en/data/events_special_storage.xml.append:818
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/choice[2]/text"
 msgstr "Sortez de la pièce."
 
-#: src-en/data/events_special_storage.xml.append:818
+#: src-en/data/events_special_storage.xml.append:824
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/choice[2]/text"
 msgstr "Arrêtez de parler, s'il vous plaît."
 
-#: src-en/data/events_special_storage.xml.append:824
+#: src-en/data/events_special_storage.xml.append:830
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/choice[2]/text"
 msgstr "En fait, je ne suis pas d'humeur pour ça."
 
-#: src-en/data/events_special_storage.xml.append:838
+#: src-en/data/events_special_storage.xml.append:840
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:846
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:848
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:853
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_2\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_storage.xml.append:855
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:859
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_3\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_storage.xml.append:861
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:866
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_4\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_storage.xml.append:868
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:871
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_5\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_storage.xml.append:873
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:878
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_6\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_storage.xml.append:892
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:896
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:905
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice/text"
 msgstr "(Lily) Invoquez la Galerie de Lily. [Flotte boostée pour 1 saut]"
 
-#: src-en/data/events_special_storage.xml.append:865
+#: src-en/data/events_special_storage.xml.append:932
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice/text"
 msgstr "Sirène."
 
-#: src-en/data/events_special_storage.xml.append:878
+#: src-en/data/events_special_storage.xml.append:945
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/text"
 msgstr "Vous consultez le menu du laboratoire pour : [SIRENES]"
 
-#: src-en/data/events_special_storage.xml.append:880
+#: src-en/data/events_special_storage.xml.append:947
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_VAMP\"]/text"
 msgstr ""
 "Actuellement installé : Siphon d'Âme.\n"
 " [Les sirènes soignent désormais en fonction des dégâts qu'elles infligent, mais leurs dégâts sont réduits de moitié]"
 
-#: src-en/data/events_special_storage.xml.append:885
+#: src-en/data/events_special_storage.xml.append:952
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_BUFF\"]/text"
 msgstr ""
 "Actuellement installé : Rêves colorés.\n"
 "[Les membres de l'équipage alliés non sirènes se trouvant dans la même pièce que les sirènes subissent désormais 30 % de dégâts en moins, se réparent 50 % plus rapidement et deviennent immunisés contre le contrôle mental, mais perdent 50 % de leur vitesse de déplacement]"
 
-#: src-en/data/events_special_storage.xml.append:890
+#: src-en/data/events_special_storage.xml.append:957
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_DAMAGE\"]/text"
 msgstr ""
 "Actuellement installé : Regard Flétrissant.\n"
 "[Les ennemis directement ciblés par les sirènes subissent 30 % de dégâts supplémentaires provenant de toutes les sources et perdent leur immunité au contrôle mental s'ils en avaient une. Cela n'affecte pas les autres sirènes ni les créatures surnaturelles]"
 
-#: src-en/data/events_special_storage.xml.append:895
+#: src-en/data/events_special_storage.xml.append:962
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[4]/text"
 msgstr "Actuellement installé : Aucune"
 
-#: src-en/data/events_special_storage.xml.append:899
+#: src-en/data/events_special_storage.xml.append:966
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[5]/text"
 msgstr "Primaire : Siphon d'Âme. [Une amélioration est déjà installée]"
 
-#: src-en/data/events_special_storage.xml.append:903
+#: src-en/data/events_special_storage.xml.append:970
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[6]/text"
 msgstr "Primaire : Siphon d'Âme. [Coût : 30~, 2{, 2|]"
 
-#: src-en/data/events_special_storage.xml.append:907
+#: src-en/data/events_special_storage.xml.append:974
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[7]/text"
 msgstr "Primaire : Rêves colorés. [Une amélioration est déjà installée]"
 
-#: src-en/data/events_special_storage.xml.append:911
+#: src-en/data/events_special_storage.xml.append:978
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[8]/text"
 msgstr "Primaire : Rêves colorés. [Coût : 6{]"
 
-#: src-en/data/events_special_storage.xml.append:915
+#: src-en/data/events_special_storage.xml.append:982
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[9]/text"
 msgstr "Primaire : Regard Flétrissant. [Une amélioration est déjà installée]"
 
-#: src-en/data/events_special_storage.xml.append:919
+#: src-en/data/events_special_storage.xml.append:986
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[10]/text"
 msgstr "Primaire : Regard Flétrissant. [Coût : 40~, 8}]"
 
-#: src-en/data/events_special_storage.xml.append:923
+#: src-en/data/events_special_storage.xml.append:990
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_HARPY_MIND\""
 " and @lvl=\"1\"]/text"
 msgstr ""
 "Secondaire [Harpie] : Assaut Mental. [Une amélioration est déjà installée]\n"
-"\t\t[Les Harpies Sirènes obtiennent une nouvelle capacité : contrôler "
-"mentalement un membre d'équipage ennemi aléatoire dans la salle actuelle "
-"pendant 10 secondes, avec un temps de recharge de 30 secondes]"
+"\t\t[Les Harpies Sirènes obtiennent une nouvelle capacité : contrôler mentalement un membre d'équipage ennemi aléatoire dans la salle actuelle pendant 10 secondes, avec un temps de recharge de 30 secondes]"
 
-#: src-en/data/events_special_storage.xml.append:928
+#: src-en/data/events_special_storage.xml.append:995
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_HARPY_MIND\""
 " and @lvl=\"0\"]/text"
 msgstr "Secondaire [Harpie] : Assaut Mental. [Coût : 50~, 5{]"
 
-#: src-en/data/events_special_storage.xml.append:932
+#: src-en/data/events_special_storage.xml.append:999
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[13]/text"
 msgstr "Revenir en arrière."
 
-#: src-en/data/events_special_storage.xml.append:937
+#: src-en/data/events_special_storage.xml.append:1004
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer la modification Siphon d'Âme.\n"
-"\t[Effets : Les Sirènes récupèrent des points de vie en infligeant des "
-"dégâts, mais leurs dégâts sont réduits de moitié.]\n"
+"\t[Effets : Les Sirènes récupèrent des points de vie en infligeant des dégâts, mais leurs dégâts sont réduits de moitié.]\n"
 "\t\n"
-"\t[Avertissement : Après avoir installé cela, vous ne pourrez plus installer "
-"d'autres améliorations primaires pour les membres d'équipage Sirènes. Vous "
-"ne pourrez pas non plus désactiver cette modification.]"
+"\t[Avertissement : Après avoir installé cela, vous ne pourrez plus installer d'autres améliorations primaires pour les membres d'équipage Sirènes. Vous ne pourrez pas non plus désactiver cette modification.]"
 
-#: src-en/data/events_special_storage.xml.append:942
+#: src-en/data/events_special_storage.xml.append:1009
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/text"
 msgstr "Installer la modification. [Coût : 30~, 2{, 2|]"
 
-#: src-en/data/events_special_storage.xml.append:944
+#: src-en/data/events_special_storage.xml.append:1011
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/event/text"
 msgstr "Vous installez la modification."
 
-#: src-en/data/events_special_storage.xml.append:951
+#: src-en/data/events_special_storage.xml.append:1018
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:957
+#: src-en/data/events_special_storage.xml.append:1024
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
 
-#: src-en/data/events_special_storage.xml.append:968
+#: src-en/data/events_special_storage.xml.append:1035
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer la modification Rêves Colorés.\n"
-"\t[Effets : Les membres d'équipage alliés non-Sirènes présents dans la même "
-"salle que les Sirènes subissent 30 % de dégâts en moins, réparent 50 % plus "
-"rapidement et deviennent immunisés au contrôle mental, mais perdent 50 % de "
-"leur vitesse de déplacement.]\n"
+"\t[Effets : Les membres d'équipage alliés non-Sirènes présents dans la même salle que les Sirènes subissent 30 % de dégâts en moins, réparent 50 % plus rapidement et deviennent immunisés au contrôle mental, mais perdent 50 % de leur vitesse de déplacement.]\n"
 "\t\n"
-"\t[Avertissement : Après avoir installé cela, vous ne pourrez plus installer "
-"d'autres améliorations primaires pour les membres d'équipage Sirènes. Vous "
-"ne pourrez pas non plus désactiver cette modification.]"
+"\t[Avertissement : Après avoir installé cela, vous ne pourrez plus installer d'autres améliorations primaires pour les membres d'équipage Sirènes. Vous ne pourrez pas non plus désactiver cette modification.]"
 
-#: src-en/data/events_special_storage.xml.append:973
+#: src-en/data/events_special_storage.xml.append:1040
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/text"
 msgstr "Installer la modification. [Coût : 6{]"
 
-#: src-en/data/events_special_storage.xml.append:975
+#: src-en/data/events_special_storage.xml.append:1042
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/event/text"
 msgstr "Vous installez la modification."
 
-#: src-en/data/events_special_storage.xml.append:980
+#: src-en/data/events_special_storage.xml.append:1047
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:986
+#: src-en/data/events_special_storage.xml.append:1053
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
 
-#: src-en/data/events_special_storage.xml.append:997
+#: src-en/data/events_special_storage.xml.append:1064
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer la modification Regard Flétrissant.\n"
-"\t[Effets : Les ennemis directement ciblés par les Sirènes subissent 30 % de "
-"dégâts supplémentaires de toutes sources et perdent leur immunité au "
-"contrôle mental, le cas échéant. N'affecte pas les autres Sirènes ni les "
-"êtres Eldritch.]\n"
+"\t[Effets : Les ennemis directement ciblés par les Sirènes subissent 30 % de dégâts supplémentaires de toutes sources et perdent leur immunité au contrôle mental, le cas échéant. N'affecte pas les autres Sirènes ni les êtres Eldritch.]\n"
 "\t\n"
-"\t[Avertissement : Après avoir installé cela, vous ne pourrez plus installer "
-"d'autres améliorations primaires pour les membres d'équipage Sirènes. Vous "
-"ne pourrez pas non plus désactiver cette modification.]"
+"\t[Avertissement : Après avoir installé cela, vous ne pourrez plus installer d'autres améliorations primaires pour les membres d'équipage Sirènes. Vous ne pourrez pas non plus désactiver cette modification.]"
 
-#: src-en/data/events_special_storage.xml.append:1002
+#: src-en/data/events_special_storage.xml.append:1069
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/text"
 msgstr "Installer la modification. [Coût : 40~, 8}]"
 
-#: src-en/data/events_special_storage.xml.append:1004
+#: src-en/data/events_special_storage.xml.append:1071
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/event/text"
 msgstr "Vous installez la modification."
 
-#: src-en/data/events_special_storage.xml.append:1010
+#: src-en/data/events_special_storage.xml.append:1077
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1016
+#: src-en/data/events_special_storage.xml.append:1083
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
 
-#: src-en/data/events_special_storage.xml.append:1027
+#: src-en/data/events_special_storage.xml.append:1094
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer la modification Assaut Mental.\n"
-" [Effets : Les Harpies Sirènes obtiennent une nouvelle capacité : contrôler "
-"mentalement un membre d'équipage ennemi aléatoire dans la salle actuelle "
-"pendant 10 secondes, avec un temps de recharge de 30 secondes.]\n"
+" [Effets : Les Harpies Sirènes obtiennent une nouvelle capacité : contrôler mentalement un membre d'équipage ennemi aléatoire dans la salle actuelle pendant 10 secondes, avec un temps de recharge de 30 secondes.]\n"
 "\n"
-" [Avertissement : Cette modification n'affectera que les Harpies Sirènes. "
-"Vous pourrez installer d'autres modifications secondaires et primaires par "
-"la suite.]"
+" [Avertissement : Cette modification n'affectera que les Harpies Sirènes. Vous pourrez installer d'autres modifications secondaires et primaires par la suite.]"
 
-#: src-en/data/events_special_storage.xml.append:1032
+#: src-en/data/events_special_storage.xml.append:1099
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/text"
 msgstr "Installer la modification. [Coût : 50~, 5{]"
 
-#: src-en/data/events_special_storage.xml.append:1034
+#: src-en/data/events_special_storage.xml.append:1101
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/event/text"
 msgstr "Vous installez la modification."
 
-#: src-en/data/events_special_storage.xml.append:1040
+#: src-en/data/events_special_storage.xml.append:1107
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1046
+#: src-en/data/events_special_storage.xml.append:1113
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"0\"]/text"
@@ -1099,1841 +1093,1918 @@ msgstr ""
 "Vous devez disposer de l'amélioration du laboratoire pour cette "
 "modification."
 
-#: src-en/data/events_special_storage.xml.append:1050
+#: src-en/data/events_special_storage.xml.append:1117
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
 
-#: src-en/data/events_special_storage.xml.append:1065
+#: src-en/data/events_special_storage.xml.append:1132
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[1]/text"
 msgstr ""
 "Rayon 'Sunset' Définir l'état de l'arme. [Mode actuel : Démolition de Coque]"
 
-#: src-en/data/events_special_storage.xml.append:1069
+#: src-en/data/events_special_storage.xml.append:1136
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[2]/text"
 msgstr "Rayon 'Sunset' Définir l'état de l'arme. [Mode actuel : Particule]"
 
-#: src-en/data/events_special_storage.xml.append:1073
+#: src-en/data/events_special_storage.xml.append:1140
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[3]/text"
 msgstr ""
 "Rayon 'Sunset' Définir l'état de l'arme. [Mode actuel : Anti-Biologique]"
 
-#: src-en/data/events_special_storage.xml.append:1081
+#: src-en/data/events_special_storage.xml.append:1148
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/text"
 msgstr ""
 "Quel mode voulez-vous pour votre arme ?\n"
 "\tMode actuel : Démolition de Coque."
 
-#: src-en/data/events_special_storage.xml.append:1084
+#: src-en/data/events_special_storage.xml.append:1151
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/text"
 msgstr "Passer en mode Particules."
 
-#: src-en/data/events_special_storage.xml.append:1086
+#: src-en/data/events_special_storage.xml.append:1153
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1089
+#: src-en/data/events_special_storage.xml.append:1156
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1091
+#: src-en/data/events_special_storage.xml.append:1158
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1094
+#: src-en/data/events_special_storage.xml.append:1161
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1102
+#: src-en/data/events_special_storage.xml.append:1169
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/text"
 msgstr "Passer en mode Anti-biologique."
 
-#: src-en/data/events_special_storage.xml.append:1104
+#: src-en/data/events_special_storage.xml.append:1171
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1107
+#: src-en/data/events_special_storage.xml.append:1174
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1109
+#: src-en/data/events_special_storage.xml.append:1176
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1112
+#: src-en/data/events_special_storage.xml.append:1179
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1120
+#: src-en/data/events_special_storage.xml.append:1187
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[3]/text"
 msgstr "Retourner au menu Interchanger."
 
-#: src-en/data/events_special_storage.xml.append:1125
+#: src-en/data/events_special_storage.xml.append:1192
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/text"
 msgstr ""
 "Quel mode voulez-vous pour votre arme ?\n"
 "\tMode actuel : Particule."
 
-#: src-en/data/events_special_storage.xml.append:1128
+#: src-en/data/events_special_storage.xml.append:1195
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/text"
 msgstr "Passer en mode Démolition de Coque."
 
-#: src-en/data/events_special_storage.xml.append:1130
+#: src-en/data/events_special_storage.xml.append:1197
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1133
+#: src-en/data/events_special_storage.xml.append:1200
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1135
+#: src-en/data/events_special_storage.xml.append:1202
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1138
+#: src-en/data/events_special_storage.xml.append:1205
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1146
+#: src-en/data/events_special_storage.xml.append:1213
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/text"
 msgstr "Passer en mode Anti-biologique."
 
-#: src-en/data/events_special_storage.xml.append:1148
+#: src-en/data/events_special_storage.xml.append:1215
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1151
+#: src-en/data/events_special_storage.xml.append:1218
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1153
+#: src-en/data/events_special_storage.xml.append:1220
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1156
+#: src-en/data/events_special_storage.xml.append:1223
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1164
+#: src-en/data/events_special_storage.xml.append:1231
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[3]/text"
 msgstr "Retourner au menu Interchanger."
 
-#: src-en/data/events_special_storage.xml.append:1169
+#: src-en/data/events_special_storage.xml.append:1236
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/text"
 msgstr ""
 "Quel mode voulez-vous pour votre arme ?\n"
 "\tMode actuel : Anti-Biologique."
 
-#: src-en/data/events_special_storage.xml.append:1172
+#: src-en/data/events_special_storage.xml.append:1239
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/text"
 msgstr "Passer en mode Démolition de Coque."
 
-#: src-en/data/events_special_storage.xml.append:1174
+#: src-en/data/events_special_storage.xml.append:1241
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1177
+#: src-en/data/events_special_storage.xml.append:1244
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1179
+#: src-en/data/events_special_storage.xml.append:1246
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1182
+#: src-en/data/events_special_storage.xml.append:1249
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1190
+#: src-en/data/events_special_storage.xml.append:1257
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/text"
 msgstr "Passer en mode Particules."
 
-#: src-en/data/events_special_storage.xml.append:1192
+#: src-en/data/events_special_storage.xml.append:1259
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1195
+#: src-en/data/events_special_storage.xml.append:1262
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1197
+#: src-en/data/events_special_storage.xml.append:1264
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1200
+#: src-en/data/events_special_storage.xml.append:1267
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1208
+#: src-en/data/events_special_storage.xml.append:1275
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[3]/text"
 msgstr "Retourner au menu Interchanger."
 
-#: src-en/data/events_special_storage.xml.append:1217
+#: src-en/data/events_special_storage.xml.append:1284
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[1]/text"
 msgstr "(Rayon 'Eventide') Définir l'état de l'arme. [Mode actuel : Long]"
 
-#: src-en/data/events_special_storage.xml.append:1221
+#: src-en/data/events_special_storage.xml.append:1288
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[2]/text"
 msgstr "(Rayon 'Eventide') Définir l'état de l'arme. [Mode actuel : Déchirer]"
 
-#: src-en/data/events_special_storage.xml.append:1225
+#: src-en/data/events_special_storage.xml.append:1292
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[3]/text"
-msgstr "(Rayon 'Eventide') Définir l'état de l'arme. [Mode actuel : Thermique]"
+msgstr ""
+"(Rayon 'Eventide') Définir l'état de l'arme. [Mode actuel : Thermique]"
 
-#: src-en/data/events_special_storage.xml.append:1229
+#: src-en/data/events_special_storage.xml.append:1296
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[4]/text"
 msgstr "(Rayon 'Eventide') Définir l'état de l'arme. [Mode actuel : Piratage]"
 
-#: src-en/data/events_special_storage.xml.append:1235
+#: src-en/data/events_special_storage.xml.append:1302
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/text"
 msgstr ""
 "Quel mode voulez-vous pour votre arme ?\n"
 "\tMode actuel : Long."
 
-#: src-en/data/events_special_storage.xml.append:1238
+#: src-en/data/events_special_storage.xml.append:1305
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/text"
 msgstr "Passer en mode Déchirer."
 
-#: src-en/data/events_special_storage.xml.append:1240
+#: src-en/data/events_special_storage.xml.append:1307
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1243
+#: src-en/data/events_special_storage.xml.append:1310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1245
+#: src-en/data/events_special_storage.xml.append:1312
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1248
+#: src-en/data/events_special_storage.xml.append:1315
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1256
+#: src-en/data/events_special_storage.xml.append:1323
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/text"
 msgstr "Passer en mode Thermique."
 
-#: src-en/data/events_special_storage.xml.append:1258
+#: src-en/data/events_special_storage.xml.append:1325
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1261
+#: src-en/data/events_special_storage.xml.append:1328
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1263
+#: src-en/data/events_special_storage.xml.append:1330
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1266
+#: src-en/data/events_special_storage.xml.append:1333
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1274
+#: src-en/data/events_special_storage.xml.append:1341
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/text"
 msgstr "Passer en mode Piratage."
 
-#: src-en/data/events_special_storage.xml.append:1276
+#: src-en/data/events_special_storage.xml.append:1343
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1279
+#: src-en/data/events_special_storage.xml.append:1346
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1281
+#: src-en/data/events_special_storage.xml.append:1348
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1284
+#: src-en/data/events_special_storage.xml.append:1351
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1292
+#: src-en/data/events_special_storage.xml.append:1359
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[4]/text"
 msgstr "Retourner au menu Interchanger."
 
-#: src-en/data/events_special_storage.xml.append:1298
+#: src-en/data/events_special_storage.xml.append:1365
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/text"
 msgstr ""
 "Quel mode voulez-vous pour votre arme ?\n"
 "\tMode actuel : Déchirer."
 
-#: src-en/data/events_special_storage.xml.append:1301
+#: src-en/data/events_special_storage.xml.append:1368
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/text"
 msgstr "Passer en mode Long."
 
-#: src-en/data/events_special_storage.xml.append:1303
+#: src-en/data/events_special_storage.xml.append:1370
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1306
+#: src-en/data/events_special_storage.xml.append:1373
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1308
+#: src-en/data/events_special_storage.xml.append:1375
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1311
+#: src-en/data/events_special_storage.xml.append:1378
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1319
+#: src-en/data/events_special_storage.xml.append:1386
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/text"
 msgstr "Passer en mode Thermique."
 
-#: src-en/data/events_special_storage.xml.append:1321
+#: src-en/data/events_special_storage.xml.append:1388
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1324
+#: src-en/data/events_special_storage.xml.append:1391
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1326
+#: src-en/data/events_special_storage.xml.append:1393
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1329
+#: src-en/data/events_special_storage.xml.append:1396
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1337
+#: src-en/data/events_special_storage.xml.append:1404
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/text"
 msgstr "Passer en mode Piratage."
 
-#: src-en/data/events_special_storage.xml.append:1339
+#: src-en/data/events_special_storage.xml.append:1406
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1342
+#: src-en/data/events_special_storage.xml.append:1409
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1344
+#: src-en/data/events_special_storage.xml.append:1411
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1347
+#: src-en/data/events_special_storage.xml.append:1414
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1355
+#: src-en/data/events_special_storage.xml.append:1422
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[4]/text"
 msgstr "Retourner au menu Interchanger."
 
-#: src-en/data/events_special_storage.xml.append:1362
+#: src-en/data/events_special_storage.xml.append:1429
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/text"
 msgstr ""
 "Quel mode voulez-vous pour votre arme ?\n"
 "\tMode actuel : Thermique."
 
-#: src-en/data/events_special_storage.xml.append:1365
+#: src-en/data/events_special_storage.xml.append:1432
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/text"
 msgstr "Passer en mode Long."
 
-#: src-en/data/events_special_storage.xml.append:1367
+#: src-en/data/events_special_storage.xml.append:1434
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1370
+#: src-en/data/events_special_storage.xml.append:1437
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1372
+#: src-en/data/events_special_storage.xml.append:1439
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1375
+#: src-en/data/events_special_storage.xml.append:1442
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1383
+#: src-en/data/events_special_storage.xml.append:1450
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/text"
 msgstr "Passer en mode Déchirer."
 
-#: src-en/data/events_special_storage.xml.append:1385
+#: src-en/data/events_special_storage.xml.append:1452
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1388
+#: src-en/data/events_special_storage.xml.append:1455
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1390
+#: src-en/data/events_special_storage.xml.append:1457
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1393
+#: src-en/data/events_special_storage.xml.append:1460
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1401
+#: src-en/data/events_special_storage.xml.append:1468
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/text"
 msgstr "Passer en mode Piratage."
 
-#: src-en/data/events_special_storage.xml.append:1403
+#: src-en/data/events_special_storage.xml.append:1470
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1406
+#: src-en/data/events_special_storage.xml.append:1473
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1408
+#: src-en/data/events_special_storage.xml.append:1475
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1411
+#: src-en/data/events_special_storage.xml.append:1478
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1419
+#: src-en/data/events_special_storage.xml.append:1486
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[4]/text"
 msgstr "Retourner au menu Interchanger."
 
-#: src-en/data/events_special_storage.xml.append:1424
+#: src-en/data/events_special_storage.xml.append:1491
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/text"
 msgstr ""
 "Quel mode voulez-vous pour votre arme ?\n"
 "\tMode actuel : Piratage."
 
-#: src-en/data/events_special_storage.xml.append:1427
+#: src-en/data/events_special_storage.xml.append:1494
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/text"
 msgstr "Passer en mode Long."
 
-#: src-en/data/events_special_storage.xml.append:1429
+#: src-en/data/events_special_storage.xml.append:1496
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1432
+#: src-en/data/events_special_storage.xml.append:1499
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1434
+#: src-en/data/events_special_storage.xml.append:1501
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1437
+#: src-en/data/events_special_storage.xml.append:1504
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1445
+#: src-en/data/events_special_storage.xml.append:1512
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/text"
 msgstr "Passer en mode Déchirer."
 
-#: src-en/data/events_special_storage.xml.append:1447
+#: src-en/data/events_special_storage.xml.append:1514
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1450
+#: src-en/data/events_special_storage.xml.append:1517
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1452
+#: src-en/data/events_special_storage.xml.append:1519
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1455
+#: src-en/data/events_special_storage.xml.append:1522
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1463
+#: src-en/data/events_special_storage.xml.append:1530
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/text"
 msgstr "Passer en mode Thermique."
 
-#: src-en/data/events_special_storage.xml.append:1465
+#: src-en/data/events_special_storage.xml.append:1532
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1468
+#: src-en/data/events_special_storage.xml.append:1535
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1470
+#: src-en/data/events_special_storage.xml.append:1537
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1473
+#: src-en/data/events_special_storage.xml.append:1540
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1481
+#: src-en/data/events_special_storage.xml.append:1548
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[4]/text"
 msgstr "Retourner au menu Interchanger."
 
-#: src-en/data/events_special_storage.xml.append:1491
+#: src-en/data/events_special_storage.xml.append:1558
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[1]/text"
 msgstr "('Akatsuki') Définir l'état de l'arme. [Mode actuel : Rayon]"
 
-#: src-en/data/events_special_storage.xml.append:1495
+#: src-en/data/events_special_storage.xml.append:1562
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[2]/text"
 msgstr "('Akatsuki') Définir l'état de l'arme. [Mode actuel : Focaliser]"
 
-#: src-en/data/events_special_storage.xml.append:1499
+#: src-en/data/events_special_storage.xml.append:1566
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[3]/text"
 msgstr "('Akatsuki') Définir l'état de l'arme. [Mode actuel : Disperseur]"
 
-#: src-en/data/events_special_storage.xml.append:1507
+#: src-en/data/events_special_storage.xml.append:1574
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/text"
 msgstr ""
 "Quel mode voulez-vous pour votre arme ?\n"
 "\tMode actuel : Rayon."
 
-#: src-en/data/events_special_storage.xml.append:1510
+#: src-en/data/events_special_storage.xml.append:1577
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/text"
 msgstr "Passer en mode Focaliser."
 
-#: src-en/data/events_special_storage.xml.append:1512
+#: src-en/data/events_special_storage.xml.append:1579
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1515
+#: src-en/data/events_special_storage.xml.append:1582
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1517
+#: src-en/data/events_special_storage.xml.append:1584
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1520
+#: src-en/data/events_special_storage.xml.append:1587
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1528
+#: src-en/data/events_special_storage.xml.append:1595
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/text"
 msgstr "Passer en mode Disperseur."
 
-#: src-en/data/events_special_storage.xml.append:1530
+#: src-en/data/events_special_storage.xml.append:1597
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1533
+#: src-en/data/events_special_storage.xml.append:1600
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1535
+#: src-en/data/events_special_storage.xml.append:1602
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1538
+#: src-en/data/events_special_storage.xml.append:1605
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1546
+#: src-en/data/events_special_storage.xml.append:1613
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[3]/text"
 msgstr "Retourner au menu Interchanger."
 
-#: src-en/data/events_special_storage.xml.append:1551
+#: src-en/data/events_special_storage.xml.append:1618
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/text"
 msgstr ""
 "Quel mode voulez-vous pour votre arme ?\n"
 "\tMode actuel : Focaliser."
 
-#: src-en/data/events_special_storage.xml.append:1554
+#: src-en/data/events_special_storage.xml.append:1621
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/text"
 msgstr "Passer en mode Rayon."
 
-#: src-en/data/events_special_storage.xml.append:1556
+#: src-en/data/events_special_storage.xml.append:1623
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1559
+#: src-en/data/events_special_storage.xml.append:1626
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1561
+#: src-en/data/events_special_storage.xml.append:1628
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1564
+#: src-en/data/events_special_storage.xml.append:1631
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1572
+#: src-en/data/events_special_storage.xml.append:1639
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/text"
 msgstr "Passer en mode Disperseur."
 
-#: src-en/data/events_special_storage.xml.append:1574
+#: src-en/data/events_special_storage.xml.append:1641
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1577
+#: src-en/data/events_special_storage.xml.append:1644
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1579
+#: src-en/data/events_special_storage.xml.append:1646
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1582
+#: src-en/data/events_special_storage.xml.append:1649
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1590
+#: src-en/data/events_special_storage.xml.append:1657
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[3]/text"
 msgstr "Retourner au menu Interchanger."
 
-#: src-en/data/events_special_storage.xml.append:1595
+#: src-en/data/events_special_storage.xml.append:1662
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/text"
 msgstr ""
 "Quel mode voulez-vous pour votre arme ?\n"
 "\tMode actuel : Disperseur."
 
-#: src-en/data/events_special_storage.xml.append:1598
+#: src-en/data/events_special_storage.xml.append:1665
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/text"
 msgstr "Passer en mode Rayon."
 
-#: src-en/data/events_special_storage.xml.append:1600
+#: src-en/data/events_special_storage.xml.append:1667
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1603
+#: src-en/data/events_special_storage.xml.append:1670
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1605
+#: src-en/data/events_special_storage.xml.append:1672
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1608
+#: src-en/data/events_special_storage.xml.append:1675
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1616
+#: src-en/data/events_special_storage.xml.append:1683
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/text"
 msgstr "Passer en mode Focaliser."
 
-#: src-en/data/events_special_storage.xml.append:1618
+#: src-en/data/events_special_storage.xml.append:1685
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1621
+#: src-en/data/events_special_storage.xml.append:1688
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1623
+#: src-en/data/events_special_storage.xml.append:1690
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1626
+#: src-en/data/events_special_storage.xml.append:1693
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1634
+#: src-en/data/events_special_storage.xml.append:1701
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[3]/text"
 msgstr "Retourner au menu Interchanger."
 
-#: src-en/data/events_special_storage.xml.append:1645
+#: src-en/data/events_special_storage.xml.append:1712
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[1]/text"
 msgstr "(Rayon 'Seringue') Définir l'état de l'arme. [Mode actuel : Vide]"
 
-#: src-en/data/events_special_storage.xml.append:1649
+#: src-en/data/events_special_storage.xml.append:1716
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[2]/text"
 msgstr ""
 "(Rayon 'Seringue') Réinitialiser l'état de l'arme. [Mode actuel : Médical]"
 
-#: src-en/data/events_special_storage.xml.append:1653
+#: src-en/data/events_special_storage.xml.append:1720
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[3]/text"
 msgstr ""
 "(Rayon 'Seringue') Réinitialiser l'état de l'arme. [Mode actuel : Stimulant]"
 
-#: src-en/data/events_special_storage.xml.append:1657
+#: src-en/data/events_special_storage.xml.append:1724
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[4]/text"
 msgstr ""
 "(Rayon 'Seringue') Réinitialiser l'état de l'arme. [Mode actuel : Poison]"
 
-#: src-en/data/events_special_storage.xml.append:1661
+#: src-en/data/events_special_storage.xml.append:1728
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[5]/text"
 msgstr ""
 "(Rayon 'Seringue') Réinitialiser l'état de l'arme. [Mode actuel : Acide]"
 
-#: src-en/data/events_special_storage.xml.append:1669
+#: src-en/data/events_special_storage.xml.append:1736
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/text"
 msgstr "Avec quoi voulez-vous charger l'arme ?"
 
-#: src-en/data/events_special_storage.xml.append:1671
+#: src-en/data/events_special_storage.xml.append:1738
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/text"
 msgstr "Médical."
 
-#: src-en/data/events_special_storage.xml.append:1673
+#: src-en/data/events_special_storage.xml.append:1740
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1676
+#: src-en/data/events_special_storage.xml.append:1743
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1678
+#: src-en/data/events_special_storage.xml.append:1745
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1681
+#: src-en/data/events_special_storage.xml.append:1748
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1689
+#: src-en/data/events_special_storage.xml.append:1756
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/text"
 msgstr "Stimulant."
 
-#: src-en/data/events_special_storage.xml.append:1691
+#: src-en/data/events_special_storage.xml.append:1758
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1694
+#: src-en/data/events_special_storage.xml.append:1761
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1696
+#: src-en/data/events_special_storage.xml.append:1763
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1699
+#: src-en/data/events_special_storage.xml.append:1766
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1707
+#: src-en/data/events_special_storage.xml.append:1774
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/text"
 msgstr "Poison."
 
-#: src-en/data/events_special_storage.xml.append:1709
+#: src-en/data/events_special_storage.xml.append:1776
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1712
+#: src-en/data/events_special_storage.xml.append:1779
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1714
+#: src-en/data/events_special_storage.xml.append:1781
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1717
+#: src-en/data/events_special_storage.xml.append:1784
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1725
+#: src-en/data/events_special_storage.xml.append:1792
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/text"
 msgstr "Acide."
 
-#: src-en/data/events_special_storage.xml.append:1727
+#: src-en/data/events_special_storage.xml.append:1794
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1730
+#: src-en/data/events_special_storage.xml.append:1797
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1732
+#: src-en/data/events_special_storage.xml.append:1799
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1735
+#: src-en/data/events_special_storage.xml.append:1802
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1743
+#: src-en/data/events_special_storage.xml.append:1810
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[5]/text"
 msgstr "Retourner au menu Interchanger."
 
-#: src-en/data/events_special_storage.xml.append:1750
+#: src-en/data/events_special_storage.xml.append:1817
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1753
+#: src-en/data/events_special_storage.xml.append:1820
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1755
+#: src-en/data/events_special_storage.xml.append:1822
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1758
+#: src-en/data/events_special_storage.xml.append:1825
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1765
+#: src-en/data/events_special_storage.xml.append:1832
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1768
+#: src-en/data/events_special_storage.xml.append:1835
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1770
+#: src-en/data/events_special_storage.xml.append:1837
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1773
+#: src-en/data/events_special_storage.xml.append:1840
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1780
+#: src-en/data/events_special_storage.xml.append:1847
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1783
+#: src-en/data/events_special_storage.xml.append:1850
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1785
+#: src-en/data/events_special_storage.xml.append:1852
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1788
+#: src-en/data/events_special_storage.xml.append:1855
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1795
+#: src-en/data/events_special_storage.xml.append:1862
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1798
+#: src-en/data/events_special_storage.xml.append:1865
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1800
+#: src-en/data/events_special_storage.xml.append:1867
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1803
+#: src-en/data/events_special_storage.xml.append:1870
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1828
+#: src-en/data/events_special_storage.xml.append:1895
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[1]/text"
 msgstr ""
 "(Rayon 'Edison') Régler la puissance de l'arme. [Puissance actuelle : 0]"
 
-#: src-en/data/events_special_storage.xml.append:1832
+#: src-en/data/events_special_storage.xml.append:1899
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[2]/text"
 msgstr ""
 "(Rayon 'Edison') Régler la puissance de l'arme. [Puissance actuelle : 1]"
 
-#: src-en/data/events_special_storage.xml.append:1835
+#: src-en/data/events_special_storage.xml.append:1902
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[3]/text"
 msgstr ""
 "(Rayon 'Edison') Régler la puissance de l'arme. [Puissance actuelle : 2]"
 
-#: src-en/data/events_special_storage.xml.append:1839
+#: src-en/data/events_special_storage.xml.append:1906
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[4]/text"
 msgstr ""
 "(Rayon 'Edison') Régler la puissance de l'arme. [Puissance actuelle : 3]"
 
-#: src-en/data/events_special_storage.xml.append:1843
+#: src-en/data/events_special_storage.xml.append:1910
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[5]/text"
 msgstr ""
-"(Rayon 'Edison') Régler la puissance de l'arme. "
-"[Puissance actuelle : SURMULTIPLICATEUR]"
+"(Rayon 'Edison') Régler la puissance de l'arme. [Puissance actuelle : "
+"SURMULTIPLICATEUR]"
 
-#: src-en/data/events_special_storage.xml.append:1851
+#: src-en/data/events_special_storage.xml.append:1918
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/text"
 msgstr ""
 "Quelle puissance voulez-vous donner à l'arme ?\n"
 "\tActuellement : [Puissance : 0 ; Tirs : 2]."
 
-#: src-en/data/events_special_storage.xml.append:1854
+#: src-en/data/events_special_storage.xml.append:1921
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/text"
 msgstr "Réglé sur : [Puissance : 1 ; Tirs : 3]"
 
-#: src-en/data/events_special_storage.xml.append:1856
+#: src-en/data/events_special_storage.xml.append:1923
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1859
+#: src-en/data/events_special_storage.xml.append:1926
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1861
+#: src-en/data/events_special_storage.xml.append:1928
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1864
+#: src-en/data/events_special_storage.xml.append:1931
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1872
+#: src-en/data/events_special_storage.xml.append:1939
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/text"
 msgstr "Réglé sur : [Puissance : 2 ; Tirs : 5]"
 
-#: src-en/data/events_special_storage.xml.append:1874
+#: src-en/data/events_special_storage.xml.append:1941
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1877
+#: src-en/data/events_special_storage.xml.append:1944
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1879
+#: src-en/data/events_special_storage.xml.append:1946
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1882
+#: src-en/data/events_special_storage.xml.append:1949
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1890
+#: src-en/data/events_special_storage.xml.append:1957
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/text"
 msgstr "Réglé sur : [Puissance : 3 ; Tirs : 8]"
 
-#: src-en/data/events_special_storage.xml.append:1892
+#: src-en/data/events_special_storage.xml.append:1959
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1895
+#: src-en/data/events_special_storage.xml.append:1962
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1897
+#: src-en/data/events_special_storage.xml.append:1964
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1900
+#: src-en/data/events_special_storage.xml.append:1967
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1908
+#: src-en/data/events_special_storage.xml.append:1975
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/text"
 msgstr "Réglé sur : [SURMULTIPLICATEUR]"
 
-#: src-en/data/events_special_storage.xml.append:1910
+#: src-en/data/events_special_storage.xml.append:1977
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1913
+#: src-en/data/events_special_storage.xml.append:1980
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1915
+#: src-en/data/events_special_storage.xml.append:1982
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1918
+#: src-en/data/events_special_storage.xml.append:1985
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1926
+#: src-en/data/events_special_storage.xml.append:1993
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[5]/text"
 msgstr "Retourner au menu Interchanger."
 
-#: src-en/data/events_special_storage.xml.append:1933
+#: src-en/data/events_special_storage.xml.append:2000
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/text"
 msgstr ""
 "Quelle puissance voulez-vous donner à l'arme ?\n"
 "\tActuellement : [Puissance : 1 ; Tirs : 3]."
 
-#: src-en/data/events_special_storage.xml.append:1936
+#: src-en/data/events_special_storage.xml.append:2003
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/text"
 msgstr "Réglé sur : [Puissance : 0 ; Tirs : 2]"
 
-#: src-en/data/events_special_storage.xml.append:1938
+#: src-en/data/events_special_storage.xml.append:2005
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1941
+#: src-en/data/events_special_storage.xml.append:2008
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1943
+#: src-en/data/events_special_storage.xml.append:2010
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1946
+#: src-en/data/events_special_storage.xml.append:2013
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1954
+#: src-en/data/events_special_storage.xml.append:2021
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/text"
 msgstr "Réglé sur : [Puissance : 2 ; Tirs : 5]"
 
-#: src-en/data/events_special_storage.xml.append:1956
+#: src-en/data/events_special_storage.xml.append:2023
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1959
+#: src-en/data/events_special_storage.xml.append:2026
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1961
+#: src-en/data/events_special_storage.xml.append:2028
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1964
+#: src-en/data/events_special_storage.xml.append:2031
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1972
+#: src-en/data/events_special_storage.xml.append:2039
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/text"
 msgstr "Réglé sur : [Puissance : 3 ; Tirs : 8]"
 
-#: src-en/data/events_special_storage.xml.append:1974
+#: src-en/data/events_special_storage.xml.append:2041
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1977
+#: src-en/data/events_special_storage.xml.append:2044
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1979
+#: src-en/data/events_special_storage.xml.append:2046
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:1982
+#: src-en/data/events_special_storage.xml.append:2049
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1990
+#: src-en/data/events_special_storage.xml.append:2057
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/text"
 msgstr "Réglé sur : [SURMULTIPLICATEUR]"
 
-#: src-en/data/events_special_storage.xml.append:1992
+#: src-en/data/events_special_storage.xml.append:2059
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:1995
+#: src-en/data/events_special_storage.xml.append:2062
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:1997
+#: src-en/data/events_special_storage.xml.append:2064
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:2000
+#: src-en/data/events_special_storage.xml.append:2067
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2008
+#: src-en/data/events_special_storage.xml.append:2075
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[5]/text"
 msgstr "Retourner au menu Interchanger."
 
-#: src-en/data/events_special_storage.xml.append:2014
+#: src-en/data/events_special_storage.xml.append:2081
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/text"
 msgstr ""
 "Quelle puissance voulez-vous donner à l'arme ?\n"
 "\tActuellement : [Puissance : 5 ; Tirs : 5]."
 
-#: src-en/data/events_special_storage.xml.append:2017
+#: src-en/data/events_special_storage.xml.append:2084
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/text"
 msgstr "Réglé sur : [Puissance : 0 ; Tirs : 2]"
 
-#: src-en/data/events_special_storage.xml.append:2019
+#: src-en/data/events_special_storage.xml.append:2086
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:2022
+#: src-en/data/events_special_storage.xml.append:2089
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2024
+#: src-en/data/events_special_storage.xml.append:2091
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:2027
+#: src-en/data/events_special_storage.xml.append:2094
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2035
+#: src-en/data/events_special_storage.xml.append:2102
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/text"
 msgstr "Réglé sur : [Puissance : 1 ; Tirs : 3]"
 
-#: src-en/data/events_special_storage.xml.append:2037
+#: src-en/data/events_special_storage.xml.append:2104
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:2040
+#: src-en/data/events_special_storage.xml.append:2107
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2042
+#: src-en/data/events_special_storage.xml.append:2109
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:2045
+#: src-en/data/events_special_storage.xml.append:2112
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2053
+#: src-en/data/events_special_storage.xml.append:2120
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/text"
 msgstr "Réglé sur : [Puissance : 3 ; Tirs : 8]"
 
-#: src-en/data/events_special_storage.xml.append:2055
+#: src-en/data/events_special_storage.xml.append:2122
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:2058
+#: src-en/data/events_special_storage.xml.append:2125
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2060
+#: src-en/data/events_special_storage.xml.append:2127
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:2063
+#: src-en/data/events_special_storage.xml.append:2130
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2071
+#: src-en/data/events_special_storage.xml.append:2138
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/text"
 msgstr "Réglé sur : [SURMULTIPLICATEUR]"
 
-#: src-en/data/events_special_storage.xml.append:2073
+#: src-en/data/events_special_storage.xml.append:2140
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:2076
+#: src-en/data/events_special_storage.xml.append:2143
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2078
+#: src-en/data/events_special_storage.xml.append:2145
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:2081
+#: src-en/data/events_special_storage.xml.append:2148
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2089
+#: src-en/data/events_special_storage.xml.append:2156
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[5]/text"
 msgstr "Retourner au menu Interchanger."
 
-#: src-en/data/events_special_storage.xml.append:2095
+#: src-en/data/events_special_storage.xml.append:2162
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/text"
 msgstr ""
 "Quelle puissance voulez-vous donner à l'arme ?\n"
 "\tActuellement : [Puissance : 3 ; Tirs : 8]."
 
-#: src-en/data/events_special_storage.xml.append:2098
+#: src-en/data/events_special_storage.xml.append:2165
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/text"
 msgstr "Réglé sur : [Puissance : 0 ; Tirs : 2]"
 
-#: src-en/data/events_special_storage.xml.append:2100
+#: src-en/data/events_special_storage.xml.append:2167
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:2103
+#: src-en/data/events_special_storage.xml.append:2170
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2105
+#: src-en/data/events_special_storage.xml.append:2172
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:2108
+#: src-en/data/events_special_storage.xml.append:2175
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2116
+#: src-en/data/events_special_storage.xml.append:2183
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/text"
 msgstr "Réglé sur : [Puissance : 1 ; Tirs : 3]"
 
-#: src-en/data/events_special_storage.xml.append:2118
+#: src-en/data/events_special_storage.xml.append:2185
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:2121
+#: src-en/data/events_special_storage.xml.append:2188
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2123
+#: src-en/data/events_special_storage.xml.append:2190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:2126
+#: src-en/data/events_special_storage.xml.append:2193
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2134
+#: src-en/data/events_special_storage.xml.append:2201
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/text"
 msgstr "Réglé sur : [Puissance : 2 ; Tirs : 5]"
 
-#: src-en/data/events_special_storage.xml.append:2136
+#: src-en/data/events_special_storage.xml.append:2203
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:2139
+#: src-en/data/events_special_storage.xml.append:2206
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2141
+#: src-en/data/events_special_storage.xml.append:2208
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:2144
+#: src-en/data/events_special_storage.xml.append:2211
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2152
+#: src-en/data/events_special_storage.xml.append:2219
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/text"
 msgstr "Réglé sur : [SURMULTIPLICATEUR]"
 
-#: src-en/data/events_special_storage.xml.append:2154
+#: src-en/data/events_special_storage.xml.append:2221
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:2157
+#: src-en/data/events_special_storage.xml.append:2224
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2159
+#: src-en/data/events_special_storage.xml.append:2226
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:2162
+#: src-en/data/events_special_storage.xml.append:2229
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2170
+#: src-en/data/events_special_storage.xml.append:2237
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[5]/text"
 msgstr "Retourner au menu Interchanger."
 
-#: src-en/data/events_special_storage.xml.append:2176
+#: src-en/data/events_special_storage.xml.append:2243
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/text"
 msgstr ""
 "Quelle puissance voulez-vous donner à l'arme ?\n"
 "\tActuellement : [SURMULTIPLICATEUR]."
 
-#: src-en/data/events_special_storage.xml.append:2179
+#: src-en/data/events_special_storage.xml.append:2246
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/text"
 msgstr "Réglé sur : [Puissance : 0 ; Tirs : 2]"
 
-#: src-en/data/events_special_storage.xml.append:2181
+#: src-en/data/events_special_storage.xml.append:2248
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:2184
+#: src-en/data/events_special_storage.xml.append:2251
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2186
+#: src-en/data/events_special_storage.xml.append:2253
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:2189
+#: src-en/data/events_special_storage.xml.append:2256
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2197
+#: src-en/data/events_special_storage.xml.append:2264
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/text"
 msgstr "Réglé sur : [Puissance : 1 ; Tirs : 3]"
 
-#: src-en/data/events_special_storage.xml.append:2199
+#: src-en/data/events_special_storage.xml.append:2266
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:2202
+#: src-en/data/events_special_storage.xml.append:2269
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2204
+#: src-en/data/events_special_storage.xml.append:2271
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:2207
+#: src-en/data/events_special_storage.xml.append:2274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2215
+#: src-en/data/events_special_storage.xml.append:2282
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/text"
 msgstr "Réglé sur : [Puissance : 2 ; Tirs : 5]"
 
-#: src-en/data/events_special_storage.xml.append:2217
+#: src-en/data/events_special_storage.xml.append:2284
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:2220
+#: src-en/data/events_special_storage.xml.append:2287
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2222
+#: src-en/data/events_special_storage.xml.append:2289
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:2225
+#: src-en/data/events_special_storage.xml.append:2292
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2233
+#: src-en/data/events_special_storage.xml.append:2300
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/text"
 msgstr "Réglé sur : [Puissance : 3 ; Tirs : 8]"
 
-#: src-en/data/events_special_storage.xml.append:2235
+#: src-en/data/events_special_storage.xml.append:2302
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:2238
+#: src-en/data/events_special_storage.xml.append:2305
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2240
+#: src-en/data/events_special_storage.xml.append:2307
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:2243
+#: src-en/data/events_special_storage.xml.append:2310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2251
+#: src-en/data/events_special_storage.xml.append:2318
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[5]/text"
 msgstr "Retourner au menu Interchanger."
 
-#: src-en/data/events_special_storage.xml.append:2261
+#: src-en/data/events_special_storage.xml.append:2328
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice/text"
 msgstr "(Postcombustion) Activer la Postcombustion !"
 
-#: src-en/data/events_special_storage.xml.append:2268
+#: src-en/data/events_special_storage.xml.append:2335
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_FAIL_REAL\"]/mod-"
 "append:choice/text"
 msgstr "(Postcombustion) Activer la Postcombustion !"
 
-#: src-en/data/events_special_storage.xml.append:2274
+#: src-en/data/events_special_storage.xml.append:2341
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/text"
 msgstr "Comment souhaitez-vous utiliser l'augmentation ?"
 
-#: src-en/data/events_special_storage.xml.append:2276
+#: src-en/data/events_special_storage.xml.append:2343
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/text"
 msgstr ""
 "Pleine puissance !\n"
 "[Évasion +20 %, -3{, dure 60 secondes.]"
 
-#: src-en/data/events_special_storage.xml.append:2279
+#: src-en/data/events_special_storage.xml.append:2346
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/event/text"
 msgstr "Vous activez l'augmentation de combat."
 
-#: src-en/data/events_special_storage.xml.append:2286
+#: src-en/data/events_special_storage.xml.append:2353
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr "Votre postcombustion s'éteindra dans ce laps de temps."
 
-#: src-en/data/events_special_storage.xml.append:2291
+#: src-en/data/events_special_storage.xml.append:2358
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/event/choice/text"
 msgstr "Poursuivre le combat !"
 
-#: src-en/data/events_special_storage.xml.append:2297
+#: src-en/data/events_special_storage.xml.append:2364
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/text"
 msgstr ""
 "Pleine puissance ! (Utilisation du générateur de secours)\n"
 "[Évasion +20 %, -2{, dure 90 secondes.]"
 
-#: src-en/data/events_special_storage.xml.append:2300
+#: src-en/data/events_special_storage.xml.append:2367
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/event/text"
 msgstr "Vous activez l'augmentation de combat."
 
-#: src-en/data/events_special_storage.xml.append:2307
+#: src-en/data/events_special_storage.xml.append:2374
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr "Votre postcombustion s'éteindra dans ce laps de temps."
 
-#: src-en/data/events_special_storage.xml.append:2312
+#: src-en/data/events_special_storage.xml.append:2379
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/event/choice/text"
 msgstr "Poursuivre le combat !"
 
-#: src-en/data/events_special_storage.xml.append:2318
+#: src-en/data/events_special_storage.xml.append:2385
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[3]/text"
 msgstr ""
 "Brûler l'ennemi ! \n"
-"[-3{, inflige des dégâts à l'ennemi équivalents à votre niveau de moteur, "
-"provoque des incendies]"
+"[-3{, inflige des dégâts à l'ennemi équivalents à votre niveau de moteur, provoque des incendies]"
 
-#: src-en/data/events_special_storage.xml.append:2321
+#: src-en/data/events_special_storage.xml.append:2388
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[3]/event/text"
 msgstr "Vous activez l'augmentation de combat."
 
-#: src-en/data/events_special_storage.xml.append:2326
+#: src-en/data/events_special_storage.xml.append:2393
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[3]/event/choice/text"
 msgstr "Poursuivre le combat !"
 
-#: src-en/data/events_special_storage.xml.append:2343
+#: src-en/data/events_special_storage.xml.append:2410
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[4]/text"
 msgstr ""
 "Brûler l'ennemi ! (En utilisant le Générateur de secours)\n"
-"[-2{, inflige des dégâts à l'ennemi équivalents à votre niveau de moteur, "
-"provoque des incendies]"
+"[-2{, inflige des dégâts à l'ennemi équivalents à votre niveau de moteur, provoque des incendies]"
 
-#: src-en/data/events_special_storage.xml.append:2346
+#: src-en/data/events_special_storage.xml.append:2413
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[4]/event/text"
 msgstr "Vous activez l'augmentation de combat."
 
-#: src-en/data/events_special_storage.xml.append:2351
+#: src-en/data/events_special_storage.xml.append:2418
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[4]/event/choice/text"
 msgstr "Poursuivre le combat !"
 
-#: src-en/data/events_special_storage.xml.append:2377
+#: src-en/data/events_special_storage.xml.append:2444
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[5]/text"
 msgstr "Faire autre chose à la place."
 
-#: src-en/data/events_special_storage.xml.append:2381
+#: src-en/data/events_special_storage.xml.append:2448
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[6]/text"
 msgstr "Peu importe, combattons !"
 
-#: src-en/data/events_special_storage.xml.append:2383
+#: src-en/data/events_special_storage.xml.append:2450
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[6]/event/text"
 msgstr "Vous décidez de ne rien faire et de vous préparer à vous battre."
 
-#: src-en/data/events_special_storage.xml.append:2389
+#: src-en/data/events_special_storage.xml.append:2456
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER_POWERDOWN\"]/text"
 msgstr ""
 "Votre postcombustion a surchauffé et s'est arrêtée. Votre esquive est "
 "revenue à la normale."
 
-#: src-en/data/events_special_storage.xml.append:2392
+#: src-en/data/events_special_storage.xml.append:2459
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER_POWERDOWN\"]/choice/text"
 msgstr "Continuer le combat..."
 
-#: src-en/data/events_special_storage.xml.append:2586
+#: src-en/data/events_special_storage.xml.append:2653
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[1]/text"
 msgstr ""
 "(Multi-Aiguillon 'Réseau') Passer en mode Disperseur. [Mode actuel : Motif]"
 
-#: src-en/data/events_special_storage.xml.append:2590
+#: src-en/data/events_special_storage.xml.append:2657
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[2]/text"
 msgstr ""
 "(Multi-Aiguillon 'Réseau') Passer en mode Motif. [Mode actuel : Disperseur]"
 
-#: src-en/data/events_special_storage.xml.append:2598
+#: src-en/data/events_special_storage.xml.append:2665
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:2601
+#: src-en/data/events_special_storage.xml.append:2668
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2603
+#: src-en/data/events_special_storage.xml.append:2670
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:2606
+#: src-en/data/events_special_storage.xml.append:2673
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2614
+#: src-en/data/events_special_storage.xml.append:2681
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:2617
+#: src-en/data/events_special_storage.xml.append:2684
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2619
+#: src-en/data/events_special_storage.xml.append:2686
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:2622
+#: src-en/data/events_special_storage.xml.append:2689
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2632
+#: src-en/data/events_special_storage.xml.append:2699
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
 "append:choice[1]/text"
 msgstr ""
 "(Multi-Aiguillon 'Matrix') Passer en mode Disperseur. [Mode actuel : Motif]"
 
-#: src-en/data/events_special_storage.xml.append:2636
+#: src-en/data/events_special_storage.xml.append:2703
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
 "append:choice[2]/text"
 msgstr ""
 "(Multi-Aiguillon 'Matrix') Passer en mode Motif. [Mode actuel : Disperseur]"
 
-#: src-en/data/events_special_storage.xml.append:2642
+#: src-en/data/events_special_storage.xml.append:2709
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:2645
+#: src-en/data/events_special_storage.xml.append:2712
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2647
+#: src-en/data/events_special_storage.xml.append:2714
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:2650
+#: src-en/data/events_special_storage.xml.append:2717
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2658
+#: src-en/data/events_special_storage.xml.append:2725
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/text"
 msgstr "Vous commencer à calibrer votre arme..."
 
-#: src-en/data/events_special_storage.xml.append:2661
+#: src-en/data/events_special_storage.xml.append:2728
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_storage.xml.append:2663
+#: src-en/data/events_special_storage.xml.append:2730
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/choice/event/text"
 msgstr "Vous avez calibré votre arme avec succès."
 
-#: src-en/data/events_special_storage.xml.append:2666
+#: src-en/data/events_special_storage.xml.append:2733
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/choice/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_storage.xml.append:2746
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2748
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2750
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/text"
+msgstr "Oui."
+
+#: src-en/data/events_special_storage.xml.append:2752
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2755
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_storage.xml.append:2757
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2762
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/event/choice/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_storage.xml.append:2770
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[2]/text"
+msgstr "Non."
+
+#: src-en/data/events_special_storage.xml.append:2778
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2780
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2783
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
+"append:choice/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_storage.xml.append:2785
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
+"append:choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2788
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
+"append:choice/event/choice/event/choice/text"
 msgstr "Continuer..."

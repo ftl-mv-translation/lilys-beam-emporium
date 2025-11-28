@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-16 17:25+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/"
-"lilys-beam-emporium/datatext_miscxmlappend/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/text_misc.xml.append:3
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_pointer\"]"
@@ -77,82 +70,86 @@ msgstr ""
 "bouclier !"
 
 #: src-en/data/text_misc.xml.append:12
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_exonet_weapon_core\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe\"]"
 msgstr ""
 "Astuce : Arme à rayon spéciale. Doit être configurée avant utilisation."
 
-#: src-en/data/text_misc.xml.append:13
+#: src-en/data/text_misc.xml.append:15
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_m\"]"
 msgstr ""
 "Astuce : Applique 4 points de soin par seconde pendant 15 secondes à "
 "l'équipage allié. De plus, réduit de moitié les dommages subis par les "
 "dégâts environnementaux pendant toute la durée."
 
-#: src-en/data/text_misc.xml.append:14
+#: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_s\"]"
 msgstr ""
 "Astuce : Fournit une vitesse de déplacement et des dégâts doublés pendant 10"
 " secondes à l'équipage allié."
 
-#: src-en/data/text_misc.xml.append:15
+#: src-en/data/text_misc.xml.append:17
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_p\"]"
 msgstr ""
 "Astuce : Inflige 4 dégâts par seconde pendant 25 secondes à tout membre "
 "d'équipage touché, sans être cumulable. Mortel pour la plupart des races "
 "dans les vaisseaux sans installations médicales."
 
-#: src-en/data/text_misc.xml.append:16
+#: src-en/data/text_misc.xml.append:18
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_a\"]"
 msgstr ""
 "Astuce : Applique un faible effet d'érosion pour chaque case touchée. De "
 "plus, inflige 10 dégâts par seconde pendant 3 secondes à tout membre "
 "d'équipage touché."
 
-#: src-en/data/text_misc.xml.append:19
+#: src-en/data/text_misc.xml.append:21
 msgid "data/text_misc.xml.append$//text[@name=\"button_lily_beam\"]"
 msgstr "EXPLOSION S."
 
-#: src-en/data/text_misc.xml.append:20
+#: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"button_lily_ion\"]"
 msgstr "ION"
 
-#: src-en/data/text_misc.xml.append:22
+#: src-en/data/text_misc.xml.append:24
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_beam_emporium\"]"
 msgstr "GALERIE DES RAYONS"
 
-#: src-en/data/text_misc.xml.append:24
+#: src-en/data/text_misc.xml.append:26
 msgid "data/text_misc.xml.append$//text[@name=\"lily_aether_submit\"]"
 msgstr ""
 "Vous regardez une faille s'ouvrir dans l'espace et consommer l'objet que vous avez donné.\n"
 "\"Belle trouvaille, ça fera parfaitement l'affaire.\""
 
-#: src-en/data/text_misc.xml.append:26
+#: src-en/data/text_misc.xml.append:28
 msgid "data/text_misc.xml.append$//text[@name=\"lily_aether_redeem\"]"
 msgstr ""
 "Vous regardez une faille s'ouvrir dans l'espace et vous donner une toute nouvelle arme Éther !\n"
 "\"Et voici une récompense pour tous vos efforts.\""
 
-#: src-en/data/text_misc.xml.append:29
+#: src-en/data/text_misc.xml.append:31
 msgid "data/text_misc.xml.append$//text[@name=\"loot_zoltan_2\"]"
 msgstr ""
 "BUTIN ZOLTAN \n"
 "Inflige des dégâts additionnels aux systèmes\n"
 "-1 seconde au temps de recharge, +20% de chance de brèche"
 
-#: src-en/data/text_misc.xml.append:36
+#: src-en/data/text_misc.xml.append:38
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_continue\"]"
 msgstr "Continuer..."
 
-#: src-en/data/text_misc.xml.append:38
+#: src-en/data/text_misc.xml.append:40
 msgid "data/text_misc.xml.append$//text[@name=\"lily_text_multiverse_crp\"]"
 msgstr "FTL : Multiverse :)"
 
-#: src-en/data/text_misc.xml.append:40
+#: src-en/data/text_misc.xml.append:42
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_nospareprime\"]"
 msgstr ""
 "Vous êtes peut-être prêt à épargner Prime. Mais moi, certainement pas..."
 
-#: src-en/data/text_misc.xml.append:41
+#: src-en/data/text_misc.xml.append:43
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_lilysnipesprime\"]"
 msgstr ""
 "Alors que votre coque tombe à un niveau critique, vous remarquez que Prime "
@@ -162,22 +159,17 @@ msgstr ""
 "n'a pas le temps de terminer sa phrase, un rayon surgissant d'une direction "
 "inconnue le vaporise instantanément."
 
-#: src-en/data/text_misc.xml.append:43
+#: src-en/data/text_misc.xml.append:45
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_herrealm_alt\"]"
 msgstr ""
-"Vous êtes arrivé dans une sorte de tourbillon infernal, noyé dans un flou "
-"tremblant fait de visages à peine humains qui semblent vous narguer en "
-"défilant dans l'abîme. Malgré le caractère cauchemardesque de cet espace, "
-"vous vous sentez… étrangement serein, presque en paix.\n"
+"Vous êtes arrivé dans une sorte de tourbillon infernal, noyé dans un flou tremblant fait de visages à peine humains qui semblent vous narguer en défilant dans l'abîme. Malgré le caractère cauchemardesque de cet espace, vous vous sentez… étrangement serein, presque en paix.\n"
 "\n"
 "\"Ah, enfin mon chez-moi...\" dit Lily.\n"
-"\"Dommage que je n'y sois plus revenue depuis des éons ; charmant, n'est-ce "
-"pas ?\"\n"
+"\"Dommage que je n'y sois plus revenue depuis des éons ; charmant, n'est-ce pas ?\"\n"
 "\n"
-"\"Ne vous en faites pas, je veillerai à ce que vous ne couriez aucun danger "
-"ici.\""
+"\"Ne vous en faites pas, je veillerai à ce que vous ne couriez aucun danger ici.\""
 
-#: src-en/data/text_misc.xml.append:50
+#: src-en/data/text_misc.xml.append:52
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_hernofight\"]"
 msgstr ""
 "Vous avez enfin atteint l'endroit où Elle se trouve. Tout l'espace alentour "
@@ -186,86 +178,84 @@ msgstr ""
 "rencontrer, de nouveau, l'entité la plus puissante et la plus maléfique qui "
 "existe dans le multivers..."
 
-#: src-en/data/text_misc.xml.append:52
+#: src-en/data/text_misc.xml.append:54
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_hernukewarning\"]"
 msgstr ""
 "Cependant, même ici, vous recevez un message :\n"
 "\"Hé, désolé pour le retard, mais j'arrive bientôt !...\n"
-"J'ai quelques cadeaux qui devraient SÉRIEUSEMENT changer le cours de la "
-"bataille, attendez un peu !\n"
-"J'ai juste besoin de trouver un bon objet pour calibrer mon moteur de saut..."
-"\""
+"J'ai quelques cadeaux qui devraient SÉRIEUSEMENT changer le cours de la bataille, attendez un peu !\n"
+"J'ai juste besoin de trouver un bon objet pour calibrer mon moteur de saut...\""
 
-#: src-en/data/text_misc.xml.append:57
+#: src-en/data/text_misc.xml.append:59
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight1\"]"
 msgstr "Préparez-vous à être anéanti, vermine !"
 
-#: src-en/data/text_misc.xml.append:58
+#: src-en/data/text_misc.xml.append:60
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight2\"]"
 msgstr "Êtes-vous prêt à rencontrer votre créateur ?"
 
-#: src-en/data/text_misc.xml.append:59
+#: src-en/data/text_misc.xml.append:61
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight3\"]"
 msgstr "PROTOCOLE D'EXTERMINATION : CIBLE ACQUISE"
 
-#: src-en/data/text_misc.xml.append:60
+#: src-en/data/text_misc.xml.append:62
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight4\"]"
 msgstr "Meurs, au nom d'Elle !"
 
-#: src-en/data/text_misc.xml.append:61
+#: src-en/data/text_misc.xml.append:63
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight5\"]"
 msgstr ""
 "Encore un autre parasite visqueux sur le point de mordre la poussière..."
 
-#: src-en/data/text_misc.xml.append:63
+#: src-en/data/text_misc.xml.append:65
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur1\"]"
 msgstr "Pas de pitié pour les insectes !"
 
-#: src-en/data/text_misc.xml.append:64
+#: src-en/data/text_misc.xml.append:66
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur2\"]"
 msgstr "Faites-vous écraser !"
 
-#: src-en/data/text_misc.xml.append:65
+#: src-en/data/text_misc.xml.append:67
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur3\"]"
 msgstr "Supplier ne servira à rien..."
 
-#: src-en/data/text_misc.xml.append:66
+#: src-en/data/text_misc.xml.append:68
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur4\"]"
 msgstr "Un dernier mot ?"
 
-#: src-en/data/text_misc.xml.append:67
+#: src-en/data/text_misc.xml.append:69
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur5\"]"
 msgstr "Comme c'est pathétique..."
 
-#: src-en/data/text_misc.xml.append:69
+#: src-en/data/text_misc.xml.append:71
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext1\"]"
 msgstr ""
 "Un vaisseau noir comme la nuit s'approche, sans un mot, et commence à "
 "charger ses armes. Mais réalisant rapidement que Lily est avec vous, ils "
 "s'arrêtent aussitôt."
 
-#: src-en/data/text_misc.xml.append:70
+#: src-en/data/text_misc.xml.append:72
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext2\"]"
 msgstr ""
 "\"C'est donc ce Renégat qui a déclenché le règne éternel du chaos ?\" Comme "
 "c'est utile, mais n'essayez même pas d'annuler l'inévitable. Il y a peut-"
 "être encore une place pour vous."
 
-#: src-en/data/text_misc.xml.append:71
+#: src-en/data/text_misc.xml.append:73
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext3\"]"
 msgstr ""
 "Un vaisseau alien, un autre des serviteurs d'Elle, s'approche. Ces légions "
 "des ténèbres semblent infinies. Heureusement... il ne semble pas vouloir "
 "vous attaquer."
 
-#: src-en/data/text_misc.xml.append:72
+#: src-en/data/text_misc.xml.append:74
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext4\"]"
 msgstr ""
 "Au début, vous pensez que vous hallucinez, mais un vaisseau noir commence à "
 "prendre forme devant vous. Dans l'obscurité de l'espace, vous évitez de "
 "justesse la collision."
 
-#: src-en/data/text_misc.xml.append:74
+#: src-en/data/text_misc.xml.append:76
 msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_nexus_her_lily\"]"
 msgstr ""
 "D'une puissance inégalée, et avec Celui Qui Rime, Lily et vous-même à Ses "

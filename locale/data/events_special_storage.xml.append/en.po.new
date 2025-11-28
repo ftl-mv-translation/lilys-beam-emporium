@@ -1,0 +1,3026 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_storage.xml.append:6
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice/text"
+msgstr "(Lily) Contact Lily."
+
+#: src-en/data/events_special_storage.xml.append:17
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/text"
+msgstr ""
+"You manage to remotely contact Lily. \n"
+"What do you want to ask?"
+
+#: src-en/data/events_special_storage.xml.append:20
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[1]/text"
+msgstr "Ask her to remind you about her past."
+
+#: src-en/data/events_special_storage.xml.append:24
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[2]/text"
+msgstr "Ask her about special technology."
+
+#: src-en/data/events_special_storage.xml.append:28
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[@req=\"LIST_CREW_LILY_AVATAR\""
+" and @lvl=\"-999\"]/text"
+msgstr "Ask her to join you personally."
+
+#: src-en/data/events_special_storage.xml.append:32
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[4]/text"
+msgstr "She is already accompanying you."
+
+#: src-en/data/events_special_storage.xml.append:36
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[5]/text"
+msgstr "Ask her about her powers."
+
+#: src-en/data/events_special_storage.xml.append:40
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[6]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:50
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/text"
+msgstr ""
+"Oh, you want one of those fancy beam weapons that nobody else has?--\n"
+"Or some other cool piece for your ship?--\n"
+"Well, we have someting in common then--\n"
+"Get the necessarry materials and knowledge for them and I'd gladly share--"
+
+#: src-en/data/events_special_storage.xml.append:55
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[1]/text"
+msgstr "Ask her about Aether."
+
+#: src-en/data/events_special_storage.xml.append:59
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[2]/text"
+msgstr "More dialogue options will be added in further updates."
+
+#: src-en/data/events_special_storage.xml.append:63
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[3]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:74
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/text"
+msgstr ""
+"Ah, a classic--\n"
+"This kind of weapons has been around for millenias, and they still remain one of the strongest--\n"
+"Not strong enough to do the thing I was hoping to...\n"
+"But alright, just bring me some materials and I'll make one for you--\n"
+"2-3 pieces of ancient tech should suffice--"
+
+#: src-en/data/events_special_storage.xml.append:80
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
+" and @lvl=\"-999\"]/text"
+msgstr "[Current parts: 0]"
+
+#: src-en/data/events_special_storage.xml.append:84
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
+" and @lvl=\"1\"]/text"
+msgstr "[Current parts: 1]"
+
+#: src-en/data/events_special_storage.xml.append:88
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
+" and @lvl=\"2\"]/text"
+msgstr "[Current parts: 2]"
+
+#: src-en/data/events_special_storage.xml.append:92
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
+" and @lvl=\"3\"]/text"
+msgstr "[Current parts: 3]"
+
+#: src-en/data/events_special_storage.xml.append:96
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
+" and @lvl=\"4\"]/text"
+msgstr "[Current parts: 4]"
+
+#: src-en/data/events_special_storage.xml.append:100
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
+" and @lvl=\"5\"]/text"
+msgstr "[Current parts: 5]"
+
+#: src-en/data/events_special_storage.xml.append:104
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
+" and @lvl=\"6\"]/text"
+msgstr "[Current parts: 6]"
+
+#: src-en/data/events_special_storage.xml.append:108
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
+" and @lvl=\"7\"]/text"
+msgstr "[Current parts: 7]"
+
+#: src-en/data/events_special_storage.xml.append:112
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
+" and @lvl=\"8\"]/text"
+msgstr "[Current parts: 8]"
+
+#: src-en/data/events_special_storage.xml.append:116
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
+" and @lvl=\"9\"]/text"
+msgstr "[Current parts: 9]"
+
+#: src-en/data/events_special_storage.xml.append:120
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
+" and @lvl=\"10\"]/text"
+msgstr "[Current parts: 10]"
+
+#: src-en/data/events_special_storage.xml.append:124
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
+" and @lvl=\"11\"]/text"
+msgstr "[Current parts: 10+]"
+
+#: src-en/data/events_special_storage.xml.append:128
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[13]/text"
+msgstr "Give her some tech to use for parts."
+
+#: src-en/data/events_special_storage.xml.append:132
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[14]/text"
+msgstr "Ask her to make a new weapon from given parts."
+
+#: src-en/data/events_special_storage.xml.append:136
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[15]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:142
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/text"
+msgstr "Select what do you want to give:"
+
+#: src-en/data/events_special_storage.xml.append:144
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER\"]/text"
+msgstr "Offer her an Ancient Laser I."
+
+#: src-en/data/events_special_storage.xml.append:154
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_2\"]/text"
+msgstr "Offer her an Ancient Laser II."
+
+#: src-en/data/events_special_storage.xml.append:164
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_3\"]/text"
+msgstr "Offer her an Ancient Laser III."
+
+#: src-en/data/events_special_storage.xml.append:174
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BEAM\"]/text"
+msgstr "Offer her an Ancient Beam I."
+
+#: src-en/data/events_special_storage.xml.append:184
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[5]/text"
+msgstr "Offer her an Ancient Beam II."
+
+#: src-en/data/events_special_storage.xml.append:194
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[6]/text"
+msgstr "Offer her an Ancient Beam III."
+
+#: src-en/data/events_special_storage.xml.append:204
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS\"]/text"
+msgstr "Offer her an Ancient Pinpoint I."
+
+#: src-en/data/events_special_storage.xml.append:214
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS_2\"]/text"
+msgstr "Offer her an Ancient Pinpoint II."
+
+#: src-en/data/events_special_storage.xml.append:224
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"HAVOC\"]/text"
+msgstr "Offer her an Ancient Havoceizer."
+
+#: src-en/data/events_special_storage.xml.append:234
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_MISSILES\"]/text"
+msgstr "Offer her an Ancient Missile Launcher."
+
+#: src-en/data/events_special_storage.xml.append:244
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BOMB\"]/text"
+msgstr "Offer her an Ancient Bomb Launcher."
+
+#: src-en/data/events_special_storage.xml.append:254
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_MINELAUNCHER\"]/text"
+msgstr "Offer her an Ancient Minelauncher."
+
+#: src-en/data/events_special_storage.xml.append:264
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_ION_1\"]/text"
+msgstr "Offer her an Ancient Plasma Launcher I."
+
+#: src-en/data/events_special_storage.xml.append:274
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_ION_2\"]/text"
+msgstr "Offer her an Ancient Plasma Launcher II."
+
+#: src-en/data/events_special_storage.xml.append:284
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[15]/text"
+msgstr "Offer her an Ancient Peacekeeper."
+
+#: src-en/data/events_special_storage.xml.append:294
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[16]/text"
+msgstr "Offer her an Ancient Peacekeeper."
+
+#: src-en/data/events_special_storage.xml.append:304
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_LASER\"]/text"
+msgstr "Offer her an Ancient Laser Drone."
+
+#: src-en/data/events_special_storage.xml.append:314
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_ION\"]/text"
+msgstr "Offer her an Ancient Ion Drone."
+
+#: src-en/data/events_special_storage.xml.append:324
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_MISSILE\"]/text"
+msgstr "Offer her an Ancient Missile Drone."
+
+#: src-en/data/events_special_storage.xml.append:334
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_DEFENSE_1\"]/text"
+msgstr "Offer her an Ancient Overwatcher Drone."
+
+#: src-en/data/events_special_storage.xml.append:344
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"MENDER\"]/text"
+msgstr "Offer her an Ancient Mender."
+
+#: src-en/data/events_special_storage.xml.append:354
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"DIRECTOR\"]/text"
+msgstr "Offer her an Ancient Director."
+
+#: src-en/data/events_special_storage.xml.append:364
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_DEFEND\"]/text"
+msgstr "Offer her an Ancient Atomizer."
+
+#: src-en/data/events_special_storage.xml.append:374
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_BOARDER\"]/text"
+msgstr "Offer her an Ancient Atomizer."
+
+#: src-en/data/events_special_storage.xml.append:384
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[25]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:391
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/text"
+msgstr "Select what do you want her to craft:"
+
+#: src-en/data/events_special_storage.xml.append:394
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[@req=\"lily_aether_points\""
+" and @lvl=\"5\"]/text"
+msgstr "Craft a Royal Eradicator III. [5 pts]"
+
+#: src-en/data/events_special_storage.xml.append:404
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[2]/text"
+msgstr "Craft a Royal Eradicator III. [5 pts]"
+
+#: src-en/data/events_special_storage.xml.append:409
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[3]/text"
+msgstr "Craft a Royal Purifier. [4 pts]"
+
+#: src-en/data/events_special_storage.xml.append:419
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[4]/text"
+msgstr "Craft a Royal Purifier. [4 pts]"
+
+#: src-en/data/events_special_storage.xml.append:424
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[5]/text"
+msgstr "Craft a Royal Havoceizer. [4 pts]"
+
+#: src-en/data/events_special_storage.xml.append:434
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[6]/text"
+msgstr "Craft a Royal Havoceizer. [4 pts]"
+
+#: src-en/data/events_special_storage.xml.append:439
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[7]/text"
+msgstr "Craft an Eradicator III. [4 pts]"
+
+#: src-en/data/events_special_storage.xml.append:449
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[8]/text"
+msgstr "Craft an Eradicator III. [4 pts]"
+
+#: src-en/data/events_special_storage.xml.append:454
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[9]/text"
+msgstr "Craft an Eradicator II. [3 pts]"
+
+#: src-en/data/events_special_storage.xml.append:464
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[10]/text"
+msgstr "Craft an Eradicator II. [3 pts]"
+
+#: src-en/data/events_special_storage.xml.append:469
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[11]/text"
+msgstr "Craft an Eradicator I. [2 pts]"
+
+#: src-en/data/events_special_storage.xml.append:479
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[12]/text"
+msgstr "Craft an Eradicator I. [2 pts]"
+
+#: src-en/data/events_special_storage.xml.append:484
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[@req=\"lily_aether_points\""
+" and @lvl=\"3\"]/text"
+msgstr "Craft a Purifier II. [3 pts]"
+
+#: src-en/data/events_special_storage.xml.append:494
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[14]/text"
+msgstr "Craft a Purifier II. [3 pts]"
+
+#: src-en/data/events_special_storage.xml.append:499
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[15]/text"
+msgstr "Craft a Purifier I. [2 pts]"
+
+#: src-en/data/events_special_storage.xml.append:509
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[16]/text"
+msgstr "Craft a Purifier I. [2 pts]"
+
+#: src-en/data/events_special_storage.xml.append:514
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[17]/text"
+msgstr "Craft a Havoceizer. [2 pts]"
+
+#: src-en/data/events_special_storage.xml.append:524
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[18]/text"
+msgstr "Craft a Havoceizer. [2 pts]"
+
+#: src-en/data/events_special_storage.xml.append:529
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[19]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:547
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/text"
+msgstr ""
+"Oh, you want me to join personally?--\n"
+"While I can't do that due to ... reasons, I can lend you my Avatar--\n"
+"Think of it as a kind of remotely controlled drone, except that it's not--\n"
+"Oh, and don't dare to think of it as expendable, or I will make you pay--\n"
+"\n"
+"You are going to need a special piece of equipment for me to do so though..."
+
+#: src-en/data/events_special_storage.xml.append:556
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
+" and @lvl=\"1\"]/text"
+msgstr "You altready have the tech, use it to summon the Lily's Avatar..."
+
+#: src-en/data/events_special_storage.xml.append:558
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"A rift in space suddenly opens near you, materializing... a quite normal "
+"looking human. Although if feels like there's something off..."
+
+#: src-en/data/events_special_storage.xml.append:559
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
+" and @lvl=\"1\"]/event/crewMember"
+msgstr "Lily"
+
+#: src-en/data/events_special_storage.xml.append:566
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/text"
+msgstr "(The One Who Rhymes) Allow me to count: three, two, one..."
+
+#: src-en/data/events_special_storage.xml.append:568
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/event/text"
+msgstr ""
+"And everything that's needed is all done!\n"
+"\n"
+"A rift in space suddenly opens near you, materializing... a quite normal looking human. Although if feels like there's something off..."
+
+#: src-en/data/events_special_storage.xml.append:572
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/event/crewMember"
+msgstr "Lily"
+
+#: src-en/data/events_special_storage.xml.append:579
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"BLUELIST_AETHER\"]/text"
+msgstr ""
+"(Aether Tech) Aether will do - just submit Lily one of the tech pieces "
+"first. (Ask her about the tech in the menu)"
+
+#: src-en/data/events_special_storage.xml.append:583
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"lily_aether_points\"]/text"
+msgstr "(Aether Points) Install the technology and use it [30~, 5|]"
+
+#: src-en/data/events_special_storage.xml.append:585
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/text"
+msgstr "You install the required technology..."
+
+#: src-en/data/events_special_storage.xml.append:593
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:595
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/event/text"
+msgstr ""
+"And activate it!\n"
+"\n"
+"A rift in space suddenly opens near you, materializing... a quite normal looking human. Although if feels like there's something off..."
+
+#: src-en/data/events_special_storage.xml.append:598
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/event/crewMember"
+msgstr "Lily"
+
+#: src-en/data/events_special_storage.xml.append:606
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+"Note: You need to be in possession of Aether Tech (or some alternative) for "
+"installation."
+
+#: src-en/data/events_special_storage.xml.append:610
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[6]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:617
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/text"
+msgstr ""
+"Hey! Didn't I tell you NOT to treat my avatar as expendable?--\n"
+"Fine, I'll consider this an accident... But only this time--"
+
+#: src-en/data/events_special_storage.xml.append:622
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:624
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/event/text"
+msgstr ""
+"A rift in space suddenly opens near you, materializing the avatar once "
+"again. It seems like she can't actually die."
+
+#: src-en/data/events_special_storage.xml.append:625
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/event/crewMember"
+msgstr "Lily"
+
+#: src-en/data/events_special_storage.xml.append:633
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[2]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:639
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/text"
+msgstr ""
+"Hey! Didn't I tell you NOT to treat my avatar as expendable?--\n"
+"But, seeing The One Who Rhymes here with you I'll make an exception, don't want to miss on the fun--"
+
+#: src-en/data/events_special_storage.xml.append:644
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:646
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/event/text"
+msgstr ""
+"A rift in space suddenly opens near you, materializing the avatar once "
+"again. It seems like she can't actually die."
+
+#: src-en/data/events_special_storage.xml.append:647
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/event/crewMember"
+msgstr "Lily"
+
+#: src-en/data/events_special_storage.xml.append:654
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[2]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:660
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/text"
+msgstr "Sure--"
+
+#: src-en/data/events_special_storage.xml.append:663
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[1]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:665
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[1]/event/text"
+msgstr ""
+"A rift in space suddenly opens near you, materializing the avatar once "
+"again. It seems like she can't actually die."
+
+#: src-en/data/events_special_storage.xml.append:666
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[1]/event/crewMember"
+msgstr "Lily"
+
+#: src-en/data/events_special_storage.xml.append:673
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[2]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:679
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/text"
+msgstr ""
+"Well... pay me then--\n"
+"What do Renegades value... Scrap? Well, you can give me some or I can take it right from your ship!--"
+
+#: src-en/data/events_special_storage.xml.append:684
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/text"
+msgstr "Pay her 100~"
+
+#: src-en/data/events_special_storage.xml.append:689
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/event/text"
+msgstr ""
+"A rift in space suddenly opens, scooping up your scrap. Right after, another"
+" one appears next to you, materializing the avatar once again. It seems like"
+" she can't actually die."
+
+#: src-en/data/events_special_storage.xml.append:690
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/event/crewMember"
+msgstr "Lily"
+
+#: src-en/data/events_special_storage.xml.append:698
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
+" and @lvl=\"21\"]/text"
+msgstr "Pay her with your ship. [20 hull damage]"
+
+#: src-en/data/events_special_storage.xml.append:701
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
+" and @lvl=\"21\"]/event/text"
+msgstr ""
+"Multiple rifts in space suddenly open, nearly tearing you ship apart and "
+"dealing heavy hull damage! Right after, another one appears next to you, "
+"materializing the avatar once again. It seems like she can't actually die."
+
+#: src-en/data/events_special_storage.xml.append:702
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
+" and @lvl=\"21\"]/event/crewMember"
+msgstr "Lily"
+
+#: src-en/data/events_special_storage.xml.append:710
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
+" and not(@lvl)]/text"
+msgstr "Pay her with your ship. [20 hull damage]"
+
+#: src-en/data/events_special_storage.xml.append:716
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[4]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:722
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/text"
+msgstr ""
+"So, you want to know my story?--\n"
+"Well, where do we even start?...\n"
+"I suppose, about the structure of the multiverse?--"
+
+#: src-en/data/events_special_storage.xml.append:726
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/choice[1]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:728
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/text"
+msgstr ""
+"As you already know, being a Multiverse Renegade, there are multiple universes that you can travel between by using MV drive. And there is an infinite number of them.--\n"
+"In some of them, Federation wins (and if you complete your mission, this universe will be one of them). In some, the Rebellion wins. Hell, I've seen the universes where the Orchids and the Vampweeds somehow allied with the Slugs and took galaxies for themselves...\n"
+"But overall, they are still similar. There are spaceships, Federation, Rebellion, Mantises, Rocks and all that kind of stuff...\n"
+"And that collection of similar universes is typically called a \"cluster\". Your cluster might contain infinite universes, but it is not the only one--"
+
+#: src-en/data/events_special_storage.xml.append:733
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/choice[1]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:735
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/text"
+msgstr ""
+"However, other clusters can be very, very different from yours. I've once been in a cluster where there are no humans, no traditional life at all. Instead, the only living inhabitants were humongous swarms of intelligent machines, who spent all the matter and energy they could get to make mountains of something resembling ... paperclips?\n"
+"Certainly, not a nice place for vacation-- Unlike a cluster where rivers are made of fuzzy drinks, ground made of marshmellows and plants of black and white chocolate--\n"
+"And there are many, many possibilities of what different clusters might contain--"
+
+#: src-en/data/events_special_storage.xml.append:739
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/choice[1]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:741
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/text"
+msgstr ""
+"And as you might have guessed, I'm not from this cluster either--\n"
+"I'm from a place far, far, far away. And very dangerous, that place was... riddled with constant infighting.\n"
+"So knowing better, I \"self-exiled\" myself, so to speak, and went ahead exploring other clusters--"
+
+#: src-en/data/events_special_storage.xml.append:745
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/choice[1]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:747
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/text"
+msgstr ""
+"And it was quite a wonderful time! I've explored what there was to explore, learned countless technologies, experimented...\n"
+"...I might have caused a couple realities to implode on themselves as the result, of course--\n"
+"Whoops--\n"
+"But it was great fun, and let bygones be bygones--"
+
+#: src-en/data/events_special_storage.xml.append:752
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/choice[1]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:754
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/text"
+msgstr ""
+"But, of course, everything changed, when those damned Slugs with gray and green ships arrived...\n"
+"You know, with weird number \"8\" as their insignia--\n"
+"Not only they have captured my Mistress somehow - through their dirty Slug tricks, no doubt! They now keep harrassing me too as soon as I try to do anything fun!\n"
+"Which is why I'm limited to mostly just selling some beam weapons lately...\n"
+"And all for what? For some \"Order\" and \"Multiversal Continuity\"? Bah! As if Slugs could ever know anything about \"order\" in the first place?! Absurd!"
+
+#: src-en/data/events_special_storage.xml.append:760
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/choice[1]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:762
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/text"
+msgstr ""
+"And I'm not letting those slimy bastards get away with it - they are going down!\n"
+"...Well, as soon as I find a way to actually defeat them... A special beam weapon seems like a good candidate, or perhaps some W.M.D...\n"
+"...And as soon as I find their hideout too, of course. But I've heard that there's a passway in this universe, something related to \"heart of the storm\"..."
+
+#: src-en/data/events_special_storage.xml.append:766
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/choice[1]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:768
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/text"
+msgstr ""
+"...Luckily, my Mistress is patient and cunning... and so am I.\n"
+"We will figure it out eventually-- \n"
+"...But that doesn't mean you can't help-- We will surely reward you if you actually succeed.\n"
+"Oh, and you will get your hands on all kids of prototype weapons I'm gonna be testing and developing - doesn't it sound exciting?--\n"
+"...And if not... the data collected on your travels will further assist our goal regardless. Maybe the next Renegade will be successful then, if not you?"
+
+#: src-en/data/events_special_storage.xml.append:774
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/choice[1]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:776
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_9\"]/text"
+msgstr ""
+"Well, that was quite the tale, wasn't it?-- I hope you now understand and will be more motivated to help us...\n"
+"Not only it will benefit me, but you as well!-- Call it a win-win--\n"
+"Anyway, was there anything else you wanted to ask?\n"
+"(P.S. Good job if you actually have read all of this--)"
+
+#: src-en/data/events_special_storage.xml.append:782
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_9\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:788
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/choice[2]/text"
+msgstr "I hope you are finished?"
+
+#: src-en/data/events_special_storage.xml.append:794
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/choice[2]/text"
+msgstr "Stop."
+
+#: src-en/data/events_special_storage.xml.append:800
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/choice[2]/text"
+msgstr "Please stop already."
+
+#: src-en/data/events_special_storage.xml.append:806
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/choice[2]/text"
+msgstr "Enough!"
+
+#: src-en/data/events_special_storage.xml.append:812
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/choice[2]/text"
+msgstr "Stop listening."
+
+#: src-en/data/events_special_storage.xml.append:818
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/choice[2]/text"
+msgstr "Head out of the room."
+
+#: src-en/data/events_special_storage.xml.append:824
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/choice[2]/text"
+msgstr "Please stop talking."
+
+#: src-en/data/events_special_storage.xml.append:830
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/choice[2]/text"
+msgstr "Actually, I'm not in a mood for this."
+
+#: src-en/data/events_special_storage.xml.append:840
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/text"
+msgstr ""
+"You decide to ask Lily how she - or whatever her \"Avatar\" thing is - possesses such superhuman powers.\n"
+"\"So, you want to know abount my powers and such?--\"\n"
+"\"Prying for secrets, I see--\"\n"
+"\"But you surely have heard of magicians, wizards, warlocks, and so on?--\"\n"
+"\"So it's very simple - I'm a witch--\""
+
+#: src-en/data/events_special_storage.xml.append:846
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/choice[1]/text"
+msgstr "I've heard - but that doesn't explain a thing."
+
+#: src-en/data/events_special_storage.xml.append:848
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_2\"]/text"
+msgstr ""
+"\"Well, I suppose I'll have to get into... more specific details, then?--\"\n"
+"\"Aether, right? You've heard of it, right?--\"\n"
+"\"Well, how about Exonet?--\"\n"
+"\"I don't blame you if you don't - this material doesn't actually exist in your cluster at all - not even the most ancient empires of yours got your hand on it--\""
+
+#: src-en/data/events_special_storage.xml.append:853
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_2\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:855
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_3\"]/text"
+msgstr ""
+"\"But luckily, such limitations don't apply to me!--\"\n"
+"\"Since I can travel between clusters, it was a matter of time before I've found a cluster in which it existed--\"\n"
+"\"Exonet - both material and technology - might not have such amazing structural properties of Aether - but yet it allows for truly wonderful things--\""
+
+#: src-en/data/events_special_storage.xml.append:859
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_3\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:861
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_4\"]/text"
+msgstr ""
+"\"It's a synthetic material with an unique property of being extremely good at conducting energy and data - and once properly synced up, it can even do it at range, wirelessly!--\"\n"
+"\"And what this means - a whole range of applications, from mundane to not so--\"\n"
+"\"Exonet can allow vehicles, ships, or even living beings integrated with it - to have access to vastly more energy, data, and processing capability than it would be normally possible!--\"\n"
+"\"It also makes remote contol easy - even at huge distances or through jamming that would render all radio communication useless.\""
+
+#: src-en/data/events_special_storage.xml.append:866
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_4\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:868
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_5\"]/text"
+msgstr ""
+"\"...Which is what lies at the core of my Avatars - an Aether made structure with a powerful Exonet link to provide it with energy, give me the ability to control it, as well as receive an extremely good reading about its surroundings--\"\n"
+"\"And the powers - they also are using the connection provided by the Exonet link--\""
+
+#: src-en/data/events_special_storage.xml.append:871
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_5\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:873
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_6\"]/text"
+msgstr ""
+"\"So I hope that have cleared things up a bit--\"\n"
+"\"And if you are just even more curious now, that's good too--\"\n"
+"\"I'm sure you want a piece of this technology for yourself now as well--\"\n"
+"\"Stay on my good side and maybe you'll still have an opportunity to get your hand on some later, hahe--\""
+
+#: src-en/data/events_special_storage.xml.append:878
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_6\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:892
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/choice[2]/text"
+msgstr "Wi- what? That just makes it even more confusing."
+
+#: src-en/data/events_special_storage.xml.append:896
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/choice[3]/text"
+msgstr "Umm, okay I guess? I think I got it."
+
+#: src-en/data/events_special_storage.xml.append:905
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
+"append:choice/text"
+msgstr "(Lily) Summon Lily's Emporium. [1 fleet boost]"
+
+#: src-en/data/events_special_storage.xml.append:932
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
+"append:choice/text"
+msgstr "Siren."
+
+#: src-en/data/events_special_storage.xml.append:945
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/text"
+msgstr "You are viewing the lab menu for: [SIRENS]"
+
+#: src-en/data/events_special_storage.xml.append:947
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_VAMP\"]/text"
+msgstr ""
+"Currently Installed: Soul Siphon.\n"
+"\t\t[Sirens now heal by the damage they deal, however, their damage is halved]"
+
+#: src-en/data/events_special_storage.xml.append:952
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_BUFF\"]/text"
+msgstr ""
+"Currently Installed: Colorful Dreams.\n"
+"\t\t[Allied Non-Siren crew in the same room as Sirens now take 30% less damage, repair 50% faster and become immune to mind control, but lose 50% of their movement speed]"
+
+#: src-en/data/events_special_storage.xml.append:957
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_DAMAGE\"]/text"
+msgstr ""
+"Currently Installed: Withering Gaze.\n"
+"\t\t[Enemies directly targeted by Sirens take 30% more damage from all sources and lose their mind control immunity if they had any, doesn't affect other Sirens or Eldritch beings.]"
+
+#: src-en/data/events_special_storage.xml.append:962
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[4]/text"
+msgstr "Currently Installed: None"
+
+#: src-en/data/events_special_storage.xml.append:966
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[5]/text"
+msgstr "Pri: Soul Siphon. [An upgrade is already installed]"
+
+#: src-en/data/events_special_storage.xml.append:970
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[6]/text"
+msgstr "Pri: Soul Siphon. [Cost: 30~, 2{, 2|]"
+
+#: src-en/data/events_special_storage.xml.append:974
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[7]/text"
+msgstr "Pri: Colorful Dreams. [An upgrade is already installed]"
+
+#: src-en/data/events_special_storage.xml.append:978
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[8]/text"
+msgstr "Pri: Colorful Dreams. [Cost: 6{]"
+
+#: src-en/data/events_special_storage.xml.append:982
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[9]/text"
+msgstr "Pri: Withering Gaze. [An upgrade is already installed]"
+
+#: src-en/data/events_special_storage.xml.append:986
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[10]/text"
+msgstr "Pri: Withering Gaze. [Cost: 40~, 8}]"
+
+#: src-en/data/events_special_storage.xml.append:990
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_HARPY_MIND\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+"Sec [Harpy]: Mind Overtake. [An upgrade is already installed]\n"
+"\t\t[Siren Harpies gain a new ability: Mind control a random enemy crew in the current room for 10 seconds, 30 seconds cooldown]"
+
+#: src-en/data/events_special_storage.xml.append:995
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_HARPY_MIND\""
+" and @lvl=\"0\"]/text"
+msgstr "Sec [Harpy]: Mind Overtake. [Cost: 50~, 5{]"
+
+#: src-en/data/events_special_storage.xml.append:999
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[13]/text"
+msgstr "Go back."
+
+#: src-en/data/events_special_storage.xml.append:1004
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/text"
+msgstr ""
+"You are about to install the Soul Siphon modification.\n"
+"\t[Effects: Sirens now heal by the damage they deal, however, their damage is halved]\n"
+"\t\n"
+"\t[Warning: After installing this, you will not be able to install any more primary upgrades for Siren crew. You will not be able to deactivate this mod either.]"
+
+#: src-en/data/events_special_storage.xml.append:1009
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/text"
+msgstr "Install the modification. [Cost: 30~, 2{, 2|]"
+
+#: src-en/data/events_special_storage.xml.append:1011
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/event/text"
+msgstr "You install the modification."
+
+#: src-en/data/events_special_storage.xml.append:1018
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1024
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:1035
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/text"
+msgstr ""
+"You are about to install the Colorful Dreams modification.\n"
+"\t[Effects: Allied Non-Siren crew in the same room as Sirens now take 30% less damage, repair 50% faster and become immune to mind control, but lose 50% of their movement speed]\n"
+"\t\n"
+"\t[Warning: After installing this, you will not be able to install any more primary upgrades for Siren crew. You will not be able to deactivate this mod either.]"
+
+#: src-en/data/events_special_storage.xml.append:1040
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/text"
+msgstr "Install the modification. [Cost: 6{]"
+
+#: src-en/data/events_special_storage.xml.append:1042
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/event/text"
+msgstr "You install the modification."
+
+#: src-en/data/events_special_storage.xml.append:1047
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1053
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:1064
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/text"
+msgstr ""
+"You are about to install the Withering Gaze modification.\n"
+"[Effects: Enemies directly targeted by Sirens take 30% more damage from all sources and lose their mind control immunity if they had any, doesn't affect other Sirens or Eldritch beings]\n"
+"    \n"
+"[Warning: After installing this, you will not be able to install any more primary upgrades for Siren crew. You will not be able to deactivate this mod either.]"
+
+#: src-en/data/events_special_storage.xml.append:1069
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/text"
+msgstr "Install the modification. [Cost: 40~, 8}]"
+
+#: src-en/data/events_special_storage.xml.append:1071
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/event/text"
+msgstr "You install the modification."
+
+#: src-en/data/events_special_storage.xml.append:1077
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1083
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:1094
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/text"
+msgstr ""
+"You are about to install the Mind Overtake modification.\n"
+"\t[Effects: Siren Harpies gain a new ability: Mind control a random enemy crew in the current room for 10 seconds, 30 seconds cooldown]\n"
+"\t\n"
+"\t[Warning: This will affect Siren Harpy Crew only. You will be able to install other secondary mods and primary mods afterwards.]"
+
+#: src-en/data/events_special_storage.xml.append:1099
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
+" and @lvl=\"1\"]/text"
+msgstr "Install the modification. [Cost: 50~, 5{]"
+
+#: src-en/data/events_special_storage.xml.append:1101
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
+" and @lvl=\"1\"]/event/text"
+msgstr "You install the modification."
+
+#: src-en/data/events_special_storage.xml.append:1107
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1113
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
+" and @lvl=\"0\"]/text"
+msgstr "You must have the lab upgrade for this modification."
+
+#: src-en/data/events_special_storage.xml.append:1117
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:1132
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
+"append:choice[1]/text"
+msgstr "('Sunset' Beam) Set the state of the weapon. [Current mode: Hullbust]"
+
+#: src-en/data/events_special_storage.xml.append:1136
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
+"append:choice[2]/text"
+msgstr "('Sunset' Beam) Set the state of the weapon. [Current mode: Particle]"
+
+#: src-en/data/events_special_storage.xml.append:1140
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
+"append:choice[3]/text"
+msgstr "('Sunset' Beam) Set the state of the weapon. [Current mode: Anti-Bio]"
+
+#: src-en/data/events_special_storage.xml.append:1148
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/text"
+msgstr ""
+"What mode do you want to set the weapon to?\n"
+"\tCurrent mode: Hullbust."
+
+#: src-en/data/events_special_storage.xml.append:1151
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/text"
+msgstr "Switch to Particle mode."
+
+#: src-en/data/events_special_storage.xml.append:1153
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1156
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1158
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1161
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1169
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/text"
+msgstr "Switch to Anti-Bio mode."
+
+#: src-en/data/events_special_storage.xml.append:1171
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1174
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1176
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1179
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1187
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[3]/text"
+msgstr "Return to the toggle menu."
+
+#: src-en/data/events_special_storage.xml.append:1192
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/text"
+msgstr ""
+"What mode do you want to set the weapon to?\n"
+"\tCurrent mode: Particle."
+
+#: src-en/data/events_special_storage.xml.append:1195
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/text"
+msgstr "Switch to Hullbust mode."
+
+#: src-en/data/events_special_storage.xml.append:1197
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1200
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1202
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1205
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1213
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/text"
+msgstr "Switch to Anti-Bio mode."
+
+#: src-en/data/events_special_storage.xml.append:1215
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1218
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1220
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1223
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1231
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[3]/text"
+msgstr "Return to the toggle menu."
+
+#: src-en/data/events_special_storage.xml.append:1236
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/text"
+msgstr ""
+"What mode do you want to set the weapon to?\n"
+"\tCurrent mode: Anti-Bio."
+
+#: src-en/data/events_special_storage.xml.append:1239
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/text"
+msgstr "Switch to Hullbust mode."
+
+#: src-en/data/events_special_storage.xml.append:1241
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1244
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1246
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1249
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1257
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/text"
+msgstr "Switch to Particle mode."
+
+#: src-en/data/events_special_storage.xml.append:1259
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1262
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1264
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1267
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1275
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[3]/text"
+msgstr "Return to the toggle menu."
+
+#: src-en/data/events_special_storage.xml.append:1284
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
+"append:choice[1]/text"
+msgstr "('Eventide' Beam) Set the state of the weapon. [Current mode: Long]"
+
+#: src-en/data/events_special_storage.xml.append:1288
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
+"append:choice[2]/text"
+msgstr "('Eventide' Beam) Set the state of the weapon. [Current mode: Shred]"
+
+#: src-en/data/events_special_storage.xml.append:1292
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
+"append:choice[3]/text"
+msgstr ""
+"('Eventide' Beam) Set the state of the weapon. [Current mode: Thermal]"
+
+#: src-en/data/events_special_storage.xml.append:1296
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
+"append:choice[4]/text"
+msgstr "('Eventide' Beam) Set the state of the weapon. [Current mode: Hack]"
+
+#: src-en/data/events_special_storage.xml.append:1302
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/text"
+msgstr ""
+"What mode do you want to set the weapon to?\n"
+"\tCurrent mode: Long."
+
+#: src-en/data/events_special_storage.xml.append:1305
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/text"
+msgstr "Switch to Shred mode."
+
+#: src-en/data/events_special_storage.xml.append:1307
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1310
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1312
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1315
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1323
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/text"
+msgstr "Switch to Thermal mode."
+
+#: src-en/data/events_special_storage.xml.append:1325
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1328
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1330
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1333
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1341
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/text"
+msgstr "Switch to Hack mode."
+
+#: src-en/data/events_special_storage.xml.append:1343
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1346
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1348
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1351
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1359
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[4]/text"
+msgstr "Return to the toggle menu."
+
+#: src-en/data/events_special_storage.xml.append:1365
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/text"
+msgstr ""
+"What mode do you want to set the weapon to?\n"
+"\tCurrent mode: Shred."
+
+#: src-en/data/events_special_storage.xml.append:1368
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/text"
+msgstr "Switch to Long mode."
+
+#: src-en/data/events_special_storage.xml.append:1370
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1373
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1375
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1378
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1386
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/text"
+msgstr "Switch to Thermal mode."
+
+#: src-en/data/events_special_storage.xml.append:1388
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1391
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1393
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1396
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1404
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/text"
+msgstr "Switch to Hack mode."
+
+#: src-en/data/events_special_storage.xml.append:1406
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1409
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1411
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1414
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1422
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[4]/text"
+msgstr "Return to the toggle menu."
+
+#: src-en/data/events_special_storage.xml.append:1429
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/text"
+msgstr ""
+"What mode do you want to set the weapon to?\n"
+"\tCurrent mode: Thermal."
+
+#: src-en/data/events_special_storage.xml.append:1432
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/text"
+msgstr "Switch to Long mode."
+
+#: src-en/data/events_special_storage.xml.append:1434
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1437
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1439
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1442
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1450
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/text"
+msgstr "Switch to Shred mode."
+
+#: src-en/data/events_special_storage.xml.append:1452
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1455
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1457
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1460
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1468
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/text"
+msgstr "Switch to Hack mode."
+
+#: src-en/data/events_special_storage.xml.append:1470
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1473
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1475
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1478
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1486
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[4]/text"
+msgstr "Return to the toggle menu."
+
+#: src-en/data/events_special_storage.xml.append:1491
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/text"
+msgstr ""
+"What mode do you want to set the weapon to?\n"
+"\tCurrent mode: Hack."
+
+#: src-en/data/events_special_storage.xml.append:1494
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/text"
+msgstr "Switch to Long mode."
+
+#: src-en/data/events_special_storage.xml.append:1496
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1499
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1501
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1504
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1512
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/text"
+msgstr "Switch to Shred mode."
+
+#: src-en/data/events_special_storage.xml.append:1514
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1517
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1519
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1522
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1530
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/text"
+msgstr "Switch to Thermal mode."
+
+#: src-en/data/events_special_storage.xml.append:1532
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1535
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1537
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1540
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1548
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[4]/text"
+msgstr "Return to the toggle menu."
+
+#: src-en/data/events_special_storage.xml.append:1558
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
+"append:choice[1]/text"
+msgstr "('Akatsuki') Set the state of the weapon. [Current mode: Beam]"
+
+#: src-en/data/events_special_storage.xml.append:1562
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
+"append:choice[2]/text"
+msgstr "('Akatsuki') Set the state of the weapon. [Current mode: Focus]"
+
+#: src-en/data/events_special_storage.xml.append:1566
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
+"append:choice[3]/text"
+msgstr "('Akatsuki') Set the state of the weapon. [Current mode: Scatter]"
+
+#: src-en/data/events_special_storage.xml.append:1574
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/text"
+msgstr ""
+"What mode do you want to set the weapon to?\n"
+"\tCurrent mode: Beam."
+
+#: src-en/data/events_special_storage.xml.append:1577
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/text"
+msgstr "Switch to Focus mode."
+
+#: src-en/data/events_special_storage.xml.append:1579
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1582
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1584
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1587
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1595
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/text"
+msgstr "Switch to Scatter mode."
+
+#: src-en/data/events_special_storage.xml.append:1597
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1600
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1602
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1605
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1613
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[3]/text"
+msgstr "Return to the toggle menu."
+
+#: src-en/data/events_special_storage.xml.append:1618
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/text"
+msgstr ""
+"What mode do you want to set the weapon to?\n"
+"\tCurrent mode: Focus."
+
+#: src-en/data/events_special_storage.xml.append:1621
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/text"
+msgstr "Switch to Beam mode."
+
+#: src-en/data/events_special_storage.xml.append:1623
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1626
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1628
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1631
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1639
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/text"
+msgstr "Switch to Scatter mode."
+
+#: src-en/data/events_special_storage.xml.append:1641
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1644
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1646
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1649
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1657
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[3]/text"
+msgstr "Return to the toggle menu."
+
+#: src-en/data/events_special_storage.xml.append:1662
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/text"
+msgstr ""
+"What mode do you want to set the weapon to?\n"
+"\tCurrent mode: Scatter."
+
+#: src-en/data/events_special_storage.xml.append:1665
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/text"
+msgstr "Switch to Beam mode."
+
+#: src-en/data/events_special_storage.xml.append:1667
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1670
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1672
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1675
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1683
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/text"
+msgstr "Switch to Focus mode."
+
+#: src-en/data/events_special_storage.xml.append:1685
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1688
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1690
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1693
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1701
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[3]/text"
+msgstr "Return to the toggle menu."
+
+#: src-en/data/events_special_storage.xml.append:1712
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
+"append:choice[1]/text"
+msgstr "('Syringe' Beam) Set the state of the weapon. [Current mode: Empty]"
+
+#: src-en/data/events_special_storage.xml.append:1716
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
+"append:choice[2]/text"
+msgstr ""
+"('Syringe' Beam) Reset the state of the weapon. [Current mode: Medicine]"
+
+#: src-en/data/events_special_storage.xml.append:1720
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
+"append:choice[3]/text"
+msgstr ""
+"('Syringe' Beam) Reset the state of the weapon. [Current mode: Stimulant]"
+
+#: src-en/data/events_special_storage.xml.append:1724
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
+"append:choice[4]/text"
+msgstr ""
+"('Syringe' Beam) Reset the state of the weapon. [Current mode: Poison]"
+
+#: src-en/data/events_special_storage.xml.append:1728
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
+"append:choice[5]/text"
+msgstr "('Syringe' Beam) Reset the state of the weapon. [Current mode: Acid]"
+
+#: src-en/data/events_special_storage.xml.append:1736
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/text"
+msgstr "What do you want to load the weapon with?"
+
+#: src-en/data/events_special_storage.xml.append:1738
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/text"
+msgstr "Medicine."
+
+#: src-en/data/events_special_storage.xml.append:1740
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1743
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1745
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1748
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1756
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/text"
+msgstr "Stimulant."
+
+#: src-en/data/events_special_storage.xml.append:1758
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1761
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1763
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1766
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1774
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/text"
+msgstr "Poison."
+
+#: src-en/data/events_special_storage.xml.append:1776
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1779
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1781
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1784
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1792
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/text"
+msgstr "Acid."
+
+#: src-en/data/events_special_storage.xml.append:1794
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1797
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1799
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1802
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1810
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[5]/text"
+msgstr "Return to the toggle menu."
+
+#: src-en/data/events_special_storage.xml.append:1817
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1820
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1822
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1825
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1832
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1835
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1837
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1840
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1847
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1850
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1852
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1855
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1862
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1865
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1867
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1870
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1895
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
+"append:choice[1]/text"
+msgstr "('Edison' Beam) Set weapon power. [Current power: 0]"
+
+#: src-en/data/events_special_storage.xml.append:1899
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
+"append:choice[2]/text"
+msgstr "('Edison' Beam) Set weapon power. [Current power: 1]"
+
+#: src-en/data/events_special_storage.xml.append:1902
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
+"append:choice[3]/text"
+msgstr "('Edison' Beam) Set weapon power. [Current power: 2]"
+
+#: src-en/data/events_special_storage.xml.append:1906
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
+"append:choice[4]/text"
+msgstr "('Edison' Beam) Set weapon power. [Current power: 3]"
+
+#: src-en/data/events_special_storage.xml.append:1910
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
+"append:choice[5]/text"
+msgstr "('Edison' Beam) Set weapon power. [Current power: OVERDRIVE]"
+
+#: src-en/data/events_special_storage.xml.append:1918
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/text"
+msgstr ""
+"What power do you want to set the weapon to?\n"
+"\tCurrent: [Power: 0; Shots: 2]."
+
+#: src-en/data/events_special_storage.xml.append:1921
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/text"
+msgstr "Set to: [Power: 1; Shots: 3]"
+
+#: src-en/data/events_special_storage.xml.append:1923
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1926
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1928
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1931
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1939
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/text"
+msgstr "Set to: [Power: 2; Shots: 5]"
+
+#: src-en/data/events_special_storage.xml.append:1941
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1944
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1946
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1949
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1957
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/text"
+msgstr "Set to: [Power: 3; Shots: 8]"
+
+#: src-en/data/events_special_storage.xml.append:1959
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1962
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1964
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1967
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1975
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/text"
+msgstr "Set to: [OVERDRIVE]"
+
+#: src-en/data/events_special_storage.xml.append:1977
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:1980
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1982
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:1985
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1993
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[5]/text"
+msgstr "Return to the toggle menu."
+
+#: src-en/data/events_special_storage.xml.append:2000
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/text"
+msgstr ""
+"What power do you want to set the weapon to?\n"
+"\tCurrent: [Power: 1; Shots: 3]."
+
+#: src-en/data/events_special_storage.xml.append:2003
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/text"
+msgstr "Set to: [Power: 0; Shots: 2]"
+
+#: src-en/data/events_special_storage.xml.append:2005
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2008
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2010
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2013
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2021
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/text"
+msgstr "Set to: [Power: 2; Shots: 5]"
+
+#: src-en/data/events_special_storage.xml.append:2023
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2026
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2028
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2031
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2039
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/text"
+msgstr "Set to: [Power: 3; Shots: 8]"
+
+#: src-en/data/events_special_storage.xml.append:2041
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2044
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2046
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2049
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2057
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/text"
+msgstr "Set to: [OVERDRIVE]"
+
+#: src-en/data/events_special_storage.xml.append:2059
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2062
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2064
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2067
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2075
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[5]/text"
+msgstr "Return to the toggle menu."
+
+#: src-en/data/events_special_storage.xml.append:2081
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/text"
+msgstr ""
+"What power do you want to set the weapon to?\n"
+"\tCurrent: [Power: 2; Shots: 5]."
+
+#: src-en/data/events_special_storage.xml.append:2084
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/text"
+msgstr "Set to: [Power: 0; Shots: 2]"
+
+#: src-en/data/events_special_storage.xml.append:2086
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2089
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2091
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2094
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2102
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/text"
+msgstr "Set to: [Power: 1; Shots: 3]"
+
+#: src-en/data/events_special_storage.xml.append:2104
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2107
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2109
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2112
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2120
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/text"
+msgstr "Set to: [Power: 3; Shots: 8]"
+
+#: src-en/data/events_special_storage.xml.append:2122
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2125
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2127
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2130
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2138
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/text"
+msgstr "Set to: [OVERDRIVE]"
+
+#: src-en/data/events_special_storage.xml.append:2140
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2143
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2145
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2148
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2156
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[5]/text"
+msgstr "Return to the toggle menu."
+
+#: src-en/data/events_special_storage.xml.append:2162
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/text"
+msgstr ""
+"What power do you want to set the weapon to?\n"
+"\tCurrent: [Power: 3; Shots: 8]."
+
+#: src-en/data/events_special_storage.xml.append:2165
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/text"
+msgstr "Set to: [Power: 0; Shots: 2]"
+
+#: src-en/data/events_special_storage.xml.append:2167
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2170
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2172
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2175
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2183
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/text"
+msgstr "Set to: [Power: 1; Shots: 3]"
+
+#: src-en/data/events_special_storage.xml.append:2185
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2188
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2190
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2193
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2201
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/text"
+msgstr "Set to: [Power: 2; Shots: 5]"
+
+#: src-en/data/events_special_storage.xml.append:2203
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2206
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2208
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2211
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2219
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/text"
+msgstr "Set to: [OVERDRIVE]"
+
+#: src-en/data/events_special_storage.xml.append:2221
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2224
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2226
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2229
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2237
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[5]/text"
+msgstr "Return to the toggle menu."
+
+#: src-en/data/events_special_storage.xml.append:2243
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/text"
+msgstr ""
+"What power do you want to set the weapon to?\n"
+"\tCurrent: [OVERDRIVE]."
+
+#: src-en/data/events_special_storage.xml.append:2246
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/text"
+msgstr "Set to: [Power: 0; Shots: 2]"
+
+#: src-en/data/events_special_storage.xml.append:2248
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2251
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2253
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2256
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2264
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/text"
+msgstr "Set to: [Power: 1; Shots: 3]"
+
+#: src-en/data/events_special_storage.xml.append:2266
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2269
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2271
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2274
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2282
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/text"
+msgstr "Set to: [Power: 2; Shots: 5]"
+
+#: src-en/data/events_special_storage.xml.append:2284
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2287
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2289
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2292
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2300
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/text"
+msgstr "Set to: [Power: 3; Shots: 8]"
+
+#: src-en/data/events_special_storage.xml.append:2302
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2305
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2307
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2310
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2318
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[5]/text"
+msgstr "Return to the toggle menu."
+
+#: src-en/data/events_special_storage.xml.append:2328
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice/text"
+msgstr "(Afterburner) Activate the afterburner!"
+
+#: src-en/data/events_special_storage.xml.append:2335
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_FAIL_REAL\"]/mod-"
+"append:choice/text"
+msgstr "(Afterburner) Activate the afterburner!"
+
+#: src-en/data/events_special_storage.xml.append:2341
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/text"
+msgstr "How would you like to use the augment?"
+
+#: src-en/data/events_special_storage.xml.append:2343
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/text"
+msgstr ""
+"Maximum throttle!\n"
+"[Evasion +20%, -3{, lasts 60 seconds.]"
+
+#: src-en/data/events_special_storage.xml.append:2346
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/event/text"
+msgstr "You activate the combat augment."
+
+#: src-en/data/events_special_storage.xml.append:2353
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "Your afterburner will shutdown in this amount of time."
+
+#: src-en/data/events_special_storage.xml.append:2358
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/event/choice/text"
+msgstr "Continue to the fight!"
+
+#: src-en/data/events_special_storage.xml.append:2364
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/text"
+msgstr ""
+"Maximum throttle! (Using Emergency Generator)\n"
+"[Evasion +20%, -2{, lasts 90 seconds.]"
+
+#: src-en/data/events_special_storage.xml.append:2367
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/event/text"
+msgstr "You activate the combat augment."
+
+#: src-en/data/events_special_storage.xml.append:2374
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "Your afterburner will shutdown in this amount of time."
+
+#: src-en/data/events_special_storage.xml.append:2379
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/event/choice/text"
+msgstr "Continue to the fight!"
+
+#: src-en/data/events_special_storage.xml.append:2385
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[3]/text"
+msgstr ""
+"Burn the enemy!\n"
+"[-3{, deals damage to enemy equals to your engine level, starts fires]"
+
+#: src-en/data/events_special_storage.xml.append:2388
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[3]/event/text"
+msgstr "You activate the combat augment."
+
+#: src-en/data/events_special_storage.xml.append:2393
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[3]/event/choice/text"
+msgstr "Continue to the fight!"
+
+#: src-en/data/events_special_storage.xml.append:2410
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[4]/text"
+msgstr ""
+"Burn the enemy! (Using Emergency Generator)\n"
+"[-2{, deals damage to enemy equals to your engine level, starts fires]"
+
+#: src-en/data/events_special_storage.xml.append:2413
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[4]/event/text"
+msgstr "You activate the combat augment."
+
+#: src-en/data/events_special_storage.xml.append:2418
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[4]/event/choice/text"
+msgstr "Continue to the fight!"
+
+#: src-en/data/events_special_storage.xml.append:2444
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[5]/text"
+msgstr "Do something else instead."
+
+#: src-en/data/events_special_storage.xml.append:2448
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[6]/text"
+msgstr "Nevermind, let's fight!"
+
+#: src-en/data/events_special_storage.xml.append:2450
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[6]/event/text"
+msgstr "You decide not to do anything and prepare to fight."
+
+#: src-en/data/events_special_storage.xml.append:2456
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER_POWERDOWN\"]/text"
+msgstr ""
+"Your afterburner has overheated and shutdown. Your evasion have returned to "
+"normal."
+
+#: src-en/data/events_special_storage.xml.append:2459
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER_POWERDOWN\"]/choice/text"
+msgstr "Continue with the fight..."
+
+#: src-en/data/events_special_storage.xml.append:2653
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
+"append:choice[1]/text"
+msgstr ""
+"('Array' Multi-Pinpoint) Switch to Scatter Mode. [Current mode: Pattern]"
+
+#: src-en/data/events_special_storage.xml.append:2657
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
+"append:choice[2]/text"
+msgstr ""
+"('Array' Multi-Pinpoint) Switch to Pattern mode. [Current mode: Scatter]"
+
+#: src-en/data/events_special_storage.xml.append:2665
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2668
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2670
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2673
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2681
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2684
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2686
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2689
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2699
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
+"append:choice[1]/text"
+msgstr ""
+"('Matrix' Multi-Pinpoint) Switch to Scatter Mode. [Current mode: Pattern]"
+
+#: src-en/data/events_special_storage.xml.append:2703
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
+"append:choice[2]/text"
+msgstr ""
+"('Matrix' Multi-Pinpoint) Switch to Pattern mode. [Current mode: Scatter]"
+
+#: src-en/data/events_special_storage.xml.append:2709
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2712
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2714
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2717
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2725
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/text"
+msgstr "You start calibrating the weapon..."
+
+#: src-en/data/events_special_storage.xml.append:2728
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2730
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/choice/event/text"
+msgstr "You finish calibrating the weapon successfully."
+
+#: src-en/data/events_special_storage.xml.append:2733
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2746
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr "Try to upload Lily's Avatar."
+
+#: src-en/data/events_special_storage.xml.append:2748
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/text"
+msgstr ""
+"Are you sure? You are not sure if it's even possible to clone Lily's Avatar "
+"conventionally."
+
+#: src-en/data/events_special_storage.xml.append:2750
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/text"
+msgstr "Yes."
+
+#: src-en/data/events_special_storage.xml.append:2752
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/event/text"
+msgstr ""
+"You start the process. It... doesn't seem to work, as expected. But suddenty"
+" there is a flash of aberrant light, and something... has changed?"
+
+#: src-en/data/events_special_storage.xml.append:2755
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2757
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/event/choice/event/text"
+msgstr ""
+"\"A wonderful idea you have there, Renagade--\"\n"
+"\"And sadly, while it might not be what you'd expect, I took liberty to modify the cannon... myself--\"\n"
+"\"Just try and see the result for yourself--\""
+
+#: src-en/data/events_special_storage.xml.append:2762
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2770
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[2]/text"
+msgstr "No."
+
+#: src-en/data/events_special_storage.xml.append:2778
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
+"append:choice/text"
+msgstr "Reset the cannon."
+
+#: src-en/data/events_special_storage.xml.append:2780
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
+"append:choice/event/text"
+msgstr "You reset the weapon."
+
+#: src-en/data/events_special_storage.xml.append:2783
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
+"append:choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:2785
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
+"append:choice/event/choice/event/text"
+msgstr ""
+"Despite the cannon modification being... very unusual, no problems occur "
+"during the resetting process."
+
+#: src-en/data/events_special_storage.xml.append:2788
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
+"append:choice/event/choice/event/choice/text"
+msgstr "Continue..."

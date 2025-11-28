@@ -1,24 +1,66 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-13 23:24+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"lilys-beam-emporium/datablueprintsxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
+
+#: src-en/data/blueprints.xml.append:195
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_VERDANT\"]/title"
+msgstr ""
 
 #: src-en/data/blueprints.xml.append:196
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_VERDANT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:204
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_CRIMSON\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:205
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_CRIMSON\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:213
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_AZURE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:214
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_AZURE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:222
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_RADIANT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:223
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_RADIANT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:231
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_IRIDIUM\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:232
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_IRIDIUM\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:241
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_TARGETING_BYPASS\"]/title"
 msgstr "Гипер-перезарядник"
 
-#: src-en/data/blueprints.xml.append:197
+#: src-en/data/blueprints.xml.append:242
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_TARGETING_BYPASS\"]/desc"
 msgstr ""
@@ -26,12 +68,12 @@ msgstr ""
 "все оружие также получает штраф к точности в -20% при наведении на другие "
 "корабли."
 
-#: src-en/data/blueprints.xml.append:205
+#: src-en/data/blueprints.xml.append:250
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_TARGETING_BYPASS_LOCKED\"]/title"
 msgstr "Гипер-перезарядник"
 
-#: src-en/data/blueprints.xml.append:206
+#: src-en/data/blueprints.xml.append:251
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_TARGETING_BYPASS_LOCKED\"]/desc"
 msgstr ""
@@ -39,35 +81,35 @@ msgstr ""
 "все оружие также получает штраф к точности в -20% при наведении на другие "
 "корабли."
 
-#: src-en/data/blueprints.xml.append:214
+#: src-en/data/blueprints.xml.append:259
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ASB_SCRAMBLER\"]/title"
 msgstr "ГП для ПКБ"
 
-#: src-en/data/blueprints.xml.append:215
+#: src-en/data/blueprints.xml.append:260
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ASB_SCRAMBLER\"]/desc"
 msgstr ""
 "Искажает сигнатуру вашего корабля на большом расстоянии, не позволяя "
 "вражеским ПКБ точно зафиксировать ваш корабль."
 
-#: src-en/data/blueprints.xml.append:223
+#: src-en/data/blueprints.xml.append:268
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_COMBAT_AFTERBURNER\"]/title"
 msgstr "Форсаж"
 
-#: src-en/data/blueprints.xml.append:224
+#: src-en/data/blueprints.xml.append:269
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_COMBAT_AFTERBURNER\"]/desc"
 msgstr ""
 "Дополнительный форсаж для ваших двигателей, обеспечивающий большую тягу, но потребляющая много топлива.\n"
 "[3 единицы топлива, +20% к уклонению на 60 секунд ИЛИ нанесение урона врагу в зависимости от уровня вашего двигателя]"
 
-#: src-en/data/blueprints.xml.append:233
+#: src-en/data/blueprints.xml.append:278
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/title"
 msgstr "Анти-ЛБП резонатор"
 
-#: src-en/data/blueprints.xml.append:234
+#: src-en/data/blueprints.xml.append:279
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/desc"
 msgstr ""
 "Это странное устройство, похоже, заставляет ваше оружие резонировать с "
@@ -75,77 +117,74 @@ msgstr ""
 " к нему записка гласит: \"Немного помощи в борьбе с этими вредителями - "
 ":)\"."
 
-#: src-en/data/blueprints.xml.append:242
+#: src-en/data/blueprints.xml.append:287
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_PATRONAGE\"]/title"
 msgstr "Лили"
 
-#: src-en/data/blueprints.xml.append:243
+#: src-en/data/blueprints.xml.append:288
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_PATRONAGE\"]/desc"
 msgstr "Вам не следует этого видеть."
 
-#: src-en/data/blueprints.xml.append:251
+#: src-en/data/blueprints.xml.append:296
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AVATAR_LINKER\"]/title"
 msgstr "Lily Avatar"
 
-#: src-en/data/blueprints.xml.append:252
+#: src-en/data/blueprints.xml.append:297
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AVATAR_LINKER\"]/desc"
 msgstr "Вам не следует этого видеть."
 
-#: src-en/data/blueprints.xml.append:260
+#: src-en/data/blueprints.xml.append:305
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_NOTE\"]/title"
 msgstr "Note?"
 
-#: src-en/data/blueprints.xml.append:261
+#: src-en/data/blueprints.xml.append:306
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_NOTE\"]/desc"
 msgstr "Вам не следует этого видеть."
 
-#: src-en/data/blueprints.xml.append:269
+#: src-en/data/blueprints.xml.append:314
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ESTROGEN_DISPERSAL\"]/title"
 msgstr "Е"
 
-#: src-en/data/blueprints.xml.append:270
+#: src-en/data/blueprints.xml.append:315
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ESTROGEN_DISPERSAL\"]/desc"
 msgstr ""
 "\"Они загрязняют наш воздух химикатами, которые превращают всех в "
 "лесбиянок!\"."
 
-#: src-en/data/blueprints.xml.append:279
+#: src-en/data/blueprints.xml.append:324
 msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_SHIELDS\"]/title"
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ADV_ELDRITCH_SHIELDS\"]/title"
 msgstr "Таинственный щит"
 
-#: src-en/data/blueprints.xml.append:280
+#: src-en/data/blueprints.xml.append:325
 msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_MYSTERIOUS_SHIELDS\"]/desc"
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ADV_ELDRITCH_SHIELDS\"]/desc"
 msgstr ""
-"Барьер из жуткой хаотичной энергии, который обеспечивает суперщит с 42 "
-"единицами прочности. Источник его питания, похоже, находится... не на "
-"корабле?"
 
-#: src-en/data/blueprints.xml.append:288
+#: src-en/data/blueprints.xml.append:333
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_ELITE\"]/title"
 msgstr "Насыщ. хаот. энергия"
 
-#: src-en/data/blueprints.xml.append:289
+#: src-en/data/blueprints.xml.append:334
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_ELITE\"]/desc"
 msgstr ""
 "Экипаж не являющийся сиреной теряет свои активные способности, способности "
 "сражаться, ремонтировать или саботировать, и передвигается с 0.25х "
 "скоростью, находясь в насыщенных хаотической энергией полях."
 
-#: src-en/data/blueprints.xml.append:298
+#: src-en/data/blueprints.xml.append:343
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_AZURE\"]/title"
 msgstr "Лазурная энергия"
 
-#: src-en/data/blueprints.xml.append:299
+#: src-en/data/blueprints.xml.append:344
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_AZURE\"]/desc"
 msgstr ""
 "Вражеские члены экипажа, не являющиеся сиренами, на борту корабля теряют "
@@ -154,12 +193,12 @@ msgstr ""
 "получают иммунитет к контролю разума и оглушению, а также восстанавливают 1 "
 "ОЗ/с в пределах полей лазурной энергии."
 
-#: src-en/data/blueprints.xml.append:307
+#: src-en/data/blueprints.xml.append:352
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AZURE_ARMOR\"]/title"
 msgstr "Лазурная броня"
 
-#: src-en/data/blueprints.xml.append:308
+#: src-en/data/blueprints.xml.append:353
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AZURE_ARMOR\"]/desc"
 msgstr ""
 "Каждый раз, когда ваш корабль получает повреждения, от него отрывается "
@@ -167,34 +206,34 @@ msgstr ""
 "все щиты, наносит 1 единицу урона корпусу и системам, блокирует помещения и "
 "контролирует разум вражеского экипажа в течение 20 секунд."
 
-#: src-en/data/blueprints.xml.append:316
+#: src-en/data/blueprints.xml.append:361
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_INSTALLED\"]/title"
 msgstr "Добавлено улучшение для сирен."
 
-#: src-en/data/blueprints.xml.append:317
+#: src-en/data/blueprints.xml.append:362
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_INSTALLED\"]/desc"
 msgstr "Добавлено улучшение для сирен."
 
-#: src-en/data/blueprints.xml.append:326
+#: src-en/data/blueprints.xml.append:371
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_VAMP\"]/title"
 msgstr "Поглотитель душ"
 
-#: src-en/data/blueprints.xml.append:327
+#: src-en/data/blueprints.xml.append:372
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_VAMP\"]/desc"
 msgstr ""
 "Сирены теперь исцеляют на количество нанесенного ими урона, однако их урон "
 "уменьшается вдвое."
 
-#: src-en/data/blueprints.xml.append:334
+#: src-en/data/blueprints.xml.append:379
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_BUFF\"]/title"
 msgstr "Красочные сны"
 
-#: src-en/data/blueprints.xml.append:335
+#: src-en/data/blueprints.xml.append:380
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_BUFF\"]/desc"
 msgstr ""
@@ -202,12 +241,12 @@ msgstr ""
 "теперь получают на 30% меньше урона, ремонтируют на 50% быстрее и становятся"
 " невосприимчивыми к контролю разума, но теряют 50% скорости передвижения."
 
-#: src-en/data/blueprints.xml.append:342
+#: src-en/data/blueprints.xml.append:387
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_DAMAGE\"]/title"
 msgstr "Увядающий взгляд"
 
-#: src-en/data/blueprints.xml.append:343
+#: src-en/data/blueprints.xml.append:388
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_DAMAGE\"]/desc"
 msgstr ""
@@ -215,24 +254,24 @@ msgstr ""
 "всех источников и теряют иммунитет к контролю разума, если он у них был. Не "
 "влияет на других сирен или жутких существ."
 
-#: src-en/data/blueprints.xml.append:350
+#: src-en/data/blueprints.xml.append:395
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/title"
 msgstr "Подчинение разума"
 
-#: src-en/data/blueprints.xml.append:351
+#: src-en/data/blueprints.xml.append:396
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/desc"
 msgstr ""
 "Гарпии-сирены получают новую способность: контролировать разум случайного "
 "врага в текущем отсеке в течение 10 секунд, время перезарядки - 30 секунд."
 
-#: src-en/data/blueprints.xml.append:361
+#: src-en/data/blueprints.xml.append:406
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_VAMP\"]/title"
 msgstr "[Л] Поглотитель душ"
 
-#: src-en/data/blueprints.xml.append:362
+#: src-en/data/blueprints.xml.append:407
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_VAMP\"]/desc"
 msgstr ""
@@ -240,12 +279,12 @@ msgstr ""
 "        \n"
 "[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, но занимает слот модуля. Оно не может быть преобразовано во внутреннее лабораторное улучшение, но не занимает его основной слот. Не суммируется с самим собой."
 
-#: src-en/data/blueprints.xml.append:371
+#: src-en/data/blueprints.xml.append:416
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_BUFF\"]/title"
 msgstr "[Л] Красочные сны"
 
-#: src-en/data/blueprints.xml.append:372
+#: src-en/data/blueprints.xml.append:417
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_BUFF\"]/desc"
 msgstr ""
@@ -253,12 +292,12 @@ msgstr ""
 "        \n"
 "[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, но занимает слот модуля. Оно не может быть преобразовано во внутреннее лабораторное улучшение, но не занимает его основной слот. Не суммируется с самим собой."
 
-#: src-en/data/blueprints.xml.append:381
+#: src-en/data/blueprints.xml.append:426
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_DAMAGE\"]/title"
 msgstr "[Л] Увядающий взгляд"
 
-#: src-en/data/blueprints.xml.append:382
+#: src-en/data/blueprints.xml.append:427
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_DAMAGE\"]/desc"
 msgstr ""
@@ -266,12 +305,12 @@ msgstr ""
 "        \n"
 "[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, но занимает слот модуля. Оно не может быть преобразовано во внутреннее лабораторное улучшение, но не занимает его основной слот. Не суммируется с самим собой."
 
-#: src-en/data/blueprints.xml.append:391
+#: src-en/data/blueprints.xml.append:436
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/title"
 msgstr "[Л] Подчинение разума"
 
-#: src-en/data/blueprints.xml.append:392
+#: src-en/data/blueprints.xml.append:437
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/desc"
 msgstr ""
@@ -279,20 +318,20 @@ msgstr ""
 "        \n"
 "[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, но занимает слот модуля. Оно не может быть преобразовано во внутреннее лабораторное улучшение, но не занимает его основной слот. Не суммируется с самим собой."
 
-#: src-en/data/blueprints.xml.append:402
+#: src-en/data/blueprints.xml.append:447
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SIREN\"]/title"
 msgstr "Благо утопии"
 
-#: src-en/data/blueprints.xml.append:403
+#: src-en/data/blueprints.xml.append:448
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SIREN\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:410
+#: src-en/data/blueprints.xml.append:455
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_HER_EMPOWERMENT\"]/title"
 msgstr "Сила Ее"
 
-#: src-en/data/blueprints.xml.append:411
+#: src-en/data/blueprints.xml.append:456
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_HER_EMPOWERMENT\"]/desc"
 msgstr ""
@@ -302,201 +341,216 @@ msgstr ""
 " Ваш экипаж жутких и сирен также получает дополнительные способности, "
 "которые обеспечивают им сопротивляемость урону и иммунитет к опасностям."
 
-#: src-en/data/blueprints.xml.append:418
+#: src-en/data/blueprints.xml.append:463
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_SHIP_HER\"]/title"
 msgstr "Крейсер Ее"
 
-#: src-en/data/blueprints.xml.append:419
+#: src-en/data/blueprints.xml.append:464
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_SHIP_HER\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:428
+#: src-en/data/blueprints.xml.append:473
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/desc"
 msgstr ""
 "Путешественница по Мультивселенной, продавщица лучей и Верная Слуга "
 "Верховной Богини Истинного Хаоса. Да, это я--"
 
-#: src-en/data/blueprints.xml.append:431
+#: src-en/data/blueprints.xml.append:476
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/title"
 msgstr "Жуткий аватар"
 
-#: src-en/data/blueprints.xml.append:432
+#: src-en/data/blueprints.xml.append:477
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/short"
 msgstr "Аватар"
 
-#: src-en/data/blueprints.xml.append:435
+#: src-en/data/blueprints.xml.append:480
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[1]"
 msgstr "Невосприимчива к огню, удушению, оглушению и контролю разума"
 
-#: src-en/data/blueprints.xml.append:436
+#: src-en/data/blueprints.xml.append:481
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[2]"
 msgstr "Может телепортироваться в любую точку на текущем корабле"
 
-#: src-en/data/blueprints.xml.append:437
+#: src-en/data/blueprints.xml.append:482
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[3]"
 msgstr "Обладает обширным арсеналом жутких сил"
 
-#: src-en/data/blueprints.xml.append:438
+#: src-en/data/blueprints.xml.append:483
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[4]"
 msgstr ""
 "Максимальное здоровье составляет всего 100, но восстанавливается "
 "автоматически через 5 секунд"
 
-#: src-en/data/blueprints.xml.append:439
+#: src-en/data/blueprints.xml.append:484
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[5]"
 msgstr ""
 "Не может погибнуть навсегда, вместо этого может быть возрождена из меню "
 "склада за определенную плату."
 
-#: src-en/data/blueprints.xml.append:456
+#: src-en/data/blueprints.xml.append:501
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_ZOLTAN_2\"]/title"
 msgstr "Луч \"Люцерн\""
 
-#: src-en/data/blueprints.xml.append:457
+#: src-en/data/blueprints.xml.append:502
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_ZOLTAN_2\"]/short"
 msgstr "Люцерн"
 
-#: src-en/data/blueprints.xml.append:458
+#: src-en/data/blueprints.xml.append:503
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_ZOLTAN_2\"]/desc"
 msgstr ""
 "Особый прототип. Смотрите совет в инвентаре, чтобы узнать об улучшениях этой"
 " версии орудия."
 
-#: src-en/data/blueprints.xml.append:486
+#: src-en/data/blueprints.xml.append:531
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_LILY_BEAM\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:532
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_LILY_BEAM\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:533
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_LILY_BEAM\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:602
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POINTER\"]/title"
 msgstr "Точечный луч \"Указатель\""
 
-#: src-en/data/blueprints.xml.append:487
+#: src-en/data/blueprints.xml.append:603
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POINTER\"]/short"
 msgstr "Указатель"
 
-#: src-en/data/blueprints.xml.append:488
+#: src-en/data/blueprints.xml.append:604
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POINTER\"]/desc"
 msgstr ""
 "Это... не военное оружие, а обычный лазерный указатель. Что он здесь делает?"
 
-#: src-en/data/blueprints.xml.append:602
+#: src-en/data/blueprints.xml.append:718
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_BEAM\"]/title"
 msgstr "НЕТ"
 
-#: src-en/data/blueprints.xml.append:603
+#: src-en/data/blueprints.xml.append:719
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_BEAM\"]/short"
 msgstr "НЕТ"
 
-#: src-en/data/blueprints.xml.append:604
+#: src-en/data/blueprints.xml.append:720
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_BEAM\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:686
+#: src-en/data/blueprints.xml.append:802
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_ION\"]/title"
 msgstr "НЕТ"
 
-#: src-en/data/blueprints.xml.append:687
+#: src-en/data/blueprints.xml.append:803
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_ION\"]/short"
 msgstr "НЕТ"
 
-#: src-en/data/blueprints.xml.append:688
+#: src-en/data/blueprints.xml.append:804
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_POWER_ION\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:731
+#: src-en/data/blueprints.xml.append:847
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_1\"]/title"
 msgstr "Точечный ион I"
 
-#: src-en/data/blueprints.xml.append:732
+#: src-en/data/blueprints.xml.append:848
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_1\"]/short"
 msgstr "Точеч. ион I"
 
-#: src-en/data/blueprints.xml.append:733
+#: src-en/data/blueprints.xml.append:849
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_1\"]/desc"
 msgstr ""
 "Модифицированный точечный луч, наносящий 1 ионный урон. Заряжается "
 "медленнее, чем обычные ионы."
 
-#: src-en/data/blueprints.xml.append:779
+#: src-en/data/blueprints.xml.append:895
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2\"]/title"
 msgstr "Точечный ион II"
 
-#: src-en/data/blueprints.xml.append:780
+#: src-en/data/blueprints.xml.append:896
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2\"]/short"
 msgstr "Точеч. ион II"
 
-#: src-en/data/blueprints.xml.append:781
+#: src-en/data/blueprints.xml.append:897
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2\"]/desc"
 msgstr ""
 "Модифицированный точечный луч, наносящий 1 ионный урон. Заряжается быстрее, "
 "чем предыдущая модель."
 
-#: src-en/data/blueprints.xml.append:827
+#: src-en/data/blueprints.xml.append:943
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2_PLAYER\"]/title"
 msgstr "Точечный ион II†"
 
-#: src-en/data/blueprints.xml.append:828
+#: src-en/data/blueprints.xml.append:944
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2_PLAYER\"]/short"
 msgstr "Точеч. ион II†"
 
-#: src-en/data/blueprints.xml.append:829
+#: src-en/data/blueprints.xml.append:945
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2_PLAYER\"]/desc"
 msgstr ""
 "Модифицированный точечный луч, наносящий 1 ионный урон. Заряжается быстрее, "
 "чем предыдущая модель."
 
-#: src-en/data/blueprints.xml.append:875
+#: src-en/data/blueprints.xml.append:991
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_HEAVY\"]/title"
 msgstr "Тяжелый точечный ион"
 
-#: src-en/data/blueprints.xml.append:876
+#: src-en/data/blueprints.xml.append:992
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_HEAVY\"]/short"
 msgstr "Тяж. точеч. ион"
 
-#: src-en/data/blueprints.xml.append:877
+#: src-en/data/blueprints.xml.append:993
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_HEAVY\"]/desc"
 msgstr ""
 "Модифицированный точечный луч, наносящий 3 единицы урона ионами, но медленно"
 " заряжающийся."
 
-#: src-en/data/blueprints.xml.append:924
+#: src-en/data/blueprints.xml.append:1040
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_CHAIN\"]/title"
 msgstr "Цепной точечный ион"
 
-#: src-en/data/blueprints.xml.append:925
+#: src-en/data/blueprints.xml.append:1041
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_CHAIN\"]/short"
 msgstr "Цеп. точеч. ион"
 
-#: src-en/data/blueprints.xml.append:926
+#: src-en/data/blueprints.xml.append:1042
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_CHAIN\"]/desc"
 msgstr ""
@@ -504,68 +558,68 @@ msgstr ""
 "быстро увеличивает скорость стрельбы, пока не сможет самостоятельно вывести "
 "из строя несколько систем."
 
-#: src-en/data/blueprints.xml.append:978
+#: src-en/data/blueprints.xml.append:1094
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_FIRE\"]/title"
 msgstr "Тепловой точечный ион"
 
-#: src-en/data/blueprints.xml.append:979
+#: src-en/data/blueprints.xml.append:1095
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_FIRE\"]/short"
 msgstr "Тепл. точеч. ион"
 
-#: src-en/data/blueprints.xml.append:980
+#: src-en/data/blueprints.xml.append:1096
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_FIRE\"]/desc"
 msgstr ""
 "Модифицированный точечный луч, который выстреливает потоком перегретых "
 "ионов. Наносит 1 ед. урона и гарантированно воспламеняет пораженную плитку."
 
-#: src-en/data/blueprints.xml.append:1026
+#: src-en/data/blueprints.xml.append:1142
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_STUN\"]/title"
 msgstr "Оглушающий точечный ион"
 
-#: src-en/data/blueprints.xml.append:1027
+#: src-en/data/blueprints.xml.append:1143
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_STUN\"]/short"
 msgstr "Огл. точеч. ион"
 
-#: src-en/data/blueprints.xml.append:1028
+#: src-en/data/blueprints.xml.append:1144
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_STUN\"]/desc"
 msgstr ""
 "Модифицированный точечный луч, наносящий 2 единицы урона и оглушающий "
 "пораженных членов экипажа."
 
-#: src-en/data/blueprints.xml.append:1075
+#: src-en/data/blueprints.xml.append:1191
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_BIO\"]/title"
 msgstr "Точечный луч ионизирующего излучения"
 
-#: src-en/data/blueprints.xml.append:1076
+#: src-en/data/blueprints.xml.append:1192
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_BIO\"]/short"
 msgstr "Рад-точеч. ион"
 
-#: src-en/data/blueprints.xml.append:1077
+#: src-en/data/blueprints.xml.append:1193
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_BIO\"]/desc"
 msgstr ""
 "Модифицированный точечный луч, который выстреливает поток бета-частиц, "
 "нарушая работу систем и облучая экипаж."
 
-#: src-en/data/blueprints.xml.append:1129
+#: src-en/data/blueprints.xml.append:1245
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/title"
 msgstr "Точечный фазер"
 
-#: src-en/data/blueprints.xml.append:1130
+#: src-en/data/blueprints.xml.append:1246
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/short"
 msgstr "Точеч. фазер"
 
-#: src-en/data/blueprints.xml.append:1131
+#: src-en/data/blueprints.xml.append:1247
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/desc"
 msgstr ""
@@ -573,7 +627,7 @@ msgstr ""
 " щиты. Постепенно адаптируется к щитам противника, позволяя проникать через "
 "дополнительные слои с каждым последующим выстрелом."
 
-#: src-en/data/blueprints.xml.append:1133
+#: src-en/data/blueprints.xml.append:1249
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/descriptionOverride"
 msgstr ""
@@ -596,7 +650,7 @@ msgstr ""
 "\n"
 "Покупка: 85~   -   Продажа: 42~"
 
-#: src-en/data/blueprints.xml.append:1152
+#: src-en/data/blueprints.xml.append:1268
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/tooltipOverride"
 msgstr ""
@@ -613,17 +667,17 @@ msgstr ""
 "Ионный урон: 2\n"
 "Пробивание щита: 2"
 
-#: src-en/data/blueprints.xml.append:1223
+#: src-en/data/blueprints.xml.append:1339
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_H\"]/title"
 msgstr "Луч \"Закат\" [Противокорпусный]"
 
-#: src-en/data/blueprints.xml.append:1224
+#: src-en/data/blueprints.xml.append:1340
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_H\"]/short"
 msgstr "Закат [П]"
 
-#: src-en/data/blueprints.xml.append:1225
+#: src-en/data/blueprints.xml.append:1341
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_H\"]/desc"
 msgstr ""
@@ -631,17 +685,17 @@ msgstr ""
 "позволяет ему эффективно воздействовать на корпус, системы и экипаж, хотя и "
 "не одновременно. Текущий режим: Противокорпусный."
 
-#: src-en/data/blueprints.xml.append:1251
+#: src-en/data/blueprints.xml.append:1367
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_P\"]/title"
 msgstr "Луч \"Закат\" [Частицы]"
 
-#: src-en/data/blueprints.xml.append:1252
+#: src-en/data/blueprints.xml.append:1368
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_P\"]/short"
 msgstr "Закат [Ч]"
 
-#: src-en/data/blueprints.xml.append:1253
+#: src-en/data/blueprints.xml.append:1369
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_P\"]/desc"
 msgstr ""
@@ -649,17 +703,17 @@ msgstr ""
 "позволяет ему эффективно воздействовать на корпус, системы и экипаж, хотя и "
 "не одновременно. Текущий режим: Частицы."
 
-#: src-en/data/blueprints.xml.append:1283
+#: src-en/data/blueprints.xml.append:1399
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_B\"]/title"
 msgstr "Луч \"Закат\" [Анти-Био]"
 
-#: src-en/data/blueprints.xml.append:1284
+#: src-en/data/blueprints.xml.append:1400
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_B\"]/short"
 msgstr "Закат [А]"
 
-#: src-en/data/blueprints.xml.append:1285
+#: src-en/data/blueprints.xml.append:1401
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_B\"]/desc"
 msgstr ""
@@ -667,34 +721,34 @@ msgstr ""
 "позволяет ему эффективно воздействовать на корпус, системы и экипаж, хотя и "
 "не одновременно. Текущий режим: Анти-био."
 
-#: src-en/data/blueprints.xml.append:1330
+#: src-en/data/blueprints.xml.append:1446
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_L\"]/title"
 msgstr "Луч \"Сумерки\" [Длинный]"
 
-#: src-en/data/blueprints.xml.append:1331
+#: src-en/data/blueprints.xml.append:1447
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_L\"]/short"
 msgstr "Сумерки [Д]"
 
-#: src-en/data/blueprints.xml.append:1332
+#: src-en/data/blueprints.xml.append:1448
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_L\"]/desc"
 msgstr ""
 "Более мощная версия луча \"Закат\", этот луч не только более сильный, но и "
 "имеет дополнительный режим! Текущий режим: Длинный, чистый урон."
 
-#: src-en/data/blueprints.xml.append:1358
+#: src-en/data/blueprints.xml.append:1474
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_B\"]/title"
 msgstr "Луч \"Сумерки\" [Измельчение]"
 
-#: src-en/data/blueprints.xml.append:1359
+#: src-en/data/blueprints.xml.append:1475
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_B\"]/short"
 msgstr "Сумерки [И]"
 
-#: src-en/data/blueprints.xml.append:1360
+#: src-en/data/blueprints.xml.append:1476
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_B\"]/desc"
 msgstr ""
@@ -702,17 +756,17 @@ msgstr ""
 "имеет дополнительный режим! Текущий режим: Измельчение, высокая вероятность "
 "пробоины, высокий урон по системе и экипажу."
 
-#: src-en/data/blueprints.xml.append:1397
+#: src-en/data/blueprints.xml.append:1513
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_P\"]/title"
 msgstr "Луч \"Сумерки\" [Термический]"
 
-#: src-en/data/blueprints.xml.append:1398
+#: src-en/data/blueprints.xml.append:1514
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_P\"]/short"
 msgstr "Сумерки [Т]"
 
-#: src-en/data/blueprints.xml.append:1399
+#: src-en/data/blueprints.xml.append:1515
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_P\"]/desc"
 msgstr ""
@@ -720,17 +774,17 @@ msgstr ""
 "имеет дополнительный режим! Текущий режим: Термический, высокий урон "
 "системе, гарантированное возгорание."
 
-#: src-en/data/blueprints.xml.append:1431
+#: src-en/data/blueprints.xml.append:1547
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_H\"]/title"
 msgstr "Луч \"Сумерки\" [Хак]"
 
-#: src-en/data/blueprints.xml.append:1432
+#: src-en/data/blueprints.xml.append:1548
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_H\"]/short"
 msgstr "Сумерки [Х]"
 
-#: src-en/data/blueprints.xml.append:1433
+#: src-en/data/blueprints.xml.append:1549
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_H\"]/desc"
 msgstr ""
@@ -738,89 +792,89 @@ msgstr ""
 "имеет дополнительный режим! Текущий режим: Хак, применяет эффект взлома к "
 "любой пораженной системе."
 
-#: src-en/data/blueprints.xml.append:1477
+#: src-en/data/blueprints.xml.append:1593
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_B\"]/title"
 msgstr "\"Акацуки\" [Луч]"
 
-#: src-en/data/blueprints.xml.append:1478
+#: src-en/data/blueprints.xml.append:1594
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_B\"]/short"
 msgstr "Акацуки [Л]"
 
-#: src-en/data/blueprints.xml.append:1479
+#: src-en/data/blueprints.xml.append:1595
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_B\"]/desc"
 msgstr ""
 "Особое лучевое оружие, которое может мгновенно переключать режим стрельбы, "
 "выбирая между длиной и уроном. Текущий режим: Луч."
 
-#: src-en/data/blueprints.xml.append:1504
+#: src-en/data/blueprints.xml.append:1620
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_F\"]/title"
 msgstr "\"Акацуки\" [Точечный]"
 
-#: src-en/data/blueprints.xml.append:1505
+#: src-en/data/blueprints.xml.append:1621
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_F\"]/short"
 msgstr "Акацуки [Т]"
 
-#: src-en/data/blueprints.xml.append:1506
+#: src-en/data/blueprints.xml.append:1622
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_F\"]/desc"
 msgstr ""
 "Особое лучевое оружие, которое может мгновенно переключать режим стрельбы, "
 "выбирая между длиной и уроном. Текущий режим: Точечный луч."
 
-#: src-en/data/blueprints.xml.append:1533
+#: src-en/data/blueprints.xml.append:1649
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S\"]/title"
 msgstr "\"Акацуки\" [Рассеяние]"
 
-#: src-en/data/blueprints.xml.append:1534
+#: src-en/data/blueprints.xml.append:1650
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S\"]/short"
 msgstr "Акацуки [Р]"
 
-#: src-en/data/blueprints.xml.append:1535
+#: src-en/data/blueprints.xml.append:1651
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S\"]/desc"
 msgstr ""
 "Особое лучевое оружие, которое может мгновенно переключать режим стрельбы, "
 "выбирая между длиной и уроном. Текущий режим: Рассеивание."
 
-#: src-en/data/blueprints.xml.append:1567
+#: src-en/data/blueprints.xml.append:1683
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S_BEAM\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:1568
+#: src-en/data/blueprints.xml.append:1684
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S_BEAM\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:1569
+#: src-en/data/blueprints.xml.append:1685
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S_BEAM\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:1604
+#: src-en/data/blueprints.xml.append:1720
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/title"
 msgstr "Луч \"Ножницы\""
 
-#: src-en/data/blueprints.xml.append:1605
+#: src-en/data/blueprints.xml.append:1721
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/short"
 msgstr "Ножницы"
 
-#: src-en/data/blueprints.xml.append:1606
+#: src-en/data/blueprints.xml.append:1722
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/desc"
 msgstr ""
 "Уникальное оружие, способное одновременно стрелять парой сходящихся лучей."
 
-#: src-en/data/blueprints.xml.append:1608
+#: src-en/data/blueprints.xml.append:1724
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/descriptionOverride"
 msgstr ""
@@ -847,7 +901,7 @@ msgstr ""
 "\n"
 "Покупка: 100~   -   Продажа: 50~"
 
-#: src-en/data/blueprints.xml.append:1630
+#: src-en/data/blueprints.xml.append:1746
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/tooltipOverride"
 msgstr ""
@@ -869,39 +923,39 @@ msgstr ""
 "Урон экипажу: 45\n"
 "Вероятность пробоины: 30% (Скорректировано: 30%)"
 
-#: src-en/data/blueprints.xml.append:1677
+#: src-en/data/blueprints.xml.append:1793
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_SEC\"]/title"
 msgstr "Луч \"Ножницы\""
 
-#: src-en/data/blueprints.xml.append:1678
+#: src-en/data/blueprints.xml.append:1794
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_SEC\"]/short"
 msgstr "Ножницы"
 
-#: src-en/data/blueprints.xml.append:1679
+#: src-en/data/blueprints.xml.append:1795
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_SEC\"]/desc"
 msgstr ""
 "Уникальное оружие, способное одновременно стрелять парой сходящихся лучей."
 
-#: src-en/data/blueprints.xml.append:1707
+#: src-en/data/blueprints.xml.append:1823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/title"
 msgstr "Луч \"Ножницы\"†"
 
-#: src-en/data/blueprints.xml.append:1708
+#: src-en/data/blueprints.xml.append:1824
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/short"
 msgstr "Ножницы†"
 
-#: src-en/data/blueprints.xml.append:1709
+#: src-en/data/blueprints.xml.append:1825
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/desc"
 msgstr ""
 "Уникальное оружие, способное одновременно стрелять парой сходящихся лучей."
 
-#: src-en/data/blueprints.xml.append:1711
+#: src-en/data/blueprints.xml.append:1827
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/descriptionOverride"
 msgstr ""
@@ -928,7 +982,7 @@ msgstr ""
 "\n"
 "Покупка: 100~   -   Продажа: 50~"
 
-#: src-en/data/blueprints.xml.append:1733
+#: src-en/data/blueprints.xml.append:1849
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/tooltipOverride"
 msgstr ""
@@ -950,17 +1004,17 @@ msgstr ""
 "Урон экипажу: 45\n"
 "Вероятность пробоины: 30% (Скорректировано: 30%)"
 
-#: src-en/data/blueprints.xml.append:1790
+#: src-en/data/blueprints.xml.append:1906
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/title"
 msgstr "Луч \"Шприц\" [Пустой]"
 
-#: src-en/data/blueprints.xml.append:1791
+#: src-en/data/blueprints.xml.append:1907
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/short"
 msgstr "Шприц [-]"
 
-#: src-en/data/blueprints.xml.append:1792
+#: src-en/data/blueprints.xml.append:1908
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/desc"
 msgstr ""
@@ -969,17 +1023,17 @@ msgstr ""
 "химического синтеза. Текущий режим: Пустой, необходимо настроить перед "
 "использованием."
 
-#: src-en/data/blueprints.xml.append:1826
+#: src-en/data/blueprints.xml.append:1942
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/title"
 msgstr "Луч \"Шприц\" [Медицина]"
 
-#: src-en/data/blueprints.xml.append:1827
+#: src-en/data/blueprints.xml.append:1943
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/short"
 msgstr "Шприц [М]"
 
-#: src-en/data/blueprints.xml.append:1828
+#: src-en/data/blueprints.xml.append:1944
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/desc"
 msgstr ""
@@ -987,17 +1041,17 @@ msgstr ""
 " увеличенных размеров. Включает в себя лабораторию автоматического "
 "химического синтеза. Текущий режим: Медицина."
 
-#: src-en/data/blueprints.xml.append:1888
+#: src-en/data/blueprints.xml.append:2004
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/title"
 msgstr "Луч \"Шприц\" [Стимулятор]"
 
-#: src-en/data/blueprints.xml.append:1889
+#: src-en/data/blueprints.xml.append:2005
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/short"
 msgstr "Шприц [С]"
 
-#: src-en/data/blueprints.xml.append:1890
+#: src-en/data/blueprints.xml.append:2006
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/desc"
 msgstr ""
@@ -1005,17 +1059,17 @@ msgstr ""
 " увеличенных размеров. Включает в себя лабораторию автоматического "
 "химического синтеза. Текущий режим: Стимулятор."
 
-#: src-en/data/blueprints.xml.append:1975
+#: src-en/data/blueprints.xml.append:2091
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/title"
 msgstr "Луч \"Шприц\" [Яд]"
 
-#: src-en/data/blueprints.xml.append:1976
+#: src-en/data/blueprints.xml.append:2092
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/short"
 msgstr "Шприц [Яд]"
 
-#: src-en/data/blueprints.xml.append:1977
+#: src-en/data/blueprints.xml.append:2093
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/desc"
 msgstr ""
@@ -1023,17 +1077,17 @@ msgstr ""
 "увеличенных размеров. Включает в себя лабораторию автоматического "
 "химического синтеза. Текущий режим: Яд."
 
-#: src-en/data/blueprints.xml.append:2076
+#: src-en/data/blueprints.xml.append:2192
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/title"
 msgstr "Луч \"Шприц\" [Кислота]"
 
-#: src-en/data/blueprints.xml.append:2077
+#: src-en/data/blueprints.xml.append:2193
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/short"
 msgstr "Шприц [К]"
 
-#: src-en/data/blueprints.xml.append:2078
+#: src-en/data/blueprints.xml.append:2194
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/desc"
 msgstr ""
@@ -1041,47 +1095,47 @@ msgstr ""
 "увеличенных размеров. Включает в себя лабораторию автоматического "
 "химического синтеза. Текущий режим: Кислота."
 
-#: src-en/data/blueprints.xml.append:2155
+#: src-en/data/blueprints.xml.append:2271
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON\"]/title"
 msgstr "Burst Beam Projectile"
 
-#: src-en/data/blueprints.xml.append:2156
+#: src-en/data/blueprints.xml.append:2272
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON\"]/short"
 msgstr "Burst Beam Projectile"
 
-#: src-en/data/blueprints.xml.append:2157
+#: src-en/data/blueprints.xml.append:2273
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2187
+#: src-en/data/blueprints.xml.append:2303
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_O\"]/title"
 msgstr "Burst Beam Projectile"
 
-#: src-en/data/blueprints.xml.append:2188
+#: src-en/data/blueprints.xml.append:2304
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_O\"]/short"
 msgstr "Burst Beam Projectile"
 
-#: src-en/data/blueprints.xml.append:2189
+#: src-en/data/blueprints.xml.append:2305
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_O\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2223
+#: src-en/data/blueprints.xml.append:2339
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/title"
 msgstr "Сифонный луч \"Эдисон\" [0]"
 
-#: src-en/data/blueprints.xml.append:2224
+#: src-en/data/blueprints.xml.append:2340
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/short"
 msgstr "Эдисон [0]"
 
-#: src-en/data/blueprints.xml.append:2225
+#: src-en/data/blueprints.xml.append:2341
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/desc"
 msgstr ""
@@ -1090,17 +1144,17 @@ msgstr ""
 "системы на один пункт, но не блокирует ее. Чем больше мощность, тем дольше "
 "длится зарядка. Текущая мощность: 0 (консервативное)."
 
-#: src-en/data/blueprints.xml.append:2262
+#: src-en/data/blueprints.xml.append:2378
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/title"
 msgstr "Сифонный луч \"Эдисон\" [1]"
 
-#: src-en/data/blueprints.xml.append:2263
+#: src-en/data/blueprints.xml.append:2379
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/short"
 msgstr "Эдисон [1]"
 
-#: src-en/data/blueprints.xml.append:2264
+#: src-en/data/blueprints.xml.append:2380
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/desc"
 msgstr ""
@@ -1109,17 +1163,17 @@ msgstr ""
 "системы на один пункт, но не блокирует ее. Чем больше мощность, тем дольше "
 "заряжается. Текущая мощность: 1."
 
-#: src-en/data/blueprints.xml.append:2301
+#: src-en/data/blueprints.xml.append:2417
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/title"
 msgstr "Сифонный луч \"Эдисон\" [2]"
 
-#: src-en/data/blueprints.xml.append:2302
+#: src-en/data/blueprints.xml.append:2418
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/short"
 msgstr "Эдисон [2]"
 
-#: src-en/data/blueprints.xml.append:2303
+#: src-en/data/blueprints.xml.append:2419
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/desc"
 msgstr ""
@@ -1128,17 +1182,17 @@ msgstr ""
 "системы на один пункт, но не блокирует ее. Чем больше мощность, тем дольше "
 "заряжается. Текущая мощность: 2."
 
-#: src-en/data/blueprints.xml.append:2339
+#: src-en/data/blueprints.xml.append:2455
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/title"
 msgstr "Сифонный луч \"Эдисон\" [3]"
 
-#: src-en/data/blueprints.xml.append:2340
+#: src-en/data/blueprints.xml.append:2456
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/short"
 msgstr "Эдисон [3]"
 
-#: src-en/data/blueprints.xml.append:2341
+#: src-en/data/blueprints.xml.append:2457
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/desc"
 msgstr ""
@@ -1147,17 +1201,17 @@ msgstr ""
 "системы на один пункт, но не блокирует ее. Чем больше мощность, тем дольше "
 "заряжается. Текущая мощность: 3."
 
-#: src-en/data/blueprints.xml.append:2376
+#: src-en/data/blueprints.xml.append:2492
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/title"
 msgstr "Сифонный луч \"Эдисон\" [ПЕРЕГРЕВ]"
 
-#: src-en/data/blueprints.xml.append:2377
+#: src-en/data/blueprints.xml.append:2493
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/short"
 msgstr "Эдисон [П]"
 
-#: src-en/data/blueprints.xml.append:2378
+#: src-en/data/blueprints.xml.append:2494
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/desc"
 msgstr ""
@@ -1166,17 +1220,17 @@ msgstr ""
 "системы на один пункт, но не блокирует ее. Чем больше мощность, тем дольше "
 "заряжается. Текущая мощность: ПЕРЕГРЕВ."
 
-#: src-en/data/blueprints.xml.append:2429
+#: src-en/data/blueprints.xml.append:2545
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1\"]/title"
 msgstr "Рефракционный точечный луч I"
 
-#: src-en/data/blueprints.xml.append:2430
+#: src-en/data/blueprints.xml.append:2546
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1\"]/short"
 msgstr "Рефракц. I"
 
-#: src-en/data/blueprints.xml.append:2431
+#: src-en/data/blueprints.xml.append:2547
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1\"]/desc"
 msgstr ""
@@ -1184,17 +1238,17 @@ msgstr ""
 "способен пробивать щиты обычным способом, он позволяет лучу преломляться "
 "через них, по-прежнему попадая в корабль, хотя и с потерей точности."
 
-#: src-en/data/blueprints.xml.append:2465
+#: src-en/data/blueprints.xml.append:2581
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/title"
 msgstr "Рефракционный точечный луч I†"
 
-#: src-en/data/blueprints.xml.append:2466
+#: src-en/data/blueprints.xml.append:2582
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/short"
 msgstr "Рефракц. I†"
 
-#: src-en/data/blueprints.xml.append:2467
+#: src-en/data/blueprints.xml.append:2583
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/desc"
 msgstr ""
@@ -1202,32 +1256,32 @@ msgstr ""
 "способен пробивать щиты обычным способом, он позволяет лучу преломляться "
 "через них, по-прежнему попадая в корабль, хотя и с потерей точности."
 
-#: src-en/data/blueprints.xml.append:2502
+#: src-en/data/blueprints.xml.append:2618
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_R\"]/title"
 msgstr "Рефракционный точечный луч I"
 
-#: src-en/data/blueprints.xml.append:2503
+#: src-en/data/blueprints.xml.append:2619
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_R\"]/short"
 msgstr "Рефракц. I"
 
-#: src-en/data/blueprints.xml.append:2504
+#: src-en/data/blueprints.xml.append:2620
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_R\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2536
+#: src-en/data/blueprints.xml.append:2652
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/title"
 msgstr "Рефракционный точечный луч II"
 
-#: src-en/data/blueprints.xml.append:2537
+#: src-en/data/blueprints.xml.append:2653
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/short"
 msgstr "Рефракц. II"
 
-#: src-en/data/blueprints.xml.append:2538
+#: src-en/data/blueprints.xml.append:2654
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/desc"
 msgstr ""
@@ -1236,17 +1290,17 @@ msgstr ""
 "через них, по-прежнему попадая в корабль, хотя и с потерей точности. Более "
 "мощный, чем мод. I"
 
-#: src-en/data/blueprints.xml.append:2571
+#: src-en/data/blueprints.xml.append:2687
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/title"
 msgstr "Рефракционный точечный луч II†"
 
-#: src-en/data/blueprints.xml.append:2572
+#: src-en/data/blueprints.xml.append:2688
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/short"
 msgstr "Рефракц. II†"
 
-#: src-en/data/blueprints.xml.append:2573
+#: src-en/data/blueprints.xml.append:2689
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/desc"
 msgstr ""
@@ -1255,122 +1309,122 @@ msgstr ""
 "через них, по-прежнему попадая в корабль, хотя и с потерей точности. Более "
 "мощный, чем мод. I"
 
-#: src-en/data/blueprints.xml.append:2606
+#: src-en/data/blueprints.xml.append:2722
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_R\"]/title"
 msgstr "Рефракционный точечный луч II"
 
-#: src-en/data/blueprints.xml.append:2607
+#: src-en/data/blueprints.xml.append:2723
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_R\"]/short"
 msgstr "Рефракц. II"
 
-#: src-en/data/blueprints.xml.append:2608
+#: src-en/data/blueprints.xml.append:2724
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_R\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2639
+#: src-en/data/blueprints.xml.append:2755
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_O\"]/title"
 msgstr "Рефракционный точечный луч II"
 
-#: src-en/data/blueprints.xml.append:2640
+#: src-en/data/blueprints.xml.append:2756
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_O\"]/short"
 msgstr "Рефракц. II"
 
-#: src-en/data/blueprints.xml.append:2641
+#: src-en/data/blueprints.xml.append:2757
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_O\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2672
+#: src-en/data/blueprints.xml.append:2788
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_Y\"]/title"
 msgstr "Рефракционный точечный луч II"
 
-#: src-en/data/blueprints.xml.append:2673
+#: src-en/data/blueprints.xml.append:2789
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_Y\"]/short"
 msgstr "Рефракц. II"
 
-#: src-en/data/blueprints.xml.append:2674
+#: src-en/data/blueprints.xml.append:2790
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_Y\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2706
+#: src-en/data/blueprints.xml.append:2822
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_G\"]/title"
 msgstr "Рефракционный точечный луч II"
 
-#: src-en/data/blueprints.xml.append:2707
+#: src-en/data/blueprints.xml.append:2823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_G\"]/short"
 msgstr "Рефракц. II"
 
-#: src-en/data/blueprints.xml.append:2708
+#: src-en/data/blueprints.xml.append:2824
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_G\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2739
+#: src-en/data/blueprints.xml.append:2855
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_B\"]/title"
 msgstr "Рефракционный точечный луч II"
 
-#: src-en/data/blueprints.xml.append:2740
+#: src-en/data/blueprints.xml.append:2856
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_B\"]/short"
 msgstr "Рефракц. II"
 
-#: src-en/data/blueprints.xml.append:2741
+#: src-en/data/blueprints.xml.append:2857
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_B\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2772
+#: src-en/data/blueprints.xml.append:2888
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_I\"]/title"
 msgstr "Рефракционный точечный луч II"
 
-#: src-en/data/blueprints.xml.append:2773
+#: src-en/data/blueprints.xml.append:2889
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_I\"]/short"
 msgstr "Рефракц. II"
 
-#: src-en/data/blueprints.xml.append:2774
+#: src-en/data/blueprints.xml.append:2890
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_I\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2805
+#: src-en/data/blueprints.xml.append:2921
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_V\"]/title"
 msgstr "Рефракционный точечный луч II"
 
-#: src-en/data/blueprints.xml.append:2806
+#: src-en/data/blueprints.xml.append:2922
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_V\"]/short"
 msgstr "Рефракц. II"
 
-#: src-en/data/blueprints.xml.append:2807
+#: src-en/data/blueprints.xml.append:2923
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_V\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2854
+#: src-en/data/blueprints.xml.append:2970
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/title"
 msgstr "Мульти-точечный луч \"Массив\" [Шаблон]"
 
-#: src-en/data/blueprints.xml.append:2855
+#: src-en/data/blueprints.xml.append:2971
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/short"
 msgstr "Массив [Ш]"
 
-#: src-en/data/blueprints.xml.append:2856
+#: src-en/data/blueprints.xml.append:2972
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/desc"
 msgstr ""
@@ -1378,17 +1432,17 @@ msgstr ""
 "объединенных в одну группу и модифицированных для пробивания щитов. Текущий "
 "режим: Шаблон"
 
-#: src-en/data/blueprints.xml.append:2890
+#: src-en/data/blueprints.xml.append:3006
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/title"
 msgstr "Мульти-точечный луч \"Массив\" [Рассеяние]"
 
-#: src-en/data/blueprints.xml.append:2891
+#: src-en/data/blueprints.xml.append:3007
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/short"
 msgstr "Массив [Р]"
 
-#: src-en/data/blueprints.xml.append:2892
+#: src-en/data/blueprints.xml.append:3008
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/desc"
 msgstr ""
@@ -1396,17 +1450,17 @@ msgstr ""
 "объединенных в одну группу и модифицированных для пробивания щитов. Текущий "
 "режим: Рассеивание"
 
-#: src-en/data/blueprints.xml.append:2929
+#: src-en/data/blueprints.xml.append:3045
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/title"
 msgstr "Мульти-точечный луч \"Матрица\" [Шаблон]"
 
-#: src-en/data/blueprints.xml.append:2930
+#: src-en/data/blueprints.xml.append:3046
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/short"
 msgstr "Матрица [Ш]"
 
-#: src-en/data/blueprints.xml.append:2931
+#: src-en/data/blueprints.xml.append:3047
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/desc"
 msgstr ""
@@ -1415,17 +1469,17 @@ msgstr ""
 " вражеском корабле, но является громоздким и сложным в наведении. Текущий "
 "режим: Шаблон"
 
-#: src-en/data/blueprints.xml.append:2965
+#: src-en/data/blueprints.xml.append:3081
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/title"
 msgstr "Мульти-точечный луч \"Матрица\" [Рассеивание]"
 
-#: src-en/data/blueprints.xml.append:2966
+#: src-en/data/blueprints.xml.append:3082
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/short"
 msgstr "Матрица [Р]"
 
-#: src-en/data/blueprints.xml.append:2967
+#: src-en/data/blueprints.xml.append:3083
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/desc"
 msgstr ""
@@ -1434,17 +1488,17 @@ msgstr ""
 " вражеском корабле, но является громоздким и сложным в наведении. Текущий "
 "режим: Рассеивание"
 
-#: src-en/data/blueprints.xml.append:3014
+#: src-en/data/blueprints.xml.append:3130
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/title"
 msgstr "Точечная передача данных"
 
-#: src-en/data/blueprints.xml.append:3015
+#: src-en/data/blueprints.xml.append:3131
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/short"
 msgstr "Передача данных"
 
-#: src-en/data/blueprints.xml.append:3016
+#: src-en/data/blueprints.xml.append:3132
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/desc"
 msgstr ""
@@ -1453,17 +1507,17 @@ msgstr ""
 "пораженного члена экипажа. Однако для этого необходимо, чтобы щиты "
 "противника были отключены."
 
-#: src-en/data/blueprints.xml.append:3097
+#: src-en/data/blueprints.xml.append:3213
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/title"
 msgstr "Гаубица \"Дрожь\""
 
-#: src-en/data/blueprints.xml.append:3098
+#: src-en/data/blueprints.xml.append:3214
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/short"
 msgstr "Дрожь"
 
-#: src-en/data/blueprints.xml.append:3099
+#: src-en/data/blueprints.xml.append:3215
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/desc"
 msgstr ""
@@ -1471,69 +1525,69 @@ msgstr ""
 "наносить серьезный урон попаданиями по системе, обладает приличной точностью"
 " и скоростью перезарядки."
 
-#: src-en/data/blueprints.xml.append:3153
+#: src-en/data/blueprints.xml.append:3269
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_P\"]/title"
 msgstr "НЕТ"
 
-#: src-en/data/blueprints.xml.append:3154
+#: src-en/data/blueprints.xml.append:3270
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_P\"]/short"
 msgstr "НЕТ"
 
-#: src-en/data/blueprints.xml.append:3155
+#: src-en/data/blueprints.xml.append:3271
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_P\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:3185
+#: src-en/data/blueprints.xml.append:3301
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_S\"]/title"
 msgstr "НЕТ"
 
-#: src-en/data/blueprints.xml.append:3186
+#: src-en/data/blueprints.xml.append:3302
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_S\"]/short"
 msgstr "НЕТ"
 
-#: src-en/data/blueprints.xml.append:3187
+#: src-en/data/blueprints.xml.append:3303
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_S\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:3226
+#: src-en/data/blueprints.xml.append:3342
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_PARTICLE_MINI\"]/title"
 msgstr "Мини-пучок частиц"
 
-#: src-en/data/blueprints.xml.append:3227
+#: src-en/data/blueprints.xml.append:3343
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_PARTICLE_MINI\"]/short"
 msgstr "Мини-пучок част."
 
-#: src-en/data/blueprints.xml.append:3228
+#: src-en/data/blueprints.xml.append:3344
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_PARTICLE_MINI\"]/desc"
 msgstr ""
 "Выпускает небольшой сконцентрированный луч, который повреждает системы и "
 "вызывает возгорание, но не наносит ущерба корпусу или экипажу."
 
-#: src-en/data/blueprints.xml.append:3259
+#: src-en/data/blueprints.xml.append:3375
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/title"
 msgstr "Луч концентратор \"Циклотрон\""
 
-#: src-en/data/blueprints.xml.append:3260
+#: src-en/data/blueprints.xml.append:3376
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/short"
 msgstr "Циклотрон"
 
-#: src-en/data/blueprints.xml.append:3262
+#: src-en/data/blueprints.xml.append:3378
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:3263
+#: src-en/data/blueprints.xml.append:3379
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/descriptionOverride"
 msgstr ""
@@ -1559,7 +1613,7 @@ msgstr ""
 "\n"
 "Покупка: 70~   -   Продажа: 35~"
 
-#: src-en/data/blueprints.xml.append:3285
+#: src-en/data/blueprints.xml.append:3401
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/tooltipOverride"
 msgstr ""
@@ -1578,52 +1632,51 @@ msgstr ""
 "\n"
 "Вероятность пробоины: 20/50/80/110%"
 
-#: src-en/data/blueprints.xml.append:3338
+#: src-en/data/blueprints.xml.append:3454
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST\"]/title"
 msgstr "Морозный луч \"Полярис\""
 
-#: src-en/data/blueprints.xml.append:3339
+#: src-en/data/blueprints.xml.append:3455
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST\"]/short"
 msgstr "Полярис"
 
-#: src-en/data/blueprints.xml.append:3340
+#: src-en/data/blueprints.xml.append:3456
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST\"]/desc"
 msgstr ""
 "Это оружие выстреливает луч жидкого азота. Оно способно запирать отсеки, не позволяя большинству членов экипажа войти или выйти.\n"
 "Избыток азота также нарушает атмосферный баланс."
 
-#: src-en/data/blueprints.xml.append:3419
+#: src-en/data/blueprints.xml.append:3535
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/title"
 msgstr "Морозный луч \"Полярис\"†"
 
-#: src-en/data/blueprints.xml.append:3420
+#: src-en/data/blueprints.xml.append:3536
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/short"
 msgstr "Полярис†"
 
-#: src-en/data/blueprints.xml.append:3421
+#: src-en/data/blueprints.xml.append:3537
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/desc"
 msgstr ""
-"Это оружие выстреливает луч жидкого азота. Оно способно запирать отсеки, не "
-"позволяя большинству членов экипажа войти или выйти.\n"
+"Это оружие выстреливает луч жидкого азота. Оно способно запирать отсеки, не позволяя большинству членов экипажа войти или выйти.\n"
 "    Избыток азота также нарушает атмосферный баланс."
 
-#: src-en/data/blueprints.xml.append:3500
+#: src-en/data/blueprints.xml.append:3616
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/title"
 msgstr "Луч Щит Поппер"
 
-#: src-en/data/blueprints.xml.append:3501
+#: src-en/data/blueprints.xml.append:3617
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/short"
 msgstr "Поппи"
 
-#: src-en/data/blueprints.xml.append:3502
+#: src-en/data/blueprints.xml.append:3618
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/desc"
 msgstr ""
@@ -1631,17 +1684,17 @@ msgstr ""
 "пробивает 2 слоя щитов. Консервативные орудия не потребляют энергию "
 "напрямую, но требуют питания самой системы."
 
-#: src-en/data/blueprints.xml.append:3539
+#: src-en/data/blueprints.xml.append:3655
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/title"
 msgstr "Луч С.О.Б.Б."
 
-#: src-en/data/blueprints.xml.append:3540
+#: src-en/data/blueprints.xml.append:3656
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/short"
 msgstr "С.О.Б.Б."
 
-#: src-en/data/blueprints.xml.append:3541
+#: src-en/data/blueprints.xml.append:3657
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/desc"
 msgstr ""
@@ -1650,47 +1703,172 @@ msgstr ""
 "сбивает приближающиеся ракеты и дроны, но неэффективно против других "
 "кораблей."
 
-#: src-en/data/blueprints.xml.append:3564
+#: src-en/data/blueprints.xml.append:3680
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3565
+#: src-en/data/blueprints.xml.append:3681
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3566
+#: src-en/data/blueprints.xml.append:3682
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ\"]/desc"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3591
+#: src-en/data/blueprints.xml.append:3707
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ_2\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3592
+#: src-en/data/blueprints.xml.append:3708
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ_2\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3593
+#: src-en/data/blueprints.xml.append:3709
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ_2\"]/desc"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3630
+#: src-en/data/blueprints.xml.append:3761
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3762
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3763
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3766
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3778
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/tooltipOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3800
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3801
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3802
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3805
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3817
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/tooltipOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3839
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3840
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3841
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3844
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3856
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/tooltipOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3878
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3879
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3880
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3883
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3897
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/tooltipOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3921
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3922
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3923
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3926
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3940
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/tooltipOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3971
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/title"
 msgstr "Луч дезинтегратор \"Ира\""
 
-#: src-en/data/blueprints.xml.append:3631
+#: src-en/data/blueprints.xml.append:3972
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/short"
 msgstr "Ира"
 
-#: src-en/data/blueprints.xml.append:3632
+#: src-en/data/blueprints.xml.append:3973
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/desc"
 msgstr ""
@@ -1698,17 +1876,17 @@ msgstr ""
 "\n"
 "Пробивает 1 щита, -4 ОЗ/с и 0.5х исцеление и ремонт экипажа."
 
-#: src-en/data/blueprints.xml.append:3702
+#: src-en/data/blueprints.xml.append:4043
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/title"
 msgstr "Луч дезинтегратор \"Ангорис\""
 
-#: src-en/data/blueprints.xml.append:3703
+#: src-en/data/blueprints.xml.append:4044
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/short"
 msgstr "Ангорис"
 
-#: src-en/data/blueprints.xml.append:3704
+#: src-en/data/blueprints.xml.append:4045
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/desc"
 msgstr ""
@@ -1716,17 +1894,17 @@ msgstr ""
 "\n"
 "Пробивает 1 щита, -4 ОЗ/с и 0.5х исцеление и ремонт экипажа."
 
-#: src-en/data/blueprints.xml.append:3774
+#: src-en/data/blueprints.xml.append:4115
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/title"
 msgstr "Луч дезинтегратор \"Долор\""
 
-#: src-en/data/blueprints.xml.append:3775
+#: src-en/data/blueprints.xml.append:4116
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/short"
 msgstr "Долор"
 
-#: src-en/data/blueprints.xml.append:3776
+#: src-en/data/blueprints.xml.append:4117
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/desc"
 msgstr ""
@@ -1734,17 +1912,17 @@ msgstr ""
 "\n"
 "Пробивает 2 щита, -8 ОЗ/с и 0.25х исцеление и ремонт экипажа."
 
-#: src-en/data/blueprints.xml.append:3847
+#: src-en/data/blueprints.xml.append:4188
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/title"
 msgstr "Луч дезинтегратор \"Торментум\""
 
-#: src-en/data/blueprints.xml.append:3848
+#: src-en/data/blueprints.xml.append:4189
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/short"
 msgstr "Торментум"
 
-#: src-en/data/blueprints.xml.append:3849
+#: src-en/data/blueprints.xml.append:4190
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/desc"
 msgstr ""
@@ -1752,17 +1930,17 @@ msgstr ""
 "\n"
 "Пробивает 3 щита, -8 ОЗ/с и 0.0х исцеление и ремонт экипажа."
 
-#: src-en/data/blueprints.xml.append:3920
+#: src-en/data/blueprints.xml.append:4261
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/title"
 msgstr "Луч дезинтегратор хаоса огня \"Арде\""
 
-#: src-en/data/blueprints.xml.append:3921
+#: src-en/data/blueprints.xml.append:4262
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/short"
 msgstr "Арде"
 
-#: src-en/data/blueprints.xml.append:3922
+#: src-en/data/blueprints.xml.append:4263
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/desc"
 msgstr ""
@@ -1770,17 +1948,17 @@ msgstr ""
 "\n"
 "Пробивает 1 щит, -3 ОЗ/с и 0.5х исцеление и ремонт экипажа."
 
-#: src-en/data/blueprints.xml.append:4071
+#: src-en/data/blueprints.xml.append:4412
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/title"
 msgstr "Луч дезинтегратор хаоса изоляции \"Импедио\""
 
-#: src-en/data/blueprints.xml.append:4072
+#: src-en/data/blueprints.xml.append:4413
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/short"
 msgstr "Импедио"
 
-#: src-en/data/blueprints.xml.append:4073
+#: src-en/data/blueprints.xml.append:4414
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/desc"
 msgstr ""
@@ -1788,17 +1966,17 @@ msgstr ""
 "\n"
 "Пробивает 1 щит, -3 ОЗ/с и 0.5х исцеление и ремонт экипажа."
 
-#: src-en/data/blueprints.xml.append:4269
+#: src-en/data/blueprints.xml.append:4610
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/title"
 msgstr "Хаотический луч дезинтегратор \"Ира\""
 
-#: src-en/data/blueprints.xml.append:4270
+#: src-en/data/blueprints.xml.append:4611
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/short"
 msgstr "Ира™"
 
-#: src-en/data/blueprints.xml.append:4271
+#: src-en/data/blueprints.xml.append:4612
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/desc"
 msgstr ""
@@ -1806,17 +1984,17 @@ msgstr ""
 "\n"
 "Пробивает 3 щита, -4 ОЗ/с и 0.5х исцеление и ремонт экипажа."
 
-#: src-en/data/blueprints.xml.append:4346
+#: src-en/data/blueprints.xml.append:4687
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/title"
 msgstr "Хаотический луч дезинтегратор \"Ангорис\""
 
-#: src-en/data/blueprints.xml.append:4347
+#: src-en/data/blueprints.xml.append:4688
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/short"
 msgstr "Ангорис™"
 
-#: src-en/data/blueprints.xml.append:4348
+#: src-en/data/blueprints.xml.append:4689
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/desc"
 msgstr ""
@@ -1824,17 +2002,17 @@ msgstr ""
 "\n"
 "Пробивает 3 щита, -4 ОЗ/с и 0.5х исцеление и ремонт экипажа."
 
-#: src-en/data/blueprints.xml.append:4423
+#: src-en/data/blueprints.xml.append:4764
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/title"
 msgstr "Хаотический луч дезинтегратор \"Долор\""
 
-#: src-en/data/blueprints.xml.append:4424
+#: src-en/data/blueprints.xml.append:4765
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/short"
 msgstr "Долор™"
 
-#: src-en/data/blueprints.xml.append:4425
+#: src-en/data/blueprints.xml.append:4766
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/desc"
 msgstr ""
@@ -1842,17 +2020,17 @@ msgstr ""
 "\n"
 "Пробивает 4 щита, -4 ОЗ/с и 0.25х исцеление и ремонт экипажа."
 
-#: src-en/data/blueprints.xml.append:4501
+#: src-en/data/blueprints.xml.append:4842
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/title"
 msgstr "Хаотический луч дезинтегратор \"Торментум\""
 
-#: src-en/data/blueprints.xml.append:4502
+#: src-en/data/blueprints.xml.append:4843
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/short"
 msgstr "Торментум™"
 
-#: src-en/data/blueprints.xml.append:4503
+#: src-en/data/blueprints.xml.append:4844
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/desc"
 msgstr ""
@@ -1860,17 +2038,17 @@ msgstr ""
 "\n"
 "Пробивает 5 щитов, -4 ОЗ/с и 0.0х исцеление и ремонт экипажа."
 
-#: src-en/data/blueprints.xml.append:4579
+#: src-en/data/blueprints.xml.append:4920
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/title"
 msgstr "Хаотический луч дезинтегратор хаоса огня \"Арде\""
 
-#: src-en/data/blueprints.xml.append:4580
+#: src-en/data/blueprints.xml.append:4921
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/short"
 msgstr "Арде™"
 
-#: src-en/data/blueprints.xml.append:4581
+#: src-en/data/blueprints.xml.append:4922
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/desc"
 msgstr ""
@@ -1878,17 +2056,17 @@ msgstr ""
 "\n"
 "Пробивает 3 щита, -3 ОЗ/с и 0.5х исцеление и ремонт экипажа."
 
-#: src-en/data/blueprints.xml.append:4735
+#: src-en/data/blueprints.xml.append:5076
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/title"
 msgstr "Хаотический луч дезинтегратор хаоса изоляции \"Импедио\""
 
-#: src-en/data/blueprints.xml.append:4736
+#: src-en/data/blueprints.xml.append:5077
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/short"
 msgstr "Импедио™"
 
-#: src-en/data/blueprints.xml.append:4737
+#: src-en/data/blueprints.xml.append:5078
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/desc"
 msgstr ""
@@ -1896,17 +2074,17 @@ msgstr ""
 "\n"
 "Пробивает 3 щита, -3 ОЗ/с и 0.5х исцеление и ремонт экипажа."
 
-#: src-en/data/blueprints.xml.append:4938
+#: src-en/data/blueprints.xml.append:5279
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/title"
 msgstr "Элитный луч дезинтегратор \"Ира\""
 
-#: src-en/data/blueprints.xml.append:4939
+#: src-en/data/blueprints.xml.append:5280
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/short"
 msgstr "€ Ира"
 
-#: src-en/data/blueprints.xml.append:4940
+#: src-en/data/blueprints.xml.append:5281
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/desc"
 msgstr ""
@@ -1914,17 +2092,17 @@ msgstr ""
 "\n"
 "Пробивает 3 щита, -6 ОЗ/с и 0.25х исцеление и ремонт экипажа."
 
-#: src-en/data/blueprints.xml.append:5015
+#: src-en/data/blueprints.xml.append:5356
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/title"
 msgstr "Элитный луч дезинтегратор \"Ангорис\""
 
-#: src-en/data/blueprints.xml.append:5016
+#: src-en/data/blueprints.xml.append:5357
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/short"
 msgstr "€ Ангорис"
 
-#: src-en/data/blueprints.xml.append:5017
+#: src-en/data/blueprints.xml.append:5358
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/desc"
 msgstr ""
@@ -1932,17 +2110,17 @@ msgstr ""
 "\n"
 "Пробивает 3 щита, -6 ОЗ/с и 0.25х исцеление и ремонт экипажа."
 
-#: src-en/data/blueprints.xml.append:5092
+#: src-en/data/blueprints.xml.append:5433
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/title"
 msgstr "Элитный луч дезинтегратор \"Долор\""
 
-#: src-en/data/blueprints.xml.append:5093
+#: src-en/data/blueprints.xml.append:5434
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/short"
 msgstr "€ Долор"
 
-#: src-en/data/blueprints.xml.append:5094
+#: src-en/data/blueprints.xml.append:5435
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/desc"
 msgstr ""
@@ -1950,17 +2128,17 @@ msgstr ""
 "\n"
 "Пробивает 4 щита, -12 ОЗ/с и 0.0х исцеление и ремонт экипажа."
 
-#: src-en/data/blueprints.xml.append:5170
+#: src-en/data/blueprints.xml.append:5511
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/title"
 msgstr "Элитный луч дезинтегратор \"Торментум\""
 
-#: src-en/data/blueprints.xml.append:5171
+#: src-en/data/blueprints.xml.append:5512
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/short"
 msgstr "€ Торментум"
 
-#: src-en/data/blueprints.xml.append:5172
+#: src-en/data/blueprints.xml.append:5513
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/desc"
 msgstr ""
@@ -1968,17 +2146,17 @@ msgstr ""
 "\n"
 "Пробивает 5 щитов, -6 ОЗ/с и 0.25х исцеление и ремонт экипажа."
 
-#: src-en/data/blueprints.xml.append:5257
+#: src-en/data/blueprints.xml.append:5598
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/title"
 msgstr "Элитный луч дезинтегратор хаоса огня \"Арде\""
 
-#: src-en/data/blueprints.xml.append:5258
+#: src-en/data/blueprints.xml.append:5599
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/short"
 msgstr "€ Арде"
 
-#: src-en/data/blueprints.xml.append:5259
+#: src-en/data/blueprints.xml.append:5600
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/desc"
 msgstr ""
@@ -1986,17 +2164,17 @@ msgstr ""
 "\n"
 "Пробивает 3 щита, -4 ОЗ/с и 0.25х исцеление и ремонт экипажа."
 
-#: src-en/data/blueprints.xml.append:5413
+#: src-en/data/blueprints.xml.append:5754
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/title"
 msgstr "Элитный луч дезинтегратор хаоса изоляции \"Импедио\""
 
-#: src-en/data/blueprints.xml.append:5414
+#: src-en/data/blueprints.xml.append:5755
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/short"
 msgstr "€ Импедио"
 
-#: src-en/data/blueprints.xml.append:5415
+#: src-en/data/blueprints.xml.append:5756
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/desc"
 msgstr ""
@@ -2004,17 +2182,17 @@ msgstr ""
 "\n"
 "Пробивает 3 щита, -4 ОЗ/с и 0.25х исцеление и ремонт экипажа."
 
-#: src-en/data/blueprints.xml.append:5645
+#: src-en/data/blueprints.xml.append:5986
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/title"
 msgstr "Арт. сирен \"Похититель\""
 
-#: src-en/data/blueprints.xml.append:5646
+#: src-en/data/blueprints.xml.append:5987
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/short"
 msgstr "Похититель"
 
-#: src-en/data/blueprints.xml.append:5647
+#: src-en/data/blueprints.xml.append:5988
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/desc"
 msgstr ""
@@ -2023,22 +2201,22 @@ msgstr ""
 "них оглушение. Для работы требуется система телепортатора. [Базовая "
 "перезарядка: 15]"
 
-#: src-en/data/blueprints.xml.append:5648
+#: src-en/data/blueprints.xml.append:5989
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/tooltip"
 msgstr "Артиллерия сирен \"Похититель\". [Базовая перезарядка: 15]"
 
-#: src-en/data/blueprints.xml.append:5674
+#: src-en/data/blueprints.xml.append:6015
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/title"
 msgstr "Арт. сирен \"Калейдоскоп\""
 
-#: src-en/data/blueprints.xml.append:5675
+#: src-en/data/blueprints.xml.append:6016
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/short"
 msgstr "Калейдоскоп"
 
-#: src-en/data/blueprints.xml.append:5676
+#: src-en/data/blueprints.xml.append:6017
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/desc"
 msgstr ""
@@ -2047,22 +2225,22 @@ msgstr ""
 "эффекты: огонь, частицы, ремонт, оглушение, пробоина, энергия, ионы, мороз, "
 "взлом, радиация."
 
-#: src-en/data/blueprints.xml.append:5677
+#: src-en/data/blueprints.xml.append:6018
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/tooltip"
 msgstr "Артиллерия сирен \"Калейдоскоп\". [Базовая перезарядка: 16] КОЖЛЗГСИФП"
 
-#: src-en/data/blueprints.xml.append:5707
+#: src-en/data/blueprints.xml.append:6048
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/title"
 msgstr "Арт. сирен хаоса огня"
 
-#: src-en/data/blueprints.xml.append:5708
+#: src-en/data/blueprints.xml.append:6049
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/short"
 msgstr "Хаос огня"
 
-#: src-en/data/blueprints.xml.append:5709
+#: src-en/data/blueprints.xml.append:6050
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/desc"
 msgstr ""
@@ -2072,222 +2250,222 @@ msgstr ""
 "наносить урон даже огнеупорному экипажу. Пробивает 2 щита. [Базовая "
 "перезарядка: 40]"
 
-#: src-en/data/blueprints.xml.append:5710
+#: src-en/data/blueprints.xml.append:6051
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/tooltip"
 msgstr "Артиллерия сирен хаоса огня. [Базовая перезарядка: 40]"
 
-#: src-en/data/blueprints.xml.append:5848
+#: src-en/data/blueprints.xml.append:6189
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5849
+#: src-en/data/blueprints.xml.append:6190
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5850
+#: src-en/data/blueprints.xml.append:6191
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
-#: src-en/data/blueprints.xml.append:5851
+#: src-en/data/blueprints.xml.append:6192
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5881
+#: src-en/data/blueprints.xml.append:6222
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5882
+#: src-en/data/blueprints.xml.append:6223
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5883
+#: src-en/data/blueprints.xml.append:6224
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
-#: src-en/data/blueprints.xml.append:5884
+#: src-en/data/blueprints.xml.append:6225
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5914
+#: src-en/data/blueprints.xml.append:6255
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5915
+#: src-en/data/blueprints.xml.append:6256
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5916
+#: src-en/data/blueprints.xml.append:6257
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
-#: src-en/data/blueprints.xml.append:5917
+#: src-en/data/blueprints.xml.append:6258
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5949
+#: src-en/data/blueprints.xml.append:6290
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5950
+#: src-en/data/blueprints.xml.append:6291
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5951
+#: src-en/data/blueprints.xml.append:6292
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
-#: src-en/data/blueprints.xml.append:5952
+#: src-en/data/blueprints.xml.append:6293
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5983
+#: src-en/data/blueprints.xml.append:6324
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5984
+#: src-en/data/blueprints.xml.append:6325
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:5985
+#: src-en/data/blueprints.xml.append:6326
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
-#: src-en/data/blueprints.xml.append:5986
+#: src-en/data/blueprints.xml.append:6327
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6016
+#: src-en/data/blueprints.xml.append:6357
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6017
+#: src-en/data/blueprints.xml.append:6358
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6018
+#: src-en/data/blueprints.xml.append:6359
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
-#: src-en/data/blueprints.xml.append:6019
+#: src-en/data/blueprints.xml.append:6360
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6053
+#: src-en/data/blueprints.xml.append:6394
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6054
+#: src-en/data/blueprints.xml.append:6395
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6055
+#: src-en/data/blueprints.xml.append:6396
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
-#: src-en/data/blueprints.xml.append:6056
+#: src-en/data/blueprints.xml.append:6397
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6089
+#: src-en/data/blueprints.xml.append:6430
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6090
+#: src-en/data/blueprints.xml.append:6431
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6091
+#: src-en/data/blueprints.xml.append:6432
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
-#: src-en/data/blueprints.xml.append:6092
+#: src-en/data/blueprints.xml.append:6433
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6167
+#: src-en/data/blueprints.xml.append:6508
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6168
+#: src-en/data/blueprints.xml.append:6509
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6169
+#: src-en/data/blueprints.xml.append:6510
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
-#: src-en/data/blueprints.xml.append:6170
+#: src-en/data/blueprints.xml.append:6511
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6201
+#: src-en/data/blueprints.xml.append:6542
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6202
+#: src-en/data/blueprints.xml.append:6543
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6203
+#: src-en/data/blueprints.xml.append:6544
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ВИДЕТЬ ЭТО В ИГРЕ"
 
-#: src-en/data/blueprints.xml.append:6204
+#: src-en/data/blueprints.xml.append:6545
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6242
+#: src-en/data/blueprints.xml.append:6583
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/title"
 msgstr "Хаотичная арт. \"Сьюсс\""
 
-#: src-en/data/blueprints.xml.append:6243
+#: src-en/data/blueprints.xml.append:6584
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/short"
 msgstr "Сьюсс™"
 
-#: src-en/data/blueprints.xml.append:6244
+#: src-en/data/blueprints.xml.append:6585
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/desc"
 msgstr ""
@@ -2296,22 +2474,22 @@ msgstr ""
 "экипажа, по которому он попадает, отключая их активные способности. Союзные "
 "жуткие и сирены вместо этого исцеляются. [Базовая перезарядка: 30]"
 
-#: src-en/data/blueprints.xml.append:6245
+#: src-en/data/blueprints.xml.append:6586
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/tooltip"
 msgstr "Хаотичная артиллерия \"Сьюсс\". [Базовая перезарядка: 30]"
 
-#: src-en/data/blueprints.xml.append:6340
+#: src-en/data/blueprints.xml.append:6681
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/title"
 msgstr "\"Лазурный меч мечты\""
 
-#: src-en/data/blueprints.xml.append:6341
+#: src-en/data/blueprints.xml.append:6682
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/short"
 msgstr "Лазурный меч"
 
-#: src-en/data/blueprints.xml.append:6342
+#: src-en/data/blueprints.xml.append:6683
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/desc"
 msgstr ""
@@ -2321,17 +2499,17 @@ msgstr ""
 "отсеках будут подвержены дебаффу \"мороз\", а союзники получат возможность "
 "проходить сквозь двери и небольшое исцеление. [Базовая перезарядка: 40]"
 
-#: src-en/data/blueprints.xml.append:6475
+#: src-en/data/blueprints.xml.append:6816
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/title"
 msgstr "Дезинтег. арт. Ее \"Торментум\" :)"
 
-#: src-en/data/blueprints.xml.append:6476
+#: src-en/data/blueprints.xml.append:6817
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/short"
 msgstr "€ Торментум :)"
 
-#: src-en/data/blueprints.xml.append:6477
+#: src-en/data/blueprints.xml.append:6818
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/desc"
 msgstr ""
@@ -2341,37 +2519,37 @@ msgstr ""
 " всем пораженным членам экипажа, а также полностью предотвращает исцеление и"
 " ремонт. [Базовая перезарядка: 60]"
 
-#: src-en/data/blueprints.xml.append:6478
+#: src-en/data/blueprints.xml.append:6819
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/tooltip"
 msgstr "Артиллерия Ее \"Торментум\" :) [Базовая перезарядка: 60]"
 
-#: src-en/data/blueprints.xml.append:6674
+#: src-en/data/blueprints.xml.append:7015
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/title"
 msgstr "Лазурный осколок"
 
-#: src-en/data/blueprints.xml.append:6675
+#: src-en/data/blueprints.xml.append:7016
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/short"
 msgstr "Лазурный"
 
-#: src-en/data/blueprints.xml.append:6676
+#: src-en/data/blueprints.xml.append:7017
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/desc"
 msgstr "ЛАЗУРНЫЙ КРИСТАЛЛ ВЕНГ СНАРЯДА"
 
-#: src-en/data/blueprints.xml.append:6830
+#: src-en/data/blueprints.xml.append:7171
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/class"
 msgstr "МВ-транспорт сирен"
 
-#: src-en/data/blueprints.xml.append:6831
+#: src-en/data/blueprints.xml.append:7172
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/name"
 msgstr "Аой Юмэ"
 
-#: src-en/data/blueprints.xml.append:6832
+#: src-en/data/blueprints.xml.append:7173
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/desc"
 msgstr ""
@@ -2380,17 +2558,17 @@ msgstr ""
 "на этом корабле, работающие вместе, являются исключением из этого "
 "стереотипа."
 
-#: src-en/data/blueprints.xml.append:6911
+#: src-en/data/blueprints.xml.append:7252
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/class"
 msgstr "Развалившийся транспорт сирен"
 
-#: src-en/data/blueprints.xml.append:6912
+#: src-en/data/blueprints.xml.append:7253
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/name"
 msgstr "Разбитая мечта"
 
-#: src-en/data/blueprints.xml.append:6913
+#: src-en/data/blueprints.xml.append:7254
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/desc"
 msgstr ""
@@ -2399,17 +2577,17 @@ msgstr ""
 "понравились его \"красивые цвета\". Однако особое оружие сирен все еще "
 "работоспособно."
 
-#: src-en/data/blueprints.xml.append:6990
+#: src-en/data/blueprints.xml.append:7331
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/class"
 msgstr "Транспортный корабль сирен"
 
-#: src-en/data/blueprints.xml.append:6991
+#: src-en/data/blueprints.xml.append:7332
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/name"
 msgstr "Телксиопа"
 
-#: src-en/data/blueprints.xml.append:6992
+#: src-en/data/blueprints.xml.append:7333
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/desc"
 msgstr ""
@@ -2418,51 +2596,51 @@ msgstr ""
 " луч оглушает и похищает любого члена экипажа, попадающего под его действие,"
 " делая их легкой добычей - одна из любимых тактик сирен."
 
-#: src-en/data/blueprints.xml.append:7071
+#: src-en/data/blueprints.xml.append:7412
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/class"
 msgstr "Транспортный корабль сирен"
 
-#: src-en/data/blueprints.xml.append:7072
+#: src-en/data/blueprints.xml.append:7413
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/name"
 msgstr "Партенопа"
 
-#: src-en/data/blueprints.xml.append:7073
+#: src-en/data/blueprints.xml.append:7414
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/desc"
 msgstr ""
 "Полностью погруженный в хаос, этот корабль оснащен артиллерией, которая "
 "стреляет одним из 8 различных лучей совершенно случайным образом."
 
-#: src-en/data/blueprints.xml.append:7155
+#: src-en/data/blueprints.xml.append:7496
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/class"
 msgstr "Транспортный корабль сирен"
 
-#: src-en/data/blueprints.xml.append:7156
+#: src-en/data/blueprints.xml.append:7497
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/name"
 msgstr "Гимеропа"
 
-#: src-en/data/blueprints.xml.append:7157
+#: src-en/data/blueprints.xml.append:7498
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/desc"
 msgstr ""
 "Какой вкус у снов, если их приготовить? Эта пара Гарпий-сирен решила это "
 "выяснить, установив артиллерийский луч, способный сжечь все на своем пути."
 
-#: src-en/data/blueprints.xml.append:7236
+#: src-en/data/blueprints.xml.append:7577
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/class"
 msgstr "Транспорт Того, Кто Рифмует"
 
-#: src-en/data/blueprints.xml.append:7237
+#: src-en/data/blueprints.xml.append:7578
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/name"
 msgstr "Йидра"
 
-#: src-en/data/blueprints.xml.append:7238
+#: src-en/data/blueprints.xml.append:7579
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/desc"
 msgstr ""
@@ -2470,17 +2648,17 @@ msgstr ""
 "\"перевозит\" ужасающе большую и мощную лучевую пушку. Однако это "
 "достигается за счет его реактора и средств защиты, помимо его жуткого щита."
 
-#: src-en/data/blueprints.xml.append:7315
+#: src-en/data/blueprints.xml.append:7656
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/class"
 msgstr "Корабль Лили"
 
-#: src-en/data/blueprints.xml.append:7316
+#: src-en/data/blueprints.xml.append:7657
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/name"
 msgstr "Звезда Пустоты"
 
-#: src-en/data/blueprints.xml.append:7317
+#: src-en/data/blueprints.xml.append:7658
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/desc"
 msgstr ""
