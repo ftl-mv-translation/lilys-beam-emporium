@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-11-28 13:59+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Japanese <https://weblate.hyperq.be/projects/"
+"lilys-beam-emporium/dataevents_special_storagexmlappend/ja/>\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_storage.xml.append:6
 msgid ""
@@ -38,6 +45,7 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:36
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[5]/text"
 msgstr "何でもない。"
