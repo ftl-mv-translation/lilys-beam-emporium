@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-11-28 13:59+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/"
+"lilys-beam-emporium/dataevents_special_storagexmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_storage.xml.append:6
 msgid ""
@@ -24,6 +31,7 @@ msgid ""
 msgstr "Lui demander de vous rappeler son passé."
 
 #: src-en/data/events_special_storage.xml.append:24
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[2]/text"
 msgstr "Lui demander des informations sur les armes à rayons spéciaux."
@@ -40,6 +48,7 @@ msgid ""
 msgstr "Elle vous accompagne déjà."
 
 #: src-en/data/events_special_storage.xml.append:36
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[5]/text"
 msgstr "Laisser tomber."
@@ -50,14 +59,18 @@ msgid ""
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_storage.xml.append:50
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/text"
 msgstr ""
-"Oh, vous voulez l'une de ces armes à rayons sophistiqués que personne d'autre n'a ?\n"
+"Oh, vous voulez l'une de ces armes à rayons sophistiqués que personne "
+"d'autre n'a ?\n"
 "Eh bien, nous avons quelque chose en commun, alors...\n"
-"Procurez vous les matériaux et les connaissances nécessaires, et je les partagerai volontiers avec vous."
+"Procurez vous les matériaux et les connaissances nécessaires, et je les "
+"partagerai volontiers avec vous."
 
 #: src-en/data/events_special_storage.xml.append:55
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[1]/text"
 msgstr "Lui demander des informations sur les armes Éther."
@@ -457,6 +470,7 @@ msgid ""
 msgstr "Lily"
 
 #: src-en/data/events_special_storage.xml.append:579
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"BLUELIST_AETHER\"]/text"
 msgstr "(Technologie Éther) Installer la technologie et l'utiliser [30~, 5|]"
