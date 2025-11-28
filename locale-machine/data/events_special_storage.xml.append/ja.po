@@ -26,18 +26,17 @@ msgstr "彼女の過去について思い出させるよう頼む。"
 #: src-en/data/events_special_storage.xml.append:24
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[2]/text"
-msgstr "特別なビーム兵器について尋ねる。"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:28
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[@req=\"unique_lily_avatar\""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[@req=\"LIST_CREW_LILY_AVATAR\""
 " and @lvl=\"-999\"]/text"
 msgstr "彼女に直接仲間になるよう頼む。"
 
 #: src-en/data/events_special_storage.xml.append:32
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[@req=\"unique_lily_avatar\""
-" and @lvl=\"1\"]/text"
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[4]/text"
 msgstr "彼女は既にあなたに同行している。"
 
 #: src-en/data/events_special_storage.xml.append:36
@@ -45,30 +44,32 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[5]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:46
+#: src-en/data/events_special_storage.xml.append:40
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/text"
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[6]/text"
 msgstr ""
-"おや、誰も持っていないような派手なビーム兵器が欲しいのかい？――\n"
-"ふむ、それなら共通点があるな――\n"
-"必要な材料と知識を手に入れれば、喜んで共有しよう――"
 
 #: src-en/data/events_special_storage.xml.append:50
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[1]/text"
-msgstr "エーテルビームについて尋ねる。"
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/text"
+msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:54
+#: src-en/data/events_special_storage.xml.append:55
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:59
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[2]/text"
 msgstr "さらなる対話選択肢は今後のアップデートで追加されます。"
 
-#: src-en/data/events_special_storage.xml.append:58
+#: src-en/data/events_special_storage.xml.append:63
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:69
+#: src-en/data/events_special_storage.xml.append:74
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/text"
 msgstr ""
@@ -78,326 +79,326 @@ msgstr ""
 "でもいいだろう、材料をいくつか持ってきてくれれば、君のために一つ作ってあげよう――\n"
 "古代技術のかけらが2-3個あれば十分だ――"
 
-#: src-en/data/events_special_storage.xml.append:75
+#: src-en/data/events_special_storage.xml.append:80
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"-999\"]/text"
 msgstr "[現在の部品: 0]"
 
-#: src-en/data/events_special_storage.xml.append:79
+#: src-en/data/events_special_storage.xml.append:84
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"1\"]/text"
 msgstr "[現在の部品: 1]"
 
-#: src-en/data/events_special_storage.xml.append:83
+#: src-en/data/events_special_storage.xml.append:88
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"2\"]/text"
 msgstr "[現在の部品: 2]"
 
-#: src-en/data/events_special_storage.xml.append:87
+#: src-en/data/events_special_storage.xml.append:92
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"3\"]/text"
 msgstr "[現在の部品: 3]"
 
-#: src-en/data/events_special_storage.xml.append:91
+#: src-en/data/events_special_storage.xml.append:96
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"4\"]/text"
 msgstr "[現在の部品: 4]"
 
-#: src-en/data/events_special_storage.xml.append:95
+#: src-en/data/events_special_storage.xml.append:100
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"5\"]/text"
 msgstr "[現在の部品: 5]"
 
-#: src-en/data/events_special_storage.xml.append:99
+#: src-en/data/events_special_storage.xml.append:104
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"6\"]/text"
 msgstr "[現在の部品: 6]"
 
-#: src-en/data/events_special_storage.xml.append:103
+#: src-en/data/events_special_storage.xml.append:108
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"7\"]/text"
 msgstr "[現在の部品: 7]"
 
-#: src-en/data/events_special_storage.xml.append:107
+#: src-en/data/events_special_storage.xml.append:112
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"8\"]/text"
 msgstr "[現在の部品: 8]"
 
-#: src-en/data/events_special_storage.xml.append:111
+#: src-en/data/events_special_storage.xml.append:116
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"9\"]/text"
 msgstr "[現在の部品: 9]"
 
-#: src-en/data/events_special_storage.xml.append:115
+#: src-en/data/events_special_storage.xml.append:120
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"10\"]/text"
 msgstr "[現在の部品: 10]"
 
-#: src-en/data/events_special_storage.xml.append:119
+#: src-en/data/events_special_storage.xml.append:124
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"11\"]/text"
 msgstr "[現在の部品: 10+]"
 
-#: src-en/data/events_special_storage.xml.append:123
+#: src-en/data/events_special_storage.xml.append:128
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[13]/text"
 msgstr "部品として使うための技術を彼女に渡す。"
 
-#: src-en/data/events_special_storage.xml.append:127
+#: src-en/data/events_special_storage.xml.append:132
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[14]/text"
 msgstr "渡した部品で新しい武器を作るよう頼む。"
 
-#: src-en/data/events_special_storage.xml.append:131
+#: src-en/data/events_special_storage.xml.append:136
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[15]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:137
+#: src-en/data/events_special_storage.xml.append:142
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/text"
 msgstr "渡すものを選択してください:"
 
-#: src-en/data/events_special_storage.xml.append:139
+#: src-en/data/events_special_storage.xml.append:144
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER\"]/text"
 msgstr "古代レーザー I を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:149
+#: src-en/data/events_special_storage.xml.append:154
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_2\"]/text"
 msgstr "古代レーザー II を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:159
+#: src-en/data/events_special_storage.xml.append:164
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_3\"]/text"
 msgstr "古代レーザー III を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:169
+#: src-en/data/events_special_storage.xml.append:174
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BEAM\"]/text"
 msgstr "古代ビーム I を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:179
+#: src-en/data/events_special_storage.xml.append:184
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[5]/text"
 msgstr "古代ビーム II を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:189
+#: src-en/data/events_special_storage.xml.append:194
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[6]/text"
 msgstr "古代ビーム III を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:199
+#: src-en/data/events_special_storage.xml.append:204
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS\"]/text"
 msgstr "古代ピンポイント I を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:209
+#: src-en/data/events_special_storage.xml.append:214
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS_2\"]/text"
 msgstr "古代ピンポイント II を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:219
+#: src-en/data/events_special_storage.xml.append:224
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"HAVOC\"]/text"
 msgstr "古代ハヴォサイザー を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:229
+#: src-en/data/events_special_storage.xml.append:234
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_MISSILES\"]/text"
 msgstr "古代ミサイルランチャー を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:239
+#: src-en/data/events_special_storage.xml.append:244
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BOMB\"]/text"
 msgstr "古代ボムランチャー を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:249
+#: src-en/data/events_special_storage.xml.append:254
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_MINELAUNCHER\"]/text"
 msgstr "古代マインランチャー を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:259
+#: src-en/data/events_special_storage.xml.append:264
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_ION_1\"]/text"
 msgstr "古代プラズマランチャー I を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:269
+#: src-en/data/events_special_storage.xml.append:274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_ION_2\"]/text"
 msgstr "古代プラズマランチャー II を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:279
+#: src-en/data/events_special_storage.xml.append:284
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[15]/text"
 msgstr "古代ピースキーパー を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:289
+#: src-en/data/events_special_storage.xml.append:294
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[16]/text"
 msgstr "古代ピースキーパー を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:299
+#: src-en/data/events_special_storage.xml.append:304
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_LASER\"]/text"
 msgstr "古代レーザードローン を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:309
+#: src-en/data/events_special_storage.xml.append:314
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_ION\"]/text"
 msgstr "古代イオンドローン を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:319
+#: src-en/data/events_special_storage.xml.append:324
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_MISSILE\"]/text"
 msgstr "古代ミサイルドローン を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:329
+#: src-en/data/events_special_storage.xml.append:334
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_DEFENSE_1\"]/text"
 msgstr "古代オーバーウォッチャードローン を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:339
+#: src-en/data/events_special_storage.xml.append:344
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"MENDER\"]/text"
 msgstr "古代メンダー を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:349
+#: src-en/data/events_special_storage.xml.append:354
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"DIRECTOR\"]/text"
 msgstr "古代ディレクター を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:359
+#: src-en/data/events_special_storage.xml.append:364
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_DEFEND\"]/text"
 msgstr "古代アトマイザー を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:369
+#: src-en/data/events_special_storage.xml.append:374
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_BOARDER\"]/text"
 msgstr "古代アトマイザー を提供する。"
 
-#: src-en/data/events_special_storage.xml.append:379
+#: src-en/data/events_special_storage.xml.append:384
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[25]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:386
+#: src-en/data/events_special_storage.xml.append:391
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/text"
 msgstr "作成したいものを選択してください:"
 
-#: src-en/data/events_special_storage.xml.append:389
+#: src-en/data/events_special_storage.xml.append:394
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"5\"]/text"
 msgstr "ロイヤル・イラディケーター III を作成する。[5 pts]"
 
-#: src-en/data/events_special_storage.xml.append:399
+#: src-en/data/events_special_storage.xml.append:404
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[2]/text"
 msgstr "ロイヤル・イラディケーター III を作成する。[5 pts]"
 
-#: src-en/data/events_special_storage.xml.append:404
+#: src-en/data/events_special_storage.xml.append:409
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[3]/text"
 msgstr "ロイヤル・ピュリファイア を作成する。[4 pts]"
 
-#: src-en/data/events_special_storage.xml.append:414
+#: src-en/data/events_special_storage.xml.append:419
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[4]/text"
 msgstr "ロイヤル・ピュリファイア を作成する。[4 pts]"
 
-#: src-en/data/events_special_storage.xml.append:419
+#: src-en/data/events_special_storage.xml.append:424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[5]/text"
 msgstr "ロイヤル・ハヴォサイザー を作成する。[4 pts]"
 
-#: src-en/data/events_special_storage.xml.append:429
+#: src-en/data/events_special_storage.xml.append:434
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[6]/text"
 msgstr "ロイヤル・ハヴォサイザー を作成する。[4 pts]"
 
-#: src-en/data/events_special_storage.xml.append:434
+#: src-en/data/events_special_storage.xml.append:439
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[7]/text"
 msgstr "イラディケーター III を作成する。[4 pts]"
 
-#: src-en/data/events_special_storage.xml.append:444
+#: src-en/data/events_special_storage.xml.append:449
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[8]/text"
 msgstr "イラディケーター III を作成する。[4 pts]"
 
-#: src-en/data/events_special_storage.xml.append:449
+#: src-en/data/events_special_storage.xml.append:454
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[9]/text"
 msgstr "イラディケーター II を作成する。[3 pts]"
 
-#: src-en/data/events_special_storage.xml.append:459
+#: src-en/data/events_special_storage.xml.append:464
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[10]/text"
 msgstr "イラディケーター II を作成する。[3 pts]"
 
-#: src-en/data/events_special_storage.xml.append:464
+#: src-en/data/events_special_storage.xml.append:469
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[11]/text"
 msgstr "イラディケーター I を作成する。[2 pts]"
 
-#: src-en/data/events_special_storage.xml.append:474
+#: src-en/data/events_special_storage.xml.append:479
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[12]/text"
 msgstr "イラディケーター I を作成する。[2 pts]"
 
-#: src-en/data/events_special_storage.xml.append:479
+#: src-en/data/events_special_storage.xml.append:484
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"3\"]/text"
 msgstr "ピュリファイア II を作成する。[3 pts]"
 
-#: src-en/data/events_special_storage.xml.append:489
+#: src-en/data/events_special_storage.xml.append:494
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[14]/text"
 msgstr "ピュリファイア II を作成する。[3 pts]"
 
-#: src-en/data/events_special_storage.xml.append:494
+#: src-en/data/events_special_storage.xml.append:499
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[15]/text"
 msgstr "ピュリファイア I を作成する。[2 pts]"
 
-#: src-en/data/events_special_storage.xml.append:504
+#: src-en/data/events_special_storage.xml.append:509
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[16]/text"
 msgstr "ピュリファイア I を作成する。[2 pts]"
 
-#: src-en/data/events_special_storage.xml.append:509
+#: src-en/data/events_special_storage.xml.append:514
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[17]/text"
 msgstr "ハヴォサイザー を作成する。[2 pts]"
 
-#: src-en/data/events_special_storage.xml.append:519
+#: src-en/data/events_special_storage.xml.append:524
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[18]/text"
 msgstr "ハヴォサイザー を作成する。[2 pts]"
 
-#: src-en/data/events_special_storage.xml.append:524
+#: src-en/data/events_special_storage.xml.append:529
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[19]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:542
+#: src-en/data/events_special_storage.xml.append:547
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/text"
 msgstr ""
@@ -408,30 +409,30 @@ msgstr ""
 "\n"
 "そのためには特別な装備が必要になるが…"
 
-#: src-en/data/events_special_storage.xml.append:551
+#: src-en/data/events_special_storage.xml.append:556
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/text"
 msgstr "既に技術は持っている、それを使ってリリーのアバターを召喚する…"
 
-#: src-en/data/events_special_storage.xml.append:553
+#: src-en/data/events_special_storage.xml.append:558
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/event/text"
 msgstr "突然、あなたの近くに空間の裂け目が開き、…ごく普通の人間が実体化する。しかし、何か違和感がある…"
 
-#: src-en/data/events_special_storage.xml.append:554
+#: src-en/data/events_special_storage.xml.append:559
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/event/crewMember"
 msgstr "リリー"
 
-#: src-en/data/events_special_storage.xml.append:561
+#: src-en/data/events_special_storage.xml.append:566
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/text"
 msgstr "(韻を踏む者) 数えさせてもらおう：3、2、1…"
 
-#: src-en/data/events_special_storage.xml.append:563
+#: src-en/data/events_special_storage.xml.append:568
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/event/text"
 msgstr ""
@@ -439,27 +440,32 @@ msgstr ""
 "\n"
 "突然、あなたの近くに空間の裂け目が開き、…ごく普通の人間が実体化する。しかし、何か違和感がある…"
 
-#: src-en/data/events_special_storage.xml.append:567
+#: src-en/data/events_special_storage.xml.append:572
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/event/crewMember"
 msgstr "リリー"
 
-#: src-en/data/events_special_storage.xml.append:574
+#: src-en/data/events_special_storage.xml.append:579
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"BLUELIST_AETHER\"]/text"
-msgstr "(エーテル技術) 技術をインストールして使用する [30~, 5|]"
+msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:576
+#: src-en/data/events_special_storage.xml.append:583
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"lily_aether_points\"]/text"
+msgstr "(エーテルポイント) 技術をインストールして使用する [30~, 5|]"
+
+#: src-en/data/events_special_storage.xml.append:585
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/text"
 msgstr "必要な技術をインストールする…"
 
-#: src-en/data/events_special_storage.xml.append:583
+#: src-en/data/events_special_storage.xml.append:593
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:585
+#: src-en/data/events_special_storage.xml.append:595
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/event/text"
 msgstr ""
@@ -467,160 +473,155 @@ msgstr ""
 "\n"
 "突然、あなたの近くに空間の裂け目が開き、…ごく普通の人間が実体化する。しかし、何か違和感がある…"
 
-#: src-en/data/events_special_storage.xml.append:588
+#: src-en/data/events_special_storage.xml.append:598
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/event/crewMember"
 msgstr "リリー"
 
-#: src-en/data/events_special_storage.xml.append:596
-msgid ""
-"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"lily_aether_points\"]/text"
-msgstr "(エーテルポイント) 技術をインストールして使用する [30~, 5|]"
-
-#: src-en/data/events_special_storage.xml.append:600
+#: src-en/data/events_special_storage.xml.append:606
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"0\"]/text"
 msgstr "注: インストールにはエーテル技術（または代替品）を所有している必要があります。"
 
-#: src-en/data/events_special_storage.xml.append:604
+#: src-en/data/events_special_storage.xml.append:610
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[6]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:611
+#: src-en/data/events_special_storage.xml.append:617
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/text"
 msgstr ""
 "おい！私のアバターを使い捨てにするなと言わなかったか？――\n"
 "いいだろう、今回は事故ということにしておこう…だが、今回だけだぞ――"
 
-#: src-en/data/events_special_storage.xml.append:616
+#: src-en/data/events_special_storage.xml.append:622
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:618
+#: src-en/data/events_special_storage.xml.append:624
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/event/text"
 msgstr "突然、あなたの近くに空間の裂け目が開き、再びアバターが実体化する。彼女は実際には死なないようだ。"
 
-#: src-en/data/events_special_storage.xml.append:619
+#: src-en/data/events_special_storage.xml.append:625
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/event/crewMember"
 msgstr "リリー"
 
-#: src-en/data/events_special_storage.xml.append:627
+#: src-en/data/events_special_storage.xml.append:633
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:633
+#: src-en/data/events_special_storage.xml.append:639
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/text"
 msgstr ""
 "おい！私のアバターを使い捨てにするなと言わなかったか？――\n"
 "だが、『韻を踏む者』が君と一緒にいるのを見て、例外としよう。楽しみを逃したくないからな――"
 
-#: src-en/data/events_special_storage.xml.append:638
+#: src-en/data/events_special_storage.xml.append:644
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:640
+#: src-en/data/events_special_storage.xml.append:646
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/event/text"
 msgstr "突然、あなたの近くに空間の裂け目が開き、再びアバターが実体化する。彼女は実際には死なないようだ。"
 
-#: src-en/data/events_special_storage.xml.append:641
+#: src-en/data/events_special_storage.xml.append:647
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/event/crewMember"
 msgstr "リリー"
 
-#: src-en/data/events_special_storage.xml.append:648
+#: src-en/data/events_special_storage.xml.append:654
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:654
+#: src-en/data/events_special_storage.xml.append:660
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/text"
 msgstr "いいよ――"
 
-#: src-en/data/events_special_storage.xml.append:657
+#: src-en/data/events_special_storage.xml.append:663
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:659
+#: src-en/data/events_special_storage.xml.append:665
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[1]/event/text"
 msgstr "突然、あなたの近くに空間の裂け目が開き、再びアバターが実体化する。彼女は実際には死なないようだ。"
 
-#: src-en/data/events_special_storage.xml.append:660
+#: src-en/data/events_special_storage.xml.append:666
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[1]/event/crewMember"
 msgstr "リリー"
 
-#: src-en/data/events_special_storage.xml.append:667
+#: src-en/data/events_special_storage.xml.append:673
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:673
+#: src-en/data/events_special_storage.xml.append:679
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/text"
 msgstr ""
 "じゃあ…払ってくれ――\n"
 "反逆者は何を重んじる…スクラップか？まあ、それをくれるか、君の船から直接取るかだ！――"
 
-#: src-en/data/events_special_storage.xml.append:678
+#: src-en/data/events_special_storage.xml.append:684
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/text"
 msgstr "彼女に100~支払う"
 
-#: src-en/data/events_special_storage.xml.append:683
+#: src-en/data/events_special_storage.xml.append:689
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/event/text"
 msgstr ""
 "突然空間の裂け目が開き、あなたのスクラップをすくい上げる。その直後、あなたの隣に別の裂け目が現れ、再びアバターが実体化する。彼女は実際には死なないようだ。"
 
-#: src-en/data/events_special_storage.xml.append:684
+#: src-en/data/events_special_storage.xml.append:690
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/event/crewMember"
 msgstr "リリー"
 
-#: src-en/data/events_special_storage.xml.append:692
+#: src-en/data/events_special_storage.xml.append:698
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/text"
 msgstr "あなたの船で支払う。[船体ダメージ20]"
 
-#: src-en/data/events_special_storage.xml.append:695
+#: src-en/data/events_special_storage.xml.append:701
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/event/text"
 msgstr ""
 "突然複数の空間の裂け目が開き、あなたの船をほとんど引き裂き、大きな船体ダメージを与える！その直後、あなたの隣に別の裂け目が現れ、再びアバターが実体化する。彼女は実際には死なないようだ。"
 
-#: src-en/data/events_special_storage.xml.append:696
+#: src-en/data/events_special_storage.xml.append:702
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/event/crewMember"
 msgstr "リリー"
 
-#: src-en/data/events_special_storage.xml.append:704
+#: src-en/data/events_special_storage.xml.append:710
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and not(@lvl)]/text"
 msgstr "あなたの船で支払う。[船体ダメージ20]"
 
-#: src-en/data/events_special_storage.xml.append:710
+#: src-en/data/events_special_storage.xml.append:716
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:716
+#: src-en/data/events_special_storage.xml.append:722
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/text"
 msgstr ""
@@ -628,12 +629,12 @@ msgstr ""
 "ふむ、どこから始めようか…\n"
 "マルチバースの構造について、かな？――"
 
-#: src-en/data/events_special_storage.xml.append:720
+#: src-en/data/events_special_storage.xml.append:726
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:722
+#: src-en/data/events_special_storage.xml.append:728
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/text"
 msgstr ""
@@ -642,12 +643,12 @@ msgstr ""
 "しかし全体的に、それらはまだ似通っている。宇宙船、連邦、反乱軍、マンティス、ロック、そういったものが存在する…\n"
 "そして、その似たような宇宙の集まりは通常「クラスター」と呼ばれる。君のクラスターは無限の宇宙を含むかもしれないが、それが唯一のものではない――"
 
-#: src-en/data/events_special_storage.xml.append:727
+#: src-en/data/events_special_storage.xml.append:733
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:729
+#: src-en/data/events_special_storage.xml.append:735
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/text"
 msgstr ""
@@ -655,12 +656,12 @@ msgstr ""
 "確かに、休暇には向かない場所だ――川が炭酸飲料で、地面がマシュマロで、植物が白黒チョコレートでできているクラスターとは違ってね――\n"
 "そして、異なるクラスターが何を含んでいるかについては、多くの、多くの可能性がある――"
 
-#: src-en/data/events_special_storage.xml.append:733
+#: src-en/data/events_special_storage.xml.append:739
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:735
+#: src-en/data/events_special_storage.xml.append:741
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/text"
 msgstr ""
@@ -668,12 +669,12 @@ msgstr ""
 "私は遠く、遠く、遥か彼方の場所から来た。そしてその場所は非常に危険で…絶え間ない内紛に満ちていた。\n"
 "だから、賢明にも、私は言わば「自己追放」し、他のクラスターを探検しに出かけたんだ――"
 
-#: src-en/data/events_special_storage.xml.append:739
+#: src-en/data/events_special_storage.xml.append:745
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:741
+#: src-en/data/events_special_storage.xml.append:747
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/text"
 msgstr ""
@@ -682,12 +683,12 @@ msgstr ""
 "おっと――\n"
 "でも、とても楽しかったし、過去は過去だ――"
 
-#: src-en/data/events_special_storage.xml.append:746
+#: src-en/data/events_special_storage.xml.append:752
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:748
+#: src-en/data/events_special_storage.xml.append:754
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/text"
 msgstr ""
@@ -697,12 +698,12 @@ msgstr ""
 "だから最近はほとんどビーム兵器を売ることに限定されているんだ…\n"
 "そして、一体何のために？「秩序」と「マルチバースの継続性」のため？くだらない！まるでスラグが最初から「秩序」について何か知っているかのように！？馬鹿げている！"
 
-#: src-en/data/events_special_storage.xml.append:754
+#: src-en/data/events_special_storage.xml.append:760
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:756
+#: src-en/data/events_special_storage.xml.append:762
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/text"
 msgstr ""
@@ -710,12 +711,12 @@ msgstr ""
 "…まあ、実際に奴らを倒す方法を見つけ次第だが…特殊なビーム兵器が良い候補のようだ、あるいは何らかの大量破壊兵器か…\n"
 "…そして、もちろん奴らの隠れ家も見つけ次第だ。でも、この宇宙には通路があると聞いたことがある、「嵐の中心」に関連するものだ…"
 
-#: src-en/data/events_special_storage.xml.append:760
+#: src-en/data/events_special_storage.xml.append:766
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:762
+#: src-en/data/events_special_storage.xml.append:768
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/text"
 msgstr ""
@@ -725,12 +726,12 @@ msgstr ""
 "ああ、そして君は私がテストし開発するあらゆる種類のプロトタイプ兵器を手に入れることになる――興奮しないかい？――\n"
 "…そして、もしそうでなくても…君の旅で収集されたデータは、いずれにせよ我々の目標をさらに助けるだろう。もし君でなければ、次の反逆者が成功するかもしれない？"
 
-#: src-en/data/events_special_storage.xml.append:768
+#: src-en/data/events_special_storage.xml.append:774
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:770
+#: src-en/data/events_special_storage.xml.append:776
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_9\"]/text"
 msgstr ""
@@ -739,125 +740,195 @@ msgstr ""
 "とにかく、他に何か聞きたいことはあったかい？\n"
 "(P.S. もしこれを全部読んだなら、よくやった――)"
 
-#: src-en/data/events_special_storage.xml.append:776
+#: src-en/data/events_special_storage.xml.append:782
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_9\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:782
+#: src-en/data/events_special_storage.xml.append:788
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/choice[2]/text"
 msgstr "もう終わったかい？"
 
-#: src-en/data/events_special_storage.xml.append:788
+#: src-en/data/events_special_storage.xml.append:794
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/choice[2]/text"
 msgstr "やめろ。"
 
-#: src-en/data/events_special_storage.xml.append:794
+#: src-en/data/events_special_storage.xml.append:800
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/choice[2]/text"
 msgstr "もうやめてくれ。"
 
-#: src-en/data/events_special_storage.xml.append:800
+#: src-en/data/events_special_storage.xml.append:806
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/choice[2]/text"
 msgstr "もう十分だ！"
 
-#: src-en/data/events_special_storage.xml.append:806
+#: src-en/data/events_special_storage.xml.append:812
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/choice[2]/text"
 msgstr "聞くのをやめる。"
 
-#: src-en/data/events_special_storage.xml.append:812
+#: src-en/data/events_special_storage.xml.append:818
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/choice[2]/text"
 msgstr "部屋を出る。"
 
-#: src-en/data/events_special_storage.xml.append:818
+#: src-en/data/events_special_storage.xml.append:824
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/choice[2]/text"
 msgstr "話すのをやめてくれ。"
 
-#: src-en/data/events_special_storage.xml.append:824
+#: src-en/data/events_special_storage.xml.append:830
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/choice[2]/text"
 msgstr "実は、そんな気分じゃないんだ。"
 
-#: src-en/data/events_special_storage.xml.append:838
+#: src-en/data/events_special_storage.xml.append:840
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:846
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:848
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:853
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:855
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:859
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_3\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:861
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:866
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_4\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:868
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:871
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_5\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:873
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:878
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_6\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:892
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:896
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:905
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice/text"
 msgstr "(リリー) リリーのエンポリアムを召喚する。[艦隊ブースト1]"
 
-#: src-en/data/events_special_storage.xml.append:865
+#: src-en/data/events_special_storage.xml.append:932
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice/text"
 msgstr "セイレーン。"
 
-#: src-en/data/events_special_storage.xml.append:878
+#: src-en/data/events_special_storage.xml.append:945
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/text"
 msgstr "ラボメニューを表示中: [セイレーン]"
 
-#: src-en/data/events_special_storage.xml.append:880
+#: src-en/data/events_special_storage.xml.append:947
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_VAMP\"]/text"
 msgstr ""
 "現在インストール済み: ソウル・サイフォン。\n"
 "\t\t[セイレーンは与えたダメージに応じて回復するようになるが、与えるダメージは半減する]"
 
-#: src-en/data/events_special_storage.xml.append:885
+#: src-en/data/events_special_storage.xml.append:952
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_BUFF\"]/text"
 msgstr ""
 "現在インストール済み: カラフル・ドリーム。\n"
 "\t\t[セイレーンと同じ部屋にいる味方の非セイレーンクルーは、受けるダメージが30%減少し、修理速度が50%上昇し、マインドコントロールへの耐性を得るが、移動速度が50%減少する]"
 
-#: src-en/data/events_special_storage.xml.append:890
+#: src-en/data/events_special_storage.xml.append:957
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_DAMAGE\"]/text"
 msgstr ""
 "現在インストール済み: 萎縮の視線。\n"
 "\t\t[セイレーンに直接狙われた敵は、全てのソースから受けるダメージが30%増加し、持っていたマインドコントロール耐性を失う。他のセイレーンや異形の存在には影響しない。]"
 
-#: src-en/data/events_special_storage.xml.append:895
+#: src-en/data/events_special_storage.xml.append:962
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[4]/text"
 msgstr "現在インストール済み: なし"
 
-#: src-en/data/events_special_storage.xml.append:899
+#: src-en/data/events_special_storage.xml.append:966
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[5]/text"
 msgstr "プライマリ: ソウル・サイフォン。[アップグレードは既にインストールされています]"
 
-#: src-en/data/events_special_storage.xml.append:903
+#: src-en/data/events_special_storage.xml.append:970
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[6]/text"
 msgstr "プライマリ: ソウル・サイフォン。[コスト: 30~, 2{, 2|]"
 
-#: src-en/data/events_special_storage.xml.append:907
+#: src-en/data/events_special_storage.xml.append:974
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[7]/text"
 msgstr "プライマリ: カラフル・ドリーム。[アップグレードは既にインストールされています]"
 
-#: src-en/data/events_special_storage.xml.append:911
+#: src-en/data/events_special_storage.xml.append:978
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[8]/text"
 msgstr "プライマリ: カラフル・ドリーム。[コスト: 6{]"
 
-#: src-en/data/events_special_storage.xml.append:915
+#: src-en/data/events_special_storage.xml.append:982
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[9]/text"
 msgstr "プライマリ: 萎縮の視線。[アップグレードは既にインストールされています]"
 
-#: src-en/data/events_special_storage.xml.append:919
+#: src-en/data/events_special_storage.xml.append:986
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[10]/text"
 msgstr "プライマリ: 萎縮の視線。[コスト: 40~, 8}]"
 
-#: src-en/data/events_special_storage.xml.append:923
+#: src-en/data/events_special_storage.xml.append:990
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_HARPY_MIND\""
 " and @lvl=\"1\"]/text"
@@ -865,18 +936,18 @@ msgstr ""
 "セカンダリ [ハーピー]: マインド・オーバーテイク。[アップグレードは既にインストールされています]\n"
 "\t\t[セイレーン・ハーピーが新しい能力を得る：現在の部屋にいる敵クルー1人をランダムに10秒間マインドコントロールする、クールダウン30秒]"
 
-#: src-en/data/events_special_storage.xml.append:928
+#: src-en/data/events_special_storage.xml.append:995
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_HARPY_MIND\""
 " and @lvl=\"0\"]/text"
 msgstr "セカンダリ [ハーピー]: マインド・オーバーテイク。[コスト: 50~, 5{]"
 
-#: src-en/data/events_special_storage.xml.append:932
+#: src-en/data/events_special_storage.xml.append:999
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[13]/text"
 msgstr "戻る。"
 
-#: src-en/data/events_special_storage.xml.append:937
+#: src-en/data/events_special_storage.xml.append:1004
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/text"
 msgstr ""
@@ -885,27 +956,27 @@ msgstr ""
 "\t\n"
 "\t[警告: これをインストールした後、セイレーンクルー用のプライマリアップグレードをこれ以上インストールできなくなります。この改造を無効にすることもできません。]"
 
-#: src-en/data/events_special_storage.xml.append:942
+#: src-en/data/events_special_storage.xml.append:1009
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/text"
 msgstr "改造をインストールする。[コスト: 30~, 2{, 2|]"
 
-#: src-en/data/events_special_storage.xml.append:944
+#: src-en/data/events_special_storage.xml.append:1011
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/event/text"
 msgstr "改造をインストールします。"
 
-#: src-en/data/events_special_storage.xml.append:951
+#: src-en/data/events_special_storage.xml.append:1018
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:957
+#: src-en/data/events_special_storage.xml.append:1024
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[@req=\"pilot\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:968
+#: src-en/data/events_special_storage.xml.append:1035
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/text"
 msgstr ""
@@ -914,27 +985,27 @@ msgstr ""
 "\t\n"
 "\t[警告: これをインストールした後、セイレーンクルー用のプライマリアップグレードをこれ以上インストールできなくなります。この改造を無効にすることもできません。]"
 
-#: src-en/data/events_special_storage.xml.append:973
+#: src-en/data/events_special_storage.xml.append:1040
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/text"
 msgstr "改造をインストールする。[コスト: 6{]"
 
-#: src-en/data/events_special_storage.xml.append:975
+#: src-en/data/events_special_storage.xml.append:1042
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/event/text"
 msgstr "改造をインストールします。"
 
-#: src-en/data/events_special_storage.xml.append:980
+#: src-en/data/events_special_storage.xml.append:1047
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:986
+#: src-en/data/events_special_storage.xml.append:1053
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[@req=\"pilot\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:997
+#: src-en/data/events_special_storage.xml.append:1064
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/text"
 msgstr ""
@@ -943,27 +1014,27 @@ msgstr ""
 "    \n"
 "[警告: これをインストールした後、セイレーンクルー用のプライマリアップグレードをこれ以上インストールできなくなります。この改造を無効にすることもできません。]"
 
-#: src-en/data/events_special_storage.xml.append:1002
+#: src-en/data/events_special_storage.xml.append:1069
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/text"
 msgstr "改造をインストールする。[コスト: 40~, 8}]"
 
-#: src-en/data/events_special_storage.xml.append:1004
+#: src-en/data/events_special_storage.xml.append:1071
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/event/text"
 msgstr "改造をインストールします。"
 
-#: src-en/data/events_special_storage.xml.append:1010
+#: src-en/data/events_special_storage.xml.append:1077
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1016
+#: src-en/data/events_special_storage.xml.append:1083
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[@req=\"pilot\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1027
+#: src-en/data/events_special_storage.xml.append:1094
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/text"
 msgstr ""
@@ -972,1845 +1043,1923 @@ msgstr ""
 "\t\n"
 "\t[警告: これはセイレーン・ハーピークルーにのみ影響します。その後、他のセカンダリ改造やプライマリ改造をインストールすることができます。]"
 
-#: src-en/data/events_special_storage.xml.append:1032
+#: src-en/data/events_special_storage.xml.append:1099
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/text"
 msgstr "改造をインストールする。[コスト: 50~, 5{]"
 
-#: src-en/data/events_special_storage.xml.append:1034
+#: src-en/data/events_special_storage.xml.append:1101
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/event/text"
 msgstr "改造をインストールします。"
 
-#: src-en/data/events_special_storage.xml.append:1040
+#: src-en/data/events_special_storage.xml.append:1107
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1046
+#: src-en/data/events_special_storage.xml.append:1113
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"0\"]/text"
 msgstr "この改造にはラボアップグレードが必要です。"
 
-#: src-en/data/events_special_storage.xml.append:1050
+#: src-en/data/events_special_storage.xml.append:1117
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"pilot\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1065
+#: src-en/data/events_special_storage.xml.append:1132
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[1]/text"
 msgstr "('サンセット'ビーム) 兵器の状態を設定する。[現在のモード: ハルバスト]"
 
-#: src-en/data/events_special_storage.xml.append:1069
+#: src-en/data/events_special_storage.xml.append:1136
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[2]/text"
 msgstr "('サンセット'ビーム) 兵器の状態を設定する。[現在のモード: パーティクル]"
 
-#: src-en/data/events_special_storage.xml.append:1073
+#: src-en/data/events_special_storage.xml.append:1140
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[3]/text"
 msgstr "('サンセット'ビーム) 兵器の状態を設定する。[現在のモード: アンチバイオ]"
 
-#: src-en/data/events_special_storage.xml.append:1081
+#: src-en/data/events_special_storage.xml.append:1148
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/text"
 msgstr ""
 "兵器をどのモードに設定しますか？\n"
 "\t現在のモード: ハルバスト。"
 
-#: src-en/data/events_special_storage.xml.append:1084
+#: src-en/data/events_special_storage.xml.append:1151
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/text"
 msgstr "パーティクルモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1086
+#: src-en/data/events_special_storage.xml.append:1153
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1089
+#: src-en/data/events_special_storage.xml.append:1156
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1091
+#: src-en/data/events_special_storage.xml.append:1158
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1094
+#: src-en/data/events_special_storage.xml.append:1161
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1102
+#: src-en/data/events_special_storage.xml.append:1169
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/text"
 msgstr "アンチバイオモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1104
+#: src-en/data/events_special_storage.xml.append:1171
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1107
+#: src-en/data/events_special_storage.xml.append:1174
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1109
+#: src-en/data/events_special_storage.xml.append:1176
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1112
+#: src-en/data/events_special_storage.xml.append:1179
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1120
+#: src-en/data/events_special_storage.xml.append:1187
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1125
+#: src-en/data/events_special_storage.xml.append:1192
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/text"
 msgstr ""
 "兵器をどのモードに設定しますか？\n"
 "\t現在のモード: パーティクル。"
 
-#: src-en/data/events_special_storage.xml.append:1128
+#: src-en/data/events_special_storage.xml.append:1195
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/text"
 msgstr "ハルバストモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1130
+#: src-en/data/events_special_storage.xml.append:1197
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1133
+#: src-en/data/events_special_storage.xml.append:1200
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1135
+#: src-en/data/events_special_storage.xml.append:1202
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1138
+#: src-en/data/events_special_storage.xml.append:1205
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1146
+#: src-en/data/events_special_storage.xml.append:1213
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/text"
 msgstr "アンチバイオモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1148
+#: src-en/data/events_special_storage.xml.append:1215
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1151
+#: src-en/data/events_special_storage.xml.append:1218
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1153
+#: src-en/data/events_special_storage.xml.append:1220
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1156
+#: src-en/data/events_special_storage.xml.append:1223
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1164
+#: src-en/data/events_special_storage.xml.append:1231
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1169
+#: src-en/data/events_special_storage.xml.append:1236
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/text"
 msgstr ""
 "兵器をどのモードに設定しますか？\n"
 "\t現在のモード: アンチバイオ。"
 
-#: src-en/data/events_special_storage.xml.append:1172
+#: src-en/data/events_special_storage.xml.append:1239
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/text"
 msgstr "ハルバストモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1174
+#: src-en/data/events_special_storage.xml.append:1241
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1177
+#: src-en/data/events_special_storage.xml.append:1244
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1179
+#: src-en/data/events_special_storage.xml.append:1246
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1182
+#: src-en/data/events_special_storage.xml.append:1249
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1190
+#: src-en/data/events_special_storage.xml.append:1257
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/text"
 msgstr "パーティクルモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1192
+#: src-en/data/events_special_storage.xml.append:1259
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1195
+#: src-en/data/events_special_storage.xml.append:1262
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1197
+#: src-en/data/events_special_storage.xml.append:1264
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1200
+#: src-en/data/events_special_storage.xml.append:1267
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1208
+#: src-en/data/events_special_storage.xml.append:1275
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1217
+#: src-en/data/events_special_storage.xml.append:1284
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[1]/text"
 msgstr "('イーブンタイド'ビーム) 兵器の状態を設定する。[現在のモード: ロング]"
 
-#: src-en/data/events_special_storage.xml.append:1221
+#: src-en/data/events_special_storage.xml.append:1288
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[2]/text"
 msgstr "('イーブンタイド'ビーム) 兵器の状態を設定する。[現在のモード: シュレッド]"
 
-#: src-en/data/events_special_storage.xml.append:1225
+#: src-en/data/events_special_storage.xml.append:1292
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[3]/text"
 msgstr "('イーブンタイド'ビーム) 兵器の状態を設定する。[現在のモード: サーマル]"
 
-#: src-en/data/events_special_storage.xml.append:1229
+#: src-en/data/events_special_storage.xml.append:1296
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[4]/text"
 msgstr "('イーブンタイド'ビーム) 兵器の状態を設定する。[現在のモード: ハック]"
 
-#: src-en/data/events_special_storage.xml.append:1235
+#: src-en/data/events_special_storage.xml.append:1302
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/text"
 msgstr ""
 "兵器をどのモードに設定しますか？\n"
 "\t現在のモード: ロング。"
 
-#: src-en/data/events_special_storage.xml.append:1238
+#: src-en/data/events_special_storage.xml.append:1305
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/text"
 msgstr "シュレッドモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1240
+#: src-en/data/events_special_storage.xml.append:1307
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1243
+#: src-en/data/events_special_storage.xml.append:1310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1245
+#: src-en/data/events_special_storage.xml.append:1312
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1248
+#: src-en/data/events_special_storage.xml.append:1315
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1256
+#: src-en/data/events_special_storage.xml.append:1323
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/text"
 msgstr "サーマルモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1258
+#: src-en/data/events_special_storage.xml.append:1325
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1261
+#: src-en/data/events_special_storage.xml.append:1328
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1263
+#: src-en/data/events_special_storage.xml.append:1330
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1266
+#: src-en/data/events_special_storage.xml.append:1333
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1274
+#: src-en/data/events_special_storage.xml.append:1341
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/text"
 msgstr "ハックモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1276
+#: src-en/data/events_special_storage.xml.append:1343
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1279
+#: src-en/data/events_special_storage.xml.append:1346
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1281
+#: src-en/data/events_special_storage.xml.append:1348
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1284
+#: src-en/data/events_special_storage.xml.append:1351
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1292
+#: src-en/data/events_special_storage.xml.append:1359
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1298
+#: src-en/data/events_special_storage.xml.append:1365
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/text"
 msgstr ""
 "兵器をどのモードに設定しますか？\n"
 "\t現在のモード: シュレッド。"
 
-#: src-en/data/events_special_storage.xml.append:1301
+#: src-en/data/events_special_storage.xml.append:1368
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/text"
 msgstr "ロングモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1303
+#: src-en/data/events_special_storage.xml.append:1370
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1306
+#: src-en/data/events_special_storage.xml.append:1373
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1308
+#: src-en/data/events_special_storage.xml.append:1375
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1311
+#: src-en/data/events_special_storage.xml.append:1378
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1319
+#: src-en/data/events_special_storage.xml.append:1386
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/text"
 msgstr "サーマルモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1321
+#: src-en/data/events_special_storage.xml.append:1388
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1324
+#: src-en/data/events_special_storage.xml.append:1391
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1326
+#: src-en/data/events_special_storage.xml.append:1393
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1329
+#: src-en/data/events_special_storage.xml.append:1396
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1337
+#: src-en/data/events_special_storage.xml.append:1404
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/text"
 msgstr "ハックモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1339
+#: src-en/data/events_special_storage.xml.append:1406
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1342
+#: src-en/data/events_special_storage.xml.append:1409
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1344
+#: src-en/data/events_special_storage.xml.append:1411
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1347
+#: src-en/data/events_special_storage.xml.append:1414
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1355
+#: src-en/data/events_special_storage.xml.append:1422
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1362
+#: src-en/data/events_special_storage.xml.append:1429
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/text"
 msgstr ""
 "兵器をどのモードに設定しますか？\n"
 "\t現在のモード: サーマル。"
 
-#: src-en/data/events_special_storage.xml.append:1365
+#: src-en/data/events_special_storage.xml.append:1432
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/text"
 msgstr "ロングモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1367
+#: src-en/data/events_special_storage.xml.append:1434
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1370
+#: src-en/data/events_special_storage.xml.append:1437
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1372
+#: src-en/data/events_special_storage.xml.append:1439
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1375
+#: src-en/data/events_special_storage.xml.append:1442
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1383
+#: src-en/data/events_special_storage.xml.append:1450
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/text"
 msgstr "シュレッドモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1385
+#: src-en/data/events_special_storage.xml.append:1452
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1388
+#: src-en/data/events_special_storage.xml.append:1455
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1390
+#: src-en/data/events_special_storage.xml.append:1457
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1393
+#: src-en/data/events_special_storage.xml.append:1460
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1401
+#: src-en/data/events_special_storage.xml.append:1468
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/text"
 msgstr "ハックモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1403
+#: src-en/data/events_special_storage.xml.append:1470
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1406
+#: src-en/data/events_special_storage.xml.append:1473
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1408
+#: src-en/data/events_special_storage.xml.append:1475
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1411
+#: src-en/data/events_special_storage.xml.append:1478
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1419
+#: src-en/data/events_special_storage.xml.append:1486
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1424
+#: src-en/data/events_special_storage.xml.append:1491
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/text"
 msgstr ""
 "兵器をどのモードに設定しますか？\n"
 "\t現在のモード: ハック。"
 
-#: src-en/data/events_special_storage.xml.append:1427
+#: src-en/data/events_special_storage.xml.append:1494
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/text"
 msgstr "ロングモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1429
+#: src-en/data/events_special_storage.xml.append:1496
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1432
+#: src-en/data/events_special_storage.xml.append:1499
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1434
+#: src-en/data/events_special_storage.xml.append:1501
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1437
+#: src-en/data/events_special_storage.xml.append:1504
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1445
+#: src-en/data/events_special_storage.xml.append:1512
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/text"
 msgstr "シュレッドモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1447
+#: src-en/data/events_special_storage.xml.append:1514
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1450
+#: src-en/data/events_special_storage.xml.append:1517
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1452
+#: src-en/data/events_special_storage.xml.append:1519
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1455
+#: src-en/data/events_special_storage.xml.append:1522
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1463
+#: src-en/data/events_special_storage.xml.append:1530
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/text"
 msgstr "サーマルモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1465
+#: src-en/data/events_special_storage.xml.append:1532
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1468
+#: src-en/data/events_special_storage.xml.append:1535
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1470
+#: src-en/data/events_special_storage.xml.append:1537
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1473
+#: src-en/data/events_special_storage.xml.append:1540
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1481
+#: src-en/data/events_special_storage.xml.append:1548
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1491
+#: src-en/data/events_special_storage.xml.append:1558
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[1]/text"
 msgstr "('アカツキ') 兵器の状態を設定する。[現在のモード: ビーム]"
 
-#: src-en/data/events_special_storage.xml.append:1495
+#: src-en/data/events_special_storage.xml.append:1562
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[2]/text"
 msgstr "('アカツキ') 兵器の状態を設定する。[現在のモード: フォーカス]"
 
-#: src-en/data/events_special_storage.xml.append:1499
+#: src-en/data/events_special_storage.xml.append:1566
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[3]/text"
 msgstr "('アカツキ') 兵器の状態を設定する。[現在のモード: スキャッター]"
 
-#: src-en/data/events_special_storage.xml.append:1507
+#: src-en/data/events_special_storage.xml.append:1574
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/text"
 msgstr ""
 "兵器をどのモードに設定しますか？\n"
 "\t現在のモード: ビーム。"
 
-#: src-en/data/events_special_storage.xml.append:1510
+#: src-en/data/events_special_storage.xml.append:1577
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/text"
 msgstr "フォーカスモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1512
+#: src-en/data/events_special_storage.xml.append:1579
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1515
+#: src-en/data/events_special_storage.xml.append:1582
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1517
+#: src-en/data/events_special_storage.xml.append:1584
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1520
+#: src-en/data/events_special_storage.xml.append:1587
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1528
+#: src-en/data/events_special_storage.xml.append:1595
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/text"
 msgstr "スキャッターモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1530
+#: src-en/data/events_special_storage.xml.append:1597
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1533
+#: src-en/data/events_special_storage.xml.append:1600
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1535
+#: src-en/data/events_special_storage.xml.append:1602
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1538
+#: src-en/data/events_special_storage.xml.append:1605
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1546
+#: src-en/data/events_special_storage.xml.append:1613
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1551
+#: src-en/data/events_special_storage.xml.append:1618
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/text"
 msgstr ""
 "兵器をどのモードに設定しますか？\n"
 "\t現在のモード: フォーカス。"
 
-#: src-en/data/events_special_storage.xml.append:1554
+#: src-en/data/events_special_storage.xml.append:1621
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/text"
 msgstr "ビームモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1556
+#: src-en/data/events_special_storage.xml.append:1623
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1559
+#: src-en/data/events_special_storage.xml.append:1626
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1561
+#: src-en/data/events_special_storage.xml.append:1628
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1564
+#: src-en/data/events_special_storage.xml.append:1631
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1572
+#: src-en/data/events_special_storage.xml.append:1639
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/text"
 msgstr "スキャッターモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1574
+#: src-en/data/events_special_storage.xml.append:1641
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1577
+#: src-en/data/events_special_storage.xml.append:1644
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1579
+#: src-en/data/events_special_storage.xml.append:1646
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1582
+#: src-en/data/events_special_storage.xml.append:1649
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1590
+#: src-en/data/events_special_storage.xml.append:1657
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1595
+#: src-en/data/events_special_storage.xml.append:1662
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/text"
 msgstr ""
 "兵器をどのモードに設定しますか？\n"
 "\t現在のモード: スキャッター。"
 
-#: src-en/data/events_special_storage.xml.append:1598
+#: src-en/data/events_special_storage.xml.append:1665
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/text"
 msgstr "ビームモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1600
+#: src-en/data/events_special_storage.xml.append:1667
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1603
+#: src-en/data/events_special_storage.xml.append:1670
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1605
+#: src-en/data/events_special_storage.xml.append:1672
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1608
+#: src-en/data/events_special_storage.xml.append:1675
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1616
+#: src-en/data/events_special_storage.xml.append:1683
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/text"
 msgstr "フォーカスモードに切り替える。"
 
-#: src-en/data/events_special_storage.xml.append:1618
+#: src-en/data/events_special_storage.xml.append:1685
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1621
+#: src-en/data/events_special_storage.xml.append:1688
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1623
+#: src-en/data/events_special_storage.xml.append:1690
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1626
+#: src-en/data/events_special_storage.xml.append:1693
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1634
+#: src-en/data/events_special_storage.xml.append:1701
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1645
+#: src-en/data/events_special_storage.xml.append:1712
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[1]/text"
 msgstr "('シリンジ'ビーム) 兵器の状態を設定する。[現在のモード: 空]"
 
-#: src-en/data/events_special_storage.xml.append:1649
+#: src-en/data/events_special_storage.xml.append:1716
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[2]/text"
 msgstr "('シリンジ'ビーム) 兵器の状態をリセットする。[現在のモード: 薬品]"
 
-#: src-en/data/events_special_storage.xml.append:1653
+#: src-en/data/events_special_storage.xml.append:1720
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[3]/text"
 msgstr "('シリンジ'ビーム) 兵器の状態をリセットする。[現在のモード: 興奮剤]"
 
-#: src-en/data/events_special_storage.xml.append:1657
+#: src-en/data/events_special_storage.xml.append:1724
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[4]/text"
 msgstr "('シリンジ'ビーム) 兵器の状態をリセットする。[現在のモード: 毒]"
 
-#: src-en/data/events_special_storage.xml.append:1661
+#: src-en/data/events_special_storage.xml.append:1728
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[5]/text"
 msgstr "('シリンジ'ビーム) 兵器の状態をリセットする。[現在のモード: 酸]"
 
-#: src-en/data/events_special_storage.xml.append:1669
+#: src-en/data/events_special_storage.xml.append:1736
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/text"
 msgstr "兵器に何を装填しますか？"
 
-#: src-en/data/events_special_storage.xml.append:1671
+#: src-en/data/events_special_storage.xml.append:1738
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/text"
 msgstr "薬品。"
 
-#: src-en/data/events_special_storage.xml.append:1673
+#: src-en/data/events_special_storage.xml.append:1740
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1676
+#: src-en/data/events_special_storage.xml.append:1743
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1678
+#: src-en/data/events_special_storage.xml.append:1745
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1681
+#: src-en/data/events_special_storage.xml.append:1748
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1689
+#: src-en/data/events_special_storage.xml.append:1756
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/text"
 msgstr "興奮剤。"
 
-#: src-en/data/events_special_storage.xml.append:1691
+#: src-en/data/events_special_storage.xml.append:1758
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1694
+#: src-en/data/events_special_storage.xml.append:1761
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1696
+#: src-en/data/events_special_storage.xml.append:1763
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1699
+#: src-en/data/events_special_storage.xml.append:1766
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1707
+#: src-en/data/events_special_storage.xml.append:1774
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/text"
 msgstr "毒。"
 
-#: src-en/data/events_special_storage.xml.append:1709
+#: src-en/data/events_special_storage.xml.append:1776
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1712
+#: src-en/data/events_special_storage.xml.append:1779
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1714
+#: src-en/data/events_special_storage.xml.append:1781
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1717
+#: src-en/data/events_special_storage.xml.append:1784
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1725
+#: src-en/data/events_special_storage.xml.append:1792
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/text"
 msgstr "酸。"
 
-#: src-en/data/events_special_storage.xml.append:1727
+#: src-en/data/events_special_storage.xml.append:1794
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1730
+#: src-en/data/events_special_storage.xml.append:1797
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1732
+#: src-en/data/events_special_storage.xml.append:1799
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1735
+#: src-en/data/events_special_storage.xml.append:1802
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1743
+#: src-en/data/events_special_storage.xml.append:1810
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[5]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1750
+#: src-en/data/events_special_storage.xml.append:1817
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1753
+#: src-en/data/events_special_storage.xml.append:1820
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1755
+#: src-en/data/events_special_storage.xml.append:1822
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1758
+#: src-en/data/events_special_storage.xml.append:1825
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1765
+#: src-en/data/events_special_storage.xml.append:1832
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1768
+#: src-en/data/events_special_storage.xml.append:1835
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1770
+#: src-en/data/events_special_storage.xml.append:1837
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1773
+#: src-en/data/events_special_storage.xml.append:1840
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1780
+#: src-en/data/events_special_storage.xml.append:1847
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1783
+#: src-en/data/events_special_storage.xml.append:1850
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1785
+#: src-en/data/events_special_storage.xml.append:1852
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1788
+#: src-en/data/events_special_storage.xml.append:1855
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1795
+#: src-en/data/events_special_storage.xml.append:1862
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1798
+#: src-en/data/events_special_storage.xml.append:1865
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1800
+#: src-en/data/events_special_storage.xml.append:1867
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1803
+#: src-en/data/events_special_storage.xml.append:1870
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1828
+#: src-en/data/events_special_storage.xml.append:1895
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[1]/text"
 msgstr "('エジソン'ビーム) 兵器の電力を設定する。[現在の電力: 0]"
 
-#: src-en/data/events_special_storage.xml.append:1832
+#: src-en/data/events_special_storage.xml.append:1899
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[2]/text"
 msgstr "('エジソン'ビーム) 兵器の電力を設定する。[現在の電力: 1]"
 
-#: src-en/data/events_special_storage.xml.append:1835
+#: src-en/data/events_special_storage.xml.append:1902
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[3]/text"
 msgstr "('エジソン'ビーム) 兵器の電力を設定する。[現在の電力: 2]"
 
-#: src-en/data/events_special_storage.xml.append:1839
+#: src-en/data/events_special_storage.xml.append:1906
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[4]/text"
 msgstr "('エジソン'ビーム) 兵器の電力を設定する。[現在の電力: 3]"
 
-#: src-en/data/events_special_storage.xml.append:1843
+#: src-en/data/events_special_storage.xml.append:1910
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[5]/text"
 msgstr "('エジソン'ビーム) 兵器の電力を設定する。[現在の電力: オーバードライブ]"
 
-#: src-en/data/events_special_storage.xml.append:1851
+#: src-en/data/events_special_storage.xml.append:1918
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/text"
 msgstr ""
 "兵器をどの電力に設定しますか？\n"
 "\t現在: [電力: 0; 発射数: 2]。"
 
-#: src-en/data/events_special_storage.xml.append:1854
+#: src-en/data/events_special_storage.xml.append:1921
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/text"
 msgstr "設定: [電力: 1; 発射数: 3]"
 
-#: src-en/data/events_special_storage.xml.append:1856
+#: src-en/data/events_special_storage.xml.append:1923
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1859
+#: src-en/data/events_special_storage.xml.append:1926
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1861
+#: src-en/data/events_special_storage.xml.append:1928
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1864
+#: src-en/data/events_special_storage.xml.append:1931
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1872
+#: src-en/data/events_special_storage.xml.append:1939
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/text"
 msgstr "設定: [電力: 2; 発射数: 5]"
 
-#: src-en/data/events_special_storage.xml.append:1874
+#: src-en/data/events_special_storage.xml.append:1941
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1877
+#: src-en/data/events_special_storage.xml.append:1944
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1879
+#: src-en/data/events_special_storage.xml.append:1946
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1882
+#: src-en/data/events_special_storage.xml.append:1949
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1890
+#: src-en/data/events_special_storage.xml.append:1957
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/text"
 msgstr "設定: [電力: 3; 発射数: 8]"
 
-#: src-en/data/events_special_storage.xml.append:1892
+#: src-en/data/events_special_storage.xml.append:1959
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1895
+#: src-en/data/events_special_storage.xml.append:1962
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1897
+#: src-en/data/events_special_storage.xml.append:1964
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1900
+#: src-en/data/events_special_storage.xml.append:1967
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1908
+#: src-en/data/events_special_storage.xml.append:1975
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/text"
 msgstr "設定: [オーバードライブ]"
 
-#: src-en/data/events_special_storage.xml.append:1910
+#: src-en/data/events_special_storage.xml.append:1977
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1913
+#: src-en/data/events_special_storage.xml.append:1980
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1915
+#: src-en/data/events_special_storage.xml.append:1982
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1918
+#: src-en/data/events_special_storage.xml.append:1985
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1926
+#: src-en/data/events_special_storage.xml.append:1993
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[5]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1933
+#: src-en/data/events_special_storage.xml.append:2000
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/text"
 msgstr ""
 "兵器をどの電力に設定しますか？\n"
 "\t現在: [電力: 1; 発射数: 3]。"
 
-#: src-en/data/events_special_storage.xml.append:1936
+#: src-en/data/events_special_storage.xml.append:2003
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/text"
 msgstr "設定: [電力: 0; 発射数: 2]"
 
-#: src-en/data/events_special_storage.xml.append:1938
+#: src-en/data/events_special_storage.xml.append:2005
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1941
+#: src-en/data/events_special_storage.xml.append:2008
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1943
+#: src-en/data/events_special_storage.xml.append:2010
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1946
+#: src-en/data/events_special_storage.xml.append:2013
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1954
+#: src-en/data/events_special_storage.xml.append:2021
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/text"
 msgstr "設定: [電力: 2; 発射数: 5]"
 
-#: src-en/data/events_special_storage.xml.append:1956
+#: src-en/data/events_special_storage.xml.append:2023
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1959
+#: src-en/data/events_special_storage.xml.append:2026
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1961
+#: src-en/data/events_special_storage.xml.append:2028
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1964
+#: src-en/data/events_special_storage.xml.append:2031
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1972
+#: src-en/data/events_special_storage.xml.append:2039
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/text"
 msgstr "設定: [電力: 3; 発射数: 8]"
 
-#: src-en/data/events_special_storage.xml.append:1974
+#: src-en/data/events_special_storage.xml.append:2041
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1977
+#: src-en/data/events_special_storage.xml.append:2044
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1979
+#: src-en/data/events_special_storage.xml.append:2046
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:1982
+#: src-en/data/events_special_storage.xml.append:2049
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1990
+#: src-en/data/events_special_storage.xml.append:2057
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/text"
 msgstr "設定: [オーバードライブ]"
 
-#: src-en/data/events_special_storage.xml.append:1992
+#: src-en/data/events_special_storage.xml.append:2059
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:1995
+#: src-en/data/events_special_storage.xml.append:2062
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:1997
+#: src-en/data/events_special_storage.xml.append:2064
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:2000
+#: src-en/data/events_special_storage.xml.append:2067
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2008
+#: src-en/data/events_special_storage.xml.append:2075
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[5]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2014
+#: src-en/data/events_special_storage.xml.append:2081
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/text"
 msgstr ""
 "兵器をどの電力に設定しますか？\n"
 "\t現在: [電力: 2; 発射数: 5]。"
 
-#: src-en/data/events_special_storage.xml.append:2017
+#: src-en/data/events_special_storage.xml.append:2084
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/text"
 msgstr "設定: [電力: 0; 発射数: 2]"
 
-#: src-en/data/events_special_storage.xml.append:2019
+#: src-en/data/events_special_storage.xml.append:2086
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:2022
+#: src-en/data/events_special_storage.xml.append:2089
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2024
+#: src-en/data/events_special_storage.xml.append:2091
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:2027
+#: src-en/data/events_special_storage.xml.append:2094
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2035
+#: src-en/data/events_special_storage.xml.append:2102
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/text"
 msgstr "設定: [電力: 1; 発射数: 3]"
 
-#: src-en/data/events_special_storage.xml.append:2037
+#: src-en/data/events_special_storage.xml.append:2104
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:2040
+#: src-en/data/events_special_storage.xml.append:2107
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2042
+#: src-en/data/events_special_storage.xml.append:2109
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:2045
+#: src-en/data/events_special_storage.xml.append:2112
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2053
+#: src-en/data/events_special_storage.xml.append:2120
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/text"
 msgstr "設定: [電力: 3; 発射数: 8]"
 
-#: src-en/data/events_special_storage.xml.append:2055
+#: src-en/data/events_special_storage.xml.append:2122
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:2058
+#: src-en/data/events_special_storage.xml.append:2125
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2060
+#: src-en/data/events_special_storage.xml.append:2127
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:2063
+#: src-en/data/events_special_storage.xml.append:2130
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2071
+#: src-en/data/events_special_storage.xml.append:2138
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/text"
 msgstr "設定: [オーバードライブ]"
 
-#: src-en/data/events_special_storage.xml.append:2073
+#: src-en/data/events_special_storage.xml.append:2140
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:2076
+#: src-en/data/events_special_storage.xml.append:2143
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2078
+#: src-en/data/events_special_storage.xml.append:2145
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:2081
+#: src-en/data/events_special_storage.xml.append:2148
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2089
+#: src-en/data/events_special_storage.xml.append:2156
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[5]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2095
+#: src-en/data/events_special_storage.xml.append:2162
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/text"
 msgstr ""
 "兵器をどの電力に設定しますか？\n"
 "\t現在: [電力: 3; 発射数: 8]。"
 
-#: src-en/data/events_special_storage.xml.append:2098
+#: src-en/data/events_special_storage.xml.append:2165
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/text"
 msgstr "設定: [電力: 0; 発射数: 2]"
 
-#: src-en/data/events_special_storage.xml.append:2100
+#: src-en/data/events_special_storage.xml.append:2167
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:2103
+#: src-en/data/events_special_storage.xml.append:2170
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2105
+#: src-en/data/events_special_storage.xml.append:2172
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:2108
+#: src-en/data/events_special_storage.xml.append:2175
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2116
+#: src-en/data/events_special_storage.xml.append:2183
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/text"
 msgstr "設定: [電力: 1; 発射数: 3]"
 
-#: src-en/data/events_special_storage.xml.append:2118
+#: src-en/data/events_special_storage.xml.append:2185
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:2121
+#: src-en/data/events_special_storage.xml.append:2188
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2123
+#: src-en/data/events_special_storage.xml.append:2190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:2126
+#: src-en/data/events_special_storage.xml.append:2193
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2134
+#: src-en/data/events_special_storage.xml.append:2201
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/text"
 msgstr "設定: [電力: 2; 発射数: 5]"
 
-#: src-en/data/events_special_storage.xml.append:2136
+#: src-en/data/events_special_storage.xml.append:2203
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:2139
+#: src-en/data/events_special_storage.xml.append:2206
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2141
+#: src-en/data/events_special_storage.xml.append:2208
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:2144
+#: src-en/data/events_special_storage.xml.append:2211
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2152
+#: src-en/data/events_special_storage.xml.append:2219
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/text"
 msgstr "設定: [オーバードライブ]"
 
-#: src-en/data/events_special_storage.xml.append:2154
+#: src-en/data/events_special_storage.xml.append:2221
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:2157
+#: src-en/data/events_special_storage.xml.append:2224
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2159
+#: src-en/data/events_special_storage.xml.append:2226
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:2162
+#: src-en/data/events_special_storage.xml.append:2229
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2170
+#: src-en/data/events_special_storage.xml.append:2237
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[5]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2176
+#: src-en/data/events_special_storage.xml.append:2243
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/text"
 msgstr ""
 "兵器をどの電力に設定しますか？\n"
 "\t現在: [オーバードライブ]。"
 
-#: src-en/data/events_special_storage.xml.append:2179
+#: src-en/data/events_special_storage.xml.append:2246
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/text"
 msgstr "設定: [電力: 0; 発射数: 2]"
 
-#: src-en/data/events_special_storage.xml.append:2181
+#: src-en/data/events_special_storage.xml.append:2248
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:2184
+#: src-en/data/events_special_storage.xml.append:2251
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2186
+#: src-en/data/events_special_storage.xml.append:2253
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:2189
+#: src-en/data/events_special_storage.xml.append:2256
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2197
+#: src-en/data/events_special_storage.xml.append:2264
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/text"
 msgstr "設定: [電力: 1; 発射数: 3]"
 
-#: src-en/data/events_special_storage.xml.append:2199
+#: src-en/data/events_special_storage.xml.append:2266
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:2202
+#: src-en/data/events_special_storage.xml.append:2269
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2204
+#: src-en/data/events_special_storage.xml.append:2271
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:2207
+#: src-en/data/events_special_storage.xml.append:2274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2215
+#: src-en/data/events_special_storage.xml.append:2282
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/text"
 msgstr "設定: [電力: 2; 発射数: 5]"
 
-#: src-en/data/events_special_storage.xml.append:2217
+#: src-en/data/events_special_storage.xml.append:2284
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:2220
+#: src-en/data/events_special_storage.xml.append:2287
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2222
+#: src-en/data/events_special_storage.xml.append:2289
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:2225
+#: src-en/data/events_special_storage.xml.append:2292
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2233
+#: src-en/data/events_special_storage.xml.append:2300
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/text"
 msgstr "設定: [電力: 3; 発射数: 8]"
 
-#: src-en/data/events_special_storage.xml.append:2235
+#: src-en/data/events_special_storage.xml.append:2302
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:2238
+#: src-en/data/events_special_storage.xml.append:2305
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2240
+#: src-en/data/events_special_storage.xml.append:2307
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:2243
+#: src-en/data/events_special_storage.xml.append:2310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2251
+#: src-en/data/events_special_storage.xml.append:2318
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[5]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2261
+#: src-en/data/events_special_storage.xml.append:2328
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice/text"
 msgstr "(アフターバーナー) アフターバーナーを起動する！"
 
-#: src-en/data/events_special_storage.xml.append:2268
+#: src-en/data/events_special_storage.xml.append:2335
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_FAIL_REAL\"]/mod-"
 "append:choice/text"
 msgstr "(アフターバーナー) アフターバーナーを起動する！"
 
-#: src-en/data/events_special_storage.xml.append:2274
+#: src-en/data/events_special_storage.xml.append:2341
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/text"
 msgstr "増強をどのように使用しますか？"
 
-#: src-en/data/events_special_storage.xml.append:2276
+#: src-en/data/events_special_storage.xml.append:2343
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/text"
 msgstr ""
 "スロットル全開！\n"
 "[回避率+20%, -3{, 60秒間持続。]"
 
-#: src-en/data/events_special_storage.xml.append:2279
+#: src-en/data/events_special_storage.xml.append:2346
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2286
+#: src-en/data/events_special_storage.xml.append:2353
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr "アフターバーナーはこの時間内に停止します。"
 
-#: src-en/data/events_special_storage.xml.append:2291
+#: src-en/data/events_special_storage.xml.append:2358
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2297
+#: src-en/data/events_special_storage.xml.append:2364
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/text"
 msgstr ""
 "スロットル全開！(緊急発電機使用)\n"
 "[回避率+20%, -2{, 90秒間持続。]"
 
-#: src-en/data/events_special_storage.xml.append:2300
+#: src-en/data/events_special_storage.xml.append:2367
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2307
+#: src-en/data/events_special_storage.xml.append:2374
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr "アフターバーナーはこの時間内に停止します。"
 
-#: src-en/data/events_special_storage.xml.append:2312
+#: src-en/data/events_special_storage.xml.append:2379
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2318
+#: src-en/data/events_special_storage.xml.append:2385
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[3]/text"
 msgstr ""
 "敵を燃やせ！\n"
 "[-3{, エンジンレベルに等しいダメージを敵に与え、火災を発生させる]"
 
-#: src-en/data/events_special_storage.xml.append:2321
+#: src-en/data/events_special_storage.xml.append:2388
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2326
+#: src-en/data/events_special_storage.xml.append:2393
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[3]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2343
+#: src-en/data/events_special_storage.xml.append:2410
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[4]/text"
 msgstr ""
 "敵を燃やせ！(緊急発電機使用)\n"
 "[-2{, エンジンレベルに等しいダメージを敵に与え、火災を発生させる]"
 
-#: src-en/data/events_special_storage.xml.append:2346
+#: src-en/data/events_special_storage.xml.append:2413
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[4]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2351
+#: src-en/data/events_special_storage.xml.append:2418
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[4]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2377
+#: src-en/data/events_special_storage.xml.append:2444
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[5]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2381
+#: src-en/data/events_special_storage.xml.append:2448
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[6]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2383
+#: src-en/data/events_special_storage.xml.append:2450
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[6]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2389
+#: src-en/data/events_special_storage.xml.append:2456
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER_POWERDOWN\"]/text"
 msgstr "アフターバーナーが過熱して停止しました。回避率は通常に戻りました。"
 
-#: src-en/data/events_special_storage.xml.append:2392
+#: src-en/data/events_special_storage.xml.append:2459
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER_POWERDOWN\"]/choice/text"
 msgstr "戦闘を続ける…"
 
-#: src-en/data/events_special_storage.xml.append:2586
+#: src-en/data/events_special_storage.xml.append:2653
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[1]/text"
 msgstr "('アレイ'マルチピンポイント) スキャッターモードに切り替える。[現在のモード: パターン]"
 
-#: src-en/data/events_special_storage.xml.append:2590
+#: src-en/data/events_special_storage.xml.append:2657
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[2]/text"
 msgstr "('アレイ'マルチピンポイント) パターンモードに切り替える。[現在のモード: スキャッター]"
 
-#: src-en/data/events_special_storage.xml.append:2598
+#: src-en/data/events_special_storage.xml.append:2665
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:2601
+#: src-en/data/events_special_storage.xml.append:2668
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2603
+#: src-en/data/events_special_storage.xml.append:2670
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:2606
+#: src-en/data/events_special_storage.xml.append:2673
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2614
+#: src-en/data/events_special_storage.xml.append:2681
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:2617
+#: src-en/data/events_special_storage.xml.append:2684
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2619
+#: src-en/data/events_special_storage.xml.append:2686
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:2622
+#: src-en/data/events_special_storage.xml.append:2689
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2632
+#: src-en/data/events_special_storage.xml.append:2699
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
 "append:choice[1]/text"
 msgstr "('マトリックス'マルチピンポイント) スキャッターモードに切り替える。[現在のモード: パターン]"
 
-#: src-en/data/events_special_storage.xml.append:2636
+#: src-en/data/events_special_storage.xml.append:2703
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
 "append:choice[2]/text"
 msgstr "('マトリックス'マルチピンポイント) パターンモードに切り替える。[現在のモード: スキャッター]"
 
-#: src-en/data/events_special_storage.xml.append:2642
+#: src-en/data/events_special_storage.xml.append:2709
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:2645
+#: src-en/data/events_special_storage.xml.append:2712
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2647
+#: src-en/data/events_special_storage.xml.append:2714
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:2650
+#: src-en/data/events_special_storage.xml.append:2717
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2658
+#: src-en/data/events_special_storage.xml.append:2725
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/text"
 msgstr "兵器のキャリブレーションを開始します…"
 
-#: src-en/data/events_special_storage.xml.append:2661
+#: src-en/data/events_special_storage.xml.append:2728
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:2663
+#: src-en/data/events_special_storage.xml.append:2730
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/choice/event/text"
 msgstr "兵器のキャリブレーションに成功しました。"
 
-#: src-en/data/events_special_storage.xml.append:2666
+#: src-en/data/events_special_storage.xml.append:2733
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2746
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2748
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2750
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2752
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2755
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2757
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2762
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2770
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2778
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2780
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2783
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
+"append:choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2785
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
+"append:choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2788
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
+"append:choice/event/choice/event/choice/text"
 msgstr ""

@@ -26,7 +26,7 @@ msgstr "Ask her to remind you about her past."
 #: src-en/data/events_special_storage.xml.append:24
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[2]/text"
-msgstr "Ask her about special beam weapons."
+msgstr "Ask her about special technology."
 
 #: src-en/data/events_special_storage.xml.append:28
 msgid ""
@@ -42,7 +42,7 @@ msgstr "She is already accompanying you."
 #: src-en/data/events_special_storage.xml.append:36
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[5]/text"
-msgstr "Nevermind."
+msgstr "Ask her about her powers."
 
 #: src-en/data/events_special_storage.xml.append:40
 msgid ""
@@ -54,13 +54,14 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/text"
 msgstr ""
 "Oh, you want one of those fancy beam weapons that nobody else has?--\n"
+"Or some other cool piece for your ship?--\n"
 "Well, we have someting in common then--\n"
 "Get the necessarry materials and knowledge for them and I'd gladly share--"
 
 #: src-en/data/events_special_storage.xml.append:55
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[1]/text"
-msgstr "Ask her about Aether beams."
+msgstr "Ask her about Aether."
 
 #: src-en/data/events_special_storage.xml.append:59
 msgid ""
@@ -453,7 +454,9 @@ msgstr "Lily"
 #: src-en/data/events_special_storage.xml.append:579
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"BLUELIST_AETHER\"]/text"
-msgstr "(Aether Tech) Install the technology and use it [30~, 5|]"
+msgstr ""
+"(Aether Tech) Aether will do - just submit Lily one of the tech pieces "
+"first. (Ask her about the tech in the menu)"
 
 #: src-en/data/events_special_storage.xml.append:583
 msgid ""

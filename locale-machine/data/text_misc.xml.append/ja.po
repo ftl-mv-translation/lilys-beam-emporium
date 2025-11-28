@@ -49,142 +49,146 @@ msgstr ""
 "崩壊ビームはリリーが異形技術を使って設計した特殊なビームです。クルーとシステムに時間経過ダメージを与え、回復と修理を著しく妨げ、完全に破壊されたシステムに命中すると船体にダメージを与えます。効果は耐性のある部屋やシールドバブルに命中した場合でも適用されます！"
 
 #: src-en/data/text_misc.xml.append:12
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_exonet_weapon_core\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe\"]"
 msgstr "ヒント: 特殊なビーム兵器。使用前に設定が必要です。"
 
-#: src-en/data/text_misc.xml.append:13
+#: src-en/data/text_misc.xml.append:15
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_m\"]"
 msgstr "ヒント: 味方クルーに15秒間、毎秒4の回復を適用します。また、その間、危険からの被ダメージを半減させます。"
 
-#: src-en/data/text_misc.xml.append:14
+#: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_s\"]"
 msgstr "ヒント: 味方クルーに10秒間、移動速度とダメージを2倍にします。"
 
-#: src-en/data/text_misc.xml.append:15
+#: src-en/data/text_misc.xml.append:17
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_p\"]"
 msgstr ""
 "ヒント: 命中したクルーに25秒間、毎秒4HPのダメージを与えます。スタックしません。医療施設のない船ではほとんどの種族にとって致命的です。"
 
-#: src-en/data/text_misc.xml.append:16
+#: src-en/data/text_misc.xml.append:18
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_a\"]"
 msgstr "ヒント: 命中したタイルごとに弱い侵食効果を適用します。また、命中したクルーに3秒間、毎秒10HPのダメージを与えます。"
 
-#: src-en/data/text_misc.xml.append:19
+#: src-en/data/text_misc.xml.append:21
 msgid "data/text_misc.xml.append$//text[@name=\"button_lily_beam\"]"
 msgstr "E. ブラスト"
 
-#: src-en/data/text_misc.xml.append:20
+#: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"button_lily_ion\"]"
 msgstr "イオン"
 
-#: src-en/data/text_misc.xml.append:22
+#: src-en/data/text_misc.xml.append:24
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_beam_emporium\"]"
 msgstr "ビーム・エンポリアム"
 
-#: src-en/data/text_misc.xml.append:24
+#: src-en/data/text_misc.xml.append:26
 msgid "data/text_misc.xml.append$//text[@name=\"lily_aether_submit\"]"
 msgstr ""
 "空間の裂け目が開き、あなたが渡したアイテムを飲み込むのを見守る。\n"
 "「いいものを見つけたな、これは完璧に役立つだろう――」"
 
-#: src-en/data/text_misc.xml.append:26
+#: src-en/data/text_misc.xml.append:28
 msgid "data/text_misc.xml.append$//text[@name=\"lily_aether_redeem\"]"
 msgstr ""
 "空間の裂け目が開き、真新しいエーテル兵器をあなたに与えるのを見守る！\n"
 "「そして、これが君の苦労への報酬だ――」"
 
-#: src-en/data/text_misc.xml.append:29
+#: src-en/data/text_misc.xml.append:31
 msgid "data/text_misc.xml.append$//text[@name=\"loot_zoltan_2\"]"
 msgstr ""
 "ゾルタンの戦利品\n"
 "システムに追加ダメージ\n"
 "-1秒のクールダウン、+20%の船体亀裂率"
 
-#: src-en/data/text_misc.xml.append:36
+#: src-en/data/text_misc.xml.append:38
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_continue\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:38
+#: src-en/data/text_misc.xml.append:40
 msgid "data/text_misc.xml.append$//text[@name=\"lily_text_multiverse_crp\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:40
+#: src-en/data/text_misc.xml.append:42
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_nospareprime\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:41
+#: src-en/data/text_misc.xml.append:43
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_lilysnipesprime\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:43
+#: src-en/data/text_misc.xml.append:45
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_herrealm_alt\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:50
+#: src-en/data/text_misc.xml.append:52
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_hernofight\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:52
+#: src-en/data/text_misc.xml.append:54
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_hernukewarning\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:57
+#: src-en/data/text_misc.xml.append:59
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight1\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:58
+#: src-en/data/text_misc.xml.append:60
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight2\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:59
+#: src-en/data/text_misc.xml.append:61
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight3\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:60
+#: src-en/data/text_misc.xml.append:62
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight4\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:61
+#: src-en/data/text_misc.xml.append:63
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight5\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:63
+#: src-en/data/text_misc.xml.append:65
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur1\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:64
+#: src-en/data/text_misc.xml.append:66
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur2\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:65
+#: src-en/data/text_misc.xml.append:67
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur3\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:66
+#: src-en/data/text_misc.xml.append:68
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur4\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:67
+#: src-en/data/text_misc.xml.append:69
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur5\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:69
+#: src-en/data/text_misc.xml.append:71
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext1\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:70
+#: src-en/data/text_misc.xml.append:72
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext2\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:71
+#: src-en/data/text_misc.xml.append:73
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext3\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:72
+#: src-en/data/text_misc.xml.append:74
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext4\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:74
+#: src-en/data/text_misc.xml.append:76
 msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_nexus_her_lily\"]"
 msgstr ""
 "比類なき力、そして『韻を踏む者』、リリー、そしてあなた自身が『彼女』の側にいることで、『彼女』はネクサスに戻り、C.E.L.の残存勢力を根絶する。あなたの当初の任務は即座に忘れ去られ、新たな闇の帝国がマルチバースに降臨し、無限の宇宙に永遠に狂気を広める。"

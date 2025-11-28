@@ -1,7 +1,7 @@
 {
   "lang": "ja",
   "originalLang": "en",
-  "version": "1.5.4",
+  "version": "1.6.0",
   "translation": {
     "Beam Emporium": {
       "advanced": {
@@ -21,6 +21,66 @@
           "text": "カオス・エンフォーサー"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Exonet Mainframe (V)": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "A Verdant tier Exonet-Enabled mainframe installed on your ship. Provides 3 point stackable energy shield, and 3 bonus power to engines.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Exonet Mainframe (C)": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "A Crimson tier Exonet-Enabled mainframe installed on your ship. Provides 5 point stackable energy shield, 4 bonus power to engines, 2 to shields and armor, and 1 to other systems.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Exonet Mainframe (A)": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "An Azure tier Exonet-Enabled mainframe installed on your ship. Provides 8 point stackable energy shield, 5 bonus power to engines, 4 to shields, armor, and ECM, and 2 to other systems. Also provides basic manning to all systems.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Exonet Mainframe (R)": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "A Radiant tier Exonet-Enabled mainframe installed on your ship. Provides 14 point stackable energy shield, 6 bonus power to engines and ECM, 8 to shields and armor, and 4 to other systems. Also provides improved manning to all systems.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Exonet Mainframe (I)": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "An Iridium tier Exonet-Enabled mainframe installed on your ship. Provides 20 point stackable energy shield, 8 bonus power to engines and ECM, 16 to shields and armor, and 6 to other systems. Also provides advanced manning to all systems.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -175,13 +235,8 @@
       "machine": "",
       "done": false
     },
-    "A barrier of eldritch chaotic energy that provides a 42 hitpoints Super Shield. Its power source seems to be... not even on the ship?.": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "42ヒットポイントのスーパーシールドを提供する、異形の混沌エネルギーのバリア。その動力源は...船内にすら存在しないようだ？"
-        }
-      },
+    "A barrier of eldritch chaotic energy that provides a 20 hitpoints Super Shield. Your scanner's can't even determine where the shield's power is coming from.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -605,6 +660,24 @@
       "deepl": "",
       "machine": "",
       "done": true
+    },
+    "Clone Cannon [???]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Cloner [???]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "No weapon has ever sparked a larger ethical controversy, but if it works it works. Apparently your attempts to upload Lily's Avatar into it has resulted in it becoming... a pinpoint?": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
     },
     "'Pointer' Pinpoint": {
       "advanced": {
@@ -2185,6 +2258,156 @@
       "machine": "",
       "done": false
     },
+    "Exonet Weapon Core - Verdant": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Verdant Core": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This unusual device uses some alien technology to recieve power and information remotely from unknown source, greatly boosting your weapon performance and providing power. \"Verdant\" tier.\n\t[In order for weapons to function, there must be at least one normal reactor power allocated to the weapon system]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This unusual device uses some alien technology to recieve power and information remotely from unknown source, greatly boosting your weapon performance and providing power.\n\nStats:\nTier: Verdant\n\nProvides Power: 4\n\nBonus Reload Speed: 10%\nBonus Accuracy: 10%\n\n\nDefault Price: 100~   -   Selling Price: 50~": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Provides Power: 4\n\nBonus Reload Speed: 10%\nBonus Accuracy: 10%": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Exonet Weapon Core - Crimson": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Crimson Core": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This unusual device uses some alien technology to recieve power and information remotely from unknown source, greatly boosting your weapon performance and providing power. \"Crimson\" tier.\n\t[In order for weapons to function, there must be at least one normal reactor power allocated to the weapon system]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This unusual device uses some alien technology to recieve power and information remotely from unknown source, greatly boosting your weapon performance and providing power.\n\nStats:\nTier: Crimson\n\nProvides Power: 6\n\nBonus Reload Speed: 25%\nBonus Accuracy: 20%\n\n\nDefault Price: 150~   -   Selling Price: 75~": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Provides Power: 6\n\nBonus Reload Speed: 25%\nBonus Accuracy: 20%": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Exonet Weapon Core - Azure": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Azure Core": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This unusual device uses some alien technology to recieve power and information remotely from unknown source, greatly boosting your weapon performance and providing power. \"Azure\" tier.\n\t[In order for weapons to function, there must be at least one normal reactor power allocated to the weapon system]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This unusual device uses some alien technology to recieve power and information remotely from unknown source, greatly boosting your weapon performance and providing power.\n\nStats:\nTier: Azure\n\nProvides Power: 8\n\nBonus Reload Speed: 50%\nBonus Accuracy: 30%\n\n\nDefault Price: 200~   -   Selling Price: 100~": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Provides Power: 8\n\nBonus Reload Speed: 50%\nBonus Accuracy: 30%": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Exonet Weapon Core - Radiant": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Radiant Core": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This unusual device uses some alien technology to recieve power and information remotely from unknown source, greatly boosting your weapon performance and providing power. \"Radiant\" tier.\n\t[In order for weapons to function, there must be at least one normal reactor power allocated to the weapon system]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This unusual device uses some alien technology to recieve power and information remotely from unknown source, greatly boosting your weapon performance and providing power.\n\nStats:\nTier: Radiant\n\nProvides Power: 12\n\nBonus Reload Speed: 100%\nBonus Accuracy: 50%\n\nPre-Ignites all weapons\n\n\nDefault Price: 300~   -   Selling Price: 150~": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Provides Power: 12\n\nPre-Ignites all weapons\n\nBonus Reload Speed: 100%\nBonus Accuracy: 50%": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Exonet Weapon Core - Iridium": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Iridium Core": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This unusual device uses some alien technology to recieve power and information remotely from unknown source, greatly boosting your weapon performance and providing power. \"Iridium\" tier.\n\t[In order for weapons to function, there must be at least one normal reactor power allocated to the weapon system]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This unusual device uses some alien technology to recieve power and information remotely from unknown source, greatly boosting your weapon performance and providing power.\n\nStats:\nTier: Iridium\n\nProvides Power: 16\n\nBonus Reload Speed: 200%\nBonus Accuracy: 80%\n\nPre-Ignites all weapons\n\n\nDefault Price: 500~   -   Selling Price: 250~": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Provides Power: 16\n\nPre-Ignites all weapons\n\nBonus Reload Speed: 200%\nBonus Accuracy: 80%": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "'Ira' Disintegrator Beam": {
       "advanced": {
         "10": {
@@ -3309,6 +3532,24 @@
       "machine": "",
       "done": false
     },
+    "Shortly after, Lily contacts you, however.\n\"Oh, so this stage of testing is complete!--\"\n\"The results are unexpected... and most impressive!--\"\n\"You and your ship are surely strong ones since you've managed to pull this off!--\"\n\"And that means - you will make excellent subject for further testing!--\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"Oh, and luckily for you it won't even involve you getting shot at by experimental weapons--\"\n\"Only merely carrying and using some potentially volatile tech, hahe!--\"\n\"Alright, here we go, and no, you can't back out--\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"And take this as well--\"\n\"It won't kill you - probably--\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "You have arrived at the advertised location of the advertised \"Beam Emporium\" store. However, the beacon appears to be empty, with no ships there. However, you feel a strange sense of unease, as if someone was watching you...": {
       "advanced": {
         "10": {
@@ -3762,6 +4003,12 @@
       "machine": "",
       "done": false
     },
+    "I'm here just to do some combat testing of your technology.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "@%#$$#$$@$": {
       "advanced": {
         "10": {
@@ -3782,7 +4029,7 @@
       },
       "deepl": "",
       "machine": "",
-      "done": false
+      "done": true
     },
     "Nope.": {
       "advanced": {},
@@ -3907,6 +4154,12 @@
           "text": "「それと、コンバットチェックって何だい？――」\n「この辺りでは見かけないな――」"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"You know what, this is alright. The weapons need some testing anyway--\"\n\"And I'll reward you if you manage to win--\"\n\"So bring it on, hahe!\"": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -5204,13 +5457,8 @@
       "machine": "",
       "done": false
     },
-    "Ask her about special beam weapons.": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "特別なビーム兵器について尋ねる。"
-        }
-      },
+    "Ask her about special technology.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -5237,30 +5485,26 @@
       "machine": "",
       "done": false
     },
+    "Ask her about her powers.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
     "Nevermind.": {
       "advanced": {},
       "deepl": "",
       "machine": "",
       "done": true
     },
-    "Oh, you want one of those fancy beam weapons that nobody else has?--\nWell, we have someting in common then--\nGet the necessarry materials and knowledge for them and I'd gladly share--": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "おや、誰も持っていないような派手なビーム兵器が欲しいのかい？――\nふむ、それなら共通点があるな――\n必要な材料と知識を手に入れれば、喜んで共有しよう――"
-        }
-      },
+    "Oh, you want one of those fancy beam weapons that nobody else has?--\nOr some other cool piece for your ship?--\nWell, we have someting in common then--\nGet the necessarry materials and knowledge for them and I'd gladly share--": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
     },
-    "Ask her about Aether beams.": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "エーテルビームについて尋ねる。"
-        }
-      },
+    "Ask her about Aether.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -5859,11 +6103,17 @@
       "machine": "",
       "done": false
     },
-    "(Aether Tech) Install the technology and use it [30~, 5|]": {
+    "(Aether Tech) Aether will do - just submit Lily one of the tech pieces first. (Ask her about the tech in the menu)": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "(Aether Points) Install the technology and use it [30~, 5|]": {
       "advanced": {
         "10": {
           "model": "gemini-2.5-pro",
-          "text": "(エーテル技術) 技術をインストールして使用する [30~, 5|]"
+          "text": "(エーテルポイント) 技術をインストールして使用する [30~, 5|]"
         }
       },
       "deepl": "",
@@ -5886,17 +6136,6 @@
         "10": {
           "model": "gemini-2.5-pro",
           "text": "そして起動する！\n\n突然、あなたの近くに空間の裂け目が開き、…ごく普通の人間が実体化する。しかし、何か違和感がある…"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "(Aether Points) Install the technology and use it [30~, 5|]": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "(エーテルポイント) 技術をインストールして使用する [30~, 5|]"
         }
       },
       "deepl": "",
@@ -6196,6 +6435,60 @@
           "text": "実は、そんな気分じゃないんだ。"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You decide to ask Lily how she - or whatever her \"Avatar\" thing is - possesses such superhuman powers.\n\"So, you want to know abount my powers and such?--\"\n\"Prying for secrets, I see--\"\n\"But you surely have heard of magicians, wizards, warlocks, and so on?--\"\n\"So it's very simple - I'm a witch--\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "I've heard - but that doesn't explain a thing.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"Well, I suppose I'll have to get into... more specific details, then?--\"\n\"Aether, right? You've heard of it, right?--\"\n\"Well, how about Exonet?--\"\n\"I don't blame you if you don't - this material doesn't actually exist in your cluster at all - not even the most ancient empires of yours got your hand on it--\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"But luckily, such limitations don't apply to me!--\"\n\"Since I can travel between clusters, it was a matter of time before I've found a cluster in which it existed--\"\n\"Exonet - both material and technology - might not have such amazing structural properties of Aether - but yet it allows for truly wonderful things--\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"It's a synthetic material with an unique property of being extremely good at conducting energy and data - and once properly synced up, it can even do it at range, wirelessly!--\"\n\"And what this means - a whole range of applications, from mundane to not so--\"\n\"Exonet can allow vehicles, ships, or even living beings integrated with it - to have access to vastly more energy, data, and processing capability than it would be normally possible!--\"\n\"It also makes remote contol easy - even at huge distances or through jamming that would render all radio communication useless.\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"...Which is what lies at the core of my Avatars - an Aether made structure with a powerful Exonet link to provide it with energy, give me the ability to control it, as well as receive an extremely good reading about its surroundings--\"\n\"And the powers - they also are using the connection provided by the Exonet link--\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"So I hope that have cleared things up a bit--\"\n\"And if you are just even more curious now, that's good too--\"\n\"I'm sure you want a piece of this technology for yourself now as well--\"\n\"Stay on my good side and maybe you'll still have an opportunity to get your hand on some later, hahe--\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Wi- what? That just makes it even more confusing.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Umm, okay I guess? I think I got it.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -7292,6 +7585,48 @@
       "machine": "",
       "done": false
     },
+    "Try to upload Lily's Avatar.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Are you sure? You are not sure if it's even possible to clone Lily's Avatar conventionally.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You start the process. It... doesn't seem to work, as expected. But suddenty there is a flash of aberrant light, and something... has changed?": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"A wonderful idea you have there, Renagade--\"\n\"And sadly, while it might not be what you'd expect, I took liberty to modify the cannon... myself--\"\n\"Just try and see the result for yourself--\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Reset the cannon.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You reset the weapon.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Despite the cannon modification being... very unusual, no problems occur during the resetting process.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Liliana": {
       "advanced": {
         "10": {
@@ -7644,6 +7979,24 @@
       "machine": "",
       "done": false
     },
+    "This Was a Triumph": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Destroy the Lily's Emporium station, getting a ton of test data for her - and some experimental equipment for you.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "???": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Equivalent Exchange": {
       "advanced": {
         "10": {
@@ -7961,6 +8314,12 @@
       "machine": "",
       "done": false
     },
+    "L.A.M.S.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Tip: You can use it to play with your cat. And your drones too.": {
       "advanced": {
         "10": {
@@ -8045,6 +8404,12 @@
           "text": "ヒント: 崩壊ビームはリリーが異形技術を使って設計した特殊なビームです。クルーとシステムに時間経過ダメージを与え、回復と修理を著しく妨げ、完全に破壊されたシステムに命中すると船体にダメージを与えます。効果は耐性のある部屋やシールドバブルに命中した場合でも適用されます！"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Tip: Exonet cores use specialized technology that allows them to transfer huge amout of data and energy wirelessly. This one is calibrated and set to \"Recieve\" mode, providing your weapons with power and data to enhance their performance.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false

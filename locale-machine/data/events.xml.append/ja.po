@@ -58,38 +58,68 @@ msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/text"
 msgstr "しかし、ステーションの兵器の一つが戦闘を生き延び、今宇宙に浮いているようだ！あなたは急いでそれを拾い上げる。"
 
-#: src-en/data/events.xml.append:69
+#: src-en/data/events.xml.append:53
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:55
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:61
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:63
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:68
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:70
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:98
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_QUEST_START\"]/text"
 msgstr ""
 "宣伝されていた「ビーム・エンポリアム」店の広告された場所に到着した。しかし、ビーコンは空で、船は一隻もいない。だが、誰かに見られているような奇妙な不安を感じる…"
 
-#: src-en/data/events.xml.append:71
+#: src-en/data/events.xml.append:100
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_QUEST_START\"]/choice[1]/text"
 msgstr "さらに調査する。"
 
-#: src-en/data/events.xml.append:80
+#: src-en/data/events.xml.append:109
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_QUEST_START\"]/choice[2]/text"
 msgstr "できるだけ早く立ち去る。"
 
-#: src-en/data/events.xml.append:82
+#: src-en/data/events.xml.append:111
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_QUEST_START\"]/choice[2]/event/text"
 msgstr "奇妙な現象を調査するために任務を危険にさらす気はない。あなたは向きを変え、すぐにFTLドライブをチャージして去る。"
 
-#: src-en/data/events.xml.append:113
+#: src-en/data/events.xml.append:142
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_GLITCH_CONTINUE\"]/text"
 msgstr "店を探し続けていると、突然システムがグリッチを起こして再起動した！"
 
-#: src-en/data/events.xml.append:131
+#: src-en/data/events.xml.append:160
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_CEL_FOUND\"]/text"
 msgstr ""
 "あなたは店を探し続ける。しかし、最善を尽くしたにもかかわらず、ここには何も見つからない。なぜそこに店の広告があるのかは、依然として謎のままだ。"
 
-#: src-en/data/events.xml.append:157
+#: src-en/data/events.xml.append:186
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR\"]/text"
 msgstr ""
 "ついに、比較的普通に見える宇宙ステーションに気づく。ただし、珍しいエネルギーシールドで保護されているようだ。\n"
@@ -99,51 +129,51 @@ msgstr ""
 "また会うとは思わなかった…ましてやこんな状況で――\n"
 "もちろん、私の店から何でも持っていっていいぞ。楽しんで、混沌を巻き起こそうじゃないか！――」"
 
-#: src-en/data/events.xml.append:164
+#: src-en/data/events.xml.append:193
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:185
+#: src-en/data/events.xml.append:214
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_1\"]/text"
 msgstr "リリーから、贈り物を授かった！――"
 
-#: src-en/data/events.xml.append:190
+#: src-en/data/events.xml.append:219
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_1\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:201
+#: src-en/data/events.xml.append:230
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_2\"]/text"
 msgstr "そしてもう一つ、君の食欲を満たすために！――"
 
-#: src-en/data/events.xml.append:206
+#: src-en/data/events.xml.append:235
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_2\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:218
+#: src-en/data/events.xml.append:247
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/text"
 msgstr "あ、それと、君の冒険に私も加われたらいいな！きっと壮大な冒険になるだろう！構わないかい？――"
 
-#: src-en/data/events.xml.append:220
+#: src-en/data/events.xml.append:249
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[1]/text"
 msgstr "それはとても嬉しい！"
 
-#: src-en/data/events.xml.append:222
+#: src-en/data/events.xml.append:251
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[1]/event/text"
 msgstr "では、急ごう！戦う準備はできている！"
 
-#: src-en/data/events.xml.append:230
+#: src-en/data/events.xml.append:259
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[2]/text"
 msgstr "がっかりさせて申し訳ないが、今回は無理だ。"
 
-#: src-en/data/events.xml.append:232
+#: src-en/data/events.xml.append:261
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[2]/event/text"
 msgstr "残念だ、と言わざるを得ない。でも、とにかく私の店を見ていってくれ――"
 
-#: src-en/data/events.xml.append:240
+#: src-en/data/events.xml.append:269
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/text"
 msgstr ""
 "ついに、比較的普通に見える宇宙ステーションに気づく。ただし、珍しいエネルギーシールドで保護されているようだ。\n"
@@ -151,144 +181,144 @@ msgstr ""
 "ビーム兵器とピンポイント兵器の豊富なコレクションを販売中――」\n"
 "数分前にはそこになかったと、あなたは確信している…"
 
-#: src-en/data/events.xml.append:245
+#: src-en/data/events.xml.append:274
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[1]/text"
 msgstr "買い物をするだけ。"
 
-#: src-en/data/events.xml.append:247
+#: src-en/data/events.xml.append:276
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[1]/event/text"
 msgstr "起こっていた奇妙なことを無視して、店に向かう。幸いにも、それ以上の出来事は起こらなかった。"
 
-#: src-en/data/events.xml.append:253
+#: src-en/data/events.xml.append:282
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/text"
 msgstr "見つけた謎のメモについて思い出す。"
 
-#: src-en/data/events.xml.append:255
+#: src-en/data/events.xml.append:284
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/text"
 msgstr "謎のメモをリリーに渡し、彼女の返事を待つ。"
 
-#: src-en/data/events.xml.append:257
+#: src-en/data/events.xml.append:286
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:259
+#: src-en/data/events.xml.append:288
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/choice/event/text"
 msgstr ""
 "「このメモを…君が持っている？ふむ、それはつまり一つしかない――君は『彼女』に選ばれ、使命を果たす者の一人だということだ。何の使命かは、『彼女』だけが知っている。だが、私もたまたま『彼女』のしもべの一人なので、これからは手助けしよう――\n"
 "ああ、それと旅の助けにこれを。」"
 
-#: src-en/data/events.xml.append:266
+#: src-en/data/events.xml.append:295
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:268
+#: src-en/data/events.xml.append:297
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/choice/event/choice/event/text"
 msgstr ""
 "では行こう！\n"
 "(注: リリーには保管メニューから連絡できます)"
 
-#: src-en/data/events.xml.append:288
+#: src-en/data/events.xml.append:317
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/text"
 msgstr "あなたのセイレーンが、ステーションの奇妙なエネルギーシールドに気づく。"
 
-#: src-en/data/events.xml.append:290
+#: src-en/data/events.xml.append:319
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/text"
 msgstr "あなたのセイレーンはステーションの異形の混沌エネルギーをよく認識しており、その力を使ってリリーに遠隔メッセージを送る。"
 
-#: src-en/data/events.xml.append:292
+#: src-en/data/events.xml.append:321
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:294
+#: src-en/data/events.xml.append:323
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/text"
 msgstr ""
 "「君のようなセイレーンが反逆者の船に？近頃は君たちを見かけるのがとても珍しい。旅の足しに何かあげよう、そして自由に買い物してくれ！」\n"
 "「君の冒険に私も加えてもらえないだろうか？私たちの双方の目標に利益があると思うんだが――」"
 
-#: src-en/data/events.xml.append:301
+#: src-en/data/events.xml.append:330
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/choice[1]/text"
 msgstr "もちろん！"
 
-#: src-en/data/events.xml.append:303
+#: src-en/data/events.xml.append:332
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/choice[1]/event/text"
 msgstr ""
 "では急ごう！\n"
 "(注: リリーには保管メニューから連絡できます)"
 
-#: src-en/data/events.xml.append:311
+#: src-en/data/events.xml.append:340
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/choice[2]/text"
 msgstr "すまないが、今回はだめだ。"
 
-#: src-en/data/events.xml.append:313
+#: src-en/data/events.xml.append:342
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/choice[2]/event/text"
 msgstr "残念だが、とにかく私の店を見ていってくれ――"
 
-#: src-en/data/events.xml.append:323
+#: src-en/data/events.xml.append:352
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/text"
 msgstr "あなたの異形の存在が、ステーションの奇妙なエネルギーシールドに気づく。"
 
-#: src-en/data/events.xml.append:325
+#: src-en/data/events.xml.append:354
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/text"
 msgstr "あなたの異形の存在はステーションの異形の混沌エネルギーをよく認識しており、その力を使ってリリーに遠隔メッセージを送る。"
 
-#: src-en/data/events.xml.append:327
+#: src-en/data/events.xml.append:356
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:329
+#: src-en/data/events.xml.append:358
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/text"
 msgstr ""
 "「君のような異形の存在が反逆者の船に？近頃は君たちを見かけるのがとても珍しい。旅の足しに何かあげよう、そして自由に買い物してくれ！」\n"
 "「君の冒険に私も加えてもらえないだろうか？私たちの双方の目標に利益があると思うんだが――」"
 
-#: src-en/data/events.xml.append:336
+#: src-en/data/events.xml.append:365
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/choice[1]/text"
 msgstr "もちろん！"
 
-#: src-en/data/events.xml.append:338
+#: src-en/data/events.xml.append:367
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/choice[1]/event/text"
 msgstr ""
 "では急ごう！\n"
 "(注: リリーには保管メニューから連絡できます)"
 
-#: src-en/data/events.xml.append:346
+#: src-en/data/events.xml.append:375
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/choice[2]/text"
 msgstr "すまないが、今回はだめだ。"
 
-#: src-en/data/events.xml.append:348
+#: src-en/data/events.xml.append:377
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/choice[2]/event/text"
 msgstr "残念だが、とにかく私の店を見ていってくれ――"
 
-#: src-en/data/events.xml.append:358
+#: src-en/data/events.xml.append:387
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"lily_questioned\"]/text"
 msgstr "異常現象について彼女に質問する。"
 
-#: src-en/data/events.xml.append:361
+#: src-en/data/events.xml.append:390
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"lily_questioned\"]/event/text"
 msgstr ""
@@ -297,41 +327,41 @@ msgstr ""
 "それはとても奇妙だ、こんなことを言ってきたのは君が初めてだよ――\n"
 "ちょっと見てもいいかい？無料でね――」"
 
-#: src-en/data/events.xml.append:366
+#: src-en/data/events.xml.append:395
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"lily_questioned\"]/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:377
+#: src-en/data/events.xml.append:406
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"lily_questioned\"]/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:379
+#: src-en/data/events.xml.append:408
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_STOREASK\"]/text"
 msgstr "「わかった。まだ買い物はしたいかい？――」"
 
-#: src-en/data/events.xml.append:381
+#: src-en/data/events.xml.append:410
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_STOREASK\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:387
+#: src-en/data/events.xml.append:416
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_STOREASK\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:389
+#: src-en/data/events.xml.append:418
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_STOREASK\"]/choice[2]/event/text"
 msgstr "買い物をせず、旅を続けることにした。"
 
-#: src-en/data/events.xml.append:397
+#: src-en/data/events.xml.append:426
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/text"
 msgstr "ステーションを攻撃しろ、力ずくで物資を手に入れられる！"
 
-#: src-en/data/events.xml.append:399
+#: src-en/data/events.xml.append:428
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/text"
 msgstr ""
@@ -340,42 +370,47 @@ msgstr ""
 "これで悪名が上がるんだぞ、知ってるか？しかも2倍だ！――\n"
 "それに、私は実は隠しボスで、君はまだ私と戦う準備ができていない！――」"
 
-#: src-en/data/events.xml.append:404
+#: src-en/data/events.xml.append:433
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[1]/text"
 msgstr "考えを変えて戻る。"
 
-#: src-en/data/events.xml.append:410
+#: src-en/data/events.xml.append:439
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[2]/text"
 msgstr "上の選択肢を選ぶ。"
 
-#: src-en/data/events.xml.append:414
+#: src-en/data/events.xml.append:443
 msgid ""
-"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[3]/text"
-msgstr "@%#$$#$$@$"
-
-#: src-en/data/events.xml.append:418
-msgid ""
-"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[4]/text"
-msgstr "#0#@%%*@$%"
-
-#: src-en/data/events.xml.append:422
-msgid ""
-"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[5]/text"
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[@req=\"lily_testing_allowed\"]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:426
+#: src-en/data/events.xml.append:450
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[4]/text"
+msgstr "@%#$$#$$@$"
+
+#: src-en/data/events.xml.append:454
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[5]/text"
+msgstr "#0#@%%*@$%"
+
+#: src-en/data/events.xml.append:458
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[6]/text"
-msgstr "ダメだと言ったはずだ。"
+msgstr ""
 
-#: src-en/data/events.xml.append:430
+#: src-en/data/events.xml.append:462
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[7]/text"
+msgstr "ダメだと言ったはずだ。"
+
+#: src-en/data/events.xml.append:466
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[8]/text"
 msgstr "構わず攻撃を続ける。"
 
-#: src-en/data/events.xml.append:443
+#: src-en/data/events.xml.append:479
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/text"
 msgstr ""
@@ -386,64 +421,64 @@ msgstr ""
 "ビーム兵器とピンポイント兵器の豊富なコレクションを販売中――\n"
 "そして、これはおまけだ、サービスだよ――」"
 
-#: src-en/data/events.xml.append:451
+#: src-en/data/events.xml.append:487
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[1]/text"
 msgstr "買い物をするだけ。"
 
-#: src-en/data/events.xml.append:453
+#: src-en/data/events.xml.append:489
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:455
+#: src-en/data/events.xml.append:491
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[1]/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:459
+#: src-en/data/events.xml.append:495
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[1]/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:467
+#: src-en/data/events.xml.append:503
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[@req=\"LILY_PATRONAGE\"]/text"
 msgstr "リリーに仲間になるよう頼む。"
 
-#: src-en/data/events.xml.append:469
+#: src-en/data/events.xml.append:505
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[@req=\"LILY_PATRONAGE\"]/event/text"
 msgstr ""
 "結局、考えを変えたのかい？――\n"
 "いいよ、加わろう――"
 
-#: src-en/data/events.xml.append:474
+#: src-en/data/events.xml.append:510
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[@req=\"LILY_PATRONAGE\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:476
+#: src-en/data/events.xml.append:512
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[@req=\"LILY_PATRONAGE\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:478
+#: src-en/data/events.xml.append:514
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[@req=\"LILY_PATRONAGE\"]/event/choice/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:482
+#: src-en/data/events.xml.append:518
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[@req=\"LILY_PATRONAGE\"]/event/choice/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:492
+#: src-en/data/events.xml.append:528
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/text"
 msgstr "ステーションを攻撃しろ、力ずくで物資を手に入れられる！"
 
-#: src-en/data/events.xml.append:494
+#: src-en/data/events.xml.append:530
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/text"
 msgstr ""
@@ -452,90 +487,95 @@ msgstr ""
 "これで悪名が上がるんだぞ、知ってるか？しかも2倍だ！――\n"
 "それに、私は実は隠しボスで、君はまだ私と戦う準備ができていない！――」"
 
-#: src-en/data/events.xml.append:499
+#: src-en/data/events.xml.append:535
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[1]/text"
 msgstr "考えを変えて戻る。"
 
-#: src-en/data/events.xml.append:505
+#: src-en/data/events.xml.append:541
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[2]/text"
 msgstr "上の選択肢を選ぶ。"
 
-#: src-en/data/events.xml.append:509
+#: src-en/data/events.xml.append:545
 msgid ""
-"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[3]/text"
-msgstr "@%#$$#$$@$"
-
-#: src-en/data/events.xml.append:513
-msgid ""
-"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[4]/text"
-msgstr "#0#@%%*@$%"
-
-#: src-en/data/events.xml.append:517
-msgid ""
-"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[5]/text"
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[@req=\"lily_testing_allowed\"]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:521
+#: src-en/data/events.xml.append:552
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[4]/text"
+msgstr "@%#$$#$$@$"
+
+#: src-en/data/events.xml.append:556
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[5]/text"
+msgstr "#0#@%%*@$%"
+
+#: src-en/data/events.xml.append:560
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[6]/text"
-msgstr "ダメだと言ったはずだ。"
+msgstr ""
 
-#: src-en/data/events.xml.append:525
+#: src-en/data/events.xml.append:564
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[7]/text"
+msgstr "ダメだと言ったはずだ。"
+
+#: src-en/data/events.xml.append:568
+msgid ""
+"data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[8]/text"
 msgstr "構わず攻撃を続ける。"
 
-#: src-en/data/events.xml.append:539
+#: src-en/data/events.xml.append:582
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_INSTALL_SENSORS\"]/text"
 msgstr ""
 "「ふむ、センサーシステムすらないのか！――\n"
 "ほら、これをあげるよ。最高のものではないが、ないよりはましだ――」"
 
-#: src-en/data/events.xml.append:543
+#: src-en/data/events.xml.append:586
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_INSTALL_SENSORS\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:551
+#: src-en/data/events.xml.append:594
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_UPGRADE_SENSORS\"]/text"
 msgstr ""
 "「ふむ、君のセンサーはもう少し改良の余地があるな！――\n"
 "ところで、少し調整しておいたよ――」"
 
-#: src-en/data/events.xml.append:555
+#: src-en/data/events.xml.append:598
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_UPGRADE_SENSORS\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:563
+#: src-en/data/events.xml.append:606
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_UPGRADE_REACTOR\"]/text"
 msgstr ""
 "「ふむ、電力システムの奇妙なグリッチかもしれないな？――\n"
 "ところで、少し調整しておいたよ――」"
 
-#: src-en/data/events.xml.append:568
+#: src-en/data/events.xml.append:611
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_UPGRADE_REACTOR\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:576
+#: src-en/data/events.xml.append:619
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_UPGRADE_NOTHING\"]/text"
 msgstr ""
 "「ふむ、奇妙だが、特に異常は見当たらないな――\n"
 "たぶん何でもなかったんだろう、気にしないでくれ――」"
 
-#: src-en/data/events.xml.append:579
+#: src-en/data/events.xml.append:622
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_UPGRADE_NOTHING\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:598
+#: src-en/data/events.xml.append:641
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_ATTACK_REAL\"]/text"
 msgstr ""
@@ -543,36 +583,45 @@ msgstr ""
 "「まあいいさ、どのみち兵器のテストが必要だったからね――」\n"
 "「さあ、かかってこい、ハッヘ！」"
 
-#: src-en/data/events.xml.append:602
+#: src-en/data/events.xml.append:645
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_ATTACK_REAL\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:604
+#: src-en/data/events.xml.append:647
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_ATTACK_REAL\"]/choice/event/text"
 msgstr ""
 "「それと、コンバットチェックって何だい？――」\n"
 "「この辺りでは見かけないな――」"
 
-#: src-en/data/events.xml.append:630
+#: src-en/data/events.xml.append:654
+msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_ATTACK_TEST\"]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:658
+msgid ""
+"data/events.xml.append$//event[@name=\"LILY_EMPORIUM_ATTACK_TEST\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:683
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_ATTACK_CONTINUE\"]/text"
 msgstr "ステーションを攻撃しようとするが、再びシステムが突然グリッチし、ステーションはまるで存在しなかったかのように消えてしまった！"
 
-#: src-en/data/events.xml.append:633
+#: src-en/data/events.xml.append:686
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_ATTACK_CONTINUE\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:635
+#: src-en/data/events.xml.append:688
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_ATTACK_CONTINUE\"]/choice/event/text"
 msgstr ""
 "さらに、すぐ近くに青色巨星が出現した！焼かれたくなければ急いで離れなければならない！\n"
 "謎の店主が誰であれ、彼らがあなたに手を出されたくないのは明らかだ。"
 
-#: src-en/data/events.xml.append:650
+#: src-en/data/events.xml.append:703
 msgid ""
 "data/events.xml.append$//event[@name=\"TRANSPORT_CAPTURE_STARGROVE_LILY\"]/text"
 msgstr ""
