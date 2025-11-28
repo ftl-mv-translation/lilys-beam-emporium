@@ -9,49 +9,46 @@ msgstr ""
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_LILY_WRECKED_SIREN_TRANSPORT_unlock\"]"
 msgstr ""
-"Récupérer ce vaisseau intact à l'endroit où brillent de nombreuses étoiles, "
-"avec l'aide d'une femme hors du commun pour le déverrouiller."
+"Recover this ship intact from the place, where many stars shine, with the "
+"help of an unusual woman to unlock it."
 
 #: src-en/data/text_blueprints.xml.append:2
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_LILY_SIREN_TRANSPORT_unlock\"]"
 msgstr ""
-"Gagner la partie avec une version endommagée de ce vaisseau pour débloquer "
-"la version restaurée."
+"Win the game with a broken version of this ship to unlock the restored "
+"version."
 
 #: src-en/data/text_blueprints.xml.append:3
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_LILY_SIREN_TRANSPORT_2_unlock\"]"
-msgstr ""
-"Atteindre le secteur 5 avec le Transporteur Sirène Type A pour débloquer ce "
-"vaisseau."
+msgstr "Get to Sector 5 with the Siren Transport Type A to unlock this ship."
 
 #: src-en/data/text_blueprints.xml.append:4
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_LILY_SIREN_TRANSPORT_3_unlock\"]"
 msgstr ""
-"Atteindre le secteur 5 avec le Transporteur Sirène Type B ou terminez le jeu"
-" avec le Transporteur Sirène Type A pour débloquer ce vaisseau."
+"Get to Sector 5 with the Siren Transport Type B or beat the game with the "
+"Siren Transport Type A to unlock this ship."
 
 #: src-en/data/text_blueprints.xml.append:5
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_LILY_SIREN_RHYME_TRANSPORT_unlock\"]"
 msgstr ""
-"Gagner avec tous les vaisseaux de transport Sirène ainsi qu'avec le Croiseur"
-" Rhyme A pour débloquer ce vaisseau."
+"Win with all Siren Transport ships as well as Rhyme Cruiser A to unlock this"
+" ship."
 
 #: src-en/data/text_blueprints.xml.append:6
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_LILY_SIREN_HER_TRANSPORT_unlock\"]"
 msgstr ""
-"Aider une certaine vendeuse de rayons à atteindre ses objectifs et à rentrer"
-" chez elle pour débloquer ce vaisseau."
+"Help a certain beam saleswoman achieve her goals and return home to unlock "
+"this ship."
 
 #: src-en/data/text_blueprints.xml.append:7
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_LILY_MV_SIREN_TRANSPORT_unlock\"]"
-msgstr ""
-"Gagner la partie avec le Croiseur Impérial MV pour débloquer ce vaisseau."
+msgstr "Win the game with MV Imperial Cruiser to unlock this ship."
 
 #: src-en/data/text_blueprints.xml.append:10
 msgid ""
@@ -71,32 +68,32 @@ msgstr "Pinion II"
 #: src-en/data/text_blueprints.xml.append:13
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIonHeavy_alt\"]"
-msgstr "Pinion Lourd"
+msgstr "Hv. Pinion"
 
 #: src-en/data/text_blueprints.xml.append:14
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIonChain_alt\"]"
-msgstr "Pinion à Charge"
+msgstr "Ch. Pinion"
 
 #: src-en/data/text_blueprints.xml.append:15
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIonPhase_alt\"]"
-msgstr "Pinion Phaseur"
+msgstr "Ph. Pinion"
 
 #: src-en/data/text_blueprints.xml.append:16
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIonFire_alt\"]"
-msgstr "Pinion Thermique"
+msgstr "Th. Pinion"
 
 #: src-en/data/text_blueprints.xml.append:17
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIonStun_alt\"]"
-msgstr "Pinion Etourdissant"
+msgstr "St. Pinion"
 
 #: src-en/data/text_blueprints.xml.append:18
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"lily_text_shortDescIonBio_alt\"]"
-msgstr "Pinion Radian"
+msgstr "Rad Pinion"
 
 #: src-en/data/text_blueprints.xml.append:19
 msgid ""

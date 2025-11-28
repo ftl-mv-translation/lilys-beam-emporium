@@ -23,54 +23,54 @@ msgstr "Aki"
 
 #: src-en/data/hyperspace.xml.append:281
 msgid "data/hyperspace.xml.append$//siren[@name=\"Noemi\"]/@name"
-msgstr "Noémi"
+msgstr "Noemi"
 
 #: src-en/data/hyperspace.xml.append:282
 msgid "data/hyperspace.xml.append$//crystal[@name=\"Sapphire\"]/@name"
-msgstr "Saphir"
+msgstr "Sapphire"
 
 #: src-en/data/hyperspace.xml.append:283
 msgid "data/hyperspace.xml.append$//crystal_liberator[@name=\"Emerald\"]/@name"
-msgstr "Émeraude"
+msgstr "Emerald"
 
 #: src-en/data/hyperspace.xml.append:750
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr "MENTAL"
+msgstr "MIND"
 
 #: src-en/data/hyperspace.xml.append:751
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE : 30s DURÉE : 10s]\n"
-"Contrôle mental sur un membre d'équipage ennemi aléatoire dans la pièce."
+"[COOLDOWN:30s DURATION:10s]\n"
+"Mind controls a random enemy crew in the room."
 
 #: src-en/data/hyperspace.xml.append:1043
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr "MENTAL"
+msgstr "MIND"
 
 #: src-en/data/hyperspace.xml.append:1044
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE : 30s DURÉE : 10s]\n"
-"Contrôle mental sur un membre d'équipage ennemi aléatoire dans la pièce."
+"[COOLDOWN:30s DURATION:10s]\n"
+"Mind controls a random enemy crew in the room."
 
 #: src-en/data/hyperspace.xml.append:1842
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[1]/buttonText"
-msgstr "EXPLOSION S."
+msgstr "E. BLAST"
 
 #: src-en/data/hyperspace.xml.append:1843
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[1]/tooltip"
 msgstr ""
-"EXPLOSION SURNATURELLE [TEMPS DE RECHARGE : 15 s]\n"
-"Surcharge votre curseur d'une énergie surnaturelle chaotique. Votre prochain clic sur une tuile invoquera un rayon Aiguillon qui la visera.\n"
-"\tDégâts au système : 2 ; dégâts à l'équipage : 45 ; perforation de bouclier : 10 ; chances de feu : 40 % ; Chances de trou dans la coque : 40 %.\n"
-"\tProvoque temporairement la folie chez les membres d'équipage touchés, désactivant leurs capacités actives.\n"
-"\tPeut cibler votre propre vaisseau."
+"ELDRITCH BLAST [COOLDOWN:15s]\n"
+"Supercharges your cursor with chaotic eldritch energy. Your next click on a tile will summon a pinpoint beam aimed at it.\n"
+"\tSys. Damage: 2; Crew damage: 45; Shield pierce: 10; Fire chance: 40%; Breach chance: 40%.\n"
+"\tTemporarily induces madness on the crew it hits, disabling their active abilities.\n"
+"\tCan target your own ship."
 
 #: src-en/data/hyperspace.xml.append:1862
 msgid ""
@@ -81,77 +81,77 @@ msgstr "ION"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[2]/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE : 90 s  DURÉE : 10s]\n"
-"Surcharge votre curseur en énergie ionique. Pendant les 10 secondes suivantes, vos clics sur les tuiles invoqueront un rayon Aiguillon ionique visant celle-ci.\n"
-"\tDégâts ioniques : 1 ; Perforation de bouclier : 10 ; Étourdissement : 10 secondes\n"
-"\tPeut cibler votre propre vaisseau.\n"
-"\tInflige également 2 points de dégâts ioniques à votre bouton de pause, désactivant votre capacité à mettre le jeu en pause pendant toute la durée."
+"[COOLDOWN:90s  DURATION:10s]\n"
+"Supercharges your cursor with ionic energy. For the next 10 seconds, your clicks on tiles will summon a ion pinpoint beam aimed at it.\n"
+"\tIon Damage: 1; Shield pierce: 10; Stun: 10 seconds.\n"
+"\tCan target your own ship.\n"
+"\tAlso deals 2 ion damage to your pause button, disabling your ability to pause game for the duration."
 
 #: src-en/data/hyperspace.xml.append:1915
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[1]/customTitle"
-msgstr "RAYONS"
+msgstr "BEAMS"
 
 #: src-en/data/hyperspace.xml.append:1931
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[2]/customTitle"
-msgstr "RAYONS"
+msgstr "BEAMS"
 
 #: src-en/data/hyperspace.xml.append:1947
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[3]/customTitle"
-msgstr "RAYONS"
+msgstr "BEAMS"
 
 #: src-en/data/hyperspace.xml.append:1963
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[4]/customTitle"
-msgstr "RAYONS"
+msgstr "BEAMS"
 
 #: src-en/data/hyperspace.xml.append:1979
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[5]/customTitle"
-msgstr "AIGUILLONS"
+msgstr "PINPOINTS"
 
 #: src-en/data/hyperspace.xml.append:1995
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[6]/customTitle"
-msgstr "AIGUILLONS"
+msgstr "PINPOINTS"
 
 #: src-en/data/hyperspace.xml.append:2011
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[7]/customTitle"
-msgstr "AIGUILLONS IONIQUES"
+msgstr "ION PINPOINTS"
 
 #: src-en/data/hyperspace.xml.append:2031
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[8]/customTitle"
-msgstr "AIGUILLONS IONIQUES"
+msgstr "ION PINPOINTS"
 
 #: src-en/data/hyperspace.xml.append:2050
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[9]/customTitle"
-msgstr "AIGUILLONS IONIQUES"
+msgstr "ION PINPOINTS"
 
 #: src-en/data/hyperspace.xml.append:2069
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[10]/customTitle"
-msgstr "UTILITÉ"
+msgstr "UTILITY"
 
 #: src-en/data/hyperspace.xml.append:2088
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[11]/customTitle"
-msgstr "UTILITÉ"
+msgstr "UTILITY"
 
 #: src-en/data/hyperspace.xml.append:2107
 msgid ""
@@ -163,13 +163,13 @@ msgstr "STATUS"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[13]/customTitle"
-msgstr "RÉFRACTEURS"
+msgstr "REFRACTORS"
 
 #: src-en/data/hyperspace.xml.append:2145
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[14]/customTitle"
-msgstr "TIRS MULTIPLES"
+msgstr "MULTISHOT"
 
 #: src-en/data/hyperspace.xml.append:2164
 msgid ""
@@ -181,73 +181,73 @@ msgstr "HIGH TECH"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[16]/customTitle"
-msgstr "OBUSIERS"
+msgstr "HOWITZERS"
 
 #: src-en/data/hyperspace.xml.append:2256
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[1]/customTitle"
-msgstr "RAYONS"
+msgstr "BEAMS"
 
 #: src-en/data/hyperspace.xml.append:2272
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[2]/customTitle"
-msgstr "RAYONS"
+msgstr "BEAMS"
 
 #: src-en/data/hyperspace.xml.append:2288
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[3]/customTitle"
-msgstr "RAYONS"
+msgstr "BEAMS"
 
 #: src-en/data/hyperspace.xml.append:2304
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[4]/customTitle"
-msgstr "RAYONS"
+msgstr "BEAMS"
 
 #: src-en/data/hyperspace.xml.append:2320
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[5]/customTitle"
-msgstr "AIGUILLONS"
+msgstr "PINPOINTS"
 
 #: src-en/data/hyperspace.xml.append:2336
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[6]/customTitle"
-msgstr "AIGUILLONS"
+msgstr "PINPOINTS"
 
 #: src-en/data/hyperspace.xml.append:2352
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[7]/customTitle"
-msgstr "AIGUILLONS IONIQUES"
+msgstr "ION PINPOINTS"
 
 #: src-en/data/hyperspace.xml.append:2372
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[8]/customTitle"
-msgstr "AIGUILLONS IONIQUES"
+msgstr "ION PINPOINTS"
 
 #: src-en/data/hyperspace.xml.append:2391
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[9]/customTitle"
-msgstr "AIGUILLONS IONIQUES"
+msgstr "ION PINPOINTS"
 
 #: src-en/data/hyperspace.xml.append:2410
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[10]/customTitle"
-msgstr "UTILITÉ"
+msgstr "UTILITY"
 
 #: src-en/data/hyperspace.xml.append:2429
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[11]/customTitle"
-msgstr "UTILITÉ"
+msgstr "UTILITY"
 
 #: src-en/data/hyperspace.xml.append:2448
 msgid ""
@@ -259,13 +259,13 @@ msgstr "STATUS"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[13]/customTitle"
-msgstr "RÉFRACTEURS"
+msgstr "REFRACTORS"
 
 #: src-en/data/hyperspace.xml.append:2486
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[14]/customTitle"
-msgstr "TIRS MULTIPLES"
+msgstr "MULTISHOT"
 
 #: src-en/data/hyperspace.xml.append:2505
 msgid ""
@@ -277,7 +277,7 @@ msgstr "HIGH TECH"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[16]/customTitle"
-msgstr "OBUSIERS"
+msgstr "HOWITZERS"
 
 #: src-en/data/hyperspace.xml.append:2574
 msgid ""
@@ -307,67 +307,67 @@ msgstr "CHAOS :)"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[1]/customTitle"
-msgstr "RAYONS"
+msgstr "BEAMS"
 
 #: src-en/data/hyperspace.xml.append:2697
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[2]/customTitle"
-msgstr "RAYONS"
+msgstr "BEAMS"
 
 #: src-en/data/hyperspace.xml.append:2716
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[3]/customTitle"
-msgstr "RAYONS"
+msgstr "BEAMS"
 
 #: src-en/data/hyperspace.xml.append:2735
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[4]/customTitle"
-msgstr "RAYONS"
+msgstr "BEAMS"
 
 #: src-en/data/hyperspace.xml.append:2754
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[5]/customTitle"
-msgstr "AIGUILLONS"
+msgstr "PINPOINTS"
 
 #: src-en/data/hyperspace.xml.append:2773
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[6]/customTitle"
-msgstr "AIGUILLONS"
+msgstr "PINPOINTS"
 
 #: src-en/data/hyperspace.xml.append:2792
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[7]/customTitle"
-msgstr "AIGUILLONS IONIQUES"
+msgstr "ION PINPOINTS"
 
 #: src-en/data/hyperspace.xml.append:2812
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[8]/customTitle"
-msgstr "AIGUILLONS IONIQUES"
+msgstr "ION PINPOINTS"
 
 #: src-en/data/hyperspace.xml.append:2831
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[9]/customTitle"
-msgstr "AIGUILLONS IONIQUES"
+msgstr "ION PINPOINTS"
 
 #: src-en/data/hyperspace.xml.append:2850
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[10]/customTitle"
-msgstr "UTILITÉ"
+msgstr "UTILITY"
 
 #: src-en/data/hyperspace.xml.append:2869
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[11]/customTitle"
-msgstr "UTILITÉ"
+msgstr "UTILITY"
 
 #: src-en/data/hyperspace.xml.append:2889
 msgid ""
@@ -379,13 +379,13 @@ msgstr "STATUS"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[13]/customTitle"
-msgstr "RÉFRACTEURS"
+msgstr "REFRACTORS"
 
 #: src-en/data/hyperspace.xml.append:2927
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[14]/customTitle"
-msgstr "TIRS MULTIPLES"
+msgstr "MULTISHOT"
 
 #: src-en/data/hyperspace.xml.append:2946
 msgid ""
@@ -397,7 +397,7 @@ msgstr "HIGH TECH"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[16]/customTitle"
-msgstr "OBUSIERS"
+msgstr "HOWITZERS"
 
 #: src-en/data/hyperspace.xml.append:2979
 msgid ""
@@ -463,218 +463,214 @@ msgstr "CHAOS :)"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
 "append:page/mod-append:section[1]/@text"
-msgstr "Les Succès de Lily"
+msgstr "Lily's Achievements"
 
 #: src-en/data/hyperspace.xml.append:3221
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_STORE\"]/name"
-msgstr "La Galerie des Rayons"
+msgstr "The Beam Emporium"
 
 #: src-en/data/hyperspace.xml.append:3222
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_STORE\"]/description"
-msgstr "Visiter la Galerie des Rayons."
+msgstr "Visit the Beam Emporium store."
 
 #: src-en/data/hyperspace.xml.append:3223
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_STORE\"]/secretDescription"
-msgstr "Trouver un magasin mystérieux qui vend une tonne de rayons."
+msgstr "Find a mysterious store selling a ton of beams."
 
 #: src-en/data/hyperspace.xml.append:3230
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_AVATAR\"]/name"
-msgstr "Femme aux multiples titres"
+msgstr "Woman of Many Titles"
 
 #: src-en/data/hyperspace.xml.append:3231
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_AVATAR\"]/description"
 msgstr ""
-"Accepter l'offre de Lily de vous rejoindre après lui avoir présenté un objet"
-" spécial ou un membre d'équipage."
+"Accept Lily's offer to join you after presenting her a special item or crew."
 
 #: src-en/data/hyperspace.xml.append:3232
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_AVATAR\"]/secretDescription"
-msgstr "Demander au propriétaire du magasin mystérieux de se joindre à vous."
+msgstr "Have the owner of mysterious store join you."
 
 #: src-en/data/hyperspace.xml.append:3239
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_LORE\"]/name"
-msgstr "Manuel d'instructions"
+msgstr "Instruction Manual"
 
 #: src-en/data/hyperspace.xml.append:3240
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_LORE\"]/description"
-msgstr "Demander à Lily de vous raconter son histoire."
+msgstr "Ask Lily about her story."
 
 #: src-en/data/hyperspace.xml.append:3241
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_LORE\"]/secretDescription"
-msgstr "Lire."
+msgstr "Read."
 
 #: src-en/data/hyperspace.xml.append:3248
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_EXCHANGE\"]/name"
-msgstr "Échange équivalent"
+msgstr "Equivalent Exchange"
 
 #: src-en/data/hyperspace.xml.append:3249
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_EXCHANGE\"]/description"
-msgstr ""
-"Fabriquer un Rayon royal à partir de la technologie Aether récupérée avec "
-"l'aide de Lily."
+msgstr "Craft a Royal Beam from salvaged Aether technology with Lily's help."
 
 #: src-en/data/hyperspace.xml.append:3250
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_EXCHANGE\"]/secretDescription"
-msgstr "L'Aether entre, l'Aether sort."
+msgstr "Aether in, Aether out."
 
 #: src-en/data/hyperspace.xml.append:3257
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_RHYMES\"]/name"
-msgstr "Une réunion chaotique"
+msgstr "A Chaotic Reunion"
 
 #: src-en/data/hyperspace.xml.append:3258
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_RHYMES\"]/description"
 msgstr ""
-"Visiter la Galerie des Rayons avec Celui qui rime et débloquer la note "
-"mystérieuse."
+"Visit the Beam Emporium with The One Who Rhymes and unlock the Mysterious "
+"Note."
 
 #: src-en/data/hyperspace.xml.append:3259
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_RHYMES\"]/secretDescription"
 msgstr ""
-"Conduire un chat d'un autre monde, coiffé d'un chapeau très chic, vers la "
-"plus grande collection de pointeurs laser de la galaxie."
+"Lead a certain otherworldly cat with a very fancy hat to the largest "
+"collections of laser pointers in the galaxy."
 
 #: src-en/data/hyperspace.xml.append:3266
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_NUKED\"]/name"
-msgstr "PULVÉRISÉ!"
+msgstr "NUKED!"
 
 #: src-en/data/hyperspace.xml.append:3267
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_NUKED\"]/description"
 msgstr ""
-"Recevoir une surprise nucléaire de la part d'un tiers très en colère alors "
-"que vous essayez de La combattre."
+"Get a nuclear surprise from a very pissed third party while trying to fight "
+"Her."
 
 #: src-en/data/hyperspace.xml.append:3268
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"LILY_ACH_GEN_NUKED\"]/secretDescription"
 msgstr ""
-"Être la cible d'une arme nucléaire au pire moment possible de l'histoire."
+"Be on the receiving end of nuclear weapon at possibly the worst possible "
+"moment in history."
 
 #: src-en/data/hyperspace.xml.append:3275
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
 "append:page/mod-append:section[2]/@text"
-msgstr "Faveur de Thest (Rayons de Lily)"
+msgstr "Thest's Boons (LilyBeam)"
 
 #: src-en/data/hyperspace.xml.append:3277
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SIREN\"]/name"
-msgstr "La Faveur de l'Utopie"
+msgstr "Boon of Utopia"
 
 #: src-en/data/hyperspace.xml.append:3279
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SIREN\"]/secretDescription"
-msgstr "Recevez la Faveur de ??? de Thest."
+msgstr "Receive the Boon of ??? from Thest."
 
 #: src-en/data/hyperspace.xml.append:3280
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SIREN\"]/description"
 msgstr ""
-"Montrer une Sirène à Thest. Tant que cet effet est actif : l'équipage Sirène"
-" obtient la vision des pièces adjacentes, l'immunité aux étourdissements, et"
-" ne perd aucune compétence lorsqu'il est cloné."
+"Show a Siren to Thest. While in effect; Siren crew gains vision of adjecent "
+"rooms, immunity to stuns, and loses no skills when cloned."
 
 #: src-en/data/hyperspace.xml.append:3288
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/name"
-msgstr "Faveur des Anomalies"
+msgstr "Boon of Anomalies"
 
 #: src-en/data/hyperspace.xml.append:3290
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/secretDescription"
-msgstr "Recevez la Faveur de ??? de Thest."
+msgstr "Receive the Boon of ??? from Thest."
 
 #: src-en/data/hyperspace.xml.append:3291
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/description"
 msgstr ""
-"Montrer l'Avatar de Lily à Thest. Tant que l'effet est actif, l'indice de "
-"stabilité du parcours est fixé à 1."
+"Show a Lily's Avatar to Thest. While in effect; Sets the run's stability "
+"index to 1."
 
 #: src-en/data/hyperspace.xml.append:3299
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
 "append:page/mod-append:section[3]/@text"
-msgstr "Les bénédictions de Wakeson (LilyBeam)"
+msgstr "Wakeson's Blessings (LilyBeam)"
 
 #: src-en/data/hyperspace.xml.append:3301
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SPECTRUM\"]/name"
-msgstr "Bénédiction du Spectre"
+msgstr "Blessing of Spectrum"
 
 #: src-en/data/hyperspace.xml.append:3303
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SPECTRUM\"]/secretDescription"
-msgstr "Recevez la Bénédiction de ??? de Wakeson."
+msgstr "Receive the Blessing of ??? from Wakeson."
 
 #: src-en/data/hyperspace.xml.append:3304
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SPECTRUM\"]/description"
 msgstr ""
-"Montrer à Wakeson le rayon multi-mode de Lily. Tant que l'effet est actif, "
-"les armes à rayon traversent une couche de bouclier supplémentaire."
+"Show a Lily's Multi-Modal beam to Wakeson. While in effect; Beam weapons "
+"pierce 1 extra shield layer."
 
 #: src-en/data/hyperspace.xml.append:3312
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/name"
-msgstr "Bénédiction de la Désintégration"
+msgstr "Blessing of Disintegration"
 
 #: src-en/data/hyperspace.xml.append:3314
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/secretDescription"
-msgstr "Recevez la Bénédiction de ??? de Wakeson."
+msgstr "Receive the Blessing of ??? from Wakeson."
 
 #: src-en/data/hyperspace.xml.append:3315
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/description"
 msgstr ""
-"Montrer à Wakeson le rayon désintégrateur. Tant que l'effet est actif, les "
-"membres d'équipage ennemis perdent 25 % de leur vitesse de soin et de "
-"réparation, et subissent 2 points de dégâts supplémentaires par seconde à "
-"bord de votre vaisseau."
+"Show a Disintegrator Beam to Wakeson. While in effect; Enemy crewmembers "
+"lose 25% healing and repair speed, and take an extra 2 hp/s onboard your "
+"ship."

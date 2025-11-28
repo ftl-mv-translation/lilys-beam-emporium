@@ -9,118 +9,128 @@ msgstr ""
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr "Улучшить Точечный ион II."
+msgstr "Upgrade your Ion Pinpoint II."
 
 #: src-en/data/events_sector_union.xml.append:10
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/text"
-msgstr "Вы отдаете орудие инженеру, позволяя ему поработать над ним."
+msgstr "You give the weapon to the engineer, allowing him to work on it."
 
 #: src-en/data/events_sector_union.xml.append:16
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_union.xml.append:18
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice/event/text"
-msgstr "Через некоторое время орудие возвращается к вам, получив оптимизацию."
+msgstr ""
+"After a short time, your weapon is returned to you, clad with an "
+"optimization."
 
 #: src-en/data/events_sector_union.xml.append:25
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
-msgstr "Улучшить луч \"Ножницы\"."
+msgstr "Upgrade your Beam 'Scissors'."
 
 #: src-en/data/events_sector_union.xml.append:27
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/text"
-msgstr "Вы отдаете орудие инженеру, позволяя ему поработать над ним."
+msgstr "You give the weapon to the engineer, allowing him to work on it."
 
 #: src-en/data/events_sector_union.xml.append:33
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_union.xml.append:35
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice/event/text"
-msgstr "Через некоторое время орудие возвращается к вам, получив оптимизацию."
+msgstr ""
+"After a short time, your weapon is returned to you, clad with an "
+"optimization."
 
 #: src-en/data/events_sector_union.xml.append:42
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/text"
-msgstr "Улучшить Рефракционный точечный луч I."
+msgstr "Upgrade your Refractive Pinpoint I."
 
 #: src-en/data/events_sector_union.xml.append:44
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/text"
-msgstr "Вы отдаете орудие инженеру, позволяя ему поработать над ним."
+msgstr "You give the weapon to the engineer, allowing him to work on it."
 
 #: src-en/data/events_sector_union.xml.append:50
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_union.xml.append:52
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice/event/text"
-msgstr "Через некоторое время орудие возвращается к вам, получив оптимизацию."
+msgstr ""
+"After a short time, your weapon is returned to you, clad with an "
+"optimization."
 
 #: src-en/data/events_sector_union.xml.append:59
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/text"
-msgstr "Улучшить Рефракционный точечный луч II."
+msgstr "Upgrade your Refractive Pinpoint II."
 
 #: src-en/data/events_sector_union.xml.append:61
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/text"
-msgstr "Вы отдаете орудие инженеру, позволяя ему поработать над ним."
+msgstr "You give the weapon to the engineer, allowing him to work on it."
 
 #: src-en/data/events_sector_union.xml.append:67
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_union.xml.append:69
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice/event/text"
-msgstr "Через некоторое время орудие возвращается к вам, получив оптимизацию."
+msgstr ""
+"After a short time, your weapon is returned to you, clad with an "
+"optimization."
 
 #: src-en/data/events_sector_union.xml.append:76
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/text"
-msgstr "Улучшить Морозный луч \"Полярис\"."
+msgstr "Upgrade your 'Polaris' Frost Beam."
 
 #: src-en/data/events_sector_union.xml.append:78
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/text"
-msgstr "Вы отдаете орудие инженеру, позволяя ему поработать над ним."
+msgstr "You give the weapon to the engineer, allowing him to work on it."
 
 #: src-en/data/events_sector_union.xml.append:84
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_union.xml.append:86
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/choice/event/text"
-msgstr "Через некоторое время орудие возвращается к вам, получив оптимизацию."
+msgstr ""
+"After a short time, your weapon is returned to you, clad with an "
+"optimization."

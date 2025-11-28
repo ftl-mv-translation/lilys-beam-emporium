@@ -9,26 +9,25 @@ msgstr ""
 msgid ""
 "data/events_sector_empire.xml.append$//mod:findName[@name=\"CRYSTAL_CACHE_MV_LIST\"]/mod:findWithChildLike/mod-"
 "append:choice/text"
-msgstr "(Postcombustion) Sauver votre équipier et la cargaison. [3{]"
+msgstr "(Afterburner) Rescue your crewmember and the cargo. [3{]"
 
 #: src-en/data/events_sector_empire.xml.append:9
 msgid ""
 "data/events_sector_empire.xml.append$//mod:findName[@name=\"CRYSTAL_CACHE_MV_LIST\"]/mod:findWithChildLike/mod-"
 "append:choice/event/text"
-msgstr "Postcombustion enclenchée !"
+msgstr "Afterburner engaged!"
 
 #: src-en/data/events_sector_empire.xml.append:14
 msgid ""
 "data/events_sector_empire.xml.append$//mod:findName[@name=\"CRYSTAL_CACHE_MV_LIST\"]/mod:findWithChildLike/mod-"
 "append:choice/event/choice/text"
-msgstr "Continuer..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_empire.xml.append:16
 msgid ""
 "data/events_sector_empire.xml.append$//mod:findName[@name=\"CRYSTAL_CACHE_MV_LIST\"]/mod:findWithChildLike/mod-"
 "append:choice/event/choice/event/text"
 msgstr ""
-"Vous plongez au cœur de la distorsion et récupérez votre coéquipier ainsi "
-"que la cargaison. Vos moteurs, postcombustion enclenchée, parviennent tout "
-"juste à arracher votre vaisseau du puit gravitationnel avant que l'ensemble "
-"ne soit englouti. C'était moins une."
+"You swoop into the heart of the distortion and pick up your crewmember and "
+"the cargo. Your engines with afterburner are barely able to get your ship "
+"out of the gravity well before the whole ship is consumed. That was close."

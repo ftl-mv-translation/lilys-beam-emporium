@@ -9,127 +9,125 @@ msgstr ""
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice/text"
-msgstr "(Lily) \"Alors c'est bien l'endroit...\""
+msgstr "(Lily) \"So this is indeed the place...\""
 
 #: src-en/data/events_sector_nexus.xml.append:19
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice/event/text"
 msgstr ""
-"Lily semble complètement imperturbable par le discours du Limace, comme si tout cela lui était bien connu. \"Alors, c'est bien l'endroit. Pas très différent de ce à quoi je m'attendais... Maintenant, si vous voulez bien m'excuser, j'ai des affaires à régler ici, avec votre employé, et vous ne vous mettrez PAS en travers de mon chemin.\"\n"
+"Lily seems completely unfazed by Slug's speech, as if it was all well known to her. \"So, this is indeed the place. Not much different from the expectations... Now, if you excuse me, I have business to do here, with your employee, and you will NOT stand in my way.\"\n"
+"\t\t\n"
+"G-Van seems utterly confused at her speech. \"Um... You have businesss here?... With Prime himself?! I'm afraid I don't know who you... are... Neither do you stand a chance against Prime... Unless...? If She hasss decided to... flip the tables and send you here... No... I refussse to believe thissss.\"\n"
 "\n"
-"G-Van semble totalement confus par ses paroles. \"Euh... Vous zzavez des affaires iccci ?... Avec le Prime lui-même ? ! Je crains de ne pas sssavoir qui vous... êtes... Et vous n'avez aucune chanccce contre Prime... À moins que... ? Si Elle a décccidée de... renverssser la sssituation et de vous envoyer ici... Non... Je refuzze d'y croire.\"\n"
+"\"And your lovely 'toy' pointed at our ship wont do much help to you either...\"\n"
 "\n"
-"\"Et votre joli 'jouet' pointé sur notre vaisseau ne vous sera pas d'une grande aide non plus...\"\n"
-"\n"
-"Lily ne fait rien d'autre que sourire et claquer des doigts, avec un éclair d'énergie rouge et bleue jaillissant entre eux."
+"Lily does nothing but grins and snaps her fingers, with a flash of red and blue energy sparking between them."
 
 #: src-en/data/events_sector_nexus.xml.append:27
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice/event/choice/text"
-msgstr "Continuer..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_nexus.xml.append:29
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice/event/choice/event/text"
 msgstr ""
-"Soudain, toutes les limites imposées à vos systèmes sont levées en un "
-"instant... Préparez-vous au combat !"
+"Suddenly, whatever limits your systems had are lifted in an instant... Get "
+"ready to fight!"
 
 #: src-en/data/events_sector_nexus.xml.append:46
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice/event/choice/event/choice/text"
-msgstr "Continuer..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_nexus.xml.append:59
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
 "append:choice/text"
-msgstr "(Lily) \"Il y a...\""
+msgstr "(Lily) \"There is...\""
 
 #: src-en/data/events_sector_nexus.xml.append:61
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
 "append:choice/event/text"
 msgstr ""
-"Lily semble complètement imperturbable par le discours de la Limace, avec un air inhabituellement sévère dans les yeux.\n"
+"Lily seems completely unfazed by Slug's speech, with unusually stern look in her eyes. \n"
 "\n"
-"\"Et par Son autorité surnaturelle que j'applique, prépare-toi à être anéanti, vermine.\"\n"
+"\"And by Her eldritch authority that I enforce, prepare to get obliterated, pest.\"\n"
 "\n"
-"Lily ne fait rien d'autre que sourire et claquer des doigts, avec un éclair d'énergie rouge et bleue jaillissant entre eux."
+"Lily does nothing but grins and snaps her fingers, with a flash of red and blue energy sparking between them."
 
 #: src-en/data/events_sector_nexus.xml.append:67
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
 "append:choice/event/choice/text"
-msgstr "Continuer..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_nexus.xml.append:69
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
 "append:choice/event/choice/event/text"
 msgstr ""
-"Soudain, toutes les limites imposées à vos systèmes sont levées en un "
-"instant... Préparez-vous au combat !"
+"Suddenly, whatever limits your systems had are lifted in an instant... Get "
+"ready to fight!"
 
 #: src-en/data/events_sector_nexus.xml.append:86
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
 "append:choice/event/choice/event/choice/text"
-msgstr "Continuer..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_nexus.xml.append:118
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_ENTER_GLITCH_LILY_CONTINUE\"]/text"
 msgstr ""
-"À votre surprise, les systèmes de G-Van se mettent soudainement à mal "
-"fonctionner ! Vous soupçonnez que l'action de Lily a redirigé le brouillage "
-"vers lui ! Il semble qu'il ne sera pas une grande menace dans un état pareil"
-" !"
+"To your surprise, G-Vans systems are suddenly starting to malfunction! You "
+"suspect that whetever Lily has done has redirected the jamming to him! It "
+"looks like he's isn't going to be much of a threat in a state like this!"
 
 #: src-en/data/events_sector_nexus.xml.append:137
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/text"
 msgstr ""
-"(Lily) \"Tu n'es rien d'autre qu'un obstacle à nos objectifs qui doit être "
-"détruit...\""
+"(Lily) \"You are nothing but an obstacle to our goals that should be "
+"destroyed.--\""
 
 #: src-en/data/events_sector_nexus.xml.append:139
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/text"
 msgstr ""
-"Etrangère, de quel obssstacle parlez-vous ? Détruit ? Avez-vous la moindre "
-"idée de ccce que vous dites ?"
+"Ssstranger, what obssstacle are you talking about? Dessstroyed? Do you have "
+"a ssslighest idea what are you sssaying?"
 
 #: src-en/data/events_sector_nexus.xml.append:141
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/text"
 msgstr ""
-"\"Oh, je sais 'exactement' ce que je fais et de quoi je parle... Même toi, "
-"tu ne pourras pas résister éternellement en essayant d'empêcher ce qui "
-"devait arriver, Prime...\""
+"\"Oh, I know *precisely* what I'm doing and what I'm talking about-- Not "
+"even you can endure forever, trying to stop what was meant to be, Prime--\""
 
 #: src-en/data/events_sector_nexus.xml.append:143
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/text"
 msgstr ""
-"Sylvain Prime semble quelque peu choqué par la réponse de Lily. \"Je refuzze"
-" de croire cccela... mais si vous zêtes vraiment à ssson sssservice... alors"
-" je n'ai d'autre choix que de vous détruire immédiatement !\""
+"Sylvan Prime looks somewhat shocked at Lily's reply. \"I refussse to believe"
+" thisss... but if you are really ssserving Her... Then I have no choice but "
+"to dessstroy you at once!\""
 
 #: src-en/data/events_sector_nexus.xml.append:145
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
 "@lvl=\"0\"]/text"
-msgstr "Continuer..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_nexus.xml.append:147
 msgid ""
@@ -137,23 +135,22 @@ msgid ""
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
 "@lvl=\"0\"]/event/text"
 msgstr ""
-"Alors que l'imposant vaisseau de Prime se rapproche, vous fermez les yeux et"
-" priez pour que les secours arrivent. Mais les secours ne viennent pas. Vous"
-" êtes seuls dans ce combat."
+"As Prime's hulking ship lurks closer, you shut your eyes and pray for help "
+"to come. But help isn't coming. You're all on your own for this fight."
 
 #: src-en/data/events_sector_nexus.xml.append:153
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
 "@lvl=\"0\"]/event/choice/text"
-msgstr "Continuer..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_nexus.xml.append:159
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
 "@lvl=\"1\"]/text"
-msgstr "Continuer..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_nexus.xml.append:161
 msgid ""
@@ -161,112 +158,108 @@ msgid ""
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
 "@lvl=\"1\"]/event/text"
 msgstr ""
-"Alors que l'imposant vaisseau de Prime se rapproche, une salve de lasers jaillit derrière vous et vient frapper son bouclier ! Un vaisseau familier fait son apparition... C'est Sylvain, VOTRE Sylvain ! \"Étranger, la cavalerie est arrivée !\" Il n'y a plus le temps de discuter, vous devez vous battre ! Vous n'êtes pas sûr de l'efficacité de Sylvain, mais si vous combinez votre puissance de feu et la sienne, vous avez peut-être une chance !\n"
+"As Prime's hulking ship lurks closer, a salvo of lasers erupts from behind you, pattering against his shield! A familiar ship jumps in... it's Sylvan - YOUR Sylvan! \"Ssstranger, the cavalry hasss arrived!\" There's no more time for words to be exchanged, you have to fight! You aren't sure how effective Sylvan will be, but if you can combine your firepower and his, you might just stand a chance!\n"
 "\n"
-"[Pour ordonner à Sylvain de lancer une salve, utilisez le nouveau bouton situé sous celui 'Interchanger l'équipement']"
+"[To order Sylvan to unleash a salvo, use the new button located under the \"Toggle Equipment\" one.]"
 
 #: src-en/data/events_sector_nexus.xml.append:171
 msgid ""
 "data/events_sector_nexus.xml.append$//eventButton[@name=\"UI_SYLVAN_BUTTON\"]/tooltip"
-msgstr "Appeler les tirs de soutien."
+msgstr "Call in fire support."
 
 #: src-en/data/events_sector_nexus.xml.append:172
 msgid ""
 "data/events_sector_nexus.xml.append$//eventButton[@name=\"UI_SYLVAN_BUTTON\"]/inactiveTooltip"
-msgstr "Sylvain ne peut pas fournir de tirs pour le moment."
+msgstr "Sylvan cannot provide fire at this time."
 
 #: src-en/data/events_sector_nexus.xml.append:179
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
 "@lvl=\"1\"]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
-"Temps restant avant que le tir de soutien de Sylvain soit à nouveau "
-"opérationnel."
+msgstr "Time until Sylvan's fire support is ready again."
 
 #: src-en/data/events_sector_nexus.xml.append:188
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
 "@lvl=\"1\"]/event/choice/text"
-msgstr "Continuer..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_nexus.xml.append:203
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"SHE_IS_DEFEATED_NOT\"]/text"
 msgstr ""
-"À votre grande surprise, un vaisseau furtif équipé d'une énorme arme à rayons se dévoile à proximité.\n"
-"\"Dommage, votre trahison de dernière minute ne vous a apporté que le malheur, Renégat...\"\n"
-"\"Et hélas, cela n'a même pas changé d'un iota, car je suis le plan B prévu pour ce cas...\"\n"
-"\"Je suis là pour réussir là où vous avez échoué...\"\n"
-"\"Mais merci d'avoir ouvert le portail et de m'avoir conduit ici, au fait...\""
+"To your surprise, a stealth ship armed with a huge beam weapon uncloaks nearby.\n"
+"\"Too bad, your betrayal at the last moment has only spelled doom for you, Renegade--\"\n"
+"\"And alas, it didn't even change a trace, as I'm the plan B right for this case--\"\n"
+"\"Here to succeed where you fail--\"\n"
+"\"But thanks for opening the portal and leading me right here, by the way--\""
 
 #: src-en/data/events_sector_nexus.xml.append:210
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"SHE_IS_DEFEATED_NOT\"]/choice/text"
-msgstr "Continuer..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_nexus.xml.append:222
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_ENDING_NOTGOOD\"]/text"
 msgstr ""
-"Avec la disparition de Sylvain Prime, Elle est désormais libre, et il ne "
-"vous reste que quelques instants avant votre mort."
+"With the Sylvan Prime gone, She is unleashed, and you have mere moments "
+"before your demise."
 
 #: src-en/data/events_sector_nexus.xml.append:226
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_ENDING_NOTGOOD\"]/win/@text"
-msgstr "Votre héritage restera dans les mémoires."
+msgstr "Your legacy will be remembered."
 
 #: src-en/data/events_sector_nexus.xml.append:236
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/text"
 msgstr ""
-"La teinte rouge délirante finit enfin par se dissiper. Vous vous réveillez à"
-" bord de votre vaisseau et vous découvrez que vous êtes seul, hormis le "
-"vaisseau amiral désormais vide de Prime. Avec la disparition de Prime et le "
-"fait qu'Elle ait récupéré les trois fragments de Son pouvoir, il est "
-"probable que le L.A.C. soit désormais trop affaibli pour La combattre. Votre"
-" seul choix à présent est d'attendre l'inévitable."
+"The maddening red hue finally subsides, you wake up on your ship and find "
+"yourself all alone, save for Prime's now empty flagship. With Prime now gone"
+" and Her having recovered all three pieces of Her power, the C.E.L. is "
+"likely going to be too weak now to fight Her. Your only choice now is to "
+"wait for the inevitable."
 
 #: src-en/data/events_sector_nexus.xml.append:238
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/choice/text"
-msgstr "Continuer..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_nexus.xml.append:240
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/choice/event/text"
 msgstr ""
-"\"Ou peut-être pas...\"\n"
-"Vous remarquez que Lily communique avec vous.\n"
-"\"Elle a gagné. NOUS avons gagné !\" – Vous ne l'avez jamais entendue aussi excitée.\n"
-"\"Super boulot d'ailleurs : transporter le Gnome JUSQU'ici, ET vaincre Prime en plus !\"\n"
-"\"Elle est sans doute retournée dans son (et mon) amas natal, probablement pour rassembler ses forces et déchaîner l'enfer sur ce qu'il reste du Nexus et du L.A.C. C'est trop excitant !\"\n"
-"\"Mais nous, on ne va pas rester plantés ici. Alors venez, Renégat, ne soyons pas impolis et allons La rejoindre nous aussi...\""
+"\"Or maybe not--\"\n"
+"You notice Lily is communicating to you.\n"
+"\"She won. WE won!--\" - You haven't heard her so excited before.\n"
+"\"Great job to you by the way, carrying the Gnome ALL the way here, AND defeating the Prime on top!--\"\n"
+"\"She has probably returned to her (and my) home cluster, probably to gather forces and unleah hell on what remains of Nexus and C.E.L. So Exciting--\"\n"
+"\"We don't want to stay here though, so come on, Renegade, let's not be rude and go join Her too--\""
 
 #: src-en/data/events_sector_nexus.xml.append:247
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/choice/event/choice/text"
-msgstr "Continuer..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_nexus.xml.append:249
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/choice/event/choice/event/text"
-msgstr ""
-"\"Oh, et n'hésite pas à prendre quelques affaires pendant qu'on y est...\""
+msgstr "\"Oh, and feel free to grab some stuff too while we are at it--\""
 
 #: src-en/data/events_sector_nexus.xml.append:260
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_DEPART_LILY\"]/text"
-msgstr "« Alors, vous avez fait vos valises pour le voyage ?\""
+msgstr "\"So, are you all packed up for the trip?--\""
 
 #: src-en/data/events_sector_nexus.xml.append:262
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_DEPART_LILY\"]/choice[1]/text"
-msgstr "Oui, allons-y."
+msgstr "Yes, let's go."
 
 #: src-en/data/events_sector_nexus.xml.append:268
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_DEPART_LILY\"]/choice[2]/text"
-msgstr "Pas encore."
+msgstr "Not yet."

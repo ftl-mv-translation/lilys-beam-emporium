@@ -1,0 +1,243 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_misc.xml.append:3
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_pointer\"]"
+msgstr "Tip: You can use it to play with your cat. And your drones too."
+
+#: src-en/data/text_misc.xml.append:4
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_siphon\"]"
+msgstr ""
+"Tip: This beam does no damage, but transfers enemy shields to you, "
+"supershields included. Use it for offence, defence, or both!"
+
+#: src-en/data/text_misc.xml.append:5
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_refractor\"]"
+msgstr ""
+"Tip: Refractor beams can pierce any amount of shields, but refraction "
+"offsets the target point the stronger the shields are."
+
+#: src-en/data/text_misc.xml.append:6
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_beam_shotgun\"]"
+msgstr ""
+"Tip: The pinpoint arrays fires multiple pinpoint beams at once. They have 2 "
+"modes: [Pattern] fires beams in a predefined pattern, while [Scatter] fires "
+"them randomly in a radius."
+
+#: src-en/data/text_misc.xml.append:7
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_focus_hack\"]"
+msgstr ""
+"Tip: This beam can't pierce any shields, but it can effectively keep a "
+"system under constant hack if shields are down. Also mind controls any crew "
+"hit!"
+
+#: src-en/data/text_misc.xml.append:8
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_howitzers\"]"
+msgstr ""
+"Tip: Howitzers are a cross between beam and missile weapons. They use "
+"missiles to fire, target in a radius similar to flak, can partially pierce "
+"shields and generally inflict heavy damage."
+
+#: src-en/data/text_misc.xml.append:9
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_disintegrators\"]"
+msgstr ""
+"Tip: Disintegrators are special beams designed by Lily using Eldritch "
+"technology. They apply their damage over time to crew and systems, as well "
+"as severely impeding healing and repairs, and will damage hull when hitting "
+"breached rooms. The effects apply even to resistant rooms or when hitting "
+"shield bubbles!"
+
+#: src-en/data/text_misc.xml.append:10
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_disintegrators_alt\"]"
+msgstr ""
+"Tip: Disintegrators are special beams designed by Lily using Eldritch "
+"technology. They apply their damage over time to crew and systems, as well "
+"as severely impeding healing and repairs, and will damage hull when hitting "
+"fully destroyed systems. The effects apply even to resistant rooms or when "
+"hitting shield bubbles!"
+
+#: src-en/data/text_misc.xml.append:12
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe\"]"
+msgstr "Tip: Special beam weapon. Need to be configured before use."
+
+#: src-en/data/text_misc.xml.append:13
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_m\"]"
+msgstr ""
+"Tip: Applies 4/s healing for 15 second for allied crew. Also halves damage "
+"taken from hazards for the duration."
+
+#: src-en/data/text_misc.xml.append:14
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_s\"]"
+msgstr ""
+"Tip: Provides doubled movement speed and damage for 10 seconds for allied "
+"crew."
+
+#: src-en/data/text_misc.xml.append:15
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_p\"]"
+msgstr ""
+"Tip: Does 4 hp/s damage for 25 seconds for any crew hit, doesn't stack. "
+"Lethal for most races in ships without any medical facilities."
+
+#: src-en/data/text_misc.xml.append:16
+msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_a\"]"
+msgstr ""
+"Tip: Applies weak erosion effect for every tile hit. Also does 10 hp/s "
+"damage for 3 seconds for any crew hit."
+
+#: src-en/data/text_misc.xml.append:19
+msgid "data/text_misc.xml.append$//text[@name=\"button_lily_beam\"]"
+msgstr "E. BLAST"
+
+#: src-en/data/text_misc.xml.append:20
+msgid "data/text_misc.xml.append$//text[@name=\"button_lily_ion\"]"
+msgstr "ION"
+
+#: src-en/data/text_misc.xml.append:22
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_beam_emporium\"]"
+msgstr "BEAM EMPORIUM"
+
+#: src-en/data/text_misc.xml.append:24
+msgid "data/text_misc.xml.append$//text[@name=\"lily_aether_submit\"]"
+msgstr ""
+"You watch as a rift in space opens and consumes the item you have given.\n"
+"\"Nice find, this will do perfectly--\""
+
+#: src-en/data/text_misc.xml.append:26
+msgid "data/text_misc.xml.append$//text[@name=\"lily_aether_redeem\"]"
+msgstr ""
+"You watch as a rift in space opens and gives you a brand new Aether weapon!\n"
+"\"And here's a reward for all your troubles--\""
+
+#: src-en/data/text_misc.xml.append:29
+msgid "data/text_misc.xml.append$//text[@name=\"loot_zoltan_2\"]"
+msgstr ""
+"ZOLTAN LOOT\n"
+"Does additional damage to systems\n"
+"-1 second cooldown, +20% breach chance"
+
+#: src-en/data/text_misc.xml.append:36
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_continue\"]"
+msgstr "Continue..."
+
+#: src-en/data/text_misc.xml.append:38
+msgid "data/text_misc.xml.append$//text[@name=\"lily_text_multiverse_crp\"]"
+msgstr "FTL: Multiverse :)"
+
+#: src-en/data/text_misc.xml.append:40
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_nospareprime\"]"
+msgstr "You may be willing to spare Prime. But I am certainly not--"
+
+#: src-en/data/text_misc.xml.append:41
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_lilysnipesprime\"]"
+msgstr ""
+"As your hull is reduced to critical levels, you notice Prime himself has "
+"dismounted from his rings, and is now holding them above his head. \"You're "
+"right, it wasss my missstake to keep you around. Good thing I didn't make "
+"the missstake of making it perma-\" Prime doesn't get to finish his words as"
+" a beam striking from an unknown direction vaporizes him instantly."
+
+#: src-en/data/text_misc.xml.append:43
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_herrealm_alt\"]"
+msgstr ""
+"You've arrived in some kind of swirling hellscape, mired by a blurry haze of what seems to be taunting barely human faces flying through the abyss. Despite the nighmarishness of the surrounding space, you feel ...oddly content and at peace.\n"
+"\n"
+"\"Ah, my home at last--\" - says Lily.\n"
+"\"Shame that I haven't been there in eons; Charming, isn't?--\"\n"
+"\n"
+"\"Don't worry, I'll make sure you are in no danger here--\""
+
+#: src-en/data/text_misc.xml.append:50
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_hernofight\"]"
+msgstr ""
+"You've finally made it to the location of Her. The entire space around is "
+"nothing but darkness, with every star having been pulled out of the night "
+"sky and consumed by some ancient evil. This is it. You're about to meet with"
+" perhaps the most powerful and evil entity known to exist in the "
+"Multiverse... again."
+
+#: src-en/data/text_misc.xml.append:52
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_hernukewarning\"]"
+msgstr ""
+"However, even there, you receive a message:\n"
+"\"Hey, sorry for the delay but I'll be here soon!--\n"
+"I've got gome gifts that should SERIOUSLY turn the tide of battle, just wait--\n"
+"Just need to get a proper object to calibrate my jump drive at--\""
+
+#: src-en/data/text_misc.xml.append:57
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight1\"]"
+msgstr "Prepare to get obliterated, pest!--"
+
+#: src-en/data/text_misc.xml.append:58
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight2\"]"
+msgstr "Are you ready - to meet you maker?--"
+
+#: src-en/data/text_misc.xml.append:59
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight3\"]"
+msgstr "EXTERMINATION PROTOCOL: TARGET ACQUIRED"
+
+#: src-en/data/text_misc.xml.append:60
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight4\"]"
+msgstr "Die, in Her name!--"
+
+#: src-en/data/text_misc.xml.append:61
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight5\"]"
+msgstr "Yet another slimy pest about to bite the dust--"
+
+#: src-en/data/text_misc.xml.append:63
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur1\"]"
+msgstr "No mercy for insects!--"
+
+#: src-en/data/text_misc.xml.append:64
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur2\"]"
+msgstr "Get Crushed!--"
+
+#: src-en/data/text_misc.xml.append:65
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur3\"]"
+msgstr "Begging won't help--"
+
+#: src-en/data/text_misc.xml.append:66
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur4\"]"
+msgstr "Any last words?"
+
+#: src-en/data/text_misc.xml.append:67
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur5\"]"
+msgstr "How pathetic--"
+
+#: src-en/data/text_misc.xml.append:69
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext1\"]"
+msgstr ""
+"A vessel as black as night approaches, and without words and starts charging"
+" it's weapons. But soon realizing Lily is with you, they quickly stop."
+
+#: src-en/data/text_misc.xml.append:70
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext2\"]"
+msgstr ""
+"\"And so this is the Renegade that set the eternal reign of chaos in "
+"motion?\" How helpful, but don't even try to undo the inevietable. Maybe "
+"there's a place for you still."
+
+#: src-en/data/text_misc.xml.append:71
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext3\"]"
+msgstr ""
+"An alien vessel, another of Her minions, approaches. There is seemingly no "
+"end to these legions of darkness. Luckily... it doesn't seem to attack you."
+
+#: src-en/data/text_misc.xml.append:72
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext4\"]"
+msgstr ""
+"You think you might be hallucinating at first, but a black vessel begins to "
+"take form in front of you. In the darkness of space, you narrowly avoid "
+"colliding with it."
+
+#: src-en/data/text_misc.xml.append:74
+msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_nexus_her_lily\"]"
+msgstr ""
+"Power unmatched, and with The One Who Rhymes, Lily, and yourself by Her "
+"side, She returns to the Nexus and eradicates the remaining forces of the "
+"C.E.L. Your original mission is instantly forgotten, as a new dark empire "
+"descends on the Multiverse, spreading madness through the infinite expanse "
+"of the cosmos for eternity."
