@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-11-28 13:59+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -60,10 +60,12 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:50
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/text"
 msgstr ""
-"О, ты хочешь одно из тех прикольных лучевых орудий, которых нет ни у кого другого?--\n"
+"О, ты хочешь одно из тех прикольных лучевых орудий, которых нет ни у кого "
+"другого?--\n"
 "Ну, тогда у нас есть кое-что общее--\n"
 "Добудь необходимые материалы и знания, и я с удовольствием им поделюсь--"
 
