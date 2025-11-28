@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-11-29 00:54+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/"
+"lilys-beam-emporium/dataeventsxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events.xml.append:5
 msgid "data/events.xml.append$//event[@name=\"STORE_LOAD_LILY_EMPORIUM\"]/text"
@@ -75,6 +82,12 @@ msgstr "Continuer..."
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/choice/event/text"
 msgstr ""
+"Peu après, Lily vous contacte cependant.\n"
+"\"Oh, cette phase de test est donc terminée !\"\n"
+"\"Les résultats sont inattendus... et très impressionnants !\"\n"
+"\"Vous et votre vaisseau êtes certainement très puissants puisque vous avez "
+"réussi à accomplir cela !\"\n"
+"\"Et cela signifie que vous serez un excellent sujet pour d'autres tests !\""
 
 #: src-en/data/events.xml.append:61
 msgid ""
@@ -85,6 +98,11 @@ msgstr "Continuer..."
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"Oh, et heureusement pour vous, vous ne serez même pas exposé à des tirs "
+"d'armes expérimentales...\"\n"
+"\"Vous devrez simplement transporter et utiliser une technologie "
+"potentiellement instable, ha ha ! \"\n"
+"\"Bon, c'est parti, et non, vous ne pouvez pas vous défiler...\""
 
 #: src-en/data/events.xml.append:68
 msgid ""
@@ -95,6 +113,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"Et prenez aussi ceci\"\n"
+"\"Ça ne vous tuera pas... probablement ...\""
 
 #: src-en/data/events.xml.append:98
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_QUEST_START\"]/text"
@@ -423,6 +443,7 @@ msgstr "Choisir l'option ci-dessus."
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[@req=\"lily_testing_allowed\"]/text"
 msgstr ""
+"Je suis ici uniquement pour tester votre technologie en situation de combat."
 
 #: src-en/data/events.xml.append:450
 msgid ""
@@ -545,6 +566,7 @@ msgstr "Choisir l'option ci-dessus."
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[@req=\"lily_testing_allowed\"]/text"
 msgstr ""
+"Je suis ici uniquement pour tester votre technologie en situation de combat."
 
 #: src-en/data/events.xml.append:552
 msgid ""
@@ -642,6 +664,10 @@ msgstr ""
 #: src-en/data/events.xml.append:654
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_ATTACK_TEST\"]/text"
 msgstr ""
+"\"Vous savez quoi, ça me va. Les armes ont besoin de quelques tests de toute "
+"façon\"\n"
+"\"Et je vous récompenserai si vous parvenez à gagner\"\n"
+"\"Alors allez-y, venez ! Haha !\""
 
 #: src-en/data/events.xml.append:658
 msgid ""
