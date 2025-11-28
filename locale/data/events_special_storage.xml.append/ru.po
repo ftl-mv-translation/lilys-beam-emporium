@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-28 13:59+0000\n"
+"PO-Revision-Date: 2025-11-28 19:31+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_storagexmlappend/ru/>\n"
@@ -70,10 +70,9 @@ msgstr ""
 "Добудь необходимые материалы и знания, и я с удовольствием им поделюсь--"
 
 #: src-en/data/events_special_storage.xml.append:55
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[1]/text"
-msgstr "Спросить ее об эфирных лучах."
+msgstr "Спросить ее об эфире."
 
 #: src-en/data/events_special_storage.xml.append:59
 msgid ""
