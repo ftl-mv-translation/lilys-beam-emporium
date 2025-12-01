@@ -1,59 +1,88 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-12-02 09:08+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/"
+"lilys-beam-emporium/datablueprintsxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:195
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_VERDANT\"]/title"
-msgstr ""
+msgstr "Unité centrale Exonet (V)"
 
 #: src-en/data/blueprints.xml.append:196
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_VERDANT\"]/desc"
 msgstr ""
+"Une Unité centrale Exonet de niveau Verdant installé sur votre vaisseau. "
+"Fournit un bouclier énergétique cumulable de 3 couches et un bonus de 3 "
+"points de puissance aux moteurs."
 
 #: src-en/data/blueprints.xml.append:204
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_CRIMSON\"]/title"
-msgstr ""
+msgstr "Unité centrale Exonet (C)"
 
 #: src-en/data/blueprints.xml.append:205
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_CRIMSON\"]/desc"
 msgstr ""
+"Une Unité centrale Exonet de niveau Crimson installé sur votre vaisseau. "
+"Fournit un bouclier énergétique cumulable de 5 couches, un bonus de 4 points "
+"de puissance aux moteurs, 2 points aux boucliers et aux armes, et 1 point "
+"aux autres systèmes."
 
 #: src-en/data/blueprints.xml.append:213
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_AZURE\"]/title"
-msgstr ""
+msgstr "Unité centrale Exonet (A)"
 
 #: src-en/data/blueprints.xml.append:214
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_AZURE\"]/desc"
 msgstr ""
+"Une Unité centrale Exonet de niveau Azure installé sur votre vaisseau. "
+"Fournit un bouclier énergétique cumulable de 8 couches, un bonus de 5 points "
+"de puissance aux moteurs, 4 points aux boucliers, aux armes et à l’ECM, et 2 "
+"points aux autres systèmes. Fournit également le personnel de base pour tous "
+"les systèmes."
 
 #: src-en/data/blueprints.xml.append:222
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_RADIANT\"]/title"
-msgstr ""
+msgstr "Unité centrale Exonet (R)"
 
 #: src-en/data/blueprints.xml.append:223
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_RADIANT\"]/desc"
 msgstr ""
+"Une Unité centrale Exonet de niveau Radiant installé sur votre vaisseau. "
+"Fournit un bouclier énergétique cumulable de 14 couches, un bonus de 6 "
+"points de puissance aux moteurs et à l’ECM, 8 points aux boucliers et aux "
+"armes, et 4 points aux autres systèmes. Fournit également le personnel de "
+"base pour tous les systèmes."
 
 #: src-en/data/blueprints.xml.append:231
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_IRIDIUM\"]/title"
-msgstr ""
+msgstr "Unité centrale Exonet (I)"
 
 #: src-en/data/blueprints.xml.append:232
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_IRIDIUM\"]/desc"
 msgstr ""
+"Une Unité centrale Exonet de niveau Iridium installé sur votre vaisseau. "
+"Fournit un bouclier énergétique cumulable de 20 couches, un bonus de 8 "
+"points de puissance aux moteurs et à l’ECM, 16 points aux boucliers et aux "
+"armes, et 6 points aux autres systèmes. Fournit également le personnel de "
+"base pour tous les systèmes."
 
 #: src-en/data/blueprints.xml.append:241
 msgid ""
@@ -166,6 +195,9 @@ msgstr "Bouclier mystérieux"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ADV_ELDRITCH_SHIELDS\"]/desc"
 msgstr ""
+"Une barrière d’énergie chaotique et surnaturelle qui fournit un Super "
+"Bouclier de 20 couches. Vos scanners ne peuvent même pas déterminer d’où "
+"provient la puissance du bouclier."
 
 #: src-en/data/blueprints.xml.append:333
 msgid ""
@@ -421,17 +453,21 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:531
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_LILY_BEAM\"]/title"
-msgstr ""
+msgstr "Canon à clones [???]"
 
 #: src-en/data/blueprints.xml.append:532
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_LILY_BEAM\"]/short"
-msgstr ""
+msgstr "Cloner [???]"
 
 #: src-en/data/blueprints.xml.append:533
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_LILY_BEAM\"]/desc"
 msgstr ""
+"Aucune arme n'a jamais suscité une plus grande controverse éthique, mais si "
+"elle fonctionne, c'est qu'elle fonctionne. Apparemment, vos tentatives de "
+"télécharger l’Avatar de Lily dedans ont fait qu’il est devenu... un "
+"aiguillon ?"
 
 #: src-en/data/blueprints.xml.append:602
 msgid ""
@@ -1747,127 +1783,260 @@ msgstr "---"
 #: src-en/data/blueprints.xml.append:3761
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/title"
-msgstr ""
+msgstr "Noyau d’arme Exonet - Verdant"
 
 #: src-en/data/blueprints.xml.append:3762
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/short"
-msgstr ""
+msgstr "Noyau Verdant"
 
 #: src-en/data/blueprints.xml.append:3763
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/desc"
 msgstr ""
+"Cet appareil inhabituel utilise une technologie alien pour recevoir à "
+"distance énergie et informations depuis une source inconnue, améliorant "
+"considérablement les performances de vos armes et leur fournissant de l’"
+"énergie. Niveau 'Verdant'.\n"
+"[Pour que les armes fonctionnent, au moins un point de puissance provenant d’"
+"un réacteur normal doit être alloué au système d’armes]"
 
 #: src-en/data/blueprints.xml.append:3766
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/descriptionOverride"
 msgstr ""
+"Cet appareil inhabituel utilise une technologie alien pour recevoir à "
+"distance énergie et informations depuis une source inconnue, améliorant "
+"considérablement les performances de vos armes et leur fournissant de "
+"l’énergie.\n"
+"\n"
+"Stats :\n"
+"Niveau : Verdant\n"
+"\n"
+"Énergie fournie : 4\n"
+"\n"
+"Bonus de vitesse de rechargement : 10 %\n"
+"Bonus de précision : 10 %\n"
+"\n"
+"\n"
+"Prix par défaut : 100~   -   Prix de vente : 50~"
 
 #: src-en/data/blueprints.xml.append:3778
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/tooltipOverride"
 msgstr ""
+"Énergie fournie : 4\n"
+"\n"
+"Bonus de vitesse de rechargement : 10 %\n"
+"Bonus de précision : 10 %"
 
 #: src-en/data/blueprints.xml.append:3800
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/title"
-msgstr ""
+msgstr "Noyau d’arme Exonet - Crimson"
 
 #: src-en/data/blueprints.xml.append:3801
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/short"
-msgstr ""
+msgstr "Noyau Crimson"
 
 #: src-en/data/blueprints.xml.append:3802
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/desc"
 msgstr ""
+"Cet appareil inhabituel utilise une technologie alien pour recevoir à "
+"distance énergie et informations depuis une source inconnue, améliorant "
+"considérablement les performances de vos armes et leur fournissant de l’"
+"énergie. Niveau 'Crimson'.\n"
+"[Pour que les armes fonctionnent, au moins un point de puissance provenant d’"
+"un réacteur normal doit être alloué au système d’armes]"
 
 #: src-en/data/blueprints.xml.append:3805
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/descriptionOverride"
 msgstr ""
+"Cet appareil inhabituel utilise une technologie alien pour recevoir à "
+"distance énergie et informations depuis une source inconnue, améliorant "
+"considérablement les performances de vos armes et leur fournissant de "
+"l’énergie.\n"
+"\n"
+"Stats :\n"
+"Niveau : Crimson\n"
+"\n"
+"Énergie fournie : 6\n"
+"\n"
+"Bonus de vitesse de rechargement : 25 %\n"
+"Bonus de précision : 20 %\n"
+"\n"
+"\n"
+"Prix par défaut : 150~   -   Prix de vente : 75~"
 
 #: src-en/data/blueprints.xml.append:3817
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/tooltipOverride"
 msgstr ""
+"Énergie fournie : 6\n"
+"\n"
+"Bonus de vitesse de rechargement : 25 %\n"
+"Bonus de précision : 20 %"
 
 #: src-en/data/blueprints.xml.append:3839
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/title"
-msgstr ""
+msgstr "Noyau d’arme Exonet - Azure"
 
 #: src-en/data/blueprints.xml.append:3840
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/short"
-msgstr ""
+msgstr "Noyau Azure"
 
 #: src-en/data/blueprints.xml.append:3841
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/desc"
 msgstr ""
+"Cet appareil inhabituel utilise une technologie alien pour recevoir à "
+"distance énergie et informations depuis une source inconnue, améliorant "
+"considérablement les performances de vos armes et leur fournissant de l’"
+"énergie. Niveau 'Azure'.\n"
+"[Pour que les armes fonctionnent, au moins un point de puissance provenant d’"
+"un réacteur normal doit être alloué au système d’armes]"
 
 #: src-en/data/blueprints.xml.append:3844
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/descriptionOverride"
 msgstr ""
+"Cet appareil inhabituel utilise une technologie alien pour recevoir à "
+"distance énergie et informations depuis une source inconnue, améliorant "
+"considérablement les performances de vos armes et leur fournissant de "
+"l’énergie.\n"
+"\n"
+"Stats :\n"
+"Niveau : Azure\n"
+"\n"
+"Énergie fournie : 8\n"
+"\n"
+"Bonus de vitesse de rechargement : 50 %\n"
+"Bonus de précision : 30 %\n"
+"\n"
+"\n"
+"Prix par défaut : 200~   -   Prix de vente : 100~"
 
 #: src-en/data/blueprints.xml.append:3856
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/tooltipOverride"
 msgstr ""
+"Énergie fournie : 8\n"
+"\n"
+"Bonus de vitesse de rechargement : 50 %\n"
+"Bonus de précision : 30 %"
 
 #: src-en/data/blueprints.xml.append:3878
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/title"
-msgstr ""
+msgstr "Noyau d’arme Exonet - Radiant"
 
 #: src-en/data/blueprints.xml.append:3879
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/short"
-msgstr ""
+msgstr "Noyau Radiant"
 
 #: src-en/data/blueprints.xml.append:3880
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/desc"
 msgstr ""
+"Cet appareil inhabituel utilise une technologie alien pour recevoir à "
+"distance énergie et informations depuis une source inconnue, améliorant "
+"considérablement les performances de vos armes et leur fournissant de l’"
+"énergie. Niveau 'Radiant'.\n"
+"[Pour que les armes fonctionnent, au moins un point de puissance provenant d’"
+"un réacteur normal doit être alloué au système d’armes]"
 
 #: src-en/data/blueprints.xml.append:3883
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/descriptionOverride"
 msgstr ""
+"Cet appareil inhabituel utilise une technologie alien pour recevoir à "
+"distance énergie et informations depuis une source inconnue, améliorant "
+"considérablement les performances de vos armes et leur fournissant de "
+"l’énergie.\n"
+"\n"
+"Stats :\n"
+"Niveau : Radiant\n"
+"\n"
+"Énergie fournie : 12\n"
+"\n"
+"Bonus de vitesse de rechargement : 100 %\n"
+"Bonus de précision : 50 %\n"
+"\n"
+"Pré-charge toutes les armes\n"
+"\n"
+"\n"
+"Prix par défaut : 300~   -   Prix de vente : 150~"
 
 #: src-en/data/blueprints.xml.append:3897
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/tooltipOverride"
 msgstr ""
+"Énergie fournie : 12\n"
+"\n"
+"Bonus de vitesse de rechargement : 100 %\n"
+"Bonus de précision : 50 %\n"
+"\n"
+"Pré-charge toutes les armes"
 
 #: src-en/data/blueprints.xml.append:3921
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/title"
-msgstr ""
+msgstr "Noyau d’arme Exonet - Iridium"
 
 #: src-en/data/blueprints.xml.append:3922
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/short"
-msgstr ""
+msgstr "Noyau Iridium"
 
 #: src-en/data/blueprints.xml.append:3923
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/desc"
 msgstr ""
+"Cet appareil inhabituel utilise une technologie alien pour recevoir à "
+"distance énergie et informations depuis une source inconnue, améliorant "
+"considérablement les performances de vos armes et leur fournissant de l’"
+"énergie. Niveau 'Iridium'.\n"
+"[Pour que les armes fonctionnent, au moins un point de puissance provenant d’"
+"un réacteur normal doit être alloué au système d’armes]"
 
 #: src-en/data/blueprints.xml.append:3926
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/descriptionOverride"
 msgstr ""
+"Cet appareil inhabituel utilise une technologie alien pour recevoir à "
+"distance énergie et informations depuis une source inconnue, améliorant "
+"considérablement les performances de vos armes et leur fournissant de "
+"l’énergie.\n"
+"\n"
+"Stats :\n"
+"Niveau : Iridium\n"
+"\n"
+"Énergie fournie : 16\n"
+"\n"
+"Bonus de vitesse de rechargement : 200 %\n"
+"Bonus de précision : 80 %\n"
+"\n"
+"Pré-charge toutes les armes\n"
+"\n"
+"\n"
+"Prix par défaut : 500~   -   Prix de vente : 250~"
 
 #: src-en/data/blueprints.xml.append:3940
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/tooltipOverride"
 msgstr ""
+"Énergie fournie : 16\n"
+"\n"
+"Bonus de vitesse de rechargement : 200 %\n"
+"Bonus de précision : 80 %\n"
+"\n"
+"Pré-charge toutes les armes"
 
 #: src-en/data/blueprints.xml.append:3971
 msgid ""
