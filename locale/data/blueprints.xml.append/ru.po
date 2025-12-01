@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-28 19:31+0000\n"
+"PO-Revision-Date: 2025-12-02 09:08+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/ru/>\n"
@@ -22,9 +22,9 @@ msgstr "Эксенет мейнфрейм (З)"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_VERDANT\"]/desc"
 msgstr ""
-"Зеленый мейнфрейм с поддержкой экзонет установленный на вашем корабле. "
+"Зеленый мейнфрейм с поддержкой экзонет установлен на вашем корабле. "
 "Обеспечивает накопительный энергетический щит размером в 3 единицы прочности "
-"и 3 бонусных мощности двигателя."
+"и 3 бонусной мощности двигателя."
 
 #: src-en/data/blueprints.xml.append:204
 msgid ""
@@ -35,20 +35,24 @@ msgstr "Экзонет мейнфрейм (К)"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_CRIMSON\"]/desc"
 msgstr ""
-"Красный мейнфрейм с поддержкой экзонет установленный на вашем корабле. "
+"Красный мейнфрейм с поддержкой экзонет установлен на вашем корабле. "
 "Обеспечивает накопительный энергетический щит размером в 5 единицы "
-"прочности, 4 бонусных мощности двигателя, 2 - щитам и брони и 1 - другим "
+"прочности, 4 бонусной мощности двигателя, 2 - щитам и брони и 1 - другим "
 "системам."
 
 #: src-en/data/blueprints.xml.append:213
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_AZURE\"]/title"
-msgstr ""
+msgstr "Мейнфрейм экзонет (Л)"
 
 #: src-en/data/blueprints.xml.append:214
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_AZURE\"]/desc"
 msgstr ""
+"Лазурный мейнфрейм с поддержкой экзонет установлен на вашем корабле. "
+"Обеспечивает накопительный энергетический щит размером в 8 единицы прочности "
+"и 5 бонусной мощности двигателя, 4 - щитами, броне и РЭБ, и 2 другим "
+"системам. Также обеспечивает базовую работу всех систем."
 
 #: src-en/data/blueprints.xml.append:222
 msgid ""
