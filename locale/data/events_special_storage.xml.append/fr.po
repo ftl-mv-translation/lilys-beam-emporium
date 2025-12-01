@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-28 13:59+0000\n"
+"PO-Revision-Date: 2025-12-02 09:08+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_storagexmlappend/fr/>\n"
@@ -31,10 +31,9 @@ msgid ""
 msgstr "Lui demander de vous rappeler son passé."
 
 #: src-en/data/events_special_storage.xml.append:24
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[2]/text"
-msgstr "Lui demander des informations sur les armes à rayons spéciaux."
+msgstr "Lui demander des informations sur les technologies spéciales."
 
 #: src-en/data/events_special_storage.xml.append:28
 msgid ""
@@ -48,10 +47,9 @@ msgid ""
 msgstr "Elle vous accompagne déjà."
 
 #: src-en/data/events_special_storage.xml.append:36
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[5]/text"
-msgstr "Laisser tomber."
+msgstr "Lui demander quels sont ses pouvoirs."
 
 #: src-en/data/events_special_storage.xml.append:40
 msgid ""
@@ -59,21 +57,20 @@ msgid ""
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_storage.xml.append:50
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/text"
 msgstr ""
 "Oh, vous voulez l'une de ces armes à rayons sophistiqués que personne "
 "d'autre n'a ?\n"
+"Ou un autre accessoire sympa pour votre vaisseau ?\n"
 "Eh bien, nous avons quelque chose en commun, alors...\n"
 "Procurez vous les matériaux et les connaissances nécessaires, et je les "
 "partagerai volontiers avec vous."
 
 #: src-en/data/events_special_storage.xml.append:55
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[1]/text"
-msgstr "Lui demander des informations sur les armes Éther."
+msgstr "Lui demander des informations sur l'Éther."
 
 #: src-en/data/events_special_storage.xml.append:59
 msgid ""
@@ -470,10 +467,12 @@ msgid ""
 msgstr "Lily"
 
 #: src-en/data/events_special_storage.xml.append:579
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"BLUELIST_AETHER\"]/text"
-msgstr "(Technologie Éther) Installer la technologie et l'utiliser [30~, 5|]"
+msgstr ""
+"(Technologie Éther) L'Éther fera l'affaire - soumettre d’abord l’un des "
+"éléments technologiques à Lily. "
+"(L'interroger sur la technologie dans le menu))"
 
 #: src-en/data/events_special_storage.xml.append:583
 msgid ""
@@ -827,16 +826,30 @@ msgstr "En fait, je ne suis pas d'humeur pour ça."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/text"
 msgstr ""
+"Vous décidez de demander à Lily comment elle, ou quelle que soit cet "
+"'Avatar' dont elle parle, possède de tels pouvoirs surhumains.\n"
+"\"Alors, vous voulez en savoir plus sur mes pouvoirs et tout ça ? \"\n"
+"\"Vous cherchez à percer des secrets, à ce que je vois...\"\n"
+"\"Mais vous avez sûrement entendu parler de magiciens, de sorciers, d’"
+"enchanteurs, et ainsi de suite ?\"\n"
+"\"C’est très simple : je suis une sorcière...\""
 
 #: src-en/data/events_special_storage.xml.append:846
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/choice[1]/text"
-msgstr ""
+msgstr "J'en ai entendu parler, mais cela n'explique rien."
 
 #: src-en/data/events_special_storage.xml.append:848
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_2\"]/text"
 msgstr ""
+"\"Eh bien, je suppose que je vais devoir entrer dans... des détails plus "
+"spécifiques, alors ? \"\n"
+"\"L’Éther... Vous en avez entendu parler, n’est-ce pas ? \"\n"
+"\"Et l’Exonet, alors ?\"\n"
+"\"Je ne vous en voudrais pas si ce n’est pas le cas, ce matériau n’existe "
+"absolument pas dans votre amas, même les plus anciens de vos empires n’y ont "
+"jamais eu accès...\""
 
 #: src-en/data/events_special_storage.xml.append:853
 msgid ""
@@ -847,6 +860,12 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_3\"]/text"
 msgstr ""
+"\"Mais heureusement, ces limitations ne s’appliquent pas à moi !\"\n"
+"\"Puisque je peux voyager entre les amas, ce n’était qu’une question de "
+"temps avant que je ne trouve un endroit dans lequel il existait.\"\n"
+"\"L’Exonet, à la fois matériau et technologie, n’a peut-être pas les "
+"propriétés structurelles extraordinaires de l’Éther, mais il permet "
+"néanmoins des choses vraiment merveilleuses...\""
 
 #: src-en/data/events_special_storage.xml.append:859
 msgid ""
@@ -857,6 +876,17 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_4\"]/text"
 msgstr ""
+"\"C’est un matériau synthétique doté d’une propriété unique : il est "
+"extrêmement performant pour conduire l’énergie et les données, et une fois "
+"correctement synchronisé, il peut même le faire à distance, sans fil !\"\n"
+"\"Et cela signifie toute une gamme d’applications, des plus banales aux "
+"moins... banales !\"\n"
+"\"L’Exonet peut permettre à des véhicules, des vaisseaux, ou même des êtres "
+"vivants qui y sont intégrés d’avoir accès à bien plus d’énergie, de données "
+"et de capacité de calcul qu’il ne serait normalement possible !\"\n"
+"\"Il rend également le contrôle à distance facile, même sur de vastes "
+"distances, ou à travers des brouillages qui rendraient toute communication "
+"radio inutile.\""
 
 #: src-en/data/events_special_storage.xml.append:866
 msgid ""
@@ -867,6 +897,12 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_5\"]/text"
 msgstr ""
+"\"...Ce qui est au cœur de mes Avatars : une structure faite d’Éther, avec "
+"un puissant lien Exonet pour lui fournir de l’énergie, me donner la capacité "
+"de le contrôler, ainsi que recevoir une lecture extrêmement précise de son "
+"environnement ...\"\n"
+"\"Et les pouvoirs, eux aussi utilisent la connexion fournie par le lien "
+"Exonet...\""
 
 #: src-en/data/events_special_storage.xml.append:871
 msgid ""
@@ -877,6 +913,12 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_6\"]/text"
 msgstr ""
+"\"J’espère que cela a un peu éclairci les choses.\"\n"
+"\"Et si vous êtes encore plus curieux maintenant, c’est très bien aussi.\"\n"
+"\"Je suis sûre que vous voulez un morceau de cette technologie pour vous-"
+"même désormais.\"\n"
+"\"Restez dans mes bonnes grâces et vous aurez peut-être l’occasion d’y "
+"mettre la main dessus plus tard, haha...\""
 
 #: src-en/data/events_special_storage.xml.append:878
 msgid ""
@@ -886,12 +928,12 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:892
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/choice[2]/text"
-msgstr ""
+msgstr "Que- quoi ? Ça ne fait que rendre les choses encore plus confuses."
 
 #: src-en/data/events_special_storage.xml.append:896
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/choice[3]/text"
-msgstr ""
+msgstr "Hum, d'accord, je crois que j'ai compris."
 
 #: src-en/data/events_special_storage.xml.append:905
 msgid ""
@@ -2949,13 +2991,15 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Essayer de télécharger l'avatar de Lily."
 
 #: src-en/data/events_special_storage.xml.append:2748
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/text"
 msgstr ""
+"Êtes-vous sûr ? Vous n’êtes même pas certain qu’il soit possible de cloner l’"
+"Avatar de Lily de manière conventionnelle."
 
 #: src-en/data/events_special_storage.xml.append:2750
 msgid ""
@@ -2968,6 +3012,9 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/choice[1]/event/text"
 msgstr ""
+"Vous lancez le processus. Cela... ne semble pas fonctionner, comme prévu. "
+"Mais soudain, il y a un éclair de lumière aberrante, et quelque chose... a "
+"changé ?"
 
 #: src-en/data/events_special_storage.xml.append:2755
 msgid ""
@@ -2980,6 +3027,10 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"\"Une idée merveilleuse que vous avez là, Renégat...\"\n"
+"\"Et hélas, même si ce n’est peut-être pas ce à quoi vous vous attendiez, j’"
+"ai pris la liberté de modifier le canon... moi-même...\"\n"
+"\"Essayez donc et voyez le résultat par vous-même...\""
 
 #: src-en/data/events_special_storage.xml.append:2762
 msgid ""
@@ -2997,13 +3048,13 @@ msgstr "Non."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Réinitialiser le canon."
 
 #: src-en/data/events_special_storage.xml.append:2780
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "Vous réinitialisez l'arme."
 
 #: src-en/data/events_special_storage.xml.append:2783
 msgid ""
@@ -3016,6 +3067,8 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
 "append:choice/event/choice/event/text"
 msgstr ""
+"Malgré la modification très inhabituelle du canon, aucun problème ne "
+"survient pendant le processus de réinitialisation."
 
 #: src-en/data/events_special_storage.xml.append:2788
 msgid ""
