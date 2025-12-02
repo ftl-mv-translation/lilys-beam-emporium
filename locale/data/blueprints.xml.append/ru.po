@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-02 09:08+0000\n"
+"PO-Revision-Date: 2025-12-03 18:30+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/ru/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:195
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_VERDANT\"]/title"
-msgstr "Эксенет мейнфрейм (З)"
+msgstr "Мейнфрейм экзонет (З)"
 
 #: src-en/data/blueprints.xml.append:196
 msgid ""
@@ -29,13 +29,13 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:204
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_CRIMSON\"]/title"
-msgstr "Экзонет мейнфрейм (К)"
+msgstr "Мейнфрейм экзонет (Б)"
 
 #: src-en/data/blueprints.xml.append:205
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_CRIMSON\"]/desc"
 msgstr ""
-"Красный мейнфрейм с поддержкой экзонет установлен на вашем корабле. "
+"Багряный мейнфрейм с поддержкой экзонет установлен на вашем корабле. "
 "Обеспечивает накопительный энергетический щит размером в 5 единицы "
 "прочности, 4 бонусной мощности двигателя, 2 - щитам и брони и 1 - другим "
 "системам."
@@ -57,22 +57,30 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:222
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_RADIANT\"]/title"
-msgstr ""
+msgstr "Мейнфрейм экзонет (С)"
 
 #: src-en/data/blueprints.xml.append:223
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_RADIANT\"]/desc"
 msgstr ""
+"Сияющий мейнфрейм с поддержкой экзонет установлен на вашем корабле. "
+"Обеспечивает накопительный энергетический щит размером в 14 единицы "
+"прочности и 6 бонусной мощности двигателя и РЭБ, 8 - щитами и броне, и 4 "
+"другим системам. Также обеспечивает базовую работу всех систем."
 
 #: src-en/data/blueprints.xml.append:231
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_IRIDIUM\"]/title"
-msgstr ""
+msgstr "Мейнфрейм экзонет (И)"
 
 #: src-en/data/blueprints.xml.append:232
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_IRIDIUM\"]/desc"
 msgstr ""
+"Иридиевый мейнфрейм с поддержкой экзонет установлен на вашем корабле. "
+"Обеспечивает накопительный энергетический щит размером в 20 единицы "
+"прочности и 8 бонусной мощности двигателя и РЭБ, 16 - щитами и броне, и 6 "
+"другим системам. Также обеспечивает базовую работу всех систем."
 
 #: src-en/data/blueprints.xml.append:241
 msgid ""
@@ -185,6 +193,9 @@ msgstr "Таинственный щит"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ADV_ELDRITCH_SHIELDS\"]/desc"
 msgstr ""
+"Барьер из жуткой хаотичной энергии, который обеспечивает суперщит с 20 "
+"очками прочности. Ваши сканеры даже не могут определить, откуда берется сила "
+"этого щита."
 
 #: src-en/data/blueprints.xml.append:333
 msgid ""
@@ -444,6 +455,9 @@ msgstr "Клон [???]"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_LILY_BEAM\"]/desc"
 msgstr ""
+"Ни одно оружие еще не вызывало столь больших этических споров, но если оно "
+"работает, то работает. Похоже, ваши попытки загрузить в него аватар Лили "
+"привели к тому, что оно превратилось в... точечный луч?"
 
 #: src-en/data/blueprints.xml.append:602
 msgid ""
@@ -1755,127 +1769,255 @@ msgstr "---"
 #: src-en/data/blueprints.xml.append:3761
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/title"
-msgstr ""
+msgstr "Ядро оружия экзонет - Зеленый"
 
 #: src-en/data/blueprints.xml.append:3762
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/short"
-msgstr ""
+msgstr "Зеленое ядро"
 
 #: src-en/data/blueprints.xml.append:3763
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/desc"
 msgstr ""
+"Это необычное устройство использует некую технологию пришельцев для "
+"удаленного получения энергии и информации из неизвестного источника, что "
+"значительно повышает эффективность вашего оружия и дает ему энергию. Уровень "
+"\"Зеленый\".\n"
+"\t[Для работы оружия необходимо, чтобы по крайней мере одна обычная единица "
+"энергии реактора была выделена для системы оружия]"
 
 #: src-en/data/blueprints.xml.append:3766
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/descriptionOverride"
 msgstr ""
+"Это необычное устройство использует некую технологию пришельцев для "
+"удаленного получения энергии и информации из неизвестного источника, что "
+"значительно повышает эффективность вашего оружия и дает ему энергию.\n"
+"\n"
+"Характеристики:\n"
+"Уровень: Зеленый\n"
+"\n"
+"Дает энергии: 4\n"
+"\n"
+"Бонус к скорости перезарядки: 10%\n"
+"Бонус к точности: 10%\n"
+"\n"
+"\n"
+"Цена: 100~   -   Продажа: 50~"
 
 #: src-en/data/blueprints.xml.append:3778
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/tooltipOverride"
 msgstr ""
+"Дает энергии: 4\n"
+"\n"
+"Бонус к скорости перезарядки: 10%\n"
+"Бонус к точности: 10%"
 
 #: src-en/data/blueprints.xml.append:3800
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/title"
-msgstr ""
+msgstr "Ядро оружия экзонет - Багряный"
 
 #: src-en/data/blueprints.xml.append:3801
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/short"
-msgstr ""
+msgstr "Багряное ядро"
 
 #: src-en/data/blueprints.xml.append:3802
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/desc"
 msgstr ""
+"Это необычное устройство использует некую технологию пришельцев для "
+"удаленного получения энергии и информации из неизвестного источника, что "
+"значительно повышает эффективность вашего оружия и дает ему энергию. Уровень "
+"\"Багряный\".\n"
+"\t[Для работы оружия необходимо, чтобы по крайней мере одна обычная единица "
+"энергии реактора была выделена для системы оружия]"
 
 #: src-en/data/blueprints.xml.append:3805
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/descriptionOverride"
 msgstr ""
+"Это необычное устройство использует некую технологию пришельцев для "
+"удаленного получения энергии и информации из неизвестного источника, что "
+"значительно повышает эффективность вашего оружия и дает ему энергию.\n"
+"\n"
+"Характеристики:\n"
+"Уровень: Багряный\n"
+"\n"
+"Дает энергии: 6\n"
+"\n"
+"Бонус к скорости перезарядки: 25%\n"
+"Бонус к точности: 20%\n"
+"\n"
+"\n"
+"Цена: 150~   -   Продажа: 75~"
 
 #: src-en/data/blueprints.xml.append:3817
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/tooltipOverride"
 msgstr ""
+"Дает энергии: 6\n"
+"\n"
+"Бонус к скорости перезарядки: 25%\n"
+"Бонус к точности: 20%"
 
 #: src-en/data/blueprints.xml.append:3839
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/title"
-msgstr ""
+msgstr "Ядро оружия экзонет - Лазурный"
 
 #: src-en/data/blueprints.xml.append:3840
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/short"
-msgstr ""
+msgstr "Лаз. ядро"
 
 #: src-en/data/blueprints.xml.append:3841
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/desc"
 msgstr ""
+"Это необычное устройство использует некую технологию пришельцев для "
+"удаленного получения энергии и информации из неизвестного источника, что "
+"значительно повышает эффективность вашего оружия и дает ему энергию. Уровень "
+"\"Лазурный\".\n"
+"\t[Для работы оружия необходимо, чтобы по крайней мере одна обычная единица "
+"энергии реактора была выделена для системы оружия]"
 
 #: src-en/data/blueprints.xml.append:3844
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/descriptionOverride"
 msgstr ""
+"Это необычное устройство использует некую технологию пришельцев для "
+"удаленного получения энергии и информации из неизвестного источника, что "
+"значительно повышает эффективность вашего оружия и дает ему энергию.\n"
+"\n"
+"Характеристики:\n"
+"Уровень: Лазурный\n"
+"\n"
+"Дает энергии: 8\n"
+"\n"
+"Бонус к скорости перезарядки: 50%\n"
+"Бонус к точности: 30%\n"
+"\n"
+"\n"
+"Цена: 200~   -   Продажа: 100~"
 
 #: src-en/data/blueprints.xml.append:3856
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/tooltipOverride"
 msgstr ""
+"Дает энергии: 8\n"
+"\n"
+"Бонус к скорости перезарядки: 50%\n"
+"Бонус к точности: 30%"
 
 #: src-en/data/blueprints.xml.append:3878
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/title"
-msgstr ""
+msgstr "Ядро оружия экзонет - Сияющее"
 
 #: src-en/data/blueprints.xml.append:3879
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/short"
-msgstr ""
+msgstr "Сияющее ядро"
 
 #: src-en/data/blueprints.xml.append:3880
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/desc"
 msgstr ""
+"Это необычное устройство использует некую технологию пришельцев для "
+"удаленного получения энергии и информации из неизвестного источника, что "
+"значительно повышает эффективность вашего оружия и дает ему энергию. Уровень "
+"\"Сияющий\".\n"
+"\t[Для работы оружия необходимо, чтобы по крайней мере одна обычная единица "
+"энергии реактора была выделена для системы оружия]"
 
 #: src-en/data/blueprints.xml.append:3883
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/descriptionOverride"
 msgstr ""
+"Это необычное устройство использует некую технологию пришельцев для "
+"удаленного получения энергии и информации из неизвестного источника, что "
+"значительно повышает эффективность вашего оружия и дает ему энергию.\n"
+"\n"
+"Характеристики:\n"
+"Уровень: Зеленый\n"
+"\n"
+"Дает энергии: 12\n"
+"\n"
+"Бонус к скорости перезарядки: 100%\n"
+"Бонус к точности: 50%\n"
+"\n"
+"Предварительное зажигание всего оружия\n"
+"\n"
+"\n"
+"Цена: 300~   -   Продажа: 150~"
 
 #: src-en/data/blueprints.xml.append:3897
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/tooltipOverride"
 msgstr ""
+"Дает энергии: 12\n"
+"\n"
+"Предварительное зажигание всего оружия\n"
+"\n"
+"Бонус к скорости перезарядки: 100%\n"
+"Бонус к точности: 50%"
 
 #: src-en/data/blueprints.xml.append:3921
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/title"
-msgstr ""
+msgstr "Ядро оружия экзонет - Иридиум"
 
 #: src-en/data/blueprints.xml.append:3922
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/short"
-msgstr ""
+msgstr "Ирид. ядро"
 
 #: src-en/data/blueprints.xml.append:3923
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/desc"
 msgstr ""
+"Это необычное устройство использует некую технологию пришельцев для "
+"удаленного получения энергии и информации из неизвестного источника, что "
+"значительно повышает эффективность вашего оружия и дает ему энергию. Уровень "
+"\"Иридиум\".\n"
+"\t[Для работы оружия необходимо, чтобы по крайней мере одна обычная единица "
+"энергии реактора была выделена для системы оружия]"
 
 #: src-en/data/blueprints.xml.append:3926
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/descriptionOverride"
 msgstr ""
+"Это необычное устройство использует некую технологию пришельцев для "
+"удаленного получения энергии и информации из неизвестного источника, что "
+"значительно повышает эффективность вашего оружия и дает ему энергию.\n"
+"\n"
+"Характеристики:\n"
+"Уровень: Иридий\n"
+"\n"
+"Дает энергии: 16\n"
+"\n"
+"Бонус к скорости перезарядки: 200%\n"
+"Бонус к точности: 80%\n"
+"\n"
+"Предварительное зажигание всего оружия\n"
+"\n"
+"\n"
+"Цена: 500~   -   Продажа: 250~"
 
 #: src-en/data/blueprints.xml.append:3940
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/tooltipOverride"
 msgstr ""
+"Дает энергии: 16\n"
+"\n"
+"Предварительное зажигание всего оружия\n"
+"\n"
+"Бонус к скорости перезарядки: 200%\n"
+"Бонус к точности: 80%"
 
 #: src-en/data/blueprints.xml.append:3971
 msgid ""
