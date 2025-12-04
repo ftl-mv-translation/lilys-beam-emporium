@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-12-04 18:49+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/"
+"lilys-beam-emporium/dataevents_sector_nexusxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_nexus.xml.append:17
 msgid ""
@@ -12,17 +19,28 @@ msgid ""
 msgstr "(Lily) \"Alors c'est bien l'endroit...\""
 
 #: src-en/data/events_sector_nexus.xml.append:19
+#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice/event/text"
 msgstr ""
-"Lily semble complètement imperturbable par le discours du Limace, comme si tout cela lui était bien connu. \"Alors, c'est bien l'endroit. Pas très différent de ce à quoi je m'attendais... Maintenant, si vous voulez bien m'excuser, j'ai des affaires à régler ici, avec votre employé, et vous ne vous mettrez PAS en travers de mon chemin.\"\n"
+"Lily semble complètement imperturbable par le discours du Limace, comme si "
+"tout cela lui était bien connu. \"Alors, c'est bien l'endroit. Pas très "
+"différent de ce à quoi je m'attendais... Maintenant, si vous voulez bien "
+"m'excuser, j'ai des affaires à régler ici, avec votre employé, et vous ne "
+"vous mettrez PAS en travers de mon chemin.\"\n"
 "\n"
-"G-Van semble totalement confus par ses paroles. \"Euh... Vous zzavez des affaires iccci ?... Avec le Prime lui-même ? ! Je crains de ne pas sssavoir qui vous... êtes... Et vous n'avez aucune chanccce contre Prime... À moins que... ? Si Elle a décccidée de... renverssser la sssituation et de vous envoyer ici... Non... Je refuzze d'y croire.\"\n"
+"G-Van semble totalement confus par ses paroles. \"Euh... Vous zzavez des "
+"affaires iccci ?... Avec le Prime lui-même ? ! Je crains de ne pas sssavoir "
+"qui vous... êtes... Et vous n'avez aucune chanccce contre Prime... À moins "
+"que... ? Si Elle a décccidée de... renverssser la sssituation et de vous "
+"envoyer ici... Non... Je refuzze d'y croire.\"\n"
 "\n"
-"\"Et votre joli 'jouet' pointé sur notre vaisseau ne vous sera pas d'une grande aide non plus...\"\n"
+"\"Et votre joli 'jouet' pointé sur notre vaisseau ne vous sera pas d'une "
+"grande aide non plus...\"\n"
 "\n"
-"Lily ne fait rien d'autre que sourire et claquer des doigts, avec un éclair d'énergie rouge et bleue jaillissant entre eux."
+"Lily ne fait rien d'autre que sourire et claquer des doigts, avec un éclair "
+"d'énergie rouge et bleue jaillissant entre eux."
 
 #: src-en/data/events_sector_nexus.xml.append:27
 msgid ""
@@ -51,15 +69,19 @@ msgid ""
 msgstr "(Lily) \"Il y a...\""
 
 #: src-en/data/events_sector_nexus.xml.append:61
+#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
 "append:choice/event/text"
 msgstr ""
-"Lily semble complètement imperturbable par le discours de la Limace, avec un air inhabituellement sévère dans les yeux.\n"
+"Lily semble complètement imperturbable par le discours de la Limace, avec un "
+"air inhabituellement sévère dans les yeux.\n"
 "\n"
-"\"Et par Son autorité surnaturelle que j'applique, prépare-toi à être anéanti, vermine.\"\n"
+"\"Et par Son autorité surnaturelle que j'applique, prépare-toi à être "
+"anéanti, vermine.\"\n"
 "\n"
-"Lily ne fait rien d'autre que sourire et claquer des doigts, avec un éclair d'énergie rouge et bleue jaillissant entre eux."
+"Lily ne fait rien d'autre que sourire et claquer des doigts, avec un éclair "
+"d'énergie rouge et bleue jaillissant entre eux."
 
 #: src-en/data/events_sector_nexus.xml.append:67
 msgid ""
@@ -82,13 +104,14 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_sector_nexus.xml.append:118
+#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_ENTER_GLITCH_LILY_CONTINUE\"]/text"
 msgstr ""
 "À votre surprise, les systèmes de G-Van se mettent soudainement à mal "
 "fonctionner ! Vous soupçonnez que l'action de Lily a redirigé le brouillage "
-"vers lui ! Il semble qu'il ne sera pas une grande menace dans un état pareil"
-" !"
+"vers lui ! Il semble qu'il ne sera pas une grande menace dans un état pareil "
+"!"
 
 #: src-en/data/events_sector_nexus.xml.append:137
 msgid ""
@@ -99,6 +122,7 @@ msgstr ""
 "détruit...\""
 
 #: src-en/data/events_sector_nexus.xml.append:139
+#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/text"
@@ -219,15 +243,16 @@ msgid ""
 msgstr "Votre héritage restera dans les mémoires."
 
 #: src-en/data/events_sector_nexus.xml.append:236
+#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/text"
 msgstr ""
-"La teinte rouge délirante finit enfin par se dissiper. Vous vous réveillez à"
-" bord de votre vaisseau et vous découvrez que vous êtes seul, hormis le "
+"La teinte rouge délirante finit enfin par se dissiper. Vous vous réveillez à "
+"bord de votre vaisseau et vous découvrez que vous êtes seul, hormis le "
 "vaisseau amiral désormais vide de Prime. Avec la disparition de Prime et le "
 "fait qu'Elle ait récupéré les trois fragments de Son pouvoir, il est "
-"probable que le L.A.C. soit désormais trop affaibli pour La combattre. Votre"
-" seul choix à présent est d'attendre l'inévitable."
+"probable que le L.A.C. soit désormais trop affaibli pour La combattre. Votre "
+"seul choix à présent est d'attendre l'inévitable."
 
 #: src-en/data/events_sector_nexus.xml.append:238
 msgid ""
@@ -235,15 +260,21 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_sector_nexus.xml.append:240
+#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/choice/event/text"
 msgstr ""
 "\"Ou peut-être pas...\"\n"
 "Vous remarquez que Lily communique avec vous.\n"
-"\"Elle a gagné. NOUS avons gagné !\" – Vous ne l'avez jamais entendue aussi excitée.\n"
-"\"Super boulot d'ailleurs : transporter le Gnome JUSQU'ici, ET vaincre Prime en plus !\"\n"
-"\"Elle est sans doute retournée dans son (et mon) amas natal, probablement pour rassembler ses forces et déchaîner l'enfer sur ce qu'il reste du Nexus et du L.A.C. C'est trop excitant !\"\n"
-"\"Mais nous, on ne va pas rester plantés ici. Alors venez, Renégat, ne soyons pas impolis et allons La rejoindre nous aussi...\""
+"\"Elle a gagné. NOUS avons gagné !\" – Vous ne l'avez jamais entendue aussi "
+"excitée.\n"
+"\"Super boulot d'ailleurs : transporter le Gnome JUSQU'ici, ET vaincre Prime "
+"en plus !\"\n"
+"\"Elle est sans doute retournée dans son (et mon) amas natal, probablement "
+"pour rassembler ses forces et déchaîner l'enfer sur ce qu'il reste du Nexus "
+"et du L.A.C. C'est trop excitant !\"\n"
+"\"Mais nous, on ne va pas rester plantés ici. Alors venez, Renégat, ne "
+"soyons pas impolis et allons La rejoindre nous aussi...\""
 
 #: src-en/data/events_sector_nexus.xml.append:247
 msgid ""
