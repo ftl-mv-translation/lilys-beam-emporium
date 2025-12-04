@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 18:49+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-12-05 03:40+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_sector_rhymexmlappend/ru/>\n"
 "Language: ru\n"
@@ -57,7 +57,6 @@ msgid ""
 msgstr "(Лили) Есть еще один."
 
 #: src-en/data/events_sector_rhyme.xml.append:37
-#, fuzzy
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"HER_NOFIGHT_LILY\"]/choice/event/choice[@req=\"LILY_PATRONAGE\"]/event/text"
 msgstr ""
@@ -65,7 +64,7 @@ msgstr ""
 "\"И этот Ренегат, который... оказался гораздо полезнее, чем большинство...\""
 "\n"
 "                    \n"
-"\"О, так ты наконец-то тоже прибыл? Как раз вовремя. Ты так хорошо мне "
+"\"О, так ты наконец-то тоже сюда прибыл? Как раз вовремя. Ты так хорошо мне "
 "служишь, Светоносец.\n"
 "Что касается тебя, Ренегат... Спасибо тебе, дорогой, за всю работу по моему "
 "освобождению. Каждой хорошей императрице нужен ее палач, и с твоей огневой "
@@ -73,7 +72,7 @@ msgstr ""
 "\n"
 "И что касается всех тех слизней, которые еще могут быть живы в Нексусе, я с "
 "нетерпением ждала возможности разорвать их на куски, так что давай приступим "
-"к делу. И все узнают о нашем гневе!\"\n"
+"к делу. Все познают наш гнев!\"\n"
 "/\n"
 ":)"
 
@@ -113,7 +112,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_rhyme.xml.append:111
-#, fuzzy
 msgid "data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_REAL\"]/text"
 msgstr ""
 "Прежде чем вы успеваете как-то отреагировать, из портала вырывается "
@@ -125,14 +123,14 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_rhyme.xml.append:168
-#, fuzzy
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_REAL\"]/choice/event/text"
 msgstr ""
-"Сильная вспышка тепла и экзотических частиц полностью уничтожает конструкцию "
-"ЛБП и большую часть их флота...\n"
+"Сильная вспышка тепла и экзотических частиц и экстремальным потоком "
+"информации, выходящим из портала, полностью уничтожает конструкцию ЛБП и "
+"большую часть их флота...\n"
 "Ваш корпус находится в критическом состоянии, системы перестали "
-"функционировать, и похоже, что это действительно конец..."
+"функционировать, и, похоже, это действительно конец..."
 
 #: src-en/data/events_sector_rhyme.xml.append:171
 msgid ""
@@ -152,7 +150,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_rhyme.xml.append:184
-#, fuzzy
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_OFFER\"]/choice/event/text"
 msgstr ""
@@ -161,7 +158,7 @@ msgstr ""
 "\n"
 "\"Что касается тебя, Ренегат, я делаю тебе последнее предложение.\n"
 "Сдайся сейчас, и я заключу с тобой особую сделку. Я сначала уничтожу твой "
-"кластер, а не буду веками мучить его обитателей. Ха-хе!\"\n"
+"кластер, а не буду веками мучить его обитателей. Ха-ха!\"\n"
 "/\n"
 ":)"
 
