@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 18:49+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-12-05 03:40+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -58,15 +58,15 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:50
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/text"
 msgstr ""
-"О, ты хочешь одно из тех прикольных лучевых орудий, которых нет ни у кого "
+"\"О, ты хочешь одно из тех прикольных лучевых орудий, которых нет ни у кого "
 "другого?--\n"
 "Или какую-нибудь другую классную деталь для твоего корабля?--\n"
+"Или какую-нибудь другую классную деталь для твоего корабля?--\n"
 "Ну, тогда у нас есть кое-что общее--\n"
-"Добудь необходимые материалы и знания, и я с удовольствием им поделюсь--"
+"Добудь необходимые материалы и знания, и я с удовольствием им поделюсь--\""
 
 #: src-en/data/events_special_storage.xml.append:55
 msgid ""
@@ -85,16 +85,15 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:74
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/text"
 msgstr ""
-"Ах, классика--\n"
+"\"Ах, классика--\n"
 "Это орудие существует уже тысячелетиями и по-прежнему остается одним из "
 "самых мощных--\n"
 "Но не настолько мощным, чтобы сделать то, что я надеялась--\n"
-"Но ладно, достань мне немного материалов, и я сделаю его для тебя---\n"
-"Должно хватить 2-3 примеров древней техники--"
+"Но ладно, достань мне немного материалов, и я сделаю его для тебя--\n"
+"Должно хватить 2-3 примеров древней техники--\""
 
 #: src-en/data/events_special_storage.xml.append:80
 msgid ""
@@ -189,38 +188,34 @@ msgid ""
 msgstr "Выберите, что вы хотите отдать:"
 
 #: src-en/data/events_special_storage.xml.append:144
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER\"]/text"
-msgstr "Предложить древний лазер I."
+msgstr "Предложить Древний предвестник мод. I (+1 очко)"
 
 #: src-en/data/events_special_storage.xml.append:154
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_2\"]/text"
-msgstr "Предложить древний лазер II."
+msgstr "Предложить Древний предвестник мод. II (+2 очка)"
 
 #: src-en/data/events_special_storage.xml.append:164
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_3\"]/text"
-msgstr "Предложить древний лазер III."
+msgstr "Предложить Древний предвестник мод. III (+3 очка)"
 
 #: src-en/data/events_special_storage.xml.append:174
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BEAM\"]/text"
-msgstr "Предложить древний луч I."
+msgstr "Предложить Древний луч I."
 
 #: src-en/data/events_special_storage.xml.append:184
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BEAM_2\"]/text"
-msgstr ""
+msgstr "Предложить Древний луч II (+3 очка)"
 
 #: src-en/data/events_special_storage.xml.append:194
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BEAM_3\"]/text"
-msgstr ""
+msgstr "Предложить Древний луч III (+4 очка)"
 
 #: src-en/data/events_special_storage.xml.append:204
 #, fuzzy
@@ -273,7 +268,7 @@ msgstr "Предложить древнюю плазменную пушку II."
 #: src-en/data/events_special_storage.xml.append:284
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_STUN\"]/text"
-msgstr ""
+msgstr "Предложить Древнего миротворца (+1 очко)"
 
 #: src-en/data/events_special_storage.xml.append:294
 #, fuzzy
