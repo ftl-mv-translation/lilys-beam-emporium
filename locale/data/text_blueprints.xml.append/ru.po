@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 17:11+0000\n"
+"PO-Revision-Date: 2025-12-05 03:40+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datatext_blueprintsxmlappend/ru/>\n"
@@ -14,12 +14,11 @@ msgstr ""
 "X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/text_blueprints.xml.append:1
-#, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_LILY_WRECKED_SIREN_TRANSPORT_unlock\"]"
 msgstr ""
 "Верните этот корабль в целости и сохранности из места, где сияют многие "
-"звезды, с помощью необычной женщины, чтобы разблокировать его."
+"звезды, с помощью необычной женщины."
 
 #: src-en/data/text_blueprints.xml.append:2
 msgid ""
