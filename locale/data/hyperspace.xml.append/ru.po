@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 18:49+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-12-05 03:40+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -499,7 +499,7 @@ msgstr "Эмпориум лучей"
 #: src-en/data/hyperspace.xml.append:3394
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_STORE\"]/description"
-msgstr ""
+msgstr "Посетите Эмпориум лучей."
 
 #: src-en/data/hyperspace.xml.append:3395
 msgid ""
@@ -605,6 +605,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_NUKED\"]/secretDescription"
 msgstr ""
+"Оказаться под ударом ядерного оружия в, возможно, худший момент в истории."
 
 #: src-en/data/hyperspace.xml.append:3458
 msgid ""
@@ -625,6 +626,9 @@ msgstr "Получите благо ??? от Сеста."
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SIREN\"]/description"
 msgstr ""
+"Покажите сирену Сесту. Пока эффект действует, экипаж сирен получает "
+"возможность видеть соседние помещения, обладает иммунитетом к оглушению и не "
+"теряет навыки при клонировании."
 
 #: src-en/data/hyperspace.xml.append:3462
 msgid ""
@@ -650,6 +654,8 @@ msgstr "Получите благо ??? от Сеста."
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/description"
 msgstr ""
+"Покажите аватар Лили Сесту. Пока эффект действует, устанавливает значение "
+"стабильности забега на 1."
 
 #: src-en/data/hyperspace.xml.append:3473
 msgid ""
@@ -702,6 +708,9 @@ msgstr "Получите благословение ??? от Уэйксона."
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/description"
 msgstr ""
+"Покажите Уэйксону Дезинтегрирующий луч. Пока эффект действует, члены экипажа "
+"противника теряют 25% скорости исцеления и ремонта и получают дополнительный "
+"урон в размере 2 ОЗ/с на борту вашего корабля."
 
 #: src-en/data/hyperspace.xml.append:3497
 msgid ""
