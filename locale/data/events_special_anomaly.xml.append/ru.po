@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 17:11+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-12-05 03:40+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_anomalyxmlappend/ru/>\n"
 "Language: ru\n"
@@ -119,7 +119,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_anomaly.xml.append:98
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"ANOMALY_CHAOS_POLICE\"]/text"
 msgstr ""
@@ -147,11 +146,10 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_anomaly.xml.append:139
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/text"
 msgstr ""
-"\"И согласно вашим записям... Постойте, ваши записи практически чистые!\"\n"
+"\"И согласно вашим записям... постойте, ваши записи практически чистые!\"\n"
 "\"А это значит, что вы и ваш корабль подлежите аресту!\""
 
 #: src-en/data/events_special_anomaly.xml.append:142
@@ -234,7 +232,6 @@ msgid ""
 msgstr "Просто атаковать Силовика."
 
 #: src-en/data/events_special_anomaly.xml.append:201
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/event/text"
 msgstr "Вы заряжаете оружие и готовитесь к атаке на Силовика..."
@@ -278,7 +275,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_anomaly.xml.append:234
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/choice/event/text"
 msgstr ""
@@ -301,7 +297,6 @@ msgid ""
 msgstr "После этого странный корабль сразу удаляется."
 
 #: src-en/data/events_special_anomaly.xml.append:253
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL_HIGH\"]/text"
 msgstr ""
@@ -390,12 +385,11 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_anomaly.xml.append:336
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_FREEMANTIS_HIGH\"]/text"
 msgstr ""
 "\"И согласно вашим записям... Вы действительно очень известный преступник "
-"среди кланов Свободных Богомолов...!\"\n"
+"согласно данным кланов Свободных Богомолов...!\"\n"
 "\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:342
@@ -416,12 +410,11 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_anomaly.xml.append:360
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_OUTCAST_HIGH\"]/text"
 msgstr ""
 "\"И согласно вашим записям... Вы действительно очень известный преступник, "
-"согласно Изгоям валунов...!\"\n"
+"согласно данным Изгоям валунов...!\"\n"
 "\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:366
@@ -529,12 +522,11 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_anomaly.xml.append:469
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_FREEMANTIS\"]/text"
 msgstr ""
-"\"И согласно вашим записям... Вы действительно преступник среди кланов "
-"Свободных Богомолов...!\"\n"
+"\"И согласно вашим записям... Вы действительно преступник согласно данным "
+"кланов Свободных Богомолов...!\"\n"
 "\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:475
@@ -543,7 +535,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_anomaly.xml.append:481
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_OUTCAST\"]/text"
 msgstr ""
