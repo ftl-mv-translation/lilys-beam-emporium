@@ -61,7 +61,7 @@ msgstr "Continue..."
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/text"
 msgstr ""
-"Howewer, one of the weapons on the station semms to have survived the fight "
+"However, one of the weapons on the station seems to have survived the fight "
 "and is floating in space now! You hastily pick it up."
 
 #: src-en/data/events.xml.append:53
@@ -73,11 +73,11 @@ msgstr "Continue..."
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/choice/event/text"
 msgstr ""
-"Shortly after, Lily contacts you, however.\n"
+"Shortly after, Lily contacts you.\n"
 "\"Oh, so this stage of testing is complete!--\"\n"
 "\"The results are unexpected... and most impressive!--\"\n"
 "\"You and your ship are surely strong ones since you've managed to pull this off!--\"\n"
-"\"And that means - you will make excellent subject for further testing!--\""
+"\"And that means - you will make excellent subjects for further testing!--\""
 
 #: src-en/data/events.xml.append:61
 msgid ""
@@ -107,10 +107,9 @@ msgstr ""
 #: src-en/data/events.xml.append:98
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_QUEST_START\"]/text"
 msgstr ""
-"You have arrived at the advertised location of the advertised \"Beam "
-"Emporium\" store. However, the beacon appears to be empty, with no ships "
-"there. However, you feel a strange sense of unease, as if someone was "
-"watching you..."
+"You have arrived at the advertised location of the \"Beam Emporium\" store. "
+"Oddly, the beacon appears to be empty, with no ships there. However, you "
+"feel a strange sense of unease, as if someone was watching you..."
 
 #: src-en/data/events.xml.append:100
 msgid ""
@@ -133,7 +132,7 @@ msgstr ""
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_GLITCH_CONTINUE\"]/text"
 msgstr ""
-"You continue you search for the store, as your systems suddenly glitch out "
+"You continue your search for the store, as your systems suddenly glitch out "
 "and reboot!"
 
 #: src-en/data/events.xml.append:160
@@ -141,15 +140,15 @@ msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_CEL_FOUND\"]/text"
 msgstr ""
 "You continue spending your time searching for the store. However, despite "
-"you best effort, you still can't find anything here. Why is the "
-"advertisement for a store there is still a mystery."
+"your best effort, you still can't find anything here. Why the advertisement "
+"for a store is there is a mystery."
 
 #: src-en/data/events.xml.append:186
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR\"]/text"
 msgstr ""
 "You finally notice a relatively normal looking space station, although it seems to be protected by an unusual energy shield.\n"
-"It hails you: \"Welcome to the Lily's Beam Emporium!--\"\n"
-"\"... Wait. Is this The one Who Rhymes themselves?!\n"
+"It hails you: \"Welcome to Lily's Beam Emporium!--\"\n"
+"\"... Wait. Is this The One Who Rhymes themselves?!\n"
 "As a renegade, no less?! Hold on I must be dreaming, am I?\n"
 "Didn't expect you again... much less in these circumstances--\n"
 "Feel free to take anything from my store, of course. Let's have fun and make chaos!--\""
@@ -160,7 +159,7 @@ msgstr "Continue..."
 
 #: src-en/data/events.xml.append:214
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_1\"]/text"
-msgstr "From Lily, you are bestown a gift!--"
+msgstr "\"From Lily, you are bestowed a gift!--\""
 
 #: src-en/data/events.xml.append:219
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_1\"]/choice/text"
@@ -168,7 +167,7 @@ msgstr "Continue..."
 
 #: src-en/data/events.xml.append:230
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_2\"]/text"
-msgstr "And another one, for sating your appetite!--"
+msgstr "\"And another one, to sate your appetite!--\""
 
 #: src-en/data/events.xml.append:235
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_2\"]/choice/text"
@@ -177,8 +176,8 @@ msgstr "Continue..."
 #: src-en/data/events.xml.append:247
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/text"
 msgstr ""
-"Oh, and hope I can join with you on your adventure! I bet would be a "
-"spectacular venture! Won't you mind?--"
+"\"And I hope I can join with you on your run! I'd come along up until its "
+"done! Would you mind?--\""
 
 #: src-en/data/events.xml.append:249
 msgid ""
@@ -188,24 +187,24 @@ msgstr "That would be quite a delight!"
 #: src-en/data/events.xml.append:251
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[1]/event/text"
-msgstr "Let us hurry, then! Ready to fight!"
+msgstr "\"Let us hurry, then! Ready to fight!--\""
 
 #: src-en/data/events.xml.append:259
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[2]/text"
-msgstr "Sorry to disappoint, but I can't you for this appoint."
+msgstr "Sorry to disappoint, but for this, you I can't appoint."
 
 #: src-en/data/events.xml.append:261
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[2]/event/text"
 msgstr ""
-"That's a shame, I have to say. But feel free to browse my store anyway--"
+"\"That's a shame, I have to say. But feel free to browse my store anyway--\""
 
 #: src-en/data/events.xml.append:269
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/text"
 msgstr ""
 "You finally notice a relatively normal looking space station, although it seems to be protected by an unusual energy shield.\n"
-"It hails you: \"Welcome to the Lily's Beam Emporium!--\n"
+"It hails you: \"Welcome to Lily's Beam Emporium!--\n"
 "A wide collection of beam and pinpoint weapons is available for sale--\"\n"
 "You are pretty sure it wasn't there minutes ago..."
 
@@ -219,7 +218,7 @@ msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[1]/event/text"
 msgstr ""
 "You ignore the odd things that have been happening and continue to the "
-"store. Luckily everything goes without further incidents."
+"store. Luckily everything goes without further incident."
 
 #: src-en/data/events.xml.append:282
 msgid ""
@@ -229,7 +228,7 @@ msgstr "You remember about the mysterious note you found."
 #: src-en/data/events.xml.append:284
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/text"
-msgstr "You give the mysterious note to Lily and wait her to respond."
+msgstr "You give the mysterious note to Lily and wait for her to respond."
 
 #: src-en/data/events.xml.append:286
 msgid ""
@@ -240,7 +239,7 @@ msgstr "Continue..."
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/choice/event/text"
 msgstr ""
-"\"This note... in your possession? Well, that only mean one thing - you are one of Her chosen to complete the mission. Which mission - only She knows. But I happen to be one of Her servants as well and - as such I'll be assisting from here on--\n"
+"\"This note... in your possession? Well, that can only mean one thing - you are one of Her chosen to complete the mission. Which mission - only She knows. But I happen to be one of Her servants as well and - as such I'll be assisting from here on--\n"
 "Oh, and have this to help on your travels.\""
 
 #: src-en/data/events.xml.append:295
@@ -288,7 +287,7 @@ msgstr "Sure!"
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/choice[1]/event/text"
 msgstr ""
-"Let us hurry then!\n"
+"\"Let us hurry then!\"\n"
 "(Note: Lily can be contacted in the storage menu)"
 
 #: src-en/data/events.xml.append:340
@@ -299,7 +298,7 @@ msgstr "Sorry, but not this time."
 #: src-en/data/events.xml.append:342
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/choice[2]/event/text"
-msgstr "That's a shame, but feel free to browse my store regardless--"
+msgstr "\"That's a shame, but feel free to browse my store regardless--\""
 
 #: src-en/data/events.xml.append:352
 msgid ""
@@ -335,7 +334,7 @@ msgstr "Sure!"
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/choice[1]/event/text"
 msgstr ""
-"Let us hurry then!\n"
+"\"Let us hurry then!--\"\n"
 "(Note: Lily can be contacted in the storage menu)"
 
 #: src-en/data/events.xml.append:375
@@ -346,7 +345,7 @@ msgstr "Sorry, but not this time."
 #: src-en/data/events.xml.append:377
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/choice[2]/event/text"
-msgstr "That's a shame, but feel free to browse my store regardless--"
+msgstr "\"That's a shame, but feel free to browse my store regardless--\""
 
 #: src-en/data/events.xml.append:387
 msgid ""
@@ -360,7 +359,7 @@ msgstr ""
 "You question her about the anomalies.\n"
 "\"Your systems glitched out, you say?--\n"
 "That's very odd, you are the first one to complain about this--\n"
-"Mind if I take a look on them? For free even--\""
+"Mind if I take a look at them? For free even--\""
 
 #: src-en/data/events.xml.append:395
 msgid ""
@@ -450,11 +449,11 @@ msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/text"
 msgstr ""
 "You finally notice a relatively normal looking space station, although it seems to be protected by an unusual energy shield.\n"
-"Pretty sure you have already seen the exact same station before, lightyears away.\n"
-"It hails you: \"Oh, It's you! Welcome to the Lily's Beam Emporium!--\n"
+"You are pretty sure you have already seen the exact same station before, lightyears away.\n"
+"It hails you: \"Oh, it's you! Welcome to Lily's Beam Emporium!--\n"
 "Want to restock and rearm?--\n"
 "A wide collection of beam and pinpoint weapons is available for sale--\n"
-"And have some freebie, on the house--\""
+"And have some freebies, on the house--\""
 
 #: src-en/data/events.xml.append:487
 msgid ""
@@ -669,8 +668,8 @@ msgstr ""
 msgid ""
 "data/events.xml.append$//event[@name=\"TRANSPORT_CAPTURE_STARGROVE_LILY\"]/text"
 msgstr ""
-"Such a beautiful vessel, of Siren design no less--\n"
+"\"Such a beautiful vessel, of Siren design no less--\n"
 "And in such disrepair...\n"
 "It would be a shame to just leave it here burning up...\n"
-"So, how about I deliver it (well, whatever remains of it) to your hanger instead, as a gift?--\n"
-"You have a lot of space, right? And surely it can be patched up, eventually--"
+"So, how about I deliver it (well, whatever remains of it) to your hangar instead, as a gift?--\n"
+"You have a lot of space, right? And surely it can be patched up, eventually--\""

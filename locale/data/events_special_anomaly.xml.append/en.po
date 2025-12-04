@@ -114,11 +114,11 @@ msgstr "Continue..."
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"ANOMALY_CHAOS_POLICE\"]/text"
 msgstr ""
-"The first thing you see when observing your surroundings, is a ship looking "
-"like Militia Investigator, except black like void itself, and shimmering "
-"with red and blue colors. They immediately contact you: \"This is the Chaos "
-"Police Enforcer Unit. Submit yourself and your ship for inspection "
-"immediately.\""
+"The first thing you see when observing your surroundings, is a ship that "
+"looks like a militia investigator, except black like the void itself, and "
+"shimmering with red and blue colors. They immediately contact you: \"This is"
+" the Chaos Police Enforcer Unit. Submit yourself and your ship for "
+"inspection immediately.\""
 
 #: src-en/data/events_special_anomaly.xml.append:102
 msgid ""
@@ -141,8 +141,8 @@ msgstr "Continue..."
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/text"
 msgstr ""
-"\"And according to your records... Wait, your record is pretty much clean!\"\n"
-"\"Which mean that you any your ship are to be put under arrest!\""
+"\"And according to your records... wait, your record is pretty much clean!\"\n"
+"\"Which means that you and your ship are to be put under arrest!\""
 
 #: src-en/data/events_special_anomaly.xml.append:142
 msgid ""
@@ -226,7 +226,7 @@ msgstr "Simply attack the Enforcer."
 #: src-en/data/events_special_anomaly.xml.append:201
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/event/text"
-msgstr "You charge your weapons and prepare to attack the the Enforcer..."
+msgstr "You charge your weapons and prepare to attack the Enforcer..."
 
 #: src-en/data/events_special_anomaly.xml.append:203
 msgid ""
@@ -270,7 +270,7 @@ msgstr "Continue..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/choice/event/text"
 msgstr ""
-"\"And you know, I actually might know a place which where you should deliver it...\"\n"
+"\"And you know, I actually might know a place where you should deliver it...\"\n"
 "\"Let me join to help you get there.\""
 
 #: src-en/data/events_special_anomaly.xml.append:239
@@ -292,7 +292,7 @@ msgstr "After this, the odd vessel immediately leaves."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL_HIGH\"]/text"
 msgstr ""
-"\"And according to your records... You are indeed a very notorious criminal in whole of the Federation!...\"\n"
+"\"And according to your records... You are indeed a very notorious criminal in the whole of the Federation!...\"\n"
 "\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:259
@@ -379,7 +379,7 @@ msgstr "Continue..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_FREEMANTIS_HIGH\"]/text"
 msgstr ""
-"\"And according to your records... You are indeed a very notorious criminal in the Free Mantis Clans!...\"\n"
+"\"And according to your records... You are indeed a very notorious criminal according to the Free Mantis Clans!...\"\n"
 "\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:342
@@ -403,7 +403,7 @@ msgstr "Continue..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_OUTCAST_HIGH\"]/text"
 msgstr ""
-"\"And according to your records... You are indeed a very notorious criminal according to Rock Outcasts!...\"\n"
+"\"And according to your records... You are indeed a very notorious criminal according to the Rock Outcasts!...\"\n"
 "\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:366
@@ -514,7 +514,7 @@ msgstr "Continue..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_FREEMANTIS\"]/text"
 msgstr ""
-"\"And according to your records... You are indeed a criminal in the Free Mantis Clans!...\"\n"
+"\"And according to your records... You are indeed a criminal according to the Free Mantis Clans!...\"\n"
 "\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:475
@@ -526,7 +526,7 @@ msgstr "Continue..."
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_OUTCAST\"]/text"
 msgstr ""
-"\"And according to your records... You are indeed a criminal according to Rock Outcasts!...\"\n"
+"\"And according to your records... You are indeed a criminal according to the Rock Outcasts!...\"\n"
 "\"...Soo, great job! You shall be rewarded for this.\""
 
 #: src-en/data/events_special_anomaly.xml.append:487

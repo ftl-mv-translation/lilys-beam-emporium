@@ -9,8 +9,8 @@ msgstr ""
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_LILY_WRECKED_SIREN_TRANSPORT_unlock\"]"
 msgstr ""
-"Recover this ship intact from the place, where many stars shine, with the "
-"help of an unusual woman to unlock it."
+"Recover this ship intact from the place where many stars shine, with the "
+"help of an unusual woman."
 
 #: src-en/data/text_blueprints.xml.append:2
 msgid ""

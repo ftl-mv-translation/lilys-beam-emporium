@@ -17,7 +17,7 @@ msgstr ""
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
 "append:choice[1]/event/text"
-msgstr "Afterburner engaged"
+msgstr "Afterburner engaged!"
 
 #: src-en/data/events_sector_stargrove.xml.append:11
 msgid ""
@@ -54,7 +54,7 @@ msgstr ""
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
 "append:choice[2]/event/text"
-msgstr "Afterburner engaged"
+msgstr "Afterburner engaged!"
 
 #: src-en/data/events_sector_stargrove.xml.append:31
 msgid ""

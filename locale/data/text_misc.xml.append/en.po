@@ -24,7 +24,7 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_beam_shotgun\"]"
 msgstr ""
-"Tip: The pinpoint arrays fires multiple pinpoint beams at once. They have 2 "
+"Tip: The pinpoint arrays fire multiple pinpoint beams at once. They have 2 "
 "modes: [Pattern] fires beams in a predefined pattern, while [Scatter] fires "
 "them randomly in a radius."
 
@@ -88,7 +88,8 @@ msgstr ""
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_p\"]"
 msgstr ""
 "Tip: Does 4 hp/s damage for 25 seconds for any crew hit, doesn't stack. "
-"Lethal for most races in ships without any medical facilities."
+"Lethal for most races in ships without any medical facilities. Doesn't "
+"affect crew immune to shell gas."
 
 #: src-en/data/text_misc.xml.append:18
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_a\"]"
@@ -137,7 +138,7 @@ msgstr "FTL: Multiverse :)"
 
 #: src-en/data/text_misc.xml.append:42
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_nospareprime\"]"
-msgstr "You may be willing to spare Prime. But I am certainly not--"
+msgstr "\"You may be willing to spare Prime. But I am certainly not--\""
 
 #: src-en/data/text_misc.xml.append:43
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_lilysnipesprime\"]"
@@ -177,56 +178,57 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:59
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight1\"]"
-msgstr "Prepare to get obliterated, pest!--"
+msgstr "\"Prepare to get obliterated, pest!--\""
 
 #: src-en/data/text_misc.xml.append:60
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight2\"]"
-msgstr "Are you ready - to meet you maker?--"
+msgstr "\"Are you ready - to meet you maker?--\""
 
 #: src-en/data/text_misc.xml.append:61
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight3\"]"
-msgstr "EXTERMINATION PROTOCOL: TARGET ACQUIRED"
+msgstr "\"EXTERMINATION PROTOCOL: TARGET ACQUIRED\""
 
 #: src-en/data/text_misc.xml.append:62
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight4\"]"
-msgstr "Die, in Her name!--"
+msgstr "\"Die, in Her name!--\""
 
 #: src-en/data/text_misc.xml.append:63
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight5\"]"
-msgstr "Yet another slimy pest about to bite the dust--"
+msgstr "\"Yet another slimy pest about to bite the dust--\""
 
 #: src-en/data/text_misc.xml.append:65
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur1\"]"
-msgstr "No mercy for insects!--"
+msgstr "\"No mercy for insects!--\""
 
 #: src-en/data/text_misc.xml.append:66
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur2\"]"
-msgstr "Get Crushed!--"
+msgstr "\"Get Crushed!--\""
 
 #: src-en/data/text_misc.xml.append:67
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur3\"]"
-msgstr "Begging won't help--"
+msgstr "\"Begging won't help--\""
 
 #: src-en/data/text_misc.xml.append:68
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur4\"]"
-msgstr "Any last words?"
+msgstr "\"Any last words?\""
 
 #: src-en/data/text_misc.xml.append:69
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur5\"]"
-msgstr "How pathetic--"
+msgstr "\"How pathetic--\""
 
 #: src-en/data/text_misc.xml.append:71
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext1\"]"
 msgstr ""
-"A vessel as black as night approaches, and without words and starts charging"
-" it's weapons. But soon realizing Lily is with you, they quickly stop."
+"A vessel as black as night approaches, and without words, starts charging "
+"its weapons. But, as soon as they realize Lily is with you, they quickly "
+"stop."
 
 #: src-en/data/text_misc.xml.append:72
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext2\"]"
 msgstr ""
-"\"And so this is the Renegade that set the eternal reign of chaos in "
-"motion?\" How helpful, but don't even try to undo the inevietable. Maybe "
-"there's a place for you still."
+"\"And so this is the Renegade that set the eternal reign of chaos in motion?"
+" How helpful, but don't even try to undo the inevitable. Maybe there's a "
+"place for you still.\""
 
 #: src-en/data/text_misc.xml.append:73
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext3\"]"

@@ -1,17 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-28 19:31+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"lilys-beam-emporium/dataevents_special_storagexmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_storage.xml.append:6
 msgid ""
@@ -61,8 +53,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/text"
 msgstr ""
-"О, ты хочешь одно из тех прикольных лучевых орудий, которых нет ни у кого "
-"другого?--\n"
+"О, ты хочешь одно из тех прикольных лучевых орудий, которых нет ни у кого другого?--\n"
 "Или какую-нибудь другую классную деталь для твоего корабля?--\n"
 "Ну, тогда у нас есть кое-что общее--\n"
 "Добудь необходимые материалы и знания, и я с удовольствием им поделюсь--"
@@ -207,13 +198,13 @@ msgstr "Предложить древний луч I."
 
 #: src-en/data/events_special_storage.xml.append:184
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[5]/text"
-msgstr "Предложить древний луч II."
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BEAM_2\"]/text"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:194
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[6]/text"
-msgstr "Предложить древний луч III."
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BEAM_3\"]/text"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:204
 msgid ""
@@ -257,162 +248,156 @@ msgstr "Предложить древнюю плазменную пушку II."
 
 #: src-en/data/events_special_storage.xml.append:284
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[15]/text"
-msgstr "Предложить древнего миротворца."
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_STUN\"]/text"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:294
-msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[16]/text"
-msgstr "Предложить древнего миротворца."
-
-#: src-en/data/events_special_storage.xml.append:304
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_LASER\"]/text"
 msgstr "Предложить древний лазерный дрон."
 
-#: src-en/data/events_special_storage.xml.append:314
+#: src-en/data/events_special_storage.xml.append:304
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_ION\"]/text"
 msgstr "Предложить древний ионный дрон."
 
-#: src-en/data/events_special_storage.xml.append:324
+#: src-en/data/events_special_storage.xml.append:314
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_MISSILE\"]/text"
 msgstr "Предложить древний ракетный дрон."
 
-#: src-en/data/events_special_storage.xml.append:334
+#: src-en/data/events_special_storage.xml.append:324
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_DEFENSE_1\"]/text"
 msgstr "Предложить древний наблюдатель."
 
-#: src-en/data/events_special_storage.xml.append:344
+#: src-en/data/events_special_storage.xml.append:334
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"MENDER\"]/text"
 msgstr "Предложить древний наладчик."
 
-#: src-en/data/events_special_storage.xml.append:354
+#: src-en/data/events_special_storage.xml.append:344
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"DIRECTOR\"]/text"
 msgstr "Предложить древнего руководителя."
 
-#: src-en/data/events_special_storage.xml.append:364
+#: src-en/data/events_special_storage.xml.append:354
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_DEFEND\"]/text"
 msgstr "Предложить древний атомизатор."
 
-#: src-en/data/events_special_storage.xml.append:374
+#: src-en/data/events_special_storage.xml.append:364
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_BOARDER\"]/text"
 msgstr "Предложить древний атомизатор."
 
-#: src-en/data/events_special_storage.xml.append:384
+#: src-en/data/events_special_storage.xml.append:374
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[25]/text"
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[24]/text"
 msgstr "Неважно."
 
-#: src-en/data/events_special_storage.xml.append:391
+#: src-en/data/events_special_storage.xml.append:381
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/text"
 msgstr "Выберите, что вы хотите, чтобы она создала:"
 
-#: src-en/data/events_special_storage.xml.append:394
+#: src-en/data/events_special_storage.xml.append:384
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"5\"]/text"
 msgstr "Создать Дворянский Ликвидатор III. [5 деталей]"
 
-#: src-en/data/events_special_storage.xml.append:404
+#: src-en/data/events_special_storage.xml.append:394
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[2]/text"
 msgstr "Создать Дворянский Ликвидатор III. [5 деталей]"
 
-#: src-en/data/events_special_storage.xml.append:409
+#: src-en/data/events_special_storage.xml.append:399
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[3]/text"
 msgstr "Создать Дворянский Чистильщик. [4 детали]"
 
-#: src-en/data/events_special_storage.xml.append:419
+#: src-en/data/events_special_storage.xml.append:409
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[4]/text"
 msgstr "Создать Дворянский Чистильщик. [4 детали]"
 
-#: src-en/data/events_special_storage.xml.append:424
+#: src-en/data/events_special_storage.xml.append:414
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[5]/text"
 msgstr "Создать Дворянский Опустошитель. [4 детали]"
 
-#: src-en/data/events_special_storage.xml.append:434
+#: src-en/data/events_special_storage.xml.append:424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[6]/text"
 msgstr "Создать Дворянский Опустошитель. [4 детали]"
 
-#: src-en/data/events_special_storage.xml.append:439
+#: src-en/data/events_special_storage.xml.append:429
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[7]/text"
 msgstr "Создать Ликвидатор III. [4 детали]"
 
-#: src-en/data/events_special_storage.xml.append:449
+#: src-en/data/events_special_storage.xml.append:439
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[8]/text"
 msgstr "Создать Ликвидатор III. [4 детали]"
 
-#: src-en/data/events_special_storage.xml.append:454
+#: src-en/data/events_special_storage.xml.append:444
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[9]/text"
 msgstr "Создать Ликвидатор II. [3 детали]"
 
-#: src-en/data/events_special_storage.xml.append:464
+#: src-en/data/events_special_storage.xml.append:454
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[10]/text"
 msgstr "Создать Ликвидатор II. [3 детали]"
 
-#: src-en/data/events_special_storage.xml.append:469
+#: src-en/data/events_special_storage.xml.append:459
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[11]/text"
 msgstr "Создать Ликвидатор I. [2 детали]"
 
-#: src-en/data/events_special_storage.xml.append:479
+#: src-en/data/events_special_storage.xml.append:469
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[12]/text"
 msgstr "Создать Ликвидатор I. [2 детали]"
 
-#: src-en/data/events_special_storage.xml.append:484
+#: src-en/data/events_special_storage.xml.append:474
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[@req=\"lily_aether_points\""
-" and @lvl=\"3\"]/text"
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[13]/text"
 msgstr "Создать Чистильщик II. [3 детали]"
 
-#: src-en/data/events_special_storage.xml.append:494
+#: src-en/data/events_special_storage.xml.append:484
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[14]/text"
 msgstr "Создать Чистильщик II. [3 детали]"
 
-#: src-en/data/events_special_storage.xml.append:499
+#: src-en/data/events_special_storage.xml.append:489
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[15]/text"
 msgstr "Создать Чистильщик I. [2 детали]"
 
-#: src-en/data/events_special_storage.xml.append:509
+#: src-en/data/events_special_storage.xml.append:499
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[16]/text"
 msgstr "Создать Чистильщик I. [2 детали]"
 
-#: src-en/data/events_special_storage.xml.append:514
+#: src-en/data/events_special_storage.xml.append:504
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[17]/text"
 msgstr "Создать Опустошитель. [2 детали]"
 
-#: src-en/data/events_special_storage.xml.append:524
+#: src-en/data/events_special_storage.xml.append:514
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[18]/text"
 msgstr "Создать Опустошитель. [2 детали]"
 
-#: src-en/data/events_special_storage.xml.append:529
+#: src-en/data/events_special_storage.xml.append:519
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[19]/text"
 msgstr "Неважно."
 
-#: src-en/data/events_special_storage.xml.append:547
+#: src-en/data/events_special_storage.xml.append:537
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/text"
 msgstr ""
@@ -423,14 +408,14 @@ msgstr ""
 "\n"
 "Однако для этого вам понадобится специальное оборудование..."
 
-#: src-en/data/events_special_storage.xml.append:556
+#: src-en/data/events_special_storage.xml.append:546
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/text"
 msgstr ""
 "У вас уже есть технология, используйте ее, чтобы вызвать аватара Лили..."
 
-#: src-en/data/events_special_storage.xml.append:558
+#: src-en/data/events_special_storage.xml.append:548
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/event/text"
@@ -439,18 +424,18 @@ msgstr ""
 "появляется... вполне нормально выглядящий человек. Хотя кажется, что в нем "
 "есть что-то не так..."
 
-#: src-en/data/events_special_storage.xml.append:559
+#: src-en/data/events_special_storage.xml.append:549
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/event/crewMember"
 msgstr "Лили"
 
-#: src-en/data/events_special_storage.xml.append:566
+#: src-en/data/events_special_storage.xml.append:556
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/text"
 msgstr "(Тот, Кто Рифмует) Позволь мне сосчитать: три, два, один..."
 
-#: src-en/data/events_special_storage.xml.append:568
+#: src-en/data/events_special_storage.xml.append:558
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/event/text"
 msgstr ""
@@ -458,34 +443,34 @@ msgstr ""
 "\n"
 "Рядом с вами внезапно открывается разлом в пространстве, из которого появляется... вполне нормально выглядящий человек. Хотя кажется, что в нем что-то не так..."
 
-#: src-en/data/events_special_storage.xml.append:572
+#: src-en/data/events_special_storage.xml.append:562
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/event/crewMember"
 msgstr "Лили"
 
-#: src-en/data/events_special_storage.xml.append:579
+#: src-en/data/events_special_storage.xml.append:569
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"BLUELIST_AETHER\"]/text"
 msgstr ""
 "(Эфирные технологии) Эфир подойдет - просто сначала передать Лили одну из "
 "техчастей. (Спросите ее о технике в меню)"
 
-#: src-en/data/events_special_storage.xml.append:583
+#: src-en/data/events_special_storage.xml.append:573
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"lily_aether_points\"]/text"
 msgstr "(Эфирные очки) Установить технологию и использовать ее [30~, 5|]"
 
-#: src-en/data/events_special_storage.xml.append:585
+#: src-en/data/events_special_storage.xml.append:575
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/text"
 msgstr "Вы устанавливаете необходимую технологию..."
 
-#: src-en/data/events_special_storage.xml.append:593
+#: src-en/data/events_special_storage.xml.append:583
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:595
+#: src-en/data/events_special_storage.xml.append:585
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/event/text"
 msgstr ""
@@ -493,12 +478,12 @@ msgstr ""
 "\n"
 "Рядом с вами внезапно открывается разлом в пространстве, материализуя... вполне нормально выглядящего человека. Хотя кажется, что что-то в нем не так..."
 
-#: src-en/data/events_special_storage.xml.append:598
+#: src-en/data/events_special_storage.xml.append:588
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/event/crewMember"
 msgstr "Лили"
 
-#: src-en/data/events_special_storage.xml.append:606
+#: src-en/data/events_special_storage.xml.append:596
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"0\"]/text"
@@ -506,109 +491,109 @@ msgstr ""
 "Примечание: для установки необходимо иметь эфирную технологию (или "
 "альтернативную технологию)."
 
-#: src-en/data/events_special_storage.xml.append:610
+#: src-en/data/events_special_storage.xml.append:600
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[6]/text"
 msgstr "Неважно."
 
-#: src-en/data/events_special_storage.xml.append:617
+#: src-en/data/events_special_storage.xml.append:607
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/text"
 msgstr ""
 "Эй! Разве я не говорила тебе НЕ относиться к моему аватару как к расходному материалу?--\n"
 "Ладно, я сочту это несчастным случаем... Но только в этот раз--"
 
-#: src-en/data/events_special_storage.xml.append:622
+#: src-en/data/events_special_storage.xml.append:612
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:624
+#: src-en/data/events_special_storage.xml.append:614
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/event/text"
 msgstr ""
 "Рядом с вами внезапно открывается разлом в пространстве, и аватар снова "
 "материализуется. Похоже, она на самом деле не может умереть."
 
-#: src-en/data/events_special_storage.xml.append:625
+#: src-en/data/events_special_storage.xml.append:615
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/event/crewMember"
 msgstr "Лили"
 
-#: src-en/data/events_special_storage.xml.append:633
+#: src-en/data/events_special_storage.xml.append:623
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[2]/text"
 msgstr "Неважно."
 
-#: src-en/data/events_special_storage.xml.append:639
+#: src-en/data/events_special_storage.xml.append:629
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/text"
 msgstr ""
 "Эй! Разве я не говорила тебе НЕ относиться к моему аватару как к чему-то заменяемому?--\n"
 "Но, видя здесь с тобой Того, Кто Рифмует, я сделаю исключение, не хочу пропустить веселье--"
 
-#: src-en/data/events_special_storage.xml.append:644
+#: src-en/data/events_special_storage.xml.append:634
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:646
+#: src-en/data/events_special_storage.xml.append:636
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/event/text"
 msgstr ""
 "Рядом с вами внезапно открывается разлом в пространстве, и аватар снова "
 "материализуется. Похоже, она на самом деле не может умереть."
 
-#: src-en/data/events_special_storage.xml.append:647
+#: src-en/data/events_special_storage.xml.append:637
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/event/crewMember"
 msgstr "Лили"
 
-#: src-en/data/events_special_storage.xml.append:654
+#: src-en/data/events_special_storage.xml.append:644
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[2]/text"
 msgstr "Неважно."
 
-#: src-en/data/events_special_storage.xml.append:660
+#: src-en/data/events_special_storage.xml.append:650
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/text"
 msgstr "Конечно--"
 
-#: src-en/data/events_special_storage.xml.append:663
+#: src-en/data/events_special_storage.xml.append:653
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[1]/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:665
+#: src-en/data/events_special_storage.xml.append:655
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[1]/event/text"
 msgstr ""
 "Рядом с вами внезапно открывается разлом в пространстве, и аватар снова "
 "материализуется. Похоже, она на самом деле не может умереть."
 
-#: src-en/data/events_special_storage.xml.append:666
+#: src-en/data/events_special_storage.xml.append:656
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[1]/event/crewMember"
 msgstr "Лили"
 
-#: src-en/data/events_special_storage.xml.append:673
+#: src-en/data/events_special_storage.xml.append:663
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[2]/text"
 msgstr "Неважно."
 
-#: src-en/data/events_special_storage.xml.append:679
+#: src-en/data/events_special_storage.xml.append:669
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/text"
 msgstr ""
 "Ну... тогда заплати мне--\n"
 "Чем дорожат Ренегаты... Ломом? Ну, ты можешь дать мне немного, или я могу взять его прямо с твоего корабля!--"
 
-#: src-en/data/events_special_storage.xml.append:684
+#: src-en/data/events_special_storage.xml.append:674
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/text"
 msgstr "Заплатить ей 100~"
 
-#: src-en/data/events_special_storage.xml.append:689
+#: src-en/data/events_special_storage.xml.append:679
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/event/text"
 msgstr ""
@@ -616,18 +601,18 @@ msgstr ""
 "после этого рядом с вами появляется еще один разлом, вновь материализующий "
 "аватар. Похоже, она на самом деле не может умереть."
 
-#: src-en/data/events_special_storage.xml.append:690
+#: src-en/data/events_special_storage.xml.append:680
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/event/crewMember"
 msgstr "Лили"
 
-#: src-en/data/events_special_storage.xml.append:698
+#: src-en/data/events_special_storage.xml.append:688
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/text"
 msgstr "Заплатить ей своим кораблем. [20 урона корпусу]"
 
-#: src-en/data/events_special_storage.xml.append:701
+#: src-en/data/events_special_storage.xml.append:691
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/event/text"
@@ -637,24 +622,24 @@ msgstr ""
 "Сразу после этого рядом с вами появляется еще один разлом, в котором снова "
 "материализуется аватар. Похоже, она действительно не может умереть."
 
-#: src-en/data/events_special_storage.xml.append:702
+#: src-en/data/events_special_storage.xml.append:692
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/event/crewMember"
 msgstr "Лили"
 
-#: src-en/data/events_special_storage.xml.append:710
+#: src-en/data/events_special_storage.xml.append:700
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and not(@lvl)]/text"
 msgstr "Заплатить ей своим кораблем. [20 урона корпусу]"
 
-#: src-en/data/events_special_storage.xml.append:716
+#: src-en/data/events_special_storage.xml.append:706
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[4]/text"
 msgstr "Неважно."
 
-#: src-en/data/events_special_storage.xml.append:722
+#: src-en/data/events_special_storage.xml.append:712
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/text"
 msgstr ""
@@ -662,12 +647,12 @@ msgstr ""
 "Ну, с чего же нам начать...?\n"
 "Пожалуй, с структуры Мультивселенной?--"
 
-#: src-en/data/events_special_storage.xml.append:726
+#: src-en/data/events_special_storage.xml.append:716
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/choice[1]/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:728
+#: src-en/data/events_special_storage.xml.append:718
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/text"
 msgstr ""
@@ -676,12 +661,12 @@ msgstr ""
 "Но в целом все они похожи. Там есть космические корабли, Федерация, повстанцы, богомолы, валуны и все такое...\n"
 "И эта совокупность похожих вселенных обычно называется \"кластером\". Твой кластер может содержать бесконечное количество вселенных, но он не единственный--"
 
-#: src-en/data/events_special_storage.xml.append:733
+#: src-en/data/events_special_storage.xml.append:723
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/choice[1]/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:735
+#: src-en/data/events_special_storage.xml.append:725
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/text"
 msgstr ""
@@ -689,12 +674,12 @@ msgstr ""
 "Конечно, это не самое приятное место для отдыха-- В отличие от кластера, где реки состоят из пенных напитков, земля - из зефира, а растения - из черного и белого шоколада--\n"
 "И существует множество вариантов того, что могут содержать разные кластеры--"
 
-#: src-en/data/events_special_storage.xml.append:739
+#: src-en/data/events_special_storage.xml.append:729
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/choice[1]/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:741
+#: src-en/data/events_special_storage.xml.append:731
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/text"
 msgstr ""
@@ -702,12 +687,12 @@ msgstr ""
 "я из места, которое находится очень, очень далеко. И это место было очень опасным... там постоянно происходили междоусобные распри.\n"
 "Поэтому, зная об этом, я, так сказать, \"самоизгнала\" себя и отправилась исследовать другие кластеры--"
 
-#: src-en/data/events_special_storage.xml.append:745
+#: src-en/data/events_special_storage.xml.append:735
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/choice[1]/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:747
+#: src-en/data/events_special_storage.xml.append:737
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/text"
 msgstr ""
@@ -716,12 +701,12 @@ msgstr ""
 "Упс--\n"
 "Но это было очень весело, и что было, то прошло--"
 
-#: src-en/data/events_special_storage.xml.append:752
+#: src-en/data/events_special_storage.xml.append:742
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/choice[1]/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:754
+#: src-en/data/events_special_storage.xml.append:744
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/text"
 msgstr ""
@@ -731,12 +716,12 @@ msgstr ""
 "Поэтому в последнее время я в основном ограничиваюсь продажей лучевого оружия...\n"
 "И все ради чего? Ради какого-то \"порядка\" и \"непрерывности Мультивселенной\"? Ха! Как будто слизни вообще могут что-то знать о \"порядке\"? Абсурд!"
 
-#: src-en/data/events_special_storage.xml.append:760
+#: src-en/data/events_special_storage.xml.append:751
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/choice[1]/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:762
+#: src-en/data/events_special_storage.xml.append:753
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/text"
 msgstr ""
@@ -744,12 +729,12 @@ msgstr ""
 "...Ну, как только я найду способ их победить... Особое лучевое оружие кажется хорошим вариантом, или, возможно, какое-нибудь оружие массового уничтожения...\n"
 "...И, конечно, как только я найду их укрытие. Но я слышала, что в этой вселенной есть проход, что-то связанное с \"сердцем бури\"..."
 
-#: src-en/data/events_special_storage.xml.append:766
+#: src-en/data/events_special_storage.xml.append:757
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/choice[1]/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:768
+#: src-en/data/events_special_storage.xml.append:759
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/text"
 msgstr ""
@@ -759,12 +744,12 @@ msgstr ""
 "О, и ты получишь доступ ко всем видам прототипов оружия, которые я буду тестировать и разрабатывать - разве это не звучит захватывающе?-- \n"
 "...А если нет... данные, собранные во время твоих путешествий, все равно помогут нам в достижении нашей цели. Может быть, следующий Ренегат будет успешнее, чем ты?"
 
-#: src-en/data/events_special_storage.xml.append:774
+#: src-en/data/events_special_storage.xml.append:765
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/choice[1]/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:776
+#: src-en/data/events_special_storage.xml.append:767
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_9\"]/text"
 msgstr ""
@@ -773,234 +758,217 @@ msgstr ""
 "В любом случае, есть ли еще что-нибудь, о чем ты хотел бы спросить?\n"
 "(P.S. Молодец, если ты действительно прочитали все это--)"
 
-#: src-en/data/events_special_storage.xml.append:782
+#: src-en/data/events_special_storage.xml.append:773
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_9\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:788
+#: src-en/data/events_special_storage.xml.append:779
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/choice[2]/text"
 msgstr "Надеюсь, ты закончила?"
 
-#: src-en/data/events_special_storage.xml.append:794
+#: src-en/data/events_special_storage.xml.append:785
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/choice[2]/text"
 msgstr "Стоп."
 
-#: src-en/data/events_special_storage.xml.append:800
+#: src-en/data/events_special_storage.xml.append:791
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/choice[2]/text"
 msgstr "Пожалуйста, хватит уже."
 
-#: src-en/data/events_special_storage.xml.append:806
+#: src-en/data/events_special_storage.xml.append:797
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/choice[2]/text"
 msgstr "Хватит!"
 
-#: src-en/data/events_special_storage.xml.append:812
+#: src-en/data/events_special_storage.xml.append:803
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/choice[2]/text"
 msgstr "Прекратить слушать."
 
-#: src-en/data/events_special_storage.xml.append:818
+#: src-en/data/events_special_storage.xml.append:809
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/choice[2]/text"
 msgstr "Выйти из помещения."
 
-#: src-en/data/events_special_storage.xml.append:824
+#: src-en/data/events_special_storage.xml.append:815
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/choice[2]/text"
 msgstr "Пожалуйста, перестань говорить."
 
-#: src-en/data/events_special_storage.xml.append:830
+#: src-en/data/events_special_storage.xml.append:821
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/choice[2]/text"
 msgstr "На самом деле, я не в настроении для этого."
 
-#: src-en/data/events_special_storage.xml.append:840
+#: src-en/data/events_special_storage.xml.append:831
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/text"
 msgstr ""
-"Вы решаете спросить Лили, как она - или что бы то ни было, ее \"аватар\" - "
-"обладает такими сверхчеловеческими способностями.\n"
+"Вы решаете спросить Лили, как она - или что бы то ни было, ее \"аватар\" - обладает такими сверхчеловеческими способностями.\n"
 "\"Так ты хочешь узнать о моих способностях и прочем?--\"\n"
 "\"Вижу, ты выпытываешь секреты--\"\n"
 "\"Но ты наверняка слышал о магах, волшебниках, чародеях и так далее?--\"\n"
 "\"Все очень просто - я ведьма--\""
 
-#: src-en/data/events_special_storage.xml.append:846
+#: src-en/data/events_special_storage.xml.append:837
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/choice[1]/text"
 msgstr "Я слышал, но это ничего не объясняет."
 
-#: src-en/data/events_special_storage.xml.append:848
+#: src-en/data/events_special_storage.xml.append:839
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_2\"]/text"
 msgstr ""
-"\"Ну, пожалуй, мне придется перейти к... более конкретным деталям, не так "
-"ли?--\"\n"
+"\"Ну, пожалуй, мне придется перейти к... более конкретным деталям, не так ли?--\"\n"
 "\"Эфир, верно? Ты слышал о нем, да?--\"\n"
 "\"Ну, а как насчет экзонета?--\"\n"
-"\"Я не виню тебя, если ты не слышал - этот материал вообще не существует в "
-"вашем кластере - даже самые древние империи не смогли его добыть--\""
+"\"Я не виню тебя, если ты не слышал - этот материал вообще не существует в вашем кластере - даже самые древние империи не смогли его добыть--\""
 
-#: src-en/data/events_special_storage.xml.append:853
+#: src-en/data/events_special_storage.xml.append:844
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_2\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:855
+#: src-en/data/events_special_storage.xml.append:846
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_3\"]/text"
 msgstr ""
 "\"Но, к счастью, такие ограничения не распространяются на меня!--\"\n"
-"\"Поскольку я могу путешествовать между кластерами, было лишь вопросом "
-"времени, когда я найду кластер, в котором он существует--\"\n"
-"\"Экзонет - как материал, так и технология - может и не обладает такими "
-"удивительными структурными свойствами, как эфир, но все же позволяет "
-"создавать по-настоящему чудесные вещи--\""
+"\"Поскольку я могу путешествовать между кластерами, было лишь вопросом времени, когда я найду кластер, в котором он существует--\"\n"
+"\"Экзонет - как материал, так и технология - может и не обладает такими удивительными структурными свойствами, как эфир, но все же позволяет создавать по-настоящему чудесные вещи--\""
 
-#: src-en/data/events_special_storage.xml.append:859
+#: src-en/data/events_special_storage.xml.append:850
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_3\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:861
+#: src-en/data/events_special_storage.xml.append:852
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_4\"]/text"
 msgstr ""
-"\"Это синтетический материал с уникальным свойством: он отлично проводит "
-"энергию и данные, а после правильной синхронизации может делать это даже на "
-"расстоянии, без проводов!--\"\n"
+"\"Это синтетический материал с уникальным свойством: он отлично проводит энергию и данные, а после правильной синхронизации может делать это даже на расстоянии, без проводов!--\"\n"
 "\"А это означает целый ряд применений, от обыденных до не очень--\"\n"
-"\"Экзонет позволяет транспортным средствам, кораблям и даже живым существам, "
-"интегрированным с ним, получить доступ к гораздо большему количеству "
-"энергии, данных и вычислительных мощностей, чем это было бы возможно в "
-"обычных условиях!--\"\n"
-"\"Он также упрощает дистанционное управление - даже на больших расстояниях "
-"или в условиях помех, которые делают всю радиосвязь бесполезной\"."
+"\"Экзонет позволяет транспортным средствам, кораблям и даже живым существам, интегрированным с ним, получить доступ к гораздо большему количеству энергии, данных и вычислительных мощностей, чем это было бы возможно в обычных условиях!--\"\n"
+"\"Он также упрощает дистанционное управление - даже на больших расстояниях или в условиях помех, которые делают всю радиосвязь бесполезной\"."
 
-#: src-en/data/events_special_storage.xml.append:866
+#: src-en/data/events_special_storage.xml.append:857
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_4\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:868
+#: src-en/data/events_special_storage.xml.append:859
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_5\"]/text"
 msgstr ""
-"\"...Именно это лежит в основе моих аватаров - структура, созданная из "
-"эфира, с мощным соединением экзонета, которое обеспечивает ее энергией, дает "
-"мне возможность контролировать его, а также получать чрезвычайно точные "
-"данные об окружающей среде--\"\n"
-"\"А способности - они также используют соединение, обеспечиваемое экзонетом--"
-"\""
+"\"...Именно это лежит в основе моих аватаров - структура, созданная из эфира, с мощным соединением экзонета, которое обеспечивает ее энергией, дает мне возможность контролировать его, а также получать чрезвычайно точные данные об окружающей среде--\"\n"
+"\"А способности - они также используют соединение, обеспечиваемое экзонетом--\""
 
-#: src-en/data/events_special_storage.xml.append:871
+#: src-en/data/events_special_storage.xml.append:862
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_5\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:873
+#: src-en/data/events_special_storage.xml.append:864
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_6\"]/text"
 msgstr ""
 "\"Надеюсь, это немного прояснило ситуацию--\"\n"
 "\"А если тебе теперь стало еще интереснее, то это тоже хорошо--\"\n"
 "\" Уверена, что теперь ты тоже хочешь заполучить эту технологию--\"\n"
-"\"Оставайся на моей стороне, и, возможно, у тебя еще будет возможность "
-"получить ее позже, ха-ха--\""
+"\"Оставайся на моей стороне, и, возможно, у тебя еще будет возможность получить ее позже, ха-ха--\""
 
-#: src-en/data/events_special_storage.xml.append:878
+#: src-en/data/events_special_storage.xml.append:869
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_6\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:892
+#: src-en/data/events_special_storage.xml.append:883
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/choice[2]/text"
 msgstr "Ч-что? Это только еще больше запутывает."
 
-#: src-en/data/events_special_storage.xml.append:896
+#: src-en/data/events_special_storage.xml.append:887
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/choice[3]/text"
 msgstr "Эм, ладно, наверное? Думаю, я понял."
 
-#: src-en/data/events_special_storage.xml.append:905
+#: src-en/data/events_special_storage.xml.append:896
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice/text"
 msgstr "(Лили) Вызвать Эмпориум лучей Лили. [Флот ускоряется на 1 прыжок]"
 
-#: src-en/data/events_special_storage.xml.append:932
+#: src-en/data/events_special_storage.xml.append:923
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice/text"
 msgstr "Сирены."
 
-#: src-en/data/events_special_storage.xml.append:945
+#: src-en/data/events_special_storage.xml.append:936
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/text"
 msgstr "Вы открыли лабораторное меню для: [СИРЕНЫ]"
 
-#: src-en/data/events_special_storage.xml.append:947
+#: src-en/data/events_special_storage.xml.append:938
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_VAMP\"]/text"
 msgstr ""
 "Добавлено: Поглотитель душ.\n"
 "\t\t[Сирены теперь исцеляют на количество нанесенного ими урона, однако их урон уменьшается вдвое]"
 
-#: src-en/data/events_special_storage.xml.append:952
+#: src-en/data/events_special_storage.xml.append:943
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_BUFF\"]/text"
 msgstr ""
 "Добавлено: Красочные сны.\n"
 "\t\t[Союзные члены экипажа, не являющиеся сиренами, которые находятся в одном отсеке с сиренами, теперь получают на 30% меньше урона, ремонтируют на 50% быстрее и становятся невосприимчивыми к контролю разума, но теряют 50% скорости передвижения]"
 
-#: src-en/data/events_special_storage.xml.append:957
+#: src-en/data/events_special_storage.xml.append:948
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_DAMAGE\"]/text"
 msgstr ""
 "Добавлено: Увядающий взгляд.\n"
 "\t\t[Враги, на которых напрямую нацелены сирены, получают на 30% больше урона от всех источников и теряют иммунитет к контролю разума, если он у них был. Не влияет на других сирен или жутких существ]"
 
-#: src-en/data/events_special_storage.xml.append:962
+#: src-en/data/events_special_storage.xml.append:953
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[4]/text"
 msgstr "Добавлено: Ничего"
 
-#: src-en/data/events_special_storage.xml.append:966
+#: src-en/data/events_special_storage.xml.append:957
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[5]/text"
 msgstr "Осн: Поглотитель душ. [Улучшение уже установлено]"
 
-#: src-en/data/events_special_storage.xml.append:970
+#: src-en/data/events_special_storage.xml.append:961
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[6]/text"
 msgstr "Осн: Поглотитель душ [Цена: 30~, 2{, 2|]"
 
-#: src-en/data/events_special_storage.xml.append:974
+#: src-en/data/events_special_storage.xml.append:965
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[7]/text"
 msgstr "Осн: Красочные сны. [Улучшение уже добавлено]"
 
-#: src-en/data/events_special_storage.xml.append:978
+#: src-en/data/events_special_storage.xml.append:969
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[8]/text"
 msgstr "Осн: Красочные сны. [Цена: 6{]"
 
-#: src-en/data/events_special_storage.xml.append:982
+#: src-en/data/events_special_storage.xml.append:973
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[9]/text"
 msgstr "Осн: Увядающий взгляд. [Улучшение уже добавлено]"
 
-#: src-en/data/events_special_storage.xml.append:986
+#: src-en/data/events_special_storage.xml.append:977
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[10]/text"
 msgstr "Осн: Увядающий взгляд. [Цена: 40~, 8}]"
 
-#: src-en/data/events_special_storage.xml.append:990
+#: src-en/data/events_special_storage.xml.append:981
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_HARPY_MIND\""
 " and @lvl=\"1\"]/text"
@@ -1008,18 +976,18 @@ msgstr ""
 "Всп [Гарпии]: Подчинение разума. [Улучшение уже добавлено]\n"
 "\t\t[Гарпии-сирены получают новую способность: контролировать разум случайного врага в текущем отсеке в течение 10 секунд, время перезарядки - 30 секунд]"
 
-#: src-en/data/events_special_storage.xml.append:995
+#: src-en/data/events_special_storage.xml.append:986
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_HARPY_MIND\""
 " and @lvl=\"0\"]/text"
 msgstr "Втр [Гарпии]: Подчинение разума. [Цена: 50~, 5{]"
 
-#: src-en/data/events_special_storage.xml.append:999
+#: src-en/data/events_special_storage.xml.append:990
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[13]/text"
 msgstr "Вернуться."
 
-#: src-en/data/events_special_storage.xml.append:1004
+#: src-en/data/events_special_storage.xml.append:995
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/text"
 msgstr ""
@@ -1028,27 +996,27 @@ msgstr ""
 "\n"
 "    [Предупреждение: После ее добавления вы больше не сможете применять основные модификации для экипажа сирен. Вы также не сможете деактивировать эту модификацию]"
 
-#: src-en/data/events_special_storage.xml.append:1009
+#: src-en/data/events_special_storage.xml.append:1000
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/text"
 msgstr "Добавить модификацию. [Цена: 30~, 2{, 2|]"
 
-#: src-en/data/events_special_storage.xml.append:1011
+#: src-en/data/events_special_storage.xml.append:1002
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/event/text"
 msgstr "Вы добавили модификацию."
 
-#: src-en/data/events_special_storage.xml.append:1018
+#: src-en/data/events_special_storage.xml.append:1009
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1024
+#: src-en/data/events_special_storage.xml.append:1015
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[@req=\"pilot\"]/text"
 msgstr "Неважно."
 
-#: src-en/data/events_special_storage.xml.append:1035
+#: src-en/data/events_special_storage.xml.append:1026
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/text"
 msgstr ""
@@ -1057,27 +1025,27 @@ msgstr ""
 "\t\n"
 "\t[Предупреждение: После ее добавления вы больше не сможете применять основные модификации для экипажа сирен. Вы также не сможете деактивировать эту модификацию]"
 
-#: src-en/data/events_special_storage.xml.append:1040
+#: src-en/data/events_special_storage.xml.append:1031
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/text"
 msgstr "Добавить модификацию. [Цена: 6{]"
 
-#: src-en/data/events_special_storage.xml.append:1042
+#: src-en/data/events_special_storage.xml.append:1033
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/event/text"
 msgstr "Вы добавили модификацию."
 
-#: src-en/data/events_special_storage.xml.append:1047
+#: src-en/data/events_special_storage.xml.append:1038
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1053
+#: src-en/data/events_special_storage.xml.append:1044
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[@req=\"pilot\"]/text"
 msgstr "Неважно."
 
-#: src-en/data/events_special_storage.xml.append:1064
+#: src-en/data/events_special_storage.xml.append:1055
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/text"
 msgstr ""
@@ -1086,27 +1054,27 @@ msgstr ""
 "\t\n"
 "\t[Предупреждение: после установки этой модификации вы не сможете устанавливать никаких других основных улучшений для членов экипажа сирен. Вы также не сможете отключить эту модификацию]"
 
-#: src-en/data/events_special_storage.xml.append:1069
+#: src-en/data/events_special_storage.xml.append:1060
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/text"
 msgstr "Добавить модификацию. [Цена: 40~, 8}]"
 
-#: src-en/data/events_special_storage.xml.append:1071
+#: src-en/data/events_special_storage.xml.append:1062
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/event/text"
 msgstr "Вы добавили модификацию."
 
-#: src-en/data/events_special_storage.xml.append:1077
+#: src-en/data/events_special_storage.xml.append:1068
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1083
+#: src-en/data/events_special_storage.xml.append:1074
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Неважно."
 
-#: src-en/data/events_special_storage.xml.append:1094
+#: src-en/data/events_special_storage.xml.append:1085
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/text"
 msgstr ""
@@ -1115,1747 +1083,1747 @@ msgstr ""
 "    \n"
 "    [Предупреждение: это повлияет только на экипаж Гарпий-сирен. После этого вы сможете установить другие вторичные и основные модификации]"
 
-#: src-en/data/events_special_storage.xml.append:1099
+#: src-en/data/events_special_storage.xml.append:1090
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/text"
 msgstr "Добавить модификацию. [Цена: 50~, 5{]"
 
-#: src-en/data/events_special_storage.xml.append:1101
+#: src-en/data/events_special_storage.xml.append:1092
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/event/text"
 msgstr "Вы добавили модификацию."
 
-#: src-en/data/events_special_storage.xml.append:1107
+#: src-en/data/events_special_storage.xml.append:1098
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1113
+#: src-en/data/events_special_storage.xml.append:1104
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"0\"]/text"
 msgstr "Вы должны улучшить лабораторию, чтобы эта модификация стала доступна."
 
-#: src-en/data/events_special_storage.xml.append:1117
+#: src-en/data/events_special_storage.xml.append:1108
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"pilot\"]/text"
 msgstr "Неважно."
 
-#: src-en/data/events_special_storage.xml.append:1132
+#: src-en/data/events_special_storage.xml.append:1123
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[1]/text"
 msgstr "(Луч \"Закат\") Настроить режим оружия. [Текущий режим: Противокорпусный]"
 
-#: src-en/data/events_special_storage.xml.append:1136
+#: src-en/data/events_special_storage.xml.append:1127
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[2]/text"
 msgstr "(Луч \"Закат\") Настроить режим оружия. [Текущий режим: Частицы]"
 
-#: src-en/data/events_special_storage.xml.append:1140
+#: src-en/data/events_special_storage.xml.append:1131
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice[3]/text"
 msgstr "(Луч \"Закат\") Настроить режим оружия. [Текущий режим: Анти-био]"
 
-#: src-en/data/events_special_storage.xml.append:1148
+#: src-en/data/events_special_storage.xml.append:1139
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/text"
 msgstr ""
 "В какой режим вы хотите перевести оружие?\n"
 "\tТекущий режим: Противокорпусный."
 
-#: src-en/data/events_special_storage.xml.append:1151
+#: src-en/data/events_special_storage.xml.append:1142
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/text"
 msgstr "Переключиться в режим Частиц."
 
-#: src-en/data/events_special_storage.xml.append:1153
+#: src-en/data/events_special_storage.xml.append:1144
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1156
+#: src-en/data/events_special_storage.xml.append:1147
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1158
+#: src-en/data/events_special_storage.xml.append:1149
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1161
+#: src-en/data/events_special_storage.xml.append:1152
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1169
+#: src-en/data/events_special_storage.xml.append:1160
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/text"
 msgstr "Переключиться в Анти-био режим."
 
-#: src-en/data/events_special_storage.xml.append:1171
+#: src-en/data/events_special_storage.xml.append:1162
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1174
+#: src-en/data/events_special_storage.xml.append:1165
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1176
+#: src-en/data/events_special_storage.xml.append:1167
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1179
+#: src-en/data/events_special_storage.xml.append:1170
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1187
+#: src-en/data/events_special_storage.xml.append:1178
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[3]/text"
 msgstr "Вернуться в меню переключения."
 
-#: src-en/data/events_special_storage.xml.append:1192
+#: src-en/data/events_special_storage.xml.append:1183
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/text"
 msgstr ""
 "В какой режим вы хотите перевести оружие?\n"
 "\tТекущий режим: Частицы."
 
-#: src-en/data/events_special_storage.xml.append:1195
+#: src-en/data/events_special_storage.xml.append:1186
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/text"
 msgstr "Переключиться в Противокорпусный режим."
 
-#: src-en/data/events_special_storage.xml.append:1197
+#: src-en/data/events_special_storage.xml.append:1188
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1200
+#: src-en/data/events_special_storage.xml.append:1191
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1202
+#: src-en/data/events_special_storage.xml.append:1193
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1205
+#: src-en/data/events_special_storage.xml.append:1196
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1213
+#: src-en/data/events_special_storage.xml.append:1204
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/text"
 msgstr "Переключиться в Анти-био режим."
 
-#: src-en/data/events_special_storage.xml.append:1215
+#: src-en/data/events_special_storage.xml.append:1206
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1218
+#: src-en/data/events_special_storage.xml.append:1209
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1220
+#: src-en/data/events_special_storage.xml.append:1211
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1223
+#: src-en/data/events_special_storage.xml.append:1214
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1231
+#: src-en/data/events_special_storage.xml.append:1222
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[3]/text"
 msgstr "Вернуться в меню переключения."
 
-#: src-en/data/events_special_storage.xml.append:1236
+#: src-en/data/events_special_storage.xml.append:1227
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/text"
 msgstr ""
 "В какой режим вы хотите перевести оружие?\n"
 "\tТекущий режим: Анти-био."
 
-#: src-en/data/events_special_storage.xml.append:1239
+#: src-en/data/events_special_storage.xml.append:1230
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/text"
 msgstr "Переключиться в Противокорпусный режим."
 
-#: src-en/data/events_special_storage.xml.append:1241
+#: src-en/data/events_special_storage.xml.append:1232
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1244
+#: src-en/data/events_special_storage.xml.append:1235
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1246
+#: src-en/data/events_special_storage.xml.append:1237
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1249
+#: src-en/data/events_special_storage.xml.append:1240
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1257
+#: src-en/data/events_special_storage.xml.append:1248
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/text"
 msgstr "Переключиться в режим Частиц."
 
-#: src-en/data/events_special_storage.xml.append:1259
+#: src-en/data/events_special_storage.xml.append:1250
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1262
+#: src-en/data/events_special_storage.xml.append:1253
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1264
+#: src-en/data/events_special_storage.xml.append:1255
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1267
+#: src-en/data/events_special_storage.xml.append:1258
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1275
+#: src-en/data/events_special_storage.xml.append:1266
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[3]/text"
 msgstr "Вернуться в меню переключения."
 
-#: src-en/data/events_special_storage.xml.append:1284
+#: src-en/data/events_special_storage.xml.append:1275
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[1]/text"
 msgstr "(Луч \"Сумерки\") Настроить режим оружия. [Текущий режим: Длинный]"
 
-#: src-en/data/events_special_storage.xml.append:1288
+#: src-en/data/events_special_storage.xml.append:1279
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[2]/text"
 msgstr "(Луч \"Сумерки\") Настроить режим оружия. [Текущий режим: Измельчение]"
 
-#: src-en/data/events_special_storage.xml.append:1292
+#: src-en/data/events_special_storage.xml.append:1283
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[3]/text"
 msgstr "(Луч \"Сумерки\") Настроить режим оружия. [Текущий режим: Термический]"
 
-#: src-en/data/events_special_storage.xml.append:1296
+#: src-en/data/events_special_storage.xml.append:1287
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice[4]/text"
 msgstr "(Луч \"Сумерки\") Настроить режим оружия. [Текущий режим: Хак]"
 
-#: src-en/data/events_special_storage.xml.append:1302
+#: src-en/data/events_special_storage.xml.append:1293
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/text"
 msgstr ""
 "В какой режим вы хотите перевести оружие?\n"
 "\tТекущий режим: Длинный."
 
-#: src-en/data/events_special_storage.xml.append:1305
+#: src-en/data/events_special_storage.xml.append:1296
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/text"
 msgstr "Переключиться в режим Измельчение."
 
-#: src-en/data/events_special_storage.xml.append:1307
+#: src-en/data/events_special_storage.xml.append:1298
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1310
+#: src-en/data/events_special_storage.xml.append:1301
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1312
+#: src-en/data/events_special_storage.xml.append:1303
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1315
+#: src-en/data/events_special_storage.xml.append:1306
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1323
+#: src-en/data/events_special_storage.xml.append:1314
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/text"
 msgstr "Переключиться в Термический режим."
 
-#: src-en/data/events_special_storage.xml.append:1325
+#: src-en/data/events_special_storage.xml.append:1316
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1328
+#: src-en/data/events_special_storage.xml.append:1319
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1330
+#: src-en/data/events_special_storage.xml.append:1321
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1333
+#: src-en/data/events_special_storage.xml.append:1324
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1341
+#: src-en/data/events_special_storage.xml.append:1332
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/text"
 msgstr "Переключиться в режим Хака."
 
-#: src-en/data/events_special_storage.xml.append:1343
+#: src-en/data/events_special_storage.xml.append:1334
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1346
+#: src-en/data/events_special_storage.xml.append:1337
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1348
+#: src-en/data/events_special_storage.xml.append:1339
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1351
+#: src-en/data/events_special_storage.xml.append:1342
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1359
+#: src-en/data/events_special_storage.xml.append:1350
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[4]/text"
 msgstr "Вернуться в меню переключения."
 
-#: src-en/data/events_special_storage.xml.append:1365
+#: src-en/data/events_special_storage.xml.append:1356
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/text"
 msgstr ""
 "В какой режим вы хотите перевести оружие?\n"
 "\tТекущий режим: Измельчение."
 
-#: src-en/data/events_special_storage.xml.append:1368
+#: src-en/data/events_special_storage.xml.append:1359
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/text"
 msgstr "Переключиться в Длинный режим."
 
-#: src-en/data/events_special_storage.xml.append:1370
+#: src-en/data/events_special_storage.xml.append:1361
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1373
+#: src-en/data/events_special_storage.xml.append:1364
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1375
+#: src-en/data/events_special_storage.xml.append:1366
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1378
+#: src-en/data/events_special_storage.xml.append:1369
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1386
+#: src-en/data/events_special_storage.xml.append:1377
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/text"
 msgstr "Переключиться в Термический режим."
 
-#: src-en/data/events_special_storage.xml.append:1388
+#: src-en/data/events_special_storage.xml.append:1379
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1391
+#: src-en/data/events_special_storage.xml.append:1382
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1393
+#: src-en/data/events_special_storage.xml.append:1384
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1396
+#: src-en/data/events_special_storage.xml.append:1387
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1404
+#: src-en/data/events_special_storage.xml.append:1395
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/text"
 msgstr "Переключиться в режим Хака."
 
-#: src-en/data/events_special_storage.xml.append:1406
+#: src-en/data/events_special_storage.xml.append:1397
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1409
+#: src-en/data/events_special_storage.xml.append:1400
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1411
+#: src-en/data/events_special_storage.xml.append:1402
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1414
+#: src-en/data/events_special_storage.xml.append:1405
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1422
+#: src-en/data/events_special_storage.xml.append:1413
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[4]/text"
 msgstr "Вернуться в меню переключения."
 
-#: src-en/data/events_special_storage.xml.append:1429
+#: src-en/data/events_special_storage.xml.append:1420
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/text"
 msgstr ""
 "В какой режим вы хотите перевести оружие?\n"
 "\tТекущий режим: Термический."
 
-#: src-en/data/events_special_storage.xml.append:1432
+#: src-en/data/events_special_storage.xml.append:1423
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/text"
 msgstr "Переключиться в Длинный режим."
 
-#: src-en/data/events_special_storage.xml.append:1434
+#: src-en/data/events_special_storage.xml.append:1425
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1437
+#: src-en/data/events_special_storage.xml.append:1428
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1439
+#: src-en/data/events_special_storage.xml.append:1430
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1442
+#: src-en/data/events_special_storage.xml.append:1433
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1450
+#: src-en/data/events_special_storage.xml.append:1441
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/text"
 msgstr "Переключиться в режим Измельчение."
 
-#: src-en/data/events_special_storage.xml.append:1452
+#: src-en/data/events_special_storage.xml.append:1443
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1455
+#: src-en/data/events_special_storage.xml.append:1446
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1457
+#: src-en/data/events_special_storage.xml.append:1448
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1460
+#: src-en/data/events_special_storage.xml.append:1451
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1468
+#: src-en/data/events_special_storage.xml.append:1459
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/text"
 msgstr "Переключиться в режим Хака."
 
-#: src-en/data/events_special_storage.xml.append:1470
+#: src-en/data/events_special_storage.xml.append:1461
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1473
+#: src-en/data/events_special_storage.xml.append:1464
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1475
+#: src-en/data/events_special_storage.xml.append:1466
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1478
+#: src-en/data/events_special_storage.xml.append:1469
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1486
+#: src-en/data/events_special_storage.xml.append:1477
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[4]/text"
 msgstr "Вернуться в меню переключения."
 
-#: src-en/data/events_special_storage.xml.append:1491
+#: src-en/data/events_special_storage.xml.append:1482
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/text"
 msgstr ""
 "В какой режим вы хотите перевести оружие?\n"
 "\tТекущий режим: Хак."
 
-#: src-en/data/events_special_storage.xml.append:1494
+#: src-en/data/events_special_storage.xml.append:1485
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/text"
 msgstr "Переключиться в Длинный режим."
 
-#: src-en/data/events_special_storage.xml.append:1496
+#: src-en/data/events_special_storage.xml.append:1487
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1499
+#: src-en/data/events_special_storage.xml.append:1490
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1501
+#: src-en/data/events_special_storage.xml.append:1492
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1504
+#: src-en/data/events_special_storage.xml.append:1495
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1512
+#: src-en/data/events_special_storage.xml.append:1503
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/text"
 msgstr "Переключиться в режим Измельчение."
 
-#: src-en/data/events_special_storage.xml.append:1514
+#: src-en/data/events_special_storage.xml.append:1505
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1517
+#: src-en/data/events_special_storage.xml.append:1508
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1519
+#: src-en/data/events_special_storage.xml.append:1510
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1522
+#: src-en/data/events_special_storage.xml.append:1513
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1530
+#: src-en/data/events_special_storage.xml.append:1521
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/text"
 msgstr "Переключиться в Термический режим."
 
-#: src-en/data/events_special_storage.xml.append:1532
+#: src-en/data/events_special_storage.xml.append:1523
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1535
+#: src-en/data/events_special_storage.xml.append:1526
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1537
+#: src-en/data/events_special_storage.xml.append:1528
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1540
+#: src-en/data/events_special_storage.xml.append:1531
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1548
+#: src-en/data/events_special_storage.xml.append:1539
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[4]/text"
 msgstr "Вернуться в меню переключения."
 
-#: src-en/data/events_special_storage.xml.append:1558
+#: src-en/data/events_special_storage.xml.append:1549
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[1]/text"
 msgstr "(\"Акацуки\") Настроить режим оружия. [Текущий режим: Луч]"
 
-#: src-en/data/events_special_storage.xml.append:1562
+#: src-en/data/events_special_storage.xml.append:1553
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[2]/text"
 msgstr "(\"Акацуки\") Настроить режим оружия. [Текущий режим: Точечный]"
 
-#: src-en/data/events_special_storage.xml.append:1566
+#: src-en/data/events_special_storage.xml.append:1557
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice[3]/text"
 msgstr "(\"Акацуки\") Настроить режим оружия. [Текущий режим: Рассеивание]"
 
-#: src-en/data/events_special_storage.xml.append:1574
+#: src-en/data/events_special_storage.xml.append:1565
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/text"
 msgstr ""
 "В какой режим вы хотите перевести оружие?\n"
 "\tТекущий режим: Луч."
 
-#: src-en/data/events_special_storage.xml.append:1577
+#: src-en/data/events_special_storage.xml.append:1568
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/text"
 msgstr "Переключиться в Точечный режим."
 
-#: src-en/data/events_special_storage.xml.append:1579
+#: src-en/data/events_special_storage.xml.append:1570
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1582
+#: src-en/data/events_special_storage.xml.append:1573
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1584
+#: src-en/data/events_special_storage.xml.append:1575
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1587
+#: src-en/data/events_special_storage.xml.append:1578
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1595
+#: src-en/data/events_special_storage.xml.append:1586
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/text"
 msgstr "Переключиться в режим Рассеивание."
 
-#: src-en/data/events_special_storage.xml.append:1597
+#: src-en/data/events_special_storage.xml.append:1588
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1600
+#: src-en/data/events_special_storage.xml.append:1591
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1602
+#: src-en/data/events_special_storage.xml.append:1593
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1605
+#: src-en/data/events_special_storage.xml.append:1596
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1613
+#: src-en/data/events_special_storage.xml.append:1604
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[3]/text"
 msgstr "Вернуться в меню переключения."
 
-#: src-en/data/events_special_storage.xml.append:1618
+#: src-en/data/events_special_storage.xml.append:1609
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/text"
 msgstr ""
 "В какой режим вы хотите перевести оружие?\n"
 "\tТекущий режим: Точечный."
 
-#: src-en/data/events_special_storage.xml.append:1621
+#: src-en/data/events_special_storage.xml.append:1612
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/text"
 msgstr "Переключиться в Лучевой режим."
 
-#: src-en/data/events_special_storage.xml.append:1623
+#: src-en/data/events_special_storage.xml.append:1614
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1626
+#: src-en/data/events_special_storage.xml.append:1617
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1628
+#: src-en/data/events_special_storage.xml.append:1619
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1631
+#: src-en/data/events_special_storage.xml.append:1622
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1639
+#: src-en/data/events_special_storage.xml.append:1630
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/text"
 msgstr "Переключиться в режим Рассеивание."
 
-#: src-en/data/events_special_storage.xml.append:1641
+#: src-en/data/events_special_storage.xml.append:1632
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1644
+#: src-en/data/events_special_storage.xml.append:1635
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1646
+#: src-en/data/events_special_storage.xml.append:1637
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1649
+#: src-en/data/events_special_storage.xml.append:1640
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1657
+#: src-en/data/events_special_storage.xml.append:1648
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[3]/text"
 msgstr "Вернуться в меню переключения."
 
-#: src-en/data/events_special_storage.xml.append:1662
+#: src-en/data/events_special_storage.xml.append:1653
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/text"
 msgstr ""
 "В какой режим вы хотите перевести оружие?\n"
 "\tТекущий режим: Рассеивание."
 
-#: src-en/data/events_special_storage.xml.append:1665
+#: src-en/data/events_special_storage.xml.append:1656
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/text"
 msgstr "Переключиться в Лучевой режим."
 
-#: src-en/data/events_special_storage.xml.append:1667
+#: src-en/data/events_special_storage.xml.append:1658
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1670
+#: src-en/data/events_special_storage.xml.append:1661
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1672
+#: src-en/data/events_special_storage.xml.append:1663
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1675
+#: src-en/data/events_special_storage.xml.append:1666
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1683
+#: src-en/data/events_special_storage.xml.append:1674
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/text"
 msgstr "Переключиться в Точечный режим."
 
-#: src-en/data/events_special_storage.xml.append:1685
+#: src-en/data/events_special_storage.xml.append:1676
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1688
+#: src-en/data/events_special_storage.xml.append:1679
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1690
+#: src-en/data/events_special_storage.xml.append:1681
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1693
+#: src-en/data/events_special_storage.xml.append:1684
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1701
+#: src-en/data/events_special_storage.xml.append:1692
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[3]/text"
 msgstr "Вернуться в меню переключения."
 
-#: src-en/data/events_special_storage.xml.append:1712
+#: src-en/data/events_special_storage.xml.append:1703
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[1]/text"
 msgstr "(Луч \"Шприц\") Настроить режим оружия. [Текущий режим: Пустой]"
 
-#: src-en/data/events_special_storage.xml.append:1716
+#: src-en/data/events_special_storage.xml.append:1707
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[2]/text"
 msgstr "(Луч \"Шприц\") Настроить режим оружия. [Текущий режим: Медицина]"
 
-#: src-en/data/events_special_storage.xml.append:1720
+#: src-en/data/events_special_storage.xml.append:1711
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[3]/text"
 msgstr "(Луч \"Шприц\") Настроить режим оружия. [Текущий режим: Стимулятор]"
 
-#: src-en/data/events_special_storage.xml.append:1724
+#: src-en/data/events_special_storage.xml.append:1715
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[4]/text"
 msgstr "(Луч \"Шприц\") Настроить режим оружия. [Текущий режим: Яд]"
 
-#: src-en/data/events_special_storage.xml.append:1728
+#: src-en/data/events_special_storage.xml.append:1719
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[5]/text"
 msgstr "(Луч \"Шприц\") Настроить режим оружия. [Текущий режим: Кислота]"
 
-#: src-en/data/events_special_storage.xml.append:1736
+#: src-en/data/events_special_storage.xml.append:1727
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/text"
 msgstr "Чем вы хотите зарядить оружие?"
 
-#: src-en/data/events_special_storage.xml.append:1738
+#: src-en/data/events_special_storage.xml.append:1729
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/text"
 msgstr "Медицина."
 
-#: src-en/data/events_special_storage.xml.append:1740
+#: src-en/data/events_special_storage.xml.append:1731
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1743
+#: src-en/data/events_special_storage.xml.append:1734
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1745
+#: src-en/data/events_special_storage.xml.append:1736
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1748
+#: src-en/data/events_special_storage.xml.append:1739
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1756
+#: src-en/data/events_special_storage.xml.append:1747
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/text"
 msgstr "Стимулятор."
 
-#: src-en/data/events_special_storage.xml.append:1758
+#: src-en/data/events_special_storage.xml.append:1749
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1761
+#: src-en/data/events_special_storage.xml.append:1752
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1763
+#: src-en/data/events_special_storage.xml.append:1754
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1766
+#: src-en/data/events_special_storage.xml.append:1757
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1774
+#: src-en/data/events_special_storage.xml.append:1765
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/text"
 msgstr "Яд."
 
-#: src-en/data/events_special_storage.xml.append:1776
+#: src-en/data/events_special_storage.xml.append:1767
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1779
+#: src-en/data/events_special_storage.xml.append:1770
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1781
+#: src-en/data/events_special_storage.xml.append:1772
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1784
+#: src-en/data/events_special_storage.xml.append:1775
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1792
+#: src-en/data/events_special_storage.xml.append:1783
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/text"
 msgstr "Кислота."
 
-#: src-en/data/events_special_storage.xml.append:1794
+#: src-en/data/events_special_storage.xml.append:1785
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1797
+#: src-en/data/events_special_storage.xml.append:1788
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1799
+#: src-en/data/events_special_storage.xml.append:1790
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1802
+#: src-en/data/events_special_storage.xml.append:1793
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1810
+#: src-en/data/events_special_storage.xml.append:1801
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[5]/text"
 msgstr "Вернуться в меню переключения."
 
-#: src-en/data/events_special_storage.xml.append:1817
+#: src-en/data/events_special_storage.xml.append:1808
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1820
+#: src-en/data/events_special_storage.xml.append:1811
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1822
+#: src-en/data/events_special_storage.xml.append:1813
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1825
+#: src-en/data/events_special_storage.xml.append:1816
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1832
+#: src-en/data/events_special_storage.xml.append:1823
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1835
+#: src-en/data/events_special_storage.xml.append:1826
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1837
+#: src-en/data/events_special_storage.xml.append:1828
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1840
+#: src-en/data/events_special_storage.xml.append:1831
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1847
+#: src-en/data/events_special_storage.xml.append:1838
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1850
+#: src-en/data/events_special_storage.xml.append:1841
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1852
+#: src-en/data/events_special_storage.xml.append:1843
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1855
+#: src-en/data/events_special_storage.xml.append:1846
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1862
+#: src-en/data/events_special_storage.xml.append:1853
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1865
+#: src-en/data/events_special_storage.xml.append:1856
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1867
+#: src-en/data/events_special_storage.xml.append:1858
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1870
+#: src-en/data/events_special_storage.xml.append:1861
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1895
+#: src-en/data/events_special_storage.xml.append:1886
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[1]/text"
 msgstr "(Луч \"Эдисон\") Настроить мощность оружия. [Текущая мощность: 0]"
 
-#: src-en/data/events_special_storage.xml.append:1899
+#: src-en/data/events_special_storage.xml.append:1890
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[2]/text"
 msgstr "(Луч \"Эдисон\") Настроить мощность оружия. [Текущая мощность: 1]"
 
-#: src-en/data/events_special_storage.xml.append:1902
+#: src-en/data/events_special_storage.xml.append:1893
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[3]/text"
 msgstr "(Луч \"Эдисон\") Настроить мощность оружия. [Текущая мощность: 2]"
 
-#: src-en/data/events_special_storage.xml.append:1906
+#: src-en/data/events_special_storage.xml.append:1897
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[4]/text"
 msgstr "(Луч \"Эдисон\") Настроить мощность оружия. [Текущая мощность: 3]"
 
-#: src-en/data/events_special_storage.xml.append:1910
+#: src-en/data/events_special_storage.xml.append:1901
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice[5]/text"
 msgstr "(Луч \"Эдисон\") Настроить режим орудия. [Текущая мощность: ПЕРЕГРУЗКА]"
 
-#: src-en/data/events_special_storage.xml.append:1918
+#: src-en/data/events_special_storage.xml.append:1909
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/text"
 msgstr ""
 "На какой уровень мощности вы хотите настроить данное орудие?\n"
 "\tТекущие характеристики: [Мощность: 0; выстрелов: 2]"
 
-#: src-en/data/events_special_storage.xml.append:1921
+#: src-en/data/events_special_storage.xml.append:1912
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/text"
 msgstr "Настроить на: [Мощность: 1; выстрелов: 3]"
 
-#: src-en/data/events_special_storage.xml.append:1923
+#: src-en/data/events_special_storage.xml.append:1914
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1926
+#: src-en/data/events_special_storage.xml.append:1917
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1928
+#: src-en/data/events_special_storage.xml.append:1919
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1931
+#: src-en/data/events_special_storage.xml.append:1922
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1939
+#: src-en/data/events_special_storage.xml.append:1930
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/text"
 msgstr "Настроить на: [Мощность: 2; выстрелов: 5]"
 
-#: src-en/data/events_special_storage.xml.append:1941
+#: src-en/data/events_special_storage.xml.append:1932
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1944
+#: src-en/data/events_special_storage.xml.append:1935
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1946
+#: src-en/data/events_special_storage.xml.append:1937
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1949
+#: src-en/data/events_special_storage.xml.append:1940
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1957
+#: src-en/data/events_special_storage.xml.append:1948
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/text"
 msgstr "Настроить на: [Мощность: 3; выстрелов: 8]"
 
-#: src-en/data/events_special_storage.xml.append:1959
+#: src-en/data/events_special_storage.xml.append:1950
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1962
+#: src-en/data/events_special_storage.xml.append:1953
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1964
+#: src-en/data/events_special_storage.xml.append:1955
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1967
+#: src-en/data/events_special_storage.xml.append:1958
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1975
+#: src-en/data/events_special_storage.xml.append:1966
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/text"
 msgstr "Настроить на: [ПЕРЕГРУЗКА]"
 
-#: src-en/data/events_special_storage.xml.append:1977
+#: src-en/data/events_special_storage.xml.append:1968
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:1980
+#: src-en/data/events_special_storage.xml.append:1971
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1982
+#: src-en/data/events_special_storage.xml.append:1973
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:1985
+#: src-en/data/events_special_storage.xml.append:1976
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:1993
+#: src-en/data/events_special_storage.xml.append:1984
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[5]/text"
 msgstr "Вернуться в меню переключения."
 
-#: src-en/data/events_special_storage.xml.append:2000
+#: src-en/data/events_special_storage.xml.append:1991
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/text"
 msgstr ""
 "На какой уровень мощности вы хотите настроить данное орудие?\n"
 "\tТекущие характеристики: [Мощность: 1; выстрелов: 3]"
 
-#: src-en/data/events_special_storage.xml.append:2003
+#: src-en/data/events_special_storage.xml.append:1994
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/text"
 msgstr "Настроить на: [Мощность: 0; выстрелов: 2]"
 
-#: src-en/data/events_special_storage.xml.append:2005
+#: src-en/data/events_special_storage.xml.append:1996
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2008
+#: src-en/data/events_special_storage.xml.append:1999
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2010
+#: src-en/data/events_special_storage.xml.append:2001
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2013
+#: src-en/data/events_special_storage.xml.append:2004
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2021
+#: src-en/data/events_special_storage.xml.append:2012
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/text"
 msgstr "Настроить на: [Мощность: 2; выстрелов: 5]"
 
-#: src-en/data/events_special_storage.xml.append:2023
+#: src-en/data/events_special_storage.xml.append:2014
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2026
+#: src-en/data/events_special_storage.xml.append:2017
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2028
+#: src-en/data/events_special_storage.xml.append:2019
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2031
+#: src-en/data/events_special_storage.xml.append:2022
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2039
+#: src-en/data/events_special_storage.xml.append:2030
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/text"
 msgstr "Настроить на: [Мощность: 3; выстрелов: 8]"
 
-#: src-en/data/events_special_storage.xml.append:2041
+#: src-en/data/events_special_storage.xml.append:2032
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2044
+#: src-en/data/events_special_storage.xml.append:2035
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2046
+#: src-en/data/events_special_storage.xml.append:2037
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2049
+#: src-en/data/events_special_storage.xml.append:2040
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2057
+#: src-en/data/events_special_storage.xml.append:2048
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/text"
 msgstr "Настроить на: [ПЕРЕГРУЗКА]"
 
-#: src-en/data/events_special_storage.xml.append:2059
+#: src-en/data/events_special_storage.xml.append:2050
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2062
+#: src-en/data/events_special_storage.xml.append:2053
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2064
+#: src-en/data/events_special_storage.xml.append:2055
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2067
+#: src-en/data/events_special_storage.xml.append:2058
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2075
+#: src-en/data/events_special_storage.xml.append:2066
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[5]/text"
 msgstr "Вернуться в меню переключения."
 
-#: src-en/data/events_special_storage.xml.append:2081
+#: src-en/data/events_special_storage.xml.append:2072
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/text"
 msgstr ""
 "На какой уровень мощности вы хотите настроить данное орудие?\n"
 "\tТекущие характеристики: [Мощность: 2; выстрелов: 5]"
 
-#: src-en/data/events_special_storage.xml.append:2084
+#: src-en/data/events_special_storage.xml.append:2075
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/text"
 msgstr "Настроить на: [Мощность: 0; выстрелов: 2]"
 
-#: src-en/data/events_special_storage.xml.append:2086
+#: src-en/data/events_special_storage.xml.append:2077
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2089
+#: src-en/data/events_special_storage.xml.append:2080
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2091
+#: src-en/data/events_special_storage.xml.append:2082
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2094
+#: src-en/data/events_special_storage.xml.append:2085
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2102
+#: src-en/data/events_special_storage.xml.append:2093
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/text"
 msgstr "Настроить на: [Мощность: 1; выстрелов: 3]"
 
-#: src-en/data/events_special_storage.xml.append:2104
+#: src-en/data/events_special_storage.xml.append:2095
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2107
+#: src-en/data/events_special_storage.xml.append:2098
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2109
+#: src-en/data/events_special_storage.xml.append:2100
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2112
+#: src-en/data/events_special_storage.xml.append:2103
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2120
+#: src-en/data/events_special_storage.xml.append:2111
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/text"
 msgstr "Настроить на: [Мощность: 3; выстрелов: 8]"
 
-#: src-en/data/events_special_storage.xml.append:2122
+#: src-en/data/events_special_storage.xml.append:2113
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2125
+#: src-en/data/events_special_storage.xml.append:2116
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2127
+#: src-en/data/events_special_storage.xml.append:2118
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2130
+#: src-en/data/events_special_storage.xml.append:2121
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2138
+#: src-en/data/events_special_storage.xml.append:2129
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/text"
 msgstr "Настроить на: [ПЕРЕГРУЗКА]"
 
-#: src-en/data/events_special_storage.xml.append:2140
+#: src-en/data/events_special_storage.xml.append:2131
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2143
+#: src-en/data/events_special_storage.xml.append:2134
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2145
+#: src-en/data/events_special_storage.xml.append:2136
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2148
+#: src-en/data/events_special_storage.xml.append:2139
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2156
+#: src-en/data/events_special_storage.xml.append:2147
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[5]/text"
 msgstr "Вернуться в меню переключения."
 
-#: src-en/data/events_special_storage.xml.append:2162
+#: src-en/data/events_special_storage.xml.append:2153
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/text"
 msgstr ""
 "На какой уровень мощности вы хотите настроить данное орудие?\n"
 "\tТекущие характеристики: [Мощность: 3; выстрелов: 8]"
 
-#: src-en/data/events_special_storage.xml.append:2165
+#: src-en/data/events_special_storage.xml.append:2156
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/text"
 msgstr "Настроить на: [Мощность: 0; выстрелов: 2]"
 
-#: src-en/data/events_special_storage.xml.append:2167
+#: src-en/data/events_special_storage.xml.append:2158
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2170
+#: src-en/data/events_special_storage.xml.append:2161
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2172
+#: src-en/data/events_special_storage.xml.append:2163
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2175
+#: src-en/data/events_special_storage.xml.append:2166
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2183
+#: src-en/data/events_special_storage.xml.append:2174
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/text"
 msgstr "Настроить на: [Мощность: 1; выстрелов: 3]"
 
-#: src-en/data/events_special_storage.xml.append:2185
+#: src-en/data/events_special_storage.xml.append:2176
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2188
+#: src-en/data/events_special_storage.xml.append:2179
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2190
+#: src-en/data/events_special_storage.xml.append:2181
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2193
+#: src-en/data/events_special_storage.xml.append:2184
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2201
+#: src-en/data/events_special_storage.xml.append:2192
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/text"
 msgstr "Настроить на: [Мощность: 2; выстрелов: 5]"
 
-#: src-en/data/events_special_storage.xml.append:2203
+#: src-en/data/events_special_storage.xml.append:2194
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2206
+#: src-en/data/events_special_storage.xml.append:2197
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2208
+#: src-en/data/events_special_storage.xml.append:2199
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2211
+#: src-en/data/events_special_storage.xml.append:2202
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2219
+#: src-en/data/events_special_storage.xml.append:2210
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/text"
 msgstr "Настроить на: [ПЕРЕГРУЗКА]"
 
-#: src-en/data/events_special_storage.xml.append:2221
+#: src-en/data/events_special_storage.xml.append:2212
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2224
+#: src-en/data/events_special_storage.xml.append:2215
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2226
+#: src-en/data/events_special_storage.xml.append:2217
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2229
+#: src-en/data/events_special_storage.xml.append:2220
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2237
+#: src-en/data/events_special_storage.xml.append:2228
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[5]/text"
 msgstr "Вернуться в меню переключения."
 
-#: src-en/data/events_special_storage.xml.append:2243
+#: src-en/data/events_special_storage.xml.append:2234
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/text"
 msgstr ""
 "На какой уровень мощности вы хотите настроить данное орудие?\n"
 "\tТекущие характеристики: [ПЕРЕГРУЗКА]"
 
-#: src-en/data/events_special_storage.xml.append:2246
+#: src-en/data/events_special_storage.xml.append:2237
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/text"
 msgstr "Настроить на: [Мощность: 0; выстрелов: 2]"
 
-#: src-en/data/events_special_storage.xml.append:2248
+#: src-en/data/events_special_storage.xml.append:2239
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2251
+#: src-en/data/events_special_storage.xml.append:2242
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2253
+#: src-en/data/events_special_storage.xml.append:2244
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2256
+#: src-en/data/events_special_storage.xml.append:2247
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2264
+#: src-en/data/events_special_storage.xml.append:2255
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/text"
 msgstr "Настроить на: [Мощность: 1; выстрелов: 3]"
 
-#: src-en/data/events_special_storage.xml.append:2266
+#: src-en/data/events_special_storage.xml.append:2257
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2269
+#: src-en/data/events_special_storage.xml.append:2260
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2271
+#: src-en/data/events_special_storage.xml.append:2262
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2274
+#: src-en/data/events_special_storage.xml.append:2265
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2282
+#: src-en/data/events_special_storage.xml.append:2273
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/text"
 msgstr "Настроить на: [Мощность: 2; выстрелов: 5]"
 
-#: src-en/data/events_special_storage.xml.append:2284
+#: src-en/data/events_special_storage.xml.append:2275
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2287
+#: src-en/data/events_special_storage.xml.append:2278
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2289
+#: src-en/data/events_special_storage.xml.append:2280
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2292
+#: src-en/data/events_special_storage.xml.append:2283
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2300
+#: src-en/data/events_special_storage.xml.append:2291
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/text"
 msgstr "Настроить на: [Мощность: 3; выстрелов: 8]"
 
-#: src-en/data/events_special_storage.xml.append:2302
+#: src-en/data/events_special_storage.xml.append:2293
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2305
+#: src-en/data/events_special_storage.xml.append:2296
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2307
+#: src-en/data/events_special_storage.xml.append:2298
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2310
+#: src-en/data/events_special_storage.xml.append:2301
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2318
+#: src-en/data/events_special_storage.xml.append:2309
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[5]/text"
 msgstr "Вернуться в меню переключения."
 
-#: src-en/data/events_special_storage.xml.append:2328
+#: src-en/data/events_special_storage.xml.append:2319
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice/text"
 msgstr "(Форсаж) Активировать форсаж!"
 
-#: src-en/data/events_special_storage.xml.append:2335
+#: src-en/data/events_special_storage.xml.append:2326
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_FAIL_REAL\"]/mod-"
 "append:choice/text"
 msgstr "(Форсаж) Активировать форсаж!"
 
-#: src-en/data/events_special_storage.xml.append:2341
+#: src-en/data/events_special_storage.xml.append:2332
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/text"
 msgstr "Как бы вы хотели использовать этот модуль?"
 
-#: src-en/data/events_special_storage.xml.append:2343
+#: src-en/data/events_special_storage.xml.append:2334
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/text"
 msgstr ""
 "Максимальная мощность!\n"
 "[Уклонение +20%, -3{, действует 60 секунд]"
 
-#: src-en/data/events_special_storage.xml.append:2346
+#: src-en/data/events_special_storage.xml.append:2337
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/event/text"
 msgstr "Вы активировали боевой модуль."
 
-#: src-en/data/events_special_storage.xml.append:2353
+#: src-en/data/events_special_storage.xml.append:2344
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr "Ваш форсаж отключится через указанное время."
 
-#: src-en/data/events_special_storage.xml.append:2358
+#: src-en/data/events_special_storage.xml.append:2349
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/event/choice/text"
 msgstr "Перейти к битве!"
 
-#: src-en/data/events_special_storage.xml.append:2364
+#: src-en/data/events_special_storage.xml.append:2355
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/text"
 msgstr ""
 "Максимальная мощность! (Использование аварийного генератора)\n"
 "[Уклонение +20%, -2{, действует 90 секунд]"
 
-#: src-en/data/events_special_storage.xml.append:2367
+#: src-en/data/events_special_storage.xml.append:2358
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/event/text"
 msgstr "Вы активировали боевой модуль."
 
-#: src-en/data/events_special_storage.xml.append:2374
+#: src-en/data/events_special_storage.xml.append:2365
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr "Ваш форсаж отключится через указанное время."
 
-#: src-en/data/events_special_storage.xml.append:2379
+#: src-en/data/events_special_storage.xml.append:2370
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/event/choice/text"
 msgstr "Перейти к битве!"
 
-#: src-en/data/events_special_storage.xml.append:2385
+#: src-en/data/events_special_storage.xml.append:2376
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[3]/text"
 msgstr ""
 "Сжечь врага!\n"
 "[-3{, наносит врагу урон, равный уровню вашего двигателя, вызывает пожары]"
 
-#: src-en/data/events_special_storage.xml.append:2388
+#: src-en/data/events_special_storage.xml.append:2379
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[3]/event/text"
 msgstr "Вы активировали боевой модуль."
 
-#: src-en/data/events_special_storage.xml.append:2393
+#: src-en/data/events_special_storage.xml.append:2384
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[3]/event/choice/text"
 msgstr "Перейти к битве!"
 
-#: src-en/data/events_special_storage.xml.append:2410
+#: src-en/data/events_special_storage.xml.append:2401
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[4]/text"
 msgstr ""
 "Сжечь врага! (Используя аварийный генератор)\n"
 "[-2{, наносит врагу урон, равный уровню вашего двигателя, вызывает пожары]"
 
-#: src-en/data/events_special_storage.xml.append:2413
+#: src-en/data/events_special_storage.xml.append:2404
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[4]/event/text"
 msgstr "Вы активировали боевой модуль."
 
-#: src-en/data/events_special_storage.xml.append:2418
+#: src-en/data/events_special_storage.xml.append:2409
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[4]/event/choice/text"
 msgstr "Перейти к битве!"
 
-#: src-en/data/events_special_storage.xml.append:2444
+#: src-en/data/events_special_storage.xml.append:2435
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[5]/text"
 msgstr "Заняться чем-то другим."
 
-#: src-en/data/events_special_storage.xml.append:2448
+#: src-en/data/events_special_storage.xml.append:2439
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[6]/text"
 msgstr "Неважно, давайте сражаться!"
 
-#: src-en/data/events_special_storage.xml.append:2450
+#: src-en/data/events_special_storage.xml.append:2441
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[6]/event/text"
 msgstr "Вы решаете ничего не делать и готовитесь к бою."
 
-#: src-en/data/events_special_storage.xml.append:2456
+#: src-en/data/events_special_storage.xml.append:2447
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER_POWERDOWN\"]/text"
 msgstr ""
 "Ваш форсаж перегрелся и отключился. Ваша маневренность вернулась к норме."
 
-#: src-en/data/events_special_storage.xml.append:2459
+#: src-en/data/events_special_storage.xml.append:2450
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER_POWERDOWN\"]/choice/text"
 msgstr "Продолжить бой..."
 
-#: src-en/data/events_special_storage.xml.append:2653
+#: src-en/data/events_special_storage.xml.append:2644
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[1]/text"
@@ -2863,7 +2831,7 @@ msgstr ""
 "(Мульти-точечный луч \"Массив\") Переключить в режим Рассеивание. [Текущий "
 "режим: Шаблон]"
 
-#: src-en/data/events_special_storage.xml.append:2657
+#: src-en/data/events_special_storage.xml.append:2648
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[2]/text"
@@ -2871,47 +2839,47 @@ msgstr ""
 "(Мульти-точечный луч \"Массив\") Переключить в режим Шаблон. [Текущий режим:"
 " Рассеивание]"
 
-#: src-en/data/events_special_storage.xml.append:2665
+#: src-en/data/events_special_storage.xml.append:2656
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2668
+#: src-en/data/events_special_storage.xml.append:2659
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2670
+#: src-en/data/events_special_storage.xml.append:2661
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2673
+#: src-en/data/events_special_storage.xml.append:2664
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2681
+#: src-en/data/events_special_storage.xml.append:2672
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2684
+#: src-en/data/events_special_storage.xml.append:2675
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2686
+#: src-en/data/events_special_storage.xml.append:2677
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2689
+#: src-en/data/events_special_storage.xml.append:2680
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2699
+#: src-en/data/events_special_storage.xml.append:2690
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
 "append:choice[1]/text"
@@ -2919,7 +2887,7 @@ msgstr ""
 "(Мульти-точечный луч \"Матрица\") Переключиться в режим Рассеивание. "
 "[Текущий режим: Шаблон]"
 
-#: src-en/data/events_special_storage.xml.append:2703
+#: src-en/data/events_special_storage.xml.append:2694
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
 "append:choice[2]/text"
@@ -2927,121 +2895,120 @@ msgstr ""
 "(Мульти-точечный луч \"Матрица\") Переключиться в режим Шаблон. [Текущий "
 "режим: Рассеивание]"
 
-#: src-en/data/events_special_storage.xml.append:2709
+#: src-en/data/events_special_storage.xml.append:2700
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2712
+#: src-en/data/events_special_storage.xml.append:2703
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2714
+#: src-en/data/events_special_storage.xml.append:2705
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2717
+#: src-en/data/events_special_storage.xml.append:2708
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2725
+#: src-en/data/events_special_storage.xml.append:2716
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/text"
 msgstr "Вы начинаете калибровку оружия..."
 
-#: src-en/data/events_special_storage.xml.append:2728
+#: src-en/data/events_special_storage.xml.append:2719
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2730
+#: src-en/data/events_special_storage.xml.append:2721
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/choice/event/text"
 msgstr "Вы успешно завершили калибровку орудия."
 
-#: src-en/data/events_special_storage.xml.append:2733
+#: src-en/data/events_special_storage.xml.append:2724
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2746
+#: src-en/data/events_special_storage.xml.append:2737
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/text"
 msgstr "Попробовать загрузить аватар Лили."
 
-#: src-en/data/events_special_storage.xml.append:2748
+#: src-en/data/events_special_storage.xml.append:2739
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/text"
 msgstr ""
-"Вы уверены? Вы даже не уверены, что клонировать аватар Лили обычным способом "
-"вообще возможно."
+"Вы уверены? Вы даже не уверены, что клонировать аватар Лили обычным способом"
+" вообще возможно."
 
-#: src-en/data/events_special_storage.xml.append:2750
+#: src-en/data/events_special_storage.xml.append:2741
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/choice[1]/text"
 msgstr "Да."
 
-#: src-en/data/events_special_storage.xml.append:2752
+#: src-en/data/events_special_storage.xml.append:2743
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/choice[1]/event/text"
 msgstr ""
-"Вы запускаете процесс. Он... похоже, не работает, как ожидалось. Но внезапно "
-"появляется вспышка аномального света, и что-то... изменилось?"
+"Вы запускаете процесс. Он... похоже, не работает, как ожидалось. Но внезапно"
+" появляется вспышка аномального света, и что-то... изменилось?"
 
-#: src-en/data/events_special_storage.xml.append:2755
+#: src-en/data/events_special_storage.xml.append:2746
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2757
+#: src-en/data/events_special_storage.xml.append:2748
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/choice[1]/event/choice/event/text"
 msgstr ""
 "\"Прекрасная идея, Ренегат--\"\n"
-"\"И, к сожалению, хотя это может не соответствовать твоим ожиданиям, я взяла "
-"на себя смелость модифицировать пушку... сама--\"\n"
+"\"И, к сожалению, хотя это может не соответствовать твоим ожиданиям, я взяла на себя смелость модифицировать пушку... сама--\"\n"
 "\"Просто попробуй и посмотри на результат сам--\""
 
-#: src-en/data/events_special_storage.xml.append:2762
+#: src-en/data/events_special_storage.xml.append:2753
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/choice[1]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2770
+#: src-en/data/events_special_storage.xml.append:2761
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/choice[2]/text"
 msgstr "Нет."
 
-#: src-en/data/events_special_storage.xml.append:2778
+#: src-en/data/events_special_storage.xml.append:2769
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
 "append:choice/text"
 msgstr "Сбросить настройки пушки."
 
-#: src-en/data/events_special_storage.xml.append:2780
+#: src-en/data/events_special_storage.xml.append:2771
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
 "append:choice/event/text"
 msgstr "Вы сбрасываете оружие."
 
-#: src-en/data/events_special_storage.xml.append:2783
+#: src-en/data/events_special_storage.xml.append:2774
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
 "append:choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_storage.xml.append:2785
+#: src-en/data/events_special_storage.xml.append:2776
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
 "append:choice/event/choice/event/text"
@@ -3049,8 +3016,24 @@ msgstr ""
 "Несмотря на то, что модификация пушки является... весьма необычной, в "
 "процессе перенастройки не возникает никаких проблем."
 
-#: src-en/data/events_special_storage.xml.append:2788
+#: src-en/data/events_special_storage.xml.append:2779
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
 "append:choice/event/choice/event/choice/text"
 msgstr "Продолжить..."
+
+#~ msgid ""
+#~ "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[5]/text"
+#~ msgstr "Предложить древний луч II."
+
+#~ msgid ""
+#~ "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[6]/text"
+#~ msgstr "Предложить древний луч III."
+
+#~ msgid ""
+#~ "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[15]/text"
+#~ msgstr "Предложить древнего миротворца."
+
+#~ msgid ""
+#~ "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[16]/text"
+#~ msgstr "Предложить древнего миротворца."

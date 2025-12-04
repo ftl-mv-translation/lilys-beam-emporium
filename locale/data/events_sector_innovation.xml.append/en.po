@@ -11,13 +11,13 @@ msgid ""
 "append:choice/text"
 msgstr ""
 "(Afterburner) Bring the statue on a collision course with the planet's "
-"military installment. [3{]"
+"military installation. [3{]"
 
 #: src-en/data/events_sector_innovation.xml.append:10
 msgid ""
 "data/events_sector_innovation.xml.append$//mod:findName[@name=\"ESTATE_STATUE\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice/event/text"
-msgstr "Afterburner engaged"
+msgstr "Afterburner engaged!"
 
 #: src-en/data/events_sector_innovation.xml.append:15
 msgid ""
