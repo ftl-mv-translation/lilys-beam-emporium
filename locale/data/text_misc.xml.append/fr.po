@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-12-04 18:49+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/"
+"lilys-beam-emporium/datatext_miscxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/text_misc.xml.append:3
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_pointer\"]"
@@ -26,6 +33,7 @@ msgstr ""
 "sont puissants."
 
 #: src-en/data/text_misc.xml.append:6
+#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_beam_shotgun\"]"
 msgstr ""
 "Astuce : Les réseaux d'aiguillons tirent plusieurs rayons aiguillons à la "
@@ -96,6 +104,7 @@ msgstr ""
 " secondes à l'équipage allié."
 
 #: src-en/data/text_misc.xml.append:17
+#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_p\"]"
 msgstr ""
 "Astuce : Inflige 4 dégâts par seconde pendant 25 secondes à tout membre "
@@ -149,6 +158,7 @@ msgid "data/text_misc.xml.append$//text[@name=\"lily_text_multiverse_crp\"]"
 msgstr "FTL : Multiverse :)"
 
 #: src-en/data/text_misc.xml.append:42
+#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_nospareprime\"]"
 msgstr ""
 "Vous êtes peut-être prêt à épargner Prime. Mais moi, certainement pas..."
@@ -191,47 +201,58 @@ msgstr ""
 "J'ai juste besoin de trouver un bon objet pour calibrer mon moteur de saut...\""
 
 #: src-en/data/text_misc.xml.append:59
+#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight1\"]"
 msgstr "Préparez-vous à être anéanti, vermine !"
 
 #: src-en/data/text_misc.xml.append:60
+#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight2\"]"
 msgstr "Êtes-vous prêt à rencontrer votre créateur ?"
 
 #: src-en/data/text_misc.xml.append:61
+#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight3\"]"
 msgstr "PROTOCOLE D'EXTERMINATION : CIBLE ACQUISE"
 
 #: src-en/data/text_misc.xml.append:62
+#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight4\"]"
 msgstr "Meurs, au nom d'Elle !"
 
 #: src-en/data/text_misc.xml.append:63
+#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight5\"]"
 msgstr ""
 "Encore un autre parasite visqueux sur le point de mordre la poussière..."
 
 #: src-en/data/text_misc.xml.append:65
+#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur1\"]"
 msgstr "Pas de pitié pour les insectes !"
 
 #: src-en/data/text_misc.xml.append:66
+#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur2\"]"
 msgstr "Faites-vous écraser !"
 
 #: src-en/data/text_misc.xml.append:67
+#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur3\"]"
 msgstr "Supplier ne servira à rien..."
 
 #: src-en/data/text_misc.xml.append:68
+#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur4\"]"
 msgstr "Un dernier mot ?"
 
 #: src-en/data/text_misc.xml.append:69
+#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur5\"]"
 msgstr "Comme c'est pathétique..."
 
 #: src-en/data/text_misc.xml.append:71
+#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext1\"]"
 msgstr ""
 "Un vaisseau noir comme la nuit s'approche, sans un mot, et commence à "
@@ -239,6 +260,7 @@ msgstr ""
 "s'arrêtent aussitôt."
 
 #: src-en/data/text_misc.xml.append:72
+#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext2\"]"
 msgstr ""
 "\"C'est donc ce Renégat qui a déclenché le règne éternel du chaos ?\" Comme "
