@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 18:49+0000\n"
+"PO-Revision-Date: 2025-12-05 03:40+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_sector_empirexmlappend/ru/>\n"
@@ -32,12 +32,11 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_empire.xml.append:16
-#, fuzzy
 msgid ""
 "data/events_sector_empire.xml.append$//mod:findName[@name=\"CRYSTAL_CACHE_MV_LIST\"]/mod:findWithChildLike/mod-"
 "append:choice/event/choice/event/text"
 msgstr ""
 "Вы ныряете в самый центр гравитационного притяжения и забираете члена "
-"экипажа и груз. Ваши двигатели с форсажем едва успевают вытащить корабль из "
-"гравитационного колодца, прежде чем он поглотит весь корабль. Это было "
-"близко."
+"экипажа и груз. Ваши двигатели даже с форсажем едва успевают вытащить "
+"корабль из гравитационного колодца, прежде чем он поглотит весь корабль. Это "
+"было близко."
