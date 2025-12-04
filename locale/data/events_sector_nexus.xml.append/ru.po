@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-12-04 18:49+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"lilys-beam-emporium/dataevents_sector_nexusxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_nexus.xml.append:17
 msgid ""
@@ -12,17 +20,27 @@ msgid ""
 msgstr "(Лили) \"Так это действительно то место...\""
 
 #: src-en/data/events_sector_nexus.xml.append:19
+#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice/event/text"
 msgstr ""
-"Лили кажется совершенно не тронутой речью слизня, как будто все это ей было хорошо известно. \"Итак, это действительно то место. Не сильно отличается от ожиданий... А теперь, если позволишь, у меня здесь есть дела с твоим сотрудником, и ты мне НЕ помешаешь\".\n"
+"Лили кажется совершенно не тронутой речью слизня, как будто все это ей было "
+"хорошо известно. \"Итак, это действительно то место. Не сильно отличается от "
+"ожиданий... А теперь, если позволишь, у меня здесь есть дела с твоим "
+"сотрудником, и ты мне НЕ помешаешь\".\n"
 "\t\t\n"
-"Джи-Ван кажется совершенно сбитым с толку ее речью. \"Э-э... У тебя здесссь дела?... Ссс сссамим Первым?! Боюсссь, я не знаю, кто ты... Такие... Да и у вассс нет шшшансов против Первого... Разве что...? Есссли Она решшшила... перевернуть ссситуацию и поссслала вассс сссюда... Нет... Я отказываюсссь в это верить\".\n"
+"Джи-Ван кажется совершенно сбитым с толку ее речью. \"Э-э... У тебя здесссь "
+"дела?... Ссс сссамим Первым?! Боюсссь, я не знаю, кто ты... Такие... Да и у "
+"вассс нет шшшансов против Первого... Разве что...? Есссли Она решшшила... "
+"перевернуть ссситуацию и поссслала вассс сссюда... Нет... Я отказываюсссь в "
+"это верить\".\n"
 "\n"
-"\"И вашшша милая \"игрушшшка\", направленная на нашшш корабль, вам тоже не поможет...\"\n"
+"\"И вашшша милая \"игрушшшка\", направленная на нашшш корабль, вам тоже не "
+"поможет...\"\n"
 "\n"
-"Лили только улыбается и щелкает пальцами, между которыми вспыхивает красно-синяя энергия."
+"Лили только улыбается и щелкает пальцами, между которыми вспыхивает красно-"
+"синяя энергия."
 
 #: src-en/data/events_sector_nexus.xml.append:27
 msgid ""
@@ -51,15 +69,18 @@ msgid ""
 msgstr "(Лили) \"Есть...\""
 
 #: src-en/data/events_sector_nexus.xml.append:61
+#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
 "append:choice/event/text"
 msgstr ""
-"Лили кажется совершенно не тронута речью слизня, в ее глазах читается необычно суровый взгляд. \n"
+"Лили кажется совершенно не тронута речью слизня, в ее глазах читается "
+"необычно суровый взгляд. \n"
 "\n"
 "\"И с жуткой силой, что дала мне Она, приготовься к уничтожению, паразит\".\n"
 "\n"
-"Лили только улыбается и щелкает пальцами, между которыми вспыхивает красно-синяя энергия."
+"Лили только улыбается и щелкает пальцами, между которыми вспыхивает красно-"
+"синяя энергия."
 
 #: src-en/data/events_sector_nexus.xml.append:67
 msgid ""
@@ -82,6 +103,7 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_nexus.xml.append:118
+#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_ENTER_GLITCH_LILY_CONTINUE\"]/text"
 msgstr ""
@@ -98,6 +120,7 @@ msgstr ""
 "уничтожить.--\""
 
 #: src-en/data/events_sector_nexus.xml.append:139
+#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/text"
@@ -215,11 +238,12 @@ msgid ""
 msgstr "О вашем наследии будут помнить."
 
 #: src-en/data/events_sector_nexus.xml.append:236
+#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/text"
 msgstr ""
-"Безумный красный оттенок наконец угасает, вы просыпаетесь на своем корабле и"
-" обнаруживаете, что остались в полном одиночестве, за исключением пустого "
+"Безумный красный оттенок наконец угасает, вы просыпаетесь на своем корабле и "
+"обнаруживаете, что остались в полном одиночестве, за исключением пустого "
 "флагмана Первого. Теперь, когда Первый исчез и она восстановила все три "
 "части своей силы, ЛБП, скорее всего, будет слишком слаб, чтобы с ней "
 "сражаться. Ваш единственный выход - ждать неизбежного."
