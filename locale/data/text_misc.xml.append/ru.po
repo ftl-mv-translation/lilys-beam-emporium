@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 18:49+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-12-05 03:40+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -32,7 +32,6 @@ msgstr ""
 "сильнее щиты, тем больше преломление смещает точку попадания."
 
 #: src-en/data/text_misc.xml.append:6
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_beam_shotgun\"]"
 msgstr ""
 "Совет: набор точечных лучей, одновременно выпускают несколько точечных "
@@ -97,12 +96,12 @@ msgstr ""
 "экипажа."
 
 #: src-en/data/text_misc.xml.append:17
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_p\"]"
 msgstr ""
 "Совет: наносит 4 ед. урона в секунду в течение 25 секунд любому члену "
 "экипажа, не суммируется. Смертельно для большинства рас в кораблях без "
-"медицинского оборудования."
+"медицинского оборудования. Не влияет на экипаж, обладающий иммунитетом к "
+"газам ракушек."
 
 #: src-en/data/text_misc.xml.append:18
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_a\"]"
@@ -151,9 +150,8 @@ msgid "data/text_misc.xml.append$//text[@name=\"lily_text_multiverse_crp\"]"
 msgstr "FTL: Multiverse :)"
 
 #: src-en/data/text_misc.xml.append:42
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_nospareprime\"]"
-msgstr "Возможно, ты готов пощадить Первого. Но я точно нет--"
+msgstr "\"Возможно, ты готов пощадить Первого. Но я точно нет--\""
 
 #: src-en/data/text_misc.xml.append:43
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_lilysnipesprime\"]"
@@ -193,70 +191,58 @@ msgstr ""
 "Мне только нужно найти подходящий объект, чтобы откалибровать мой прыжковый двигатель--"
 
 #: src-en/data/text_misc.xml.append:59
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight1\"]"
-msgstr "Приготовься к уничтожению, вредитель!--"
+msgstr "\"Приготовься к уничтожению, вредитель!--\""
 
 #: src-en/data/text_misc.xml.append:60
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight2\"]"
-msgstr "Ты готов встретиться со своим создателем?--"
+msgstr "\"Ты готов встретиться со своим создателем?--\""
 
 #: src-en/data/text_misc.xml.append:61
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight3\"]"
-msgstr "ПРОТОКОЛ УНИЧТОЖЕНИЯ: ЦЕЛЬ ЗАФИКСИРОВАНА"
+msgstr "\"ПРОТОКОЛ УНИЧТОЖЕНИЯ: ЦЕЛЬ ЗАФИКСИРОВАНА\""
 
 #: src-en/data/text_misc.xml.append:62
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight4\"]"
-msgstr "Умри во имя Ее!!--"
+msgstr "\"Умри во имя Ее!--\""
 
 #: src-en/data/text_misc.xml.append:63
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight5\"]"
-msgstr "Еще один скользкий вредитель, готовый укусить пыль--"
+msgstr "\"Еще один скользкий вредитель, готовый укусить пыль--\""
 
 #: src-en/data/text_misc.xml.append:65
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur1\"]"
-msgstr "Никакой пощады насекомым!--"
+msgstr "\"Никакой пощады насекомым!--\""
 
 #: src-en/data/text_misc.xml.append:66
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur2\"]"
-msgstr "Будешь раздавлен!--"
+msgstr "\"Будешь раздавлен!--\""
 
 #: src-en/data/text_misc.xml.append:67
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur3\"]"
-msgstr "Мольбы не помогут--"
+msgstr "\"Мольбы не помогут--\""
 
 #: src-en/data/text_misc.xml.append:68
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur4\"]"
-msgstr "Последние слова?"
+msgstr "\"Последние слова?\""
 
 #: src-en/data/text_misc.xml.append:69
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur5\"]"
-msgstr "Как жалко--"
+msgstr "\"Как жалко--\""
 
 #: src-en/data/text_misc.xml.append:71
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext1\"]"
 msgstr ""
-"Судно, черное как ночь, приближается, не произнося ни слова, и начинает "
+"Судно, черное как ночь, приближается, не произнося ни слова, начинает "
 "заряжать свое оружие. Но вскоре, понимая, что Лили с вами, оно быстро "
-"останавливается/"
+"останавливается."
 
 #: src-en/data/text_misc.xml.append:72
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext2\"]"
 msgstr ""
-"\"Так это тот самый Ренегат, который положил начало вечному царству хаоса?\" "
+"\"Так это тот самый Ренегат, который положил начало вечному царству хаоса? "
 "Как любезно, но даже не пытайтесь изменить неизбежное. Может быть, для вас "
-"еще найдется место."
+"еще найдется место\"."
 
 #: src-en/data/text_misc.xml.append:73
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext3\"]"
