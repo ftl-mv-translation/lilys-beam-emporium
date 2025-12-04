@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-12-04 18:49+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"lilys-beam-emporium/dataeventsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events.xml.append:5
 msgid "data/events.xml.append$//event[@name=\"STORE_LOAD_LILY_EMPORIUM\"]/text"
@@ -60,11 +68,12 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events.xml.append:50
+#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/text"
 msgstr ""
-"Однако одно из орудий на станции, похоже, уцелело после боя и теперь плавает"
-" в космосе! Вы быстро поднимаете его на борт."
+"Однако одно из орудий на станции, похоже, уцелело после боя и теперь плавает "
+"в космосе! Вы быстро поднимаете его на борт."
 
 #: src-en/data/events.xml.append:53
 msgid ""
@@ -72,6 +81,7 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events.xml.append:55
+#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/choice/event/text"
 msgstr ""
@@ -79,7 +89,8 @@ msgstr ""
 "\"О, значит, эта стадия испытаний завершена!--\"\n"
 "\"Результаты неожиданные... и очень впечатляющие!--\"\n"
 "\"Ты и твой корабль, безусловно, сильны, раз тебе удалось это сделать!--\"\n"
-"\"А это значит, что ты станешь отличным объектом для дальнейших испытаний!--\""
+"\"А это значит, что ты станешь отличным объектом для дальнейших испытаний!--"
+"\""
 
 #: src-en/data/events.xml.append:61
 msgid ""
@@ -132,6 +143,7 @@ msgstr ""
 " разворачиваетесь и заряжаете свой ССД, чтобы немедленно улететь."
 
 #: src-en/data/events.xml.append:142
+#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_GLITCH_CONTINUE\"]/text"
 msgstr ""
@@ -139,6 +151,7 @@ msgstr ""
 "перезагружаются!"
 
 #: src-en/data/events.xml.append:160
+#, fuzzy
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_CEL_FOUND\"]/text"
 msgstr ""
@@ -147,21 +160,25 @@ msgstr ""
 "реклама магазина, остается загадкой."
 
 #: src-en/data/events.xml.append:186
+#, fuzzy
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR\"]/text"
 msgstr ""
-"Наконец вы замечаете относительно нормально выглядящую космическую станцию, хотя она, похоже, защищена необычным энергетическим щитом.\n"
+"Наконец вы замечаете относительно нормально выглядящую космическую станцию, "
+"хотя она, похоже, защищена необычным энергетическим щитом.\n"
 "Она связывается с вами: \"Добро пожаловать в Эмпориум лучей Лили!--\n"
 "\n"
 "\"... Подождите. Это же сам Тот Кто Рифмует?!\n"
 "И к тому же Ренегат?! Подождите, я что, во сне?\n"
 "Не ожидала тебя снова увидеть... тем более в таких обстоятельствах--\n"
-"Конечно, можешь взять что угодно из моего магазина. Давай повеселимся и устроим хаос!\""
+"Конечно, можешь взять что угодно из моего магазина. Давай повеселимся и "
+"устроим хаос!\""
 
 #: src-en/data/events.xml.append:193
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR\"]/choice/text"
 msgstr "Продолжить..."
 
 #: src-en/data/events.xml.append:214
+#, fuzzy
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_1\"]/text"
 msgstr "От Лили тебе полагается подарок!--"
 
@@ -170,6 +187,7 @@ msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_1\"]/choice/tex
 msgstr "Продолжить..."
 
 #: src-en/data/events.xml.append:230
+#, fuzzy
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_2\"]/text"
 msgstr "И еще один, чтобы утолить твой аппетит!--"
 
@@ -178,6 +196,7 @@ msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_2\"]/choice/tex
 msgstr "Продолжить..."
 
 #: src-en/data/events.xml.append:247
+#, fuzzy
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/text"
 msgstr ""
 "О, и надеюсь, я смогу присоединиться к твоему приключению! Уверена, это "
@@ -189,26 +208,31 @@ msgid ""
 msgstr "Это было бы просто замечательно!"
 
 #: src-en/data/events.xml.append:251
+#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[1]/event/text"
 msgstr "Тогда поспешим! Готова к бою!"
 
 #: src-en/data/events.xml.append:259
+#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[2]/text"
 msgstr "Прости, что разочаровываю тебя, но я не могу принять тебя."
 
 #: src-en/data/events.xml.append:261
+#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[2]/event/text"
-msgstr ""
-"Очень жаль, должна сказать. Но все равно можешь посетить мой магазин--"
+msgstr "Очень жаль, должна сказать. Но все равно можешь посетить мой магазин--"
 
 #: src-en/data/events.xml.append:269
+#, fuzzy
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/text"
 msgstr ""
-"Наконец вы замечаете относительно нормально выглядящую космическую станцию, хотя она, похоже, защищена необычным энергетическим щитом.\n"
-"Она связывается с вами вас: \"Добро пожаловать в магазин Эмпориум лучей Лили!--\n"
+"Наконец вы замечаете относительно нормально выглядящую космическую станцию, "
+"хотя она, похоже, защищена необычным энергетическим щитом.\n"
+"Она связывается с вами вас: \"Добро пожаловать в магазин Эмпориум лучей "
+"Лили!--\n"
 "В продаже имеется широкий ассортимент лучевого и точечного оружия--\"\n"
 "Вы почти уверены, что несколько минут назад его здесь не было..."
 
@@ -218,6 +242,7 @@ msgid ""
 msgstr "Просто торговать."
 
 #: src-en/data/events.xml.append:276
+#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[1]/event/text"
 msgstr ""
@@ -230,6 +255,7 @@ msgid ""
 msgstr "Вы вспомнили о загадочной записке, которую нашли."
 
 #: src-en/data/events.xml.append:284
+#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/text"
 msgstr "Вы передаете загадочную записку Лили и ждете ее ответа."
@@ -240,10 +266,14 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events.xml.append:288
+#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/choice/event/text"
 msgstr ""
-"\"Эта записка... у тебя? Ну, это может означать только одно - ты один из избранных Ею для выполнения миссии. Какой миссии - знает только Она. Но я тоже являюсь одной из Ее слуг, и поэтому буду помогать тебе с этого момента--\n"
+"\"Эта записка... у тебя? Ну, это может означать только одно - ты один из "
+"избранных Ею для выполнения миссии. Какой миссии - знает только Она. Но я "
+"тоже являюсь одной из Ее слуг, и поэтому буду помогать тебе с этого момента--"
+"\n"
 "Ах да, возьми это, чтобы облегчить твое путешествие\"."
 
 #: src-en/data/events.xml.append:295
@@ -288,6 +318,7 @@ msgid ""
 msgstr "Конечно!"
 
 #: src-en/data/events.xml.append:332
+#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/choice[1]/event/text"
 msgstr ""
@@ -300,6 +331,7 @@ msgid ""
 msgstr "Прости, но не в этот раз."
 
 #: src-en/data/events.xml.append:342
+#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/choice[2]/event/text"
 msgstr "Очень жаль, в любом случае, не стесняйся посетить мой магазин--."
@@ -336,6 +368,7 @@ msgid ""
 msgstr "Конечно!"
 
 #: src-en/data/events.xml.append:367
+#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/choice[1]/event/text"
 msgstr ""
@@ -348,6 +381,7 @@ msgid ""
 msgstr "Прости, но не в этот раз."
 
 #: src-en/data/events.xml.append:377
+#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/choice[2]/event/text"
 msgstr "Очень жаль, в любом случае, не стесняйся посетить мой магазин--."
