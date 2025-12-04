@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-12-04 18:49+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"lilys-beam-emporium/datahyperspace-xml-append/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/hyperspace.xml.append:86
 msgid "data/hyperspace.xml.append$//siren_harpy[@name=\"Liliana\"]/@name"
@@ -307,7 +315,7 @@ msgstr "ХАОС :)"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[23]/customTitle"
-msgstr ""
+msgstr "ХАОС :)"
 
 #: src-en/data/hyperspace.xml.append:2793
 msgid ""
@@ -469,19 +477,19 @@ msgstr "ХАОС :)"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[30]/customTitle"
-msgstr ""
+msgstr "ХАОС :)"
 
 #: src-en/data/hyperspace.xml.append:3346
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[31]/customTitle"
-msgstr ""
+msgstr "ХАОС :)"
 
 #: src-en/data/hyperspace.xml.append:3365
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[32]/customTitle"
-msgstr ""
+msgstr "ХАОС :)"
 
 #: src-en/data/hyperspace.xml.append:3393
 msgid ""
@@ -606,7 +614,7 @@ msgstr "Благо утопии"
 #: src-en/data/hyperspace.xml.append:3459
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SIREN\"]/secretName"
-msgstr ""
+msgstr "Благо ???"
 
 #: src-en/data/hyperspace.xml.append:3460
 msgid ""
@@ -621,7 +629,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:3462
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SIREN\"]/header"
-msgstr ""
+msgstr "Благо получено"
 
 #: src-en/data/hyperspace.xml.append:3469
 msgid ""
@@ -631,7 +639,7 @@ msgstr "Благо аномалий"
 #: src-en/data/hyperspace.xml.append:3470
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/secretName"
-msgstr ""
+msgstr "Благо ???"
 
 #: src-en/data/hyperspace.xml.append:3471
 msgid ""
@@ -646,7 +654,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:3473
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/header"
-msgstr ""
+msgstr "Благо получено"
 
 #: src-en/data/hyperspace.xml.append:3482
 msgid ""
@@ -656,7 +664,7 @@ msgstr "Благословение спектра"
 #: src-en/data/hyperspace.xml.append:3483
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SPECTRUM\"]/secretName"
-msgstr ""
+msgstr "Благословение ???"
 
 #: src-en/data/hyperspace.xml.append:3484
 msgid ""
@@ -673,7 +681,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:3486
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SPECTRUM\"]/header"
-msgstr ""
+msgstr "Благословение получено"
 
 #: src-en/data/hyperspace.xml.append:3493
 msgid ""
@@ -683,7 +691,7 @@ msgstr "Благословение дезинтеграции"
 #: src-en/data/hyperspace.xml.append:3494
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/secretName"
-msgstr ""
+msgstr "Благословение ???"
 
 #: src-en/data/hyperspace.xml.append:3495
 msgid ""
@@ -698,7 +706,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:3497
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/header"
-msgstr ""
+msgstr "Благословение получено"
 
 #~ msgid ""
 #~ "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
