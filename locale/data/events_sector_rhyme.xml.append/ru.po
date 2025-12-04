@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-12-04 18:49+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_sector_rhymexmlappend/ru/>\n"
 "Language: ru\n"
@@ -152,13 +152,16 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_rhyme.xml.append:184
+#, fuzzy
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_OFFER\"]/choice/event/text"
 msgstr ""
-"\"Спасибо, что так быстро избавился от этих вредителей из ЛБП, дорогой Светоносец :)\"\n"
+"\"Спасибо, что так быстро избавился от этих вредителей из ЛБП, дорогой "
+"Светоносец :)\"\n"
 "\n"
 "\"Что касается тебя, Ренегат, я делаю тебе последнее предложение.\n"
-"Сдайся сейчас, и я заключу с тобой особую сделку. Я сначала уничтожу твой кластер, а не буду веками мучить его обитателей. Ха-хе!\"\n"
+"Сдайся сейчас, и я заключу с тобой особую сделку. Я сначала уничтожу твой "
+"кластер, а не буду веками мучить его обитателей. Ха-хе!\"\n"
 "/\n"
 ":)"
 
