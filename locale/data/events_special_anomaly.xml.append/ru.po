@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-12-04 17:11+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_anomalyxmlappend/ru/>\n"
 "Language: ru\n"
@@ -301,10 +301,12 @@ msgid ""
 msgstr "После этого странный корабль сразу удаляется."
 
 #: src-en/data/events_special_anomaly.xml.append:253
+#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL_HIGH\"]/text"
 msgstr ""
-"\"И согласно вашим записям... Вы действительно очень известный преступник во всей Федерации! ...\"\n"
+"\"И согласно вашим записям... Вы действительно очень известный преступник во "
+"всей Федерации! ...\"\n"
 "\"...Так что, отличная работа! Вы будете вознаграждены за это\"."
 
 #: src-en/data/events_special_anomaly.xml.append:259
