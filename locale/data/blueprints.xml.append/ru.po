@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 18:49+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-12-05 03:40+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -2160,17 +2160,24 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4265
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA\"]/title"
-msgstr ""
+msgstr "Дезинтегрирующий хаосшок луч \"Фульмен\""
 
 #: src-en/data/blueprints.xml.append:4266
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA\"]/short"
-msgstr ""
+msgstr "Фульмен"
 
 #: src-en/data/blueprints.xml.append:4267
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA\"]/desc"
 msgstr ""
+"Выпускает луч хаотичной жуткой энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт. Дополнительно применяет эффект хаоса к системам, который заставляет "
+"ионный эффект рассеиваться со скоростью 50% от нормальной.\n"
+"Пробивает 2 щита, -5 ОЗ/с и 0.25х исцеления и ремонта экипажу.\n"
+"Наносит 1 ед. урона корпусу и открывает пробоину в пораженном отсеке."
 
 #: src-en/data/blueprints.xml.append:4357
 msgid ""
@@ -2308,17 +2315,24 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5022
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_CHAOS\"]/title"
-msgstr ""
+msgstr "Хаотический дезинтегрирующий хаосшок луч \"Фульмен\""
 
 #: src-en/data/blueprints.xml.append:5023
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_CHAOS\"]/short"
-msgstr ""
+msgstr "Фульмен™"
 
 #: src-en/data/blueprints.xml.append:5024
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_CHAOS\"]/desc"
 msgstr ""
+"Выпускает луч хаотичной жуткой энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт. Дополнительно применяет эффект хаоса к системам, который заставляет "
+"ионный эффект рассеиваться со скоростью 50% от нормальной.\n"
+"Пробивает 4 щита, -5 ОЗ/с и 0.25х исцеления и ремонта экипажу.\n"
+"Наносит 1 ед. урона корпусу и открывает пробоину в пораженном отсеке."
 
 #: src-en/data/blueprints.xml.append:5119
 msgid ""
@@ -2460,17 +2474,24 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5803
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_ELITE\"]/title"
-msgstr ""
+msgstr "Элитный дезинтегрирующий элитшок луч \"Фульмен\""
 
 #: src-en/data/blueprints.xml.append:5804
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_ELITE\"]/short"
-msgstr ""
+msgstr "€ Фульмен"
 
 #: src-en/data/blueprints.xml.append:5805
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_ELITE\"]/desc"
 msgstr ""
+"Выпускает луч хаотичной жуткой энергии, который вызывает распад всей "
+"затронутой материи. Применяет эффект эрозии к помещениям и наносит урон со "
+"временем всем пораженным членам экипажа, а также затрудняет исцеление и "
+"ремонт. Дополнительно применяет эффект хаоса к системам, который заставляет "
+"ионный эффект рассеиваться со скоростью 50% от нормальной.\n"
+"Пробивает 4 щита, -8 ОЗ/с и 0х исцеления и ремонта экипажу.\n"
+"Наносит 2 ед. урона корпусу и открывает пробоину в пораженном отсеке."
 
 #: src-en/data/blueprints.xml.append:5896
 msgid ""
