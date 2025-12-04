@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-12-04 18:49+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -189,21 +189,25 @@ msgid ""
 msgstr "Выберите, что вы хотите отдать:"
 
 #: src-en/data/events_special_storage.xml.append:144
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER\"]/text"
 msgstr "Предложить древний лазер I."
 
 #: src-en/data/events_special_storage.xml.append:154
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_2\"]/text"
 msgstr "Предложить древний лазер II."
 
 #: src-en/data/events_special_storage.xml.append:164
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_3\"]/text"
 msgstr "Предложить древний лазер III."
 
 #: src-en/data/events_special_storage.xml.append:174
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BEAM\"]/text"
 msgstr "Предложить древний луч I."
@@ -219,41 +223,49 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:204
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS\"]/text"
 msgstr "Предложить древний точечный луч I."
 
 #: src-en/data/events_special_storage.xml.append:214
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS_2\"]/text"
 msgstr "Предложить древний точечный луч II."
 
 #: src-en/data/events_special_storage.xml.append:224
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"HAVOC\"]/text"
 msgstr "Предложить древний Опустошитель."
 
 #: src-en/data/events_special_storage.xml.append:234
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_MISSILES\"]/text"
 msgstr "Предложить древнюю ракетную установку."
 
 #: src-en/data/events_special_storage.xml.append:244
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BOMB\"]/text"
 msgstr "Предложить древнюю пусковую установку бомб."
 
 #: src-en/data/events_special_storage.xml.append:254
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_MINELAUNCHER\"]/text"
 msgstr "Предложить древний миномет."
 
 #: src-en/data/events_special_storage.xml.append:264
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_ION_1\"]/text"
 msgstr "Предложить древнюю плазменную пушку I."
 
 #: src-en/data/events_special_storage.xml.append:274
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_ION_2\"]/text"
 msgstr "Предложить древнюю плазменную пушку II."
@@ -264,41 +276,49 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:294
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_LASER\"]/text"
 msgstr "Предложить древний лазерный дрон."
 
 #: src-en/data/events_special_storage.xml.append:304
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_ION\"]/text"
 msgstr "Предложить древний ионный дрон."
 
 #: src-en/data/events_special_storage.xml.append:314
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_MISSILE\"]/text"
 msgstr "Предложить древний ракетный дрон."
 
 #: src-en/data/events_special_storage.xml.append:324
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_DEFENSE_1\"]/text"
 msgstr "Предложить древний наблюдатель."
 
 #: src-en/data/events_special_storage.xml.append:334
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"MENDER\"]/text"
 msgstr "Предложить древний наладчик."
 
 #: src-en/data/events_special_storage.xml.append:344
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"DIRECTOR\"]/text"
 msgstr "Предложить древнего руководителя."
 
 #: src-en/data/events_special_storage.xml.append:354
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_DEFEND\"]/text"
 msgstr "Предложить древний атомизатор."
 
 #: src-en/data/events_special_storage.xml.append:364
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_BOARDER\"]/text"
 msgstr "Предложить древний атомизатор."
@@ -410,13 +430,16 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:537
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/text"
 msgstr ""
 "О, ты хочешь, чтобы я присоединилась лично?--\n"
-"Хотя я не могу этого сделать по... причинам, я могу одолжить тебе своего аватара--\n"
+"Хотя я не могу этого сделать по... причинам, я могу одолжить тебе своего "
+"аватара--\n"
 "Считай его своего рода дистанционно управляемым дроном, только это не так--\n"
-"О, и не смей думать, что он заменяем, или я заставлю тебя за это заплатить--\n"
+"О, и не смей думать, что он заменяем, или я заставлю тебя за это заплатить--"
+"\n"
 "\n"
 "Однако для этого вам понадобится специальное оборудование..."
 
@@ -510,10 +533,12 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:607
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/text"
 msgstr ""
-"Эй! Разве я не говорила тебе НЕ относиться к моему аватару как к расходному материалу?--\n"
+"Эй! Разве я не говорила тебе НЕ относиться к моему аватару как к расходному "
+"материалу?--\n"
 "Ладно, я сочту это несчастным случаем... Но только в этот раз--"
 
 #: src-en/data/events_special_storage.xml.append:612
@@ -539,11 +564,14 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:629
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/text"
 msgstr ""
-"Эй! Разве я не говорила тебе НЕ относиться к моему аватару как к чему-то заменяемому?--\n"
-"Но, видя здесь с тобой Того, Кто Рифмует, я сделаю исключение, не хочу пропустить веселье--"
+"Эй! Разве я не говорила тебе НЕ относиться к моему аватару как к чему-то "
+"заменяемому?--\n"
+"Но, видя здесь с тобой Того, Кто Рифмует, я сделаю исключение, не хочу "
+"пропустить веселье--"
 
 #: src-en/data/events_special_storage.xml.append:634
 msgid ""
@@ -654,6 +682,7 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:712
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/text"
 msgstr ""
@@ -785,14 +814,19 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:759
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/text"
 msgstr ""
 "...К счастью, моя госпожа терпелива и хитра... как и я.\n"
 "В конце концов мы разберемся--\n"
-"...Но это не значит, что ты не можешь помочь-- Мы обязательно вознаградим тебя, если тебе действительно удастся.\n"
-"О, и ты получишь доступ ко всем видам прототипов оружия, которые я буду тестировать и разрабатывать - разве это не звучит захватывающе?-- \n"
-"...А если нет... данные, собранные во время твоих путешествий, все равно помогут нам в достижении нашей цели. Может быть, следующий Ренегат будет успешнее, чем ты?"
+"...Но это не значит, что ты не можешь помочь-- Мы обязательно вознаградим "
+"тебя, если тебе действительно удастся.\n"
+"О, и ты получишь доступ ко всем видам прототипов оружия, которые я буду "
+"тестировать и разрабатывать - разве это не звучит захватывающе?-- \n"
+"...А если нет... данные, собранные во время твоих путешествий, все равно "
+"помогут нам в достижении нашей цели. Может быть, следующий Ренегат будет "
+"успешнее, чем ты?"
 
 #: src-en/data/events_special_storage.xml.append:765
 msgid ""
@@ -800,11 +834,14 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:767
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_9\"]/text"
 msgstr ""
-"Ну, это была довольно длинная история, не так ли?-- Надеюсь, теперь ты все понимаешь и будешь более мотивирован помочь нам...\n"
-"Это принесет пользу не только мне, но и тебе!-- Назовем это взаимовыгодным сотрудничеством--\n"
+"Ну, это была довольно длинная история, не так ли?-- Надеюсь, теперь ты все "
+"понимаешь и будешь более мотивирован помочь нам...\n"
+"Это принесет пользу не только мне, но и тебе!-- Назовем это взаимовыгодным "
+"сотрудничеством--\n"
 "В любом случае, есть ли еще что-нибудь, о чем ты хотел бы спросить?\n"
 "(P.S. Молодец, если ты действительно прочитали все это--)"
 
