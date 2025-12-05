@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-05 03:40+0000\n"
+"PO-Revision-Date: 2025-12-05 23:31+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/ru/>\n"
@@ -19,7 +19,6 @@ msgid ""
 msgstr "Мейнфрейм экзонет (З)"
 
 #: src-en/data/blueprints.xml.append:196
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_VERDANT\"]/desc"
 msgstr ""
@@ -33,7 +32,6 @@ msgid ""
 msgstr "Мейнфрейм экзонет (Б)"
 
 #: src-en/data/blueprints.xml.append:205
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_CRIMSON\"]/desc"
 msgstr ""
@@ -48,14 +46,13 @@ msgid ""
 msgstr "Мейнфрейм экзонет (Л)"
 
 #: src-en/data/blueprints.xml.append:214
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_AZURE\"]/desc"
 msgstr ""
 "Лазурный мейнфрейм с поддержкой экзонет установлен на вашем корабле. "
 "Обеспечивает накопительный энергетический щит размером в 8 единицы прочности "
 "и 5 бонусной мощности двигателя, 4 - щитами, броне и РЭБ, и 2 другим "
-"системам. Также обеспечивает базовую работу всех систем."
+"системам. Также обеспечивает базовую (уровень 0) работу всех систем."
 
 #: src-en/data/blueprints.xml.append:222
 msgid ""
@@ -63,14 +60,13 @@ msgid ""
 msgstr "Мейнфрейм экзонет (С)"
 
 #: src-en/data/blueprints.xml.append:223
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_RADIANT\"]/desc"
 msgstr ""
 "Сияющий мейнфрейм с поддержкой экзонет установлен на вашем корабле. "
 "Обеспечивает накопительный энергетический щит размером в 14 единицы "
 "прочности и 6 бонусной мощности двигателя и РЭБ, 8 - щитами и броне, и 4 "
-"другим системам. Также обеспечивает базовую работу всех систем."
+"другим системам. Также обеспечивает базовую (уровень 1) работу всех систем."
 
 #: src-en/data/blueprints.xml.append:231
 msgid ""
@@ -78,14 +74,13 @@ msgid ""
 msgstr "Мейнфрейм экзонет (И)"
 
 #: src-en/data/blueprints.xml.append:232
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_IRIDIUM\"]/desc"
 msgstr ""
 "Иридиевый мейнфрейм с поддержкой экзонет установлен на вашем корабле. "
 "Обеспечивает накопительный энергетический щит размером в 20 единицы "
 "прочности и 8 бонусной мощности двигателя и РЭБ, 16 - щитами и броне, и 6 "
-"другим системам. Также обеспечивает базовую работу всех систем."
+"другим системам. Также обеспечивает базовую (уровень 2) работу всех систем."
 
 #: src-en/data/blueprints.xml.append:241
 msgid ""
@@ -263,12 +258,11 @@ msgid ""
 msgstr "Поглотитель душ"
 
 #: src-en/data/blueprints.xml.append:372
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_VAMP\"]/desc"
 msgstr ""
-"Сирены теперь исцеляют на количество нанесенного ими урона, однако их урон "
-"уменьшается вдвое."
+"Сирены / гарпии теперь восстанавливают 1.0 / 2.0 ОЗ/с за каждого врага в "
+"отсеке, однако их урон уменьшается вдвое."
 
 #: src-en/data/blueprints.xml.append:379
 msgid ""
@@ -316,12 +310,11 @@ msgid ""
 msgstr "[Л] Поглотитель душ"
 
 #: src-en/data/blueprints.xml.append:407
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_VAMP\"]/desc"
 msgstr ""
-"Сирены теперь исцеляют в зависимости от наносимого ими урона, однако их урон "
-"уменьшается вдвое.\n"
+"Сирены / гарпии теперь восстанавливают 1.0 / 2.0 ОЗ/с за каждого врага в "
+"отсеке, однако их урон уменьшается вдвое.\n"
 "        \n"
 "[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, но "
 "занимает слот модуля. Оно не может быть преобразовано во внутреннее "
