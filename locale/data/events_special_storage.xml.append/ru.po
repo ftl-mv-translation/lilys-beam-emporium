@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-05 03:40+0000\n"
+"PO-Revision-Date: 2025-12-05 23:31+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_storagexmlappend/ru/>\n"
@@ -218,52 +218,44 @@ msgid ""
 msgstr "Предложить Древний луч III (+4 очка)"
 
 #: src-en/data/events_special_storage.xml.append:204
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS\"]/text"
-msgstr "Предложить древний точечный луч I."
+msgstr "Предложить Древний \"Чистильщик\" мод. I (+2 очка)"
 
 #: src-en/data/events_special_storage.xml.append:214
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS_2\"]/text"
-msgstr "Предложить древний точечный луч II."
+msgstr "Предложить Древний \"Чистильщик\" мод. II (+3 очка)"
 
 #: src-en/data/events_special_storage.xml.append:224
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"HAVOC\"]/text"
-msgstr "Предложить древний Опустошитель."
+msgstr "Предложить Древний \"Опустошитель\". (+2 очка)"
 
 #: src-en/data/events_special_storage.xml.append:234
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_MISSILES\"]/text"
-msgstr "Предложить древнюю ракетную установку."
+msgstr "Предложить Древнюю \"Бойню\" (+2 очка)"
 
 #: src-en/data/events_special_storage.xml.append:244
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BOMB\"]/text"
-msgstr "Предложить древнюю пусковую установку бомб."
+msgstr "Предложить Древний телепортер боезарядов (+1 очко)"
 
 #: src-en/data/events_special_storage.xml.append:254
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_MINELAUNCHER\"]/text"
-msgstr "Предложить древний миномет."
+msgstr "Предложить Древний \"Натиск\" (+2 очка)"
 
 #: src-en/data/events_special_storage.xml.append:264
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_ION_1\"]/text"
-msgstr "Предложить древнюю плазменную пушку I."
+msgstr "Предложить Древнюю плазму мод. I (+1 очко)"
 
 #: src-en/data/events_special_storage.xml.append:274
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_ION_2\"]/text"
-msgstr "Предложить древнюю плазменную пушку II."
+msgstr "Предложить Древнюю плазму мод. II (+2 очка)"
 
 #: src-en/data/events_special_storage.xml.append:284
 msgid ""
@@ -271,52 +263,44 @@ msgid ""
 msgstr "Предложить Древнего миротворца (+1 очко)"
 
 #: src-en/data/events_special_storage.xml.append:294
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_LASER\"]/text"
-msgstr "Предложить древний лазерный дрон."
+msgstr "Предложить Древний дрон \"Предвестник\" (+1 очко)"
 
 #: src-en/data/events_special_storage.xml.append:304
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_ION\"]/text"
-msgstr "Предложить древний ионный дрон."
+msgstr "Предложить Древнюю плазменную пушку (+1 очко)"
 
 #: src-en/data/events_special_storage.xml.append:314
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_MISSILE\"]/text"
-msgstr "Предложить древний ракетный дрон."
+msgstr "Предложить Древний дрон \"Бойня\" (+1 очко)"
 
 #: src-en/data/events_special_storage.xml.append:324
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_DEFENSE_1\"]/text"
-msgstr "Предложить древний наблюдатель."
+msgstr "Предложить Древний \"Наблюдатель\" (+2 очка)"
 
 #: src-en/data/events_special_storage.xml.append:334
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"MENDER\"]/text"
-msgstr "Предложить древний наладчик."
+msgstr "Предложить Древний \"Наладчик\" (+1 очко)"
 
 #: src-en/data/events_special_storage.xml.append:344
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"DIRECTOR\"]/text"
-msgstr "Предложить древнего руководителя."
+msgstr "Предложить Древний дрон-руководитель (+1 очко)"
 
 #: src-en/data/events_special_storage.xml.append:354
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_DEFEND\"]/text"
-msgstr "Предложить древний атомизатор."
+msgstr "Предложить Древний атомизатор (+1 очко)"
 
 #: src-en/data/events_special_storage.xml.append:364
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_BOARDER\"]/text"
-msgstr "Предложить древний атомизатор."
+msgstr "Предложить Древний атомизатор (+1 очко)"
 
 #: src-en/data/events_special_storage.xml.append:374
 msgid ""
@@ -425,21 +409,19 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:537
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/text"
 msgstr ""
-"О, ты хочешь, чтобы я присоединилась лично?--\n"
+"\"О, ты хочешь, чтобы я присоединилась лично?--\n"
 "Хотя я не могу этого сделать по... причинам, я могу одолжить тебе своего "
 "аватара--\n"
 "Считай его своего рода дистанционно управляемым дроном, только это не так--\n"
 "О, и не смей думать, что он заменяем, или я заставлю тебя за это заплатить--"
 "\n"
 "\n"
-"Однако для этого вам понадобится специальное оборудование..."
+"Однако для этого вам понадобится специальное оборудование...\""
 
 #: src-en/data/events_special_storage.xml.append:546
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/text"
@@ -528,13 +510,12 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:607
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/text"
 msgstr ""
-"Эй! Разве я не говорила тебе НЕ относиться к моему аватару как к расходному "
-"материалу?--\n"
-"Ладно, я сочту это несчастным случаем... Но только в этот раз--"
+"\"Эй! Разве я не говорила тебе НЕ относиться к моему аватару как к "
+"расходному материалу?--\n"
+"Ладно, я сочту это несчастным случаем... Но только в этот раз--\""
 
 #: src-en/data/events_special_storage.xml.append:612
 msgid ""
@@ -559,14 +540,13 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:629
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/text"
 msgstr ""
-"Эй! Разве я не говорила тебе НЕ относиться к моему аватару как к чему-то "
+"\"Эй! Разве я не говорила тебе НЕ относиться к моему аватару как к чему-то "
 "заменяемому?--\n"
 "Но, видя здесь с тобой Того, Кто Рифмует, я сделаю исключение, не хочу "
-"пропустить веселье--"
+"пропустить веселье--\""
 
 #: src-en/data/events_special_storage.xml.append:634
 msgid ""
@@ -649,7 +629,6 @@ msgid ""
 msgstr "Заплатить ей своим кораблем. [20 урона корпусу]"
 
 #: src-en/data/events_special_storage.xml.append:691
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/event/text"
@@ -677,13 +656,12 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:712
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/text"
 msgstr ""
-"Итак, ты хочешь узнать мою историю?--\n"
+"\"Итак, ты хочешь узнать мою историю?--\n"
 "Ну, с чего же нам начать...?\n"
-"Пожалуй, с структуры Мультивселенной?--"
+"Пожалуй, с структуры Мультивселенной?--\""
 
 #: src-en/data/events_special_storage.xml.append:716
 msgid ""
@@ -691,23 +669,22 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:718
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/text"
 msgstr ""
-"Как ты уже знаешь, будучи Ренегатом Мультивселенной, ты можешь "
+"\"Как ты уже знаешь, будучи Ренегатом Мультивселенной, ты можешь "
 "путешествовать между множеством вселенных с помощью МВ-привода. И их "
 "количество бесконечно--\n"
 "В некоторых из них побеждает Федерация "
 "(и если ты выполнишь свою миссию, эта вселенная будет одной из них). В "
 "некоторых побеждает повстанцы. Черт, я видела вселенные, где орхидеи и "
 "вампсорняки каким-то образом объединились со слизнями и захватили "
-"галактики...\n"
+"галактику...\n"
 "Но в целом все они похожи. Там есть космические корабли, Федерация, "
 "повстанцы, богомолы, валуны и все такое...\n"
 "И эта совокупность похожих вселенных обычно называется \"кластером\". Твой "
 "кластер может содержать бесконечное количество вселенных, но он не "
-"единственный--"
+"единственный--\""
 
 #: src-en/data/events_special_storage.xml.append:723
 msgid ""
@@ -715,19 +692,19 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:725
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/text"
 msgstr ""
-"Однако другие кластеры могут сильно отличаться от твоего. Однажды я побывала "
-"в кластере, где не было людей и вообще не было традиционной жизни. Вместо "
-"этого единственными живыми обитателями были огромные рои интеллектуальных "
-"машин, которые тратили всю доступную им материю и энергию на создание гор "
-"чего-то, напоминающего... скрепки?\n"
+"\"Однако другие кластеры могут сильно отличаться от твоего. Однажды я "
+"побывала в кластере, где не было людей и вообще не было традиционной жизни. "
+"Вместо этого единственными живыми обитателями были огромные рои "
+"интеллектуальных машин, которые тратили всю доступную им материю и энергию "
+"на создание гор чего-то, напоминающего... скрепки?\n"
 "Конечно, это не самое приятное место для отдыха-- В отличие от кластера, где "
 "реки состоят из пенных напитков, земля - из зефира, а растения - из черного "
 "и белого шоколада--\n"
 "И существует множество вариантов того, что могут содержать разные кластеры--"
+"\""
 
 #: src-en/data/events_special_storage.xml.append:729
 msgid ""
@@ -735,15 +712,14 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:731
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/text"
 msgstr ""
-"И, как ты, наверное, догадался, я тоже не из этого кластера--\n"
+"\"И, как ты, наверное, догадался, я тоже не из этого кластера--\n"
 "я из места, которое находится очень, очень далеко. И это место было очень "
 "опасным... там постоянно происходили междоусобные распри.\n"
 "Поэтому, зная об этом, я, так сказать, \"самоизгнала\" себя и отправилась "
-"исследовать другие кластеры--"
+"исследовать другие кластеры--\""
 
 #: src-en/data/events_special_storage.xml.append:735
 msgid ""
@@ -751,17 +727,16 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:737
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/text"
 msgstr ""
-"И это было действительно замечательное время! Я исследовала все, что можно "
+"\"И это было действительно замечательное время! Я исследовала все, что можно "
 "было исследовать, изучила бесчисленное количество технологий, "
 "экспериментировала...\n"
 "...Конечно, в результате я, возможно, вызвала коллапс нескольких "
 "реальностей--\n"
 "Упс--\n"
-"Но это было очень весело, и что было, то прошло--"
+"Но это было очень весело, и что было, то прошло--\""
 
 #: src-en/data/events_special_storage.xml.append:742
 msgid ""
@@ -769,21 +744,20 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:744
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/text"
 msgstr ""
-"Но, конечно, все изменилось, когда появились эти проклятые слизни на серых и "
-"зеленых кораблях...   \n"
+"\"Но, конечно, все изменилось, когда появились эти проклятые слизни на серых "
+"и зеленых кораблях...   \n"
 "Такие, знаешь, со странной цифрой \"8\" на эмблеме--\n"
-"Мало того, что они каким-то образом похитили мою Хозяйку - несомненно, с "
-"помощью своих грязных скользких уловок! Теперь они еще и меня преследуют, "
-"как только я пытаюсь заняться чем-нибудь интересным!  \n"
+"Они не только похитили мою госпожу каким-то образом - несомненно, с помощью "
+"своих грязных уловок - но теперь еще и меня преследуют, как только я пытаюсь "
+"заняться чем-нибудь интересным!\n"
 "Поэтому в последнее время я в основном ограничиваюсь продажей лучевого "
 "оружия...\n"
 "И все ради чего? Ради какого-то \"порядка\" и "
 "\"непрерывности Мультивселенной\"? Ха! Как будто слизни вообще могут что-то "
-"знать о \"порядке\"? Абсурд!"
+"знать о \"порядке\"? Абсурд!\""
 
 #: src-en/data/events_special_storage.xml.append:751
 msgid ""
@@ -791,17 +765,16 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:753
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/text"
 msgstr ""
-"И я не позволю этим слизким ублюдкам уйти безнаказанными - они будут "
+"\"И я не позволю этим слизким ублюдкам уйти безнаказанными - они будут "
 "наказаны!\n"
 "...Ну, как только я найду способ их победить... Особое лучевое оружие "
 "кажется хорошим вариантом, или, возможно, какое-нибудь оружие массового "
 "уничтожения...\n"
 "...И, конечно, как только я найду их укрытие. Но я слышала, что в этой "
-"вселенной есть проход, что-то связанное с \"сердцем бури\"..."
+"вселенной есть проход, что-то связанное с \"сердцем бури\"...\""
 
 #: src-en/data/events_special_storage.xml.append:757
 msgid ""
@@ -809,11 +782,10 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:759
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/text"
 msgstr ""
-"...К счастью, моя госпожа терпелива и хитра... как и я.\n"
+"\"...К счастью, моя госпожа терпелива и хитра... как и я.\n"
 "В конце концов мы разберемся--\n"
 "...Но это не значит, что ты не можешь помочь-- Мы обязательно вознаградим "
 "тебя, если тебе действительно удастся.\n"
@@ -821,7 +793,7 @@ msgstr ""
 "тестировать и разрабатывать - разве это не звучит захватывающе?-- \n"
 "...А если нет... данные, собранные во время твоих путешествий, все равно "
 "помогут нам в достижении нашей цели. Может быть, следующий Ренегат будет "
-"успешнее, чем ты?"
+"успешнее, чем ты?\""
 
 #: src-en/data/events_special_storage.xml.append:765
 msgid ""
@@ -829,7 +801,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:767
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_9\"]/text"
 msgstr ""
@@ -886,7 +857,6 @@ msgid ""
 msgstr "На самом деле, я не в настроении для этого."
 
 #: src-en/data/events_special_storage.xml.append:831
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/text"
 msgstr ""
@@ -903,7 +873,6 @@ msgid ""
 msgstr "Я слышал, но это ничего не объясняет."
 
 #: src-en/data/events_special_storage.xml.append:839
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_2\"]/text"
 msgstr ""
@@ -920,7 +889,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:846
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_3\"]/text"
 msgstr ""
@@ -963,15 +931,14 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:864
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_6\"]/text"
 msgstr ""
 "\"Надеюсь, это немного прояснило ситуацию--\"\n"
 "\"А если тебе теперь стало еще интереснее, то это тоже хорошо--\"\n"
 "\" Уверена, что теперь ты тоже хочешь заполучить эту технологию--\"\n"
-"\"Оставайся на моей стороне, и, возможно, у тебя еще будет возможность "
-"получить ее позже, ха-ха--\""
+"\"Оставайся на моей стороне, и, возможно, у тебя будет возможность получить "
+"ее позже, ха-ха--\""
 
 #: src-en/data/events_special_storage.xml.append:869
 msgid ""
@@ -1006,16 +973,14 @@ msgid ""
 msgstr "Вы открыли лабораторное меню для: [СИРЕНЫ]"
 
 #: src-en/data/events_special_storage.xml.append:938
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_VAMP\"]/text"
 msgstr ""
 "Добавлено: Поглотитель душ.\n"
-"\t\t[Сирены теперь исцеляют на количество нанесенного ими урона, однако их "
-"урон уменьшается вдвое]"
+"\t\t[Сирены / гарпии теперь восстанавливают 1.0 / 2.0 ОЗ/с за каждого врага "
+"в отсеке, однако их урон уменьшается вдвое]"
 
 #: src-en/data/events_special_storage.xml.append:943
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_BUFF\"]/text"
 msgstr ""
@@ -1026,14 +991,13 @@ msgstr ""
 "скорости передвижения]"
 
 #: src-en/data/events_special_storage.xml.append:948
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_DAMAGE\"]/text"
 msgstr ""
 "Добавлено: Увядающий взгляд.\n"
-"\t\t[Враги, на которых напрямую нацелены сирены, получают на 30% больше "
-"урона от всех источников и теряют иммунитет к контролю разума, если он у них "
-"был. Не влияет на других сирен или жутких существ]"
+"\t\t[Враги, очарованные сиренами, получают на 30% больше урона от всех "
+"источников и теряют иммунитет к контролю разума, если он у них был. Не "
+"влияет на других сирен или жутких существ]"
 
 #: src-en/data/events_special_storage.xml.append:953
 msgid ""
@@ -1090,13 +1054,12 @@ msgid ""
 msgstr "Вернуться."
 
 #: src-en/data/events_special_storage.xml.append:995
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/text"
 msgstr ""
 "Вы собираетесь добавить модификацию Поглотитель душ.\n"
-"    [Эффекты: сирены теперь восстанавливают здоровье в зависимости от "
-"наносимого урона, однако их урон уменьшается вдвое]\n"
+"    [Эффекты: сирены / гарпии теперь восстанавливают 1.0 / 2.0 ОЗ/с за "
+"каждого врага в отсеке, однако их урон уменьшается вдвое]\n"
 "\n"
 "    [Предупреждение: После ее добавления вы больше не сможете применять "
 "основные модификации для экипажа сирен. Вы также не сможете деактивировать "
@@ -1123,7 +1086,6 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:1026
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/text"
 msgstr ""
@@ -1158,14 +1120,13 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:1055
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/text"
 msgstr ""
 "Вы собираетесь добавить модификацию Красочные сны.\n"
-"\t[Эффекты: Враги, на которых напрямую нацелены сирены, получают на 30% "
-"больше урона от всех источников и теряют иммунитет к контролю разума, если "
-"он у них был. Не влияет на других сирен или жутких существ]\n"
+"\t[Эффекты: Враги, очарованные сиренами, получают на 30% больше урона от "
+"всех источников и теряют иммунитет к контролю разума, если он у них был. Не "
+"влияет на других сирен или жутких существ]\n"
 "\t\n"
 "\t[Предупреждение: после установки этой модификации вы не сможете "
 "устанавливать никаких других основных улучшений для членов экипажа сирен. Вы "
@@ -2849,7 +2810,6 @@ msgid ""
 msgstr "Вы активировали боевой модуль."
 
 #: src-en/data/events_special_storage.xml.append:2344
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr "Ваш форсаж отключится через указанное время."
@@ -2872,7 +2832,6 @@ msgid ""
 msgstr "Вы активировали боевой модуль."
 
 #: src-en/data/events_special_storage.xml.append:2365
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr "Ваш форсаж отключится через указанное время."
@@ -2932,7 +2891,6 @@ msgid ""
 msgstr "Вы решаете ничего не делать и готовитесь к бою."
 
 #: src-en/data/events_special_storage.xml.append:2447
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER_POWERDOWN\"]/text"
 msgstr ""
@@ -3090,7 +3048,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:2748
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/choice[1]/event/choice/event/text"
