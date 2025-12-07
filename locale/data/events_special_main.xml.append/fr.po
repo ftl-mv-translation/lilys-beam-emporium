@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 17:11+0000\n"
+"PO-Revision-Date: 2025-12-08 00:21+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_mainxmlappend/fr/>\n"
@@ -19,7 +19,6 @@ msgid ""
 msgstr "Une note étrange."
 
 #: src-en/data/events_special_main.xml.append:32
-#, fuzzy
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILY_MYSTERIOUS_NOTE_CLICKED\"]/text"
 msgstr ""
