@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 18:49+0000\n"
+"PO-Revision-Date: 2025-12-08 00:21+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_sector_empirexmlappend/fr/>\n"
@@ -31,12 +31,11 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_sector_empire.xml.append:16
-#, fuzzy
 msgid ""
 "data/events_sector_empire.xml.append$//mod:findName[@name=\"CRYSTAL_CACHE_MV_LIST\"]/mod:findWithChildLike/mod-"
 "append:choice/event/choice/event/text"
 msgstr ""
 "Vous plongez au cœur de la distorsion et récupérez votre coéquipier ainsi "
-"que la cargaison. Vos moteurs, postcombustion enclenchée, parviennent tout "
-"juste à arracher votre vaisseau du puit gravitationnel avant que l'ensemble "
-"ne soit englouti. C'était moins une."
+"que la cargaison. Vos moteurs, même en postcombustion enclenchée, "
+"parviennent tout juste à arracher votre vaisseau du puit gravitationnel "
+"avant que l'ensemble ne soit englouti. C'était moins une."
