@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 18:49+0000\n"
+"PO-Revision-Date: 2025-12-08 00:21+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_sector_innovationxmlappend/fr/>\n"
@@ -13,7 +13,6 @@ msgstr ""
 "X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_innovation.xml.append:8
-#, fuzzy
 msgid ""
 "data/events_sector_innovation.xml.append$//mod:findName[@name=\"ESTATE_STATUE\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice/text"
@@ -22,11 +21,10 @@ msgstr ""
 "l'installation militaire de la planète. [3{]"
 
 #: src-en/data/events_sector_innovation.xml.append:10
-#, fuzzy
 msgid ""
 "data/events_sector_innovation.xml.append$//mod:findName[@name=\"ESTATE_STATUE\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice/event/text"
-msgstr "Postcombustion enclenchée"
+msgstr "Postcombustion enclenchée !"
 
 #: src-en/data/events_sector_innovation.xml.append:15
 msgid ""
