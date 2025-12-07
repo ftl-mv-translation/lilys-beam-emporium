@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 17:11+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-12-08 00:21+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_sector_stargrovexmlappend/fr/>\n"
 "Language: fr\n"
@@ -22,11 +22,10 @@ msgstr ""
 "en sauvant son seul occupant. [3{]"
 
 #: src-en/data/events_sector_stargrove.xml.append:6
-#, fuzzy
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
 "append:choice[1]/event/text"
-msgstr "Postcombustion enclenchée"
+msgstr "Postcombustion enclenchée !"
 
 #: src-en/data/events_sector_stargrove.xml.append:11
 msgid ""
@@ -62,11 +61,10 @@ msgstr ""
 "démanteler le vaisseau et sauver son seul occupant. [3{]"
 
 #: src-en/data/events_sector_stargrove.xml.append:26
-#, fuzzy
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
 "append:choice[2]/event/text"
-msgstr "Postcombustion enclenchée"
+msgstr "Postcombustion enclenchée !"
 
 #: src-en/data/events_sector_stargrove.xml.append:31
 msgid ""
