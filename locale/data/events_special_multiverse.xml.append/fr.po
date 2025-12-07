@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 17:11+0000\n"
+"PO-Revision-Date: 2025-12-08 00:21+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_multiversexmlappend/fr/>\n"
@@ -19,16 +19,15 @@ msgid ""
 msgstr "Présenter une sirène."
 
 #: src-en/data/events_special_multiverse.xml.append:7
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
 "\"Les Sirènes... une race mystérieuse aux origines inconnues... et dotée de "
-"pouvoirs capables de briser l'esprit de quelqu'un par leur simple "
-"présence... Et pourtant... vous avez fait de l'une d'elles votre alliée... "
-"Oui, je suis... très impressionné. Bravo, voyageur. Attendez-vous à des... "
-"récompenses avant votre prochain voyage.\""
+"pouvoirs capables de briser l'esprit de quelqu'un par leur simple présence. "
+"Et pourtant... vous avez fait de l'une d'elles votre alliée. Oui, je suis... "
+"très impressionné. Bravo, voyageur. Attendez-vous à des... récompenses avant "
+"votre prochain voyage.\""
 
 #: src-en/data/events_special_multiverse.xml.append:12
 msgid ""
@@ -43,20 +42,19 @@ msgid ""
 msgstr "Présenter l'Avatar de Lily."
 
 #: src-en/data/events_special_multiverse.xml.append:20
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
 "Vous ressentez soudain une sensation écrasante de malaise pendant un "
 "instant. \"Attendez... Cette énergie... Est-ce qu'elle est... celle à qui je "
-"pense ?... Oh, veuillez ignorer mes divagations, Renégat... Le credo... "
-"m'interdit d'en dire davantage, de toute façon... Tout ce que je peux "
-"révéler, c'est qu'elle est une anomalie... d'une puissance et d'une menace "
-"immenses... Mais le fait que vous soyez encore en vie me dit qu'elle est de "
-"votre côté, du moins pour l'instant, quels que soient ses motifs... Oui, "
-"c'est... très impressionnant. Attendez-vous à... des récompenses avant votre "
-"prochain voyage. Juste... s'il vous plaît, soyez prudent.\""
+"pense ? Oh, veuillez ignorer mes divagations, Renégat... Le credo... "
+"m'interdit d'en dire davantage, de toute façon. Tout ce que je peux révéler, "
+"c'est qu'elle est une anomalie... d'une puissance et d'une menace immenses. "
+"Mais le fait que vous soyez encore en vie me dit qu'elle est de votre côté, "
+"du moins pour l'instant, quels que soient ses motifs. Oui, c'est... très "
+"impressionnant. Attendez-vous à... des récompenses avant votre prochain "
+"voyage. Juste... s'il vous plaît, soyez prudent.\""
 
 #: src-en/data/events_special_multiverse.xml.append:25
 msgid ""
