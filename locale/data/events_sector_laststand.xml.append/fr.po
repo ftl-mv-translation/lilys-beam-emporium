@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 17:11+0000\n"
+"PO-Revision-Date: 2025-12-08 00:21+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_sector_laststandxmlappend/fr/>\n"
@@ -19,7 +19,6 @@ msgid ""
 msgstr "Contacter l'état-major Fédéré."
 
 #: src-en/data/events_sector_laststand.xml.append:8
-#, fuzzy
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/text"
