@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 17:11+0000\n"
+"PO-Revision-Date: 2025-12-08 00:21+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datatext_blueprintsxmlappend/fr/>\n"
@@ -13,12 +13,11 @@ msgstr ""
 "X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/text_blueprints.xml.append:1
-#, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_LILY_WRECKED_SIREN_TRANSPORT_unlock\"]"
 msgstr ""
 "Récupérer ce vaisseau intact à l'endroit où brillent de nombreuses étoiles, "
-"avec l'aide d'une femme hors du commun pour le déverrouiller."
+"avec l'aide d'une femme hors du commun."
 
 #: src-en/data/text_blueprints.xml.append:2
 msgid ""
