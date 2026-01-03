@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 18:49+0000\n"
+"PO-Revision-Date: 2026-01-04 01:44+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataeventsxmlappend/fr/>\n"
@@ -67,7 +67,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events.xml.append:50
-#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/text"
 msgstr ""
@@ -80,11 +79,10 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events.xml.append:55
-#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/choice/event/text"
 msgstr ""
-"Peu après, Lily vous contacte cependant.\n"
+"Peu après, Lily vous contacte.\n"
 "\"Oh, cette phase de test est donc terminée !\"\n"
 "\"Les résultats sont inattendus... et très impressionnants !\"\n"
 "\"Vous et votre vaisseau êtes certainement très puissants puisque vous avez "
@@ -117,12 +115,11 @@ msgstr ""
 "\"Ça ne vous tuera pas... probablement ...\""
 
 #: src-en/data/events.xml.append:98
-#, fuzzy
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_QUEST_START\"]/text"
 msgstr ""
 "Vous êtes arrivé à l'emplacement indiqué du fameux magasin \"Beam Emporium\""
-". Cependant, la balise semble déserte, aucun vaisseau en vue. Pourtant, vous "
-"ressentez une étrange sensation de malaise... comme si quelqu'un vous "
+". Étrangement, la balise semble déserte, aucun vaisseau en vue. Pourtant, "
+"vous ressentez une étrange sensation de malaise... comme si quelqu'un vous "
 "observait."
 
 #: src-en/data/events.xml.append:100
@@ -144,7 +141,6 @@ msgstr ""
 "de partir immédiatement."
 
 #: src-en/data/events.xml.append:142
-#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_GLITCH_CONTINUE\"]/text"
 msgstr ""
@@ -152,16 +148,14 @@ msgstr ""
 "mettent à dysfonctionner avant de redémarrer brusquement !"
 
 #: src-en/data/events.xml.append:160
-#, fuzzy
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_CEL_FOUND\"]/text"
 msgstr ""
 "Vous continuez à chercher le magasin, mais malgré tous vos efforts, vous ne "
-"trouvez toujours rien. Pourquoi une publicité indiquerait-elle la présence "
-"d'un magasin ici reste un mystère."
+"trouvez toujours rien. La raison de la présence de cette publicité pour une "
+"boutique reste un mystère."
 
 #: src-en/data/events.xml.append:186
-#, fuzzy
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR\"]/text"
 msgstr ""
 "Vous finissez par remarquer une station spatiale à l'apparence relativement "
@@ -180,30 +174,26 @@ msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR\"]/choice/text"
 msgstr "Continuer..."
 
 #: src-en/data/events.xml.append:214
-#, fuzzy
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_1\"]/text"
-msgstr "De la part de Lily, un cadeau vous est offert !"
+msgstr "\"De la part de Lily, un cadeau vous est offert !\""
 
 #: src-en/data/events.xml.append:219
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_1\"]/choice/text"
 msgstr "Continuer..."
 
 #: src-en/data/events.xml.append:230
-#, fuzzy
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_2\"]/text"
-msgstr "Et un autre, pour avoir satisfait votre appétit !"
+msgstr "\"Et un autre, pour avoir satisfait votre appétit !\""
 
 #: src-en/data/events.xml.append:235
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_2\"]/choice/text"
 msgstr "Continuer..."
 
 #: src-en/data/events.xml.append:247
-#, fuzzy
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/text"
 msgstr ""
-"Oh, et j'espère pouvoir me joindre à vous dans votre aventure ! Je parie que "
-"ce serait une expédition spectaculaire ! Cela ne vous dérangerait pas, n'est-"
-"ce pas ?"
+"\"Et j’espère pouvoir me joindre à vous pour votre périple ! Je vous "
+"accompagnerais jusqu’à ce qu’il soit terminé ! Ça ne vous dérangerait pas ?\""
 
 #: src-en/data/events.xml.append:249
 msgid ""
@@ -211,29 +201,23 @@ msgid ""
 msgstr "Ce serait un véritable plaisir !"
 
 #: src-en/data/events.xml.append:251
-#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[1]/event/text"
-msgstr "Dépêchons‑nous alors ! Prêts à combattre !"
+msgstr "\"Dépêchons‑nous alors ! Prêts à combattre !\""
 
 #: src-en/data/events.xml.append:259
-#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[2]/text"
-msgstr ""
-"Désolé de vous décevoir, mais je ne peux pas me joindre à vous pour ce "
-"rendez‑vous."
+msgstr "Désolé de te décevoir, mais pour cela, je ne peux pas te recruter."
 
 #: src-en/data/events.xml.append:261
-#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[2]/event/text"
 msgstr ""
-"C'est dommage, je dois l'avouer. Mais n'hésitez pas à parcourir ma boutique "
-"quand même..."
+"\"C'est dommage, je dois l'avouer. Mais n'hésitez pas à parcourir ma "
+"boutique quand même...\""
 
 #: src-en/data/events.xml.append:269
-#, fuzzy
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/text"
 msgstr ""
 "Vous finissez par remarquer une station spatiale à l'apparence relativement "
@@ -251,7 +235,6 @@ msgid ""
 msgstr "N'acheter que de l'équipement."
 
 #: src-en/data/events.xml.append:276
-#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[1]/event/text"
 msgstr ""
@@ -264,7 +247,6 @@ msgid ""
 msgstr "Vous vous souvenez de la mystérieuse note que vous aviez trouvée."
 
 #: src-en/data/events.xml.append:284
-#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/text"
 msgstr "Vous remettez la mystérieuse note à Lily et attendez sa réaction."
@@ -275,7 +257,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events.xml.append:288
-#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/choice/event/text"
 msgstr ""
@@ -329,11 +310,10 @@ msgid ""
 msgstr "D'accord !"
 
 #: src-en/data/events.xml.append:332
-#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/choice[1]/event/text"
 msgstr ""
-"Dépêchons‑nous alors !\n"
+"\"Dépêchons‑nous alors !\"\n"
 "(Remarque : Lily peut être contactée depuis le menu de stockage.)"
 
 #: src-en/data/events.xml.append:340
@@ -342,11 +322,10 @@ msgid ""
 msgstr "Désolé, mais pas cette fois-ci."
 
 #: src-en/data/events.xml.append:342
-#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/choice[2]/event/text"
 msgstr ""
-"C'est dommage, mais n'hésitez pas à parcourir ma boutique malgré tout..."
+"\"C'est dommage, mais n'hésitez pas à parcourir ma boutique malgré tout...\""
 
 #: src-en/data/events.xml.append:352
 msgid ""
@@ -380,11 +359,10 @@ msgid ""
 msgstr "D'accord !"
 
 #: src-en/data/events.xml.append:367
-#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/choice[1]/event/text"
 msgstr ""
-"Dépêchons‑nous alors !\n"
+"\"Dépêchons‑nous alors !\"\n"
 "(Remarque : Lily peut être contactée depuis le menu de stockage.)"
 
 #: src-en/data/events.xml.append:375
@@ -393,11 +371,10 @@ msgid ""
 msgstr "Désolé, mais pas cette fois-ci."
 
 #: src-en/data/events.xml.append:377
-#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/choice[2]/event/text"
 msgstr ""
-"C'est dommage, mais n'hésitez pas à parcourir ma boutique malgré tout..."
+"\"C'est dommage, mais n'hésitez pas à parcourir ma boutique malgré tout...\""
 
 #: src-en/data/events.xml.append:387
 msgid ""
@@ -405,7 +382,6 @@ msgid ""
 msgstr "L'interroger sur les anomalies."
 
 #: src-en/data/events.xml.append:390
-#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"lily_questioned\"]/event/text"
 msgstr ""
@@ -503,7 +479,6 @@ msgid ""
 msgstr "Continuer et l'attaquer quand même."
 
 #: src-en/data/events.xml.append:479
-#, fuzzy
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/text"
 msgstr ""
@@ -730,14 +705,13 @@ msgstr ""
 "Qui que soit le mystérieux propriétaire de la boutique, il est clair qu'il ne veut pas que vous vous mêliez de ses affaires."
 
 #: src-en/data/events.xml.append:703
-#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"TRANSPORT_CAPTURE_STARGROVE_LILY\"]/text"
 msgstr ""
-"Un si beau vaisseau, et de conception Sirène, qui plus est.\n"
+"\"Un si beau vaisseau, et de conception Sirène, qui plus est.\n"
 "Et dans un tel état de délabrement...\n"
 "Ce serait dommage de le laisser brûler ici...\n"
 "Alors, que diriez‑vous que je le livre (enfin, ce qu'il en reste) à votre "
 "hangar, en guise de cadeau ?\n"
 "Vous avez beaucoup de place, non ? Et il pourra sûrement être réparé, un "
-"jour..."
+"jour...\""
