@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 18:49+0000\n"
+"PO-Revision-Date: 2026-01-04 01:44+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_storagexmlappend/fr/>\n"
@@ -57,16 +57,15 @@ msgid ""
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_storage.xml.append:50
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/text"
 msgstr ""
-"Oh, vous voulez l'une de ces armes à rayons sophistiqués que personne "
+"\"Oh, vous voulez l'une de ces armes à rayons sophistiqués que personne "
 "d'autre n'a ?\n"
 "Ou un autre accessoire sympa pour votre vaisseau ?\n"
 "Eh bien, nous avons quelque chose en commun, alors...\n"
 "Procurez vous les matériaux et les connaissances nécessaires, et je les "
-"partagerai volontiers avec vous."
+"partagerai volontiers avec vous.\""
 
 #: src-en/data/events_special_storage.xml.append:55
 msgid ""
@@ -86,7 +85,6 @@ msgid ""
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_storage.xml.append:74
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/text"
 msgstr ""
@@ -191,139 +189,119 @@ msgid ""
 msgstr "Sélectionner ce que vous voulez donner :"
 
 #: src-en/data/events_special_storage.xml.append:144
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER\"]/text"
-msgstr "Lui offrir un Laser Ancien I."
+msgstr "Lui offrir un Augure Ancien I. (+1 pt.)"
 
 #: src-en/data/events_special_storage.xml.append:154
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_2\"]/text"
-msgstr "Lui offrir un Laser Ancien II."
+msgstr "Lui offrir un Augure Ancien II. (+2 pt.)"
 
 #: src-en/data/events_special_storage.xml.append:164
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_3\"]/text"
-msgstr "Lui offrir un Laser Ancien III."
+msgstr "Lui offrir un Augure Ancien III. (+3 pts.)"
 
 #: src-en/data/events_special_storage.xml.append:174
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BEAM\"]/text"
-msgstr "Lui offrir un Rayon Ancien I."
+msgstr "Lui offrir un Éradicateur Ancien I. (+2 pts.)"
 
 #: src-en/data/events_special_storage.xml.append:184
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BEAM_2\"]/text"
-msgstr ""
+msgstr "Lui offrir un Éradicateur Ancien II. (+3 pts.)"
 
 #: src-en/data/events_special_storage.xml.append:194
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BEAM_3\"]/text"
-msgstr ""
+msgstr "Lui offrir un Éradicateur Ancien III. (+4 pt.)"
 
 #: src-en/data/events_special_storage.xml.append:204
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS\"]/text"
-msgstr "Lui offrir un Aiguillon Ancien I."
+msgstr "Lui offrir un Purificateur Ancien I. (+2 pts.)"
 
 #: src-en/data/events_special_storage.xml.append:214
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS_2\"]/text"
-msgstr "Lui offrir un Aiguillon Ancien II."
+msgstr "Lui offrir un Purificateur Ancien II. (+3 pts.)"
 
 #: src-en/data/events_special_storage.xml.append:224
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"HAVOC\"]/text"
-msgstr "Lui offrir un Ravageur Ancien."
+msgstr "Lui offrir un Ravageur Ancien. (+2 pts.)"
 
 #: src-en/data/events_special_storage.xml.append:234
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_MISSILES\"]/text"
-msgstr "Lui offrir un Lance-missiles Ancien."
+msgstr "Lui offrir un Carnage Ancien. (+2 pts.)"
 
 #: src-en/data/events_special_storage.xml.append:244
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BOMB\"]/text"
-msgstr "Lui offrir un Lance-bombes Ancien."
+msgstr "Lui offrir une charge utile Ancien (+1 pts.)."
 
 #: src-en/data/events_special_storage.xml.append:254
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_MINELAUNCHER\"]/text"
-msgstr "Lui offrir un Lance-mines Ancien."
+msgstr "Lui offrir un Assaut Ancien. (+2 pts.)"
 
 #: src-en/data/events_special_storage.xml.append:264
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_ION_1\"]/text"
-msgstr "Lui offrir un Lance-plasma Ancien I."
+msgstr "Lui offrir un Plasma Ancien I. (+1 pts.)"
 
 #: src-en/data/events_special_storage.xml.append:274
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_ION_2\"]/text"
-msgstr "Lui offrir un Lance-plasma Ancien II."
+msgstr "Lui offrir un Plasma Ancien II. (+2 pts.)"
 
 #: src-en/data/events_special_storage.xml.append:284
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_STUN\"]/text"
-msgstr ""
+msgstr "Lui offrir un Pacificateur Ancien I. (+1 pts.)"
 
 #: src-en/data/events_special_storage.xml.append:294
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_LASER\"]/text"
-msgstr "Lui offrir un Drone Laser Ancien."
+msgstr "Lui offrir un Drone Augure Ancien. (+1 pts.)"
 
 #: src-en/data/events_special_storage.xml.append:304
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_ION\"]/text"
-msgstr "Lui offrir un Drone Ionique Ancien."
+msgstr "Lui offrir un Drone à plasma Ancien. (+1 pts.)"
 
 #: src-en/data/events_special_storage.xml.append:314
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_MISSILE\"]/text"
-msgstr "Lui offrir un Drone missiles Ancien."
+msgstr "Lui offrir un Drone Carnage Ancien. (+1 pt.)"
 
 #: src-en/data/events_special_storage.xml.append:324
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_DEFENSE_1\"]/text"
-msgstr "Lui offrir un Drone Surveilleur Ancien."
+msgstr "Lui offrir un Drone Surveilleur Ancien. (+2 pts.)"
 
 #: src-en/data/events_special_storage.xml.append:334
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"MENDER\"]/text"
-msgstr "Lui offrir un Drone Reconstructeur Ancien."
+msgstr "Lui offrir un Reconstructeur Ancien. (+1 pt.)"
 
 #: src-en/data/events_special_storage.xml.append:344
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"DIRECTOR\"]/text"
-msgstr "Lui offrir un Directeur Ancien."
+msgstr "Lui offrir un Directeur Ancien. (+1 pt.)"
 
 #: src-en/data/events_special_storage.xml.append:354
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_DEFEND\"]/text"
-msgstr "Lui offrir un Atomiseur Ancien."
+msgstr "Lui offrir un Atomiseur Ancien. (+1 pt.)"
 
 #: src-en/data/events_special_storage.xml.append:364
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_BOARDER\"]/text"
-msgstr "Lui offrir un Atomiseur Ancien."
+msgstr "Lui offrir un Atomiseur Ancien. (+1 pt.)"
 
 #: src-en/data/events_special_storage.xml.append:374
 msgid ""
@@ -432,23 +410,21 @@ msgid ""
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_storage.xml.append:537
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/text"
 msgstr ""
-"Oh, vous voulez que je vous rejoigne en personne ?\n"
+"\"Oh, vous voulez que je vous rejoigne en personne ?\n"
 "Je ne peux pas faire ça, pour... diverses raisons. Mais je peux vous prêter "
 "mon Avatar.\n"
 "Pensez-y comme à un genre de drone contrôlé à distance... sauf que ce n'en "
 "est pas un. \n"
 "Et n'allez surtout pas le considérer comme jetable, ou vous le regretterez "
-"amèrement. \n"
+"amèrement. \"\n"
 "\n"
-"Vous allez cependant avoir besoin d'un équipement spécial pour que je puisse "
-"le faire..."
+"\"Vous allez cependant avoir besoin d'un équipement spécial pour que je "
+"puisse le faire...\""
 
 #: src-en/data/events_special_storage.xml.append:546
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/text"
@@ -539,13 +515,13 @@ msgid ""
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_storage.xml.append:607
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/text"
 msgstr ""
-"Hé ! Je vous avais bien dit de ne pas considérer mon avatar comme jetable, "
+"\"Hé ! Je vous avais bien dit de ne pas considérer mon avatar comme jetable, "
 "non ?\n"
 "Très bien, je vais prendre ça pour un accident... mais seulement cette fois !"
+"\""
 
 #: src-en/data/events_special_storage.xml.append:612
 msgid ""
@@ -570,14 +546,13 @@ msgid ""
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_storage.xml.append:629
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/text"
 msgstr ""
-"Hé ! Je vous avais bien dit de ne pas considérer mon avatar comme jetable, "
+"\"Hé ! Je vous avais bien dit de ne pas considérer mon avatar comme jetable, "
 "non ?\n"
 "Mais, puisque Celui qui Rime est ici avec vous, je vais faire une "
-"exception... Je ne voudrais pas rater l'amusement, après tout !"
+"exception... je ne voudrais pas rater le spectacle, après tout !\""
 
 #: src-en/data/events_special_storage.xml.append:634
 msgid ""
@@ -660,7 +635,6 @@ msgid ""
 msgstr "La payer en utilisant votre vaisseau. [20 points de coque endommagés]"
 
 #: src-en/data/events_special_storage.xml.append:691
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/event/text"
@@ -688,13 +662,12 @@ msgid ""
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_storage.xml.append:712
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/text"
 msgstr ""
-"Alors, vous voulez connaître mon histoire ?\n"
+"\"Alors, vous voulez connaître mon histoire ?\n"
 "Eh bien, par où commencer ?...\n"
-"Je suppose... par la structure du multivers, peut-être ?"
+"Je suppose... par la structure du multivers, peut-être ?\""
 
 #: src-en/data/events_special_storage.xml.append:716
 msgid ""
@@ -702,11 +675,10 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:718
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/text"
 msgstr ""
-"Comme vous le savez déjà, en tant que Renégat du Multivers, il existe une "
+"\"Comme vous le savez déjà, en tant que Renégat du Multivers, il existe une "
 "multitude d'univers entre lesquels vous pouvez voyager grâce au moteur "
 "Multiversel. Et leur nombre est infini. \n"
 "Dans certains d'entre eux, c'est la Fédération qui l'emporte "
@@ -719,6 +691,7 @@ msgstr ""
 "ce genre de choses...\n"
 "Et cet ensemble d'univers similaires est généralement appelé un 'amas'. "
 "Votre amas peut contenir une infinité d'univers, mais il n'est pas le seul..."
+"\""
 
 #: src-en/data/events_special_storage.xml.append:723
 msgid ""
@@ -726,11 +699,10 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:725
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/text"
 msgstr ""
-"Cependant, d'autres amas peuvent être très, très différents du vôtre. J'ai "
+"\"Cependant, d'autres amas peuvent être très, très différents du vôtre. J'ai "
 "déjà été dans un amas où il n'y avait aucun humain, aucune vie "
 "traditionnelle. À la place, les seuls habitants étaient d'énormes essaims de "
 "machines intelligentes, qui utilisaient toute la matière et l'énergie "
@@ -738,9 +710,9 @@ msgstr ""
 "ressemblait à des trombones ?\n"
 "Certainement pas un endroit agréable pour les vacances, contrairement à un "
 "amas où les rivières sont faites de boissons gazeuses, le sol de guimauve, "
-"et les plantes de chocolat noir et blanc...\n"
+"et les plantes de chocolat noir et blanc....\n"
 "Et il existe de très nombreuses possibilités quant au contenu des différents "
-"amas."
+"amas.\""
 
 #: src-en/data/events_special_storage.xml.append:729
 msgid ""
@@ -748,16 +720,15 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:731
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/text"
 msgstr ""
-"Et comme vous vous en doutez peut-être, je ne viens pas de cet amas non plus."
-"\n"
+"\"Et comme vous vous en doutez peut-être, je ne viens pas de cet amas non "
+"plus.\n"
 "Je viens d'un endroit très, très, très lointain. Un lieu dangereux, ravagé "
 "par des conflits incessants...\n"
 "Alors, ayant compris qu'il valait mieux partir, je me suis 'auto-exilée', "
-"pour ainsi dire, et je suis partie explorer d'autres amas."
+"pour ainsi dire, et je suis partie explorer d'autres amas.\""
 
 #: src-en/data/events_special_storage.xml.append:735
 msgid ""
@@ -765,17 +736,16 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:737
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/text"
 msgstr ""
-"Et c'était une période vraiment merveilleuse ! J'ai exploré tout ce qu'il y "
-"avait à explorer, appris d'innombrables technologies, mené toutes sortes "
+"\"Et c'était une période vraiment merveilleuse ! J'ai exploré tout ce qu'il "
+"y avait à explorer, appris d'innombrables technologies, mené toutes sortes "
 "d'expériences...\n"
 "...J'ai peut-être provoqué l'implosion de quelques réalités au passage, bien "
 "sûr...\n"
 "Oups !!!\n"
-"Mais c'était drôlement amusant, alors laissons le passé là où il est."
+"Mais c'était drôlement amusant, alors laissons le passé là où il est.\""
 
 #: src-en/data/events_special_storage.xml.append:742
 msgid ""
@@ -783,21 +753,24 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:744
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/text"
 msgstr ""
-"Mais bien sûr, tout a changé lorsque ces fichues Limaces, avec leurs "
+"\"Mais bien sûr, tout a changé lorsque ces fichues Limaces, avec leurs "
 "vaisseaux gris et verts, sont arrivées...\n"
 "Vous savez, celles qui portent ce symbole étrange, le chiffre '8 ' !!!\n"
-"Non seulement elles ont réussi à capturer ma Maîtresse, sans doute grâce à "
-"leurs sales ruses de Limaces, mais en plus elles passent leur temps à me "
-"harceler dès que j'essaie de m'amuser un peu !\n"
+"Non seulement ils ont réussi à capturer ma Maîtresse d’une manière ou d’une "
+"autre , sans doute grâce à leurs sales combines de Limaces, mais maintenant, "
+"ils n’arrêtent pas de me harceler dès que j’essaie de faire quoi que ce soit "
+"d’amusant !\n"
+"Évidemment, ils ne peuvent pas me vaincre, mais ils ont clairement essayé, "
+"et je ne vais certainement pas rester à attendre qu’ils utilisent encore l’"
+"un de leurs tours crasseux contre moi !\n"
 "C'est pour ça que je me limite, ces temps-ci, à vendre quelques armes à "
 "rayons...\n"
 "Et tout ça, soi-disant pour \"l'Ordre\" et la \"Continuité Multiverselle\" ? "
 "Pff ! Comme si les Limaces savaient quoi que ce soit sur \"l'ordre\" ! "
-"Quelle absurdité !"
+"Quelle absurdité !\""
 
 #: src-en/data/events_special_storage.xml.append:751
 msgid ""
@@ -805,18 +778,17 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:753
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/text"
 msgstr ""
-"Et je ne laisserai pas ces saletés visqueuses s'en tirer comme ça ! Elles "
+"\"Et je ne laisserai pas ces saletés visqueuses s'en tirer comme ça ! Elles "
 "vont tomber, tôt ou tard !\n"
 "...Enfin, dès que je trouverai un moyen de réellement les vaincre... Une "
 "arme à rayons spéciale pourrait faire l'affaire, ou peut-être une arme de "
 "destruction massive...\n"
 "...Et dès que je découvrirai aussi leur repaire, bien sûr. Mais j'ai entendu "
 "dire qu'il existe, dans cet univers, un passage, quelque chose en rapport "
-"avec le 'Cœur de la Tempête'..."
+"avec le 'Cœur de la Tempête'...\""
 
 #: src-en/data/events_special_storage.xml.append:757
 msgid ""
@@ -824,11 +796,10 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:759
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/text"
 msgstr ""
-"...Heureusement, ma Maîtresse est patiente et rusée... et moi aussi.\n"
+"\"...Heureusement, ma Maîtresse est patiente et rusée... et moi aussi.\n"
 "Nous finirons bien par trouver une solution, tôt ou tard.\n"
 "...Mais cela ne veut pas dire que vous ne pouvez pas aider. Si vous parvenez "
 "à réussir, vous serez amplement récompensé.\n"
@@ -836,7 +807,7 @@ msgstr ""
 "tester et développer. N'est-ce pas excitant ?\n"
 "...Et si vous échouez, eh bien, les données recueillies au cours de vos "
 "voyages serviront quand même notre objectif. Peut-être que le prochain "
-"Renégat réussira, si ce n'est pas vous..."
+"Renégat réussira, si ce n'est pas vous...\""
 
 #: src-en/data/events_special_storage.xml.append:765
 msgid ""
@@ -844,7 +815,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:767
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_9\"]/text"
 msgstr ""
@@ -901,7 +871,6 @@ msgid ""
 msgstr "En fait, je ne suis pas d'humeur pour ça."
 
 #: src-en/data/events_special_storage.xml.append:831
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/text"
 msgstr ""
@@ -919,7 +888,6 @@ msgid ""
 msgstr "J'en ai entendu parler, mais cela n'explique rien."
 
 #: src-en/data/events_special_storage.xml.append:839
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_2\"]/text"
 msgstr ""
@@ -937,7 +905,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:846
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_3\"]/text"
 msgstr ""
@@ -980,14 +947,13 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:864
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_6\"]/text"
 msgstr ""
 "\"J’espère que cela a un peu éclairci les choses.\"\n"
-"\"Et si vous êtes encore plus curieux maintenant, c’est très bien aussi.\"\n"
-"\"Je suis sûre que vous voulez un morceau de cette technologie pour vous-"
-"même désormais.\"\n"
+"\"Et si vous êtes encore plus curieux maintenant, c’est tant mieux.\"\n"
+"\"Je suis sûre que vous aimeriez aussi mettre la main sur une part de cette "
+"technologie.\"\n"
 "\"Restez dans mes bonnes grâces et vous aurez peut-être l’occasion d’y "
 "mettre la main dessus plus tard, haha...\""
 
@@ -1024,16 +990,14 @@ msgid ""
 msgstr "Vous consultez le menu du laboratoire pour : [SIRENES]"
 
 #: src-en/data/events_special_storage.xml.append:938
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_VAMP\"]/text"
 msgstr ""
 "Actuellement installé : Siphon d'Âme.\n"
-" [Les sirènes soignent désormais en fonction des dégâts qu'elles infligent, "
-"mais leurs dégâts sont réduits de moitié]"
+" [Les Sirènes / Harpies se régénèrent désormais de 1.0 / 2.0 PV/s par ennemi "
+"présent dans la salle, mais leurs dégâts sont divisés par deux.]"
 
 #: src-en/data/events_special_storage.xml.append:943
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_BUFF\"]/text"
 msgstr ""
@@ -1044,15 +1008,14 @@ msgstr ""
 "perdent 50 % de leur vitesse de déplacement]"
 
 #: src-en/data/events_special_storage.xml.append:948
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN\"]/choice[@req=\"LAB_LILY_SIREN_DAMAGE\"]/text"
 msgstr ""
 "Actuellement installé : Regard Flétrissant.\n"
-"[Les ennemis directement ciblés par les sirènes subissent 30 % de dégâts "
-"supplémentaires provenant de toutes les sources et perdent leur immunité au "
-"contrôle mental s'ils en avaient une. Cela n'affecte pas les autres sirènes "
-"ni les créatures surnaturelles]"
+"[Les ennemis ciblés par les sirènes subissent 30 % de dégâts supplémentaires "
+"provenant de toutes les sources et perdent leur immunité au contrôle mental "
+"s'ils en avaient une. Cela n'affecte pas les autres sirènes ni les créatures "
+"surnaturelles]"
 
 #: src-en/data/events_special_storage.xml.append:953
 msgid ""
@@ -1109,13 +1072,12 @@ msgid ""
 msgstr "Revenir en arrière."
 
 #: src-en/data/events_special_storage.xml.append:995
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer la modification Siphon d'Âme.\n"
-"\t[Effets : Les Sirènes récupèrent des points de vie en infligeant des "
-"dégâts, mais leurs dégâts sont réduits de moitié.]\n"
+"\t[Effets : Les Sirènes / Harpies se régénèrent désormais de 1.0 / 2.0 PV/s "
+"par ennemi présent dans la salle, mais leurs dégâts sont divisés par deux.]\n"
 "\t\n"
 "\t[Avertissement : Après avoir installé cela, vous ne pourrez plus installer "
 "d'autres améliorations primaires pour les membres d'équipage Sirènes. Vous "
@@ -1142,7 +1104,6 @@ msgid ""
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_storage.xml.append:1026
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/text"
 msgstr ""
@@ -1177,15 +1138,14 @@ msgid ""
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_storage.xml.append:1055
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer la modification Regard Flétrissant.\n"
-"\t[Effets : Les ennemis directement ciblés par les Sirènes subissent 30 % de "
-"dégâts supplémentaires de toutes sources et perdent leur immunité au "
-"contrôle mental, le cas échéant. N'affecte pas les autres Sirènes ni les "
-"êtres Eldritch.]\n"
+"\t[Effets : Les ennemis ciblés par les Sirènes subissent 30 % de dégâts "
+"supplémentaires de toutes sources et perdent leur immunité au contrôle "
+"mental, le cas échéant. N'affecte pas les autres Sirènes ni les êtres "
+"Eldritch.]\n"
 "\t\n"
 "\t[Avertissement : Après avoir installé cela, vous ne pourrez plus installer "
 "d'autres améliorations primaires pour les membres d'équipage Sirènes. Vous "
@@ -2884,7 +2844,6 @@ msgid ""
 msgstr "Vous activez l'augmentation de combat."
 
 #: src-en/data/events_special_storage.xml.append:2344
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr "Votre postcombustion s'éteindra dans ce laps de temps."
@@ -2907,7 +2866,6 @@ msgid ""
 msgstr "Vous activez l'augmentation de combat."
 
 #: src-en/data/events_special_storage.xml.append:2365
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[2]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr "Votre postcombustion s'éteindra dans ce laps de temps."
@@ -2967,7 +2925,6 @@ msgid ""
 msgstr "Vous décidez de ne rien faire et de vous préparer à vous battre."
 
 #: src-en/data/events_special_storage.xml.append:2447
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER_POWERDOWN\"]/text"
 msgstr ""
@@ -3123,7 +3080,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2748
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/choice[1]/event/choice/event/text"
