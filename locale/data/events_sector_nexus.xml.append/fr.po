@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 18:49+0000\n"
+"PO-Revision-Date: 2026-01-04 01:44+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_sector_nexusxmlappend/fr/>\n"
@@ -19,13 +19,12 @@ msgid ""
 msgstr "(Lily) \"Alors c'est bien l'endroit...\""
 
 #: src-en/data/events_sector_nexus.xml.append:19
-#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice/event/text"
 msgstr ""
-"Lily semble complètement imperturbable par le discours du Limace, comme si "
-"tout cela lui était bien connu. \"Alors, c'est bien l'endroit. Pas très "
+"Lily semble complètement imperturbable par le discours de la Limace, comme "
+"si tout cela lui était bien connu. \"Alors, c'est bien l'endroit. Pas très "
 "différent de ce à quoi je m'attendais... Maintenant, si vous voulez bien "
 "m'excuser, j'ai des affaires à régler ici, avec votre employé, et vous ne "
 "vous mettrez PAS en travers de mon chemin.\"\n"
@@ -69,7 +68,6 @@ msgid ""
 msgstr "(Lily) \"Il y a...\""
 
 #: src-en/data/events_sector_nexus.xml.append:61
-#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
 "append:choice/event/text"
@@ -104,7 +102,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_sector_nexus.xml.append:118
-#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_ENTER_GLITCH_LILY_CONTINUE\"]/text"
 msgstr ""
@@ -122,13 +119,12 @@ msgstr ""
 "détruit...\""
 
 #: src-en/data/events_sector_nexus.xml.append:139
-#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/text"
 msgstr ""
-"Etrangère, de quel obssstacle parlez-vous ? Détruit ? Avez-vous la moindre "
-"idée de ccce que vous dites ?"
+"\"Etrangère, de quel obssstacle parlez-vous ? Détruit ? Avez-vous la moindre "
+"idée de ccce que vous dites ?\""
 
 #: src-en/data/events_sector_nexus.xml.append:141
 msgid ""
@@ -243,16 +239,15 @@ msgid ""
 msgstr "Votre héritage restera dans les mémoires."
 
 #: src-en/data/events_sector_nexus.xml.append:236
-#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/text"
 msgstr ""
 "La teinte rouge délirante finit enfin par se dissiper. Vous vous réveillez à "
 "bord de votre vaisseau et vous découvrez que vous êtes seul, hormis le "
-"vaisseau amiral désormais vide de Prime. Avec la disparition de Prime et le "
-"fait qu'Elle ait récupéré les trois fragments de Son pouvoir, il est "
-"probable que le L.A.C. soit désormais trop affaibli pour La combattre. Votre "
-"seul choix à présent est d'attendre l'inévitable."
+"vaisseau désormais vide de Prime. Avec la disparition de Prime et le fait "
+"qu'Elle ait récupéré les trois fragments de Son pouvoir, il est probable que "
+"le L.A.C. soit désormais trop affaibli pour La combattre. Votre seul choix à "
+"présent est d'attendre l'inévitable."
 
 #: src-en/data/events_sector_nexus.xml.append:238
 msgid ""
@@ -260,7 +255,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_sector_nexus.xml.append:240
-#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/choice/event/text"
 msgstr ""
