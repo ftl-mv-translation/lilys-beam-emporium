@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 17:11+0000\n"
+"PO-Revision-Date: 2026-01-04 01:44+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_special_anomalyxmlappend/fr/>\n"
@@ -123,12 +123,11 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_anomaly.xml.append:98
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"ANOMALY_CHAOS_POLICE\"]/text"
 msgstr ""
 "La première chose que vous voyez en observant votre environnement est un "
-"vaisseau qui ressemble à l'Investigateur de la Milice, mais noir comme le "
+"vaisseau qui ressemble à un Investigateur de la Milice, mais noir comme le "
 "vide lui-même et scintillant de couleurs rouges et bleues. Il vous contacte "
 "immédiatement : \"Ici l'unité d'exécution de la Police du Chaos. Soumettez-"
 "vous ainsi que votre vaisseau à une inspection immédiate.\""
@@ -151,7 +150,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_anomaly.xml.append:139
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/text"
 msgstr ""
@@ -239,7 +237,6 @@ msgid ""
 msgstr "Attaquer simplement l'Exécuteur."
 
 #: src-en/data/events_special_anomaly.xml.append:201
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/event/text"
 msgstr "Vous chargez vos armes et vous vous préparez à attaquer l'Exécuteur..."
@@ -283,7 +280,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_anomaly.xml.append:234
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/choice/event/text"
 msgstr ""
@@ -307,7 +303,6 @@ msgid ""
 msgstr "Après cela, l'étrange vaisseau quitte immédiatement les lieux."
 
 #: src-en/data/events_special_anomaly.xml.append:253
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL_HIGH\"]/text"
 msgstr ""
@@ -399,12 +394,11 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_anomaly.xml.append:336
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_FREEMANTIS_HIGH\"]/text"
 msgstr ""
 "\"Et d'après vos dossiers... Vous êtes bel et bien un grand criminel notoire "
-"dans les clans des Mantis Libres !...\"\n"
+"selon les clans des Mantis Libres !...\"\n"
 "\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
 "cela.\""
 
@@ -426,7 +420,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_anomaly.xml.append:360
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_OUTCAST_HIGH\"]/text"
 msgstr ""
@@ -542,11 +535,10 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_anomaly.xml.append:469
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_FREEMANTIS\"]/text"
 msgstr ""
-"\"Et d'après vos dossiers... Vous êtes bel et bien un criminel dans les "
+"\"Et d'après vos dossiers... Vous êtes bel et bien un criminel selon les "
 "clans de Mantis LIbres !...\"\n"
 "\"...C'est pourquoi, excellent travail ! Vous allez être récompensé pour "
 "cela.\""
@@ -557,7 +549,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_anomaly.xml.append:481
-#, fuzzy
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_OUTCAST\"]/text"
 msgstr ""
