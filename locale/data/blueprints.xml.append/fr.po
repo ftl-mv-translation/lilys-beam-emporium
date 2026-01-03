@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 18:49+0000\n"
+"PO-Revision-Date: 2026-01-04 01:44+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/fr/>\n"
@@ -18,7 +18,6 @@ msgid ""
 msgstr "Unité centrale Exonet (V)"
 
 #: src-en/data/blueprints.xml.append:196
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_VERDANT\"]/desc"
 msgstr ""
@@ -32,7 +31,6 @@ msgid ""
 msgstr "Unité centrale Exonet (C)"
 
 #: src-en/data/blueprints.xml.append:205
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_CRIMSON\"]/desc"
 msgstr ""
@@ -47,7 +45,6 @@ msgid ""
 msgstr "Unité centrale Exonet (A)"
 
 #: src-en/data/blueprints.xml.append:214
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_AZURE\"]/desc"
 msgstr ""
@@ -63,7 +60,6 @@ msgid ""
 msgstr "Unité centrale Exonet (R)"
 
 #: src-en/data/blueprints.xml.append:223
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_RADIANT\"]/desc"
 msgstr ""
@@ -71,7 +67,7 @@ msgstr ""
 "Fournit un bouclier énergétique cumulable de 14 couches, un bonus de 6 "
 "points de puissance aux moteurs et à l’ECM, 8 points aux boucliers et aux "
 "armes, et 4 points aux autres systèmes. Fournit également le personnel de "
-"base pour tous les systèmes."
+"base (lvl 1) pour tous les systèmes."
 
 #: src-en/data/blueprints.xml.append:231
 msgid ""
@@ -79,7 +75,6 @@ msgid ""
 msgstr "Unité centrale Exonet (I)"
 
 #: src-en/data/blueprints.xml.append:232
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_IRIDIUM\"]/desc"
 msgstr ""
@@ -87,7 +82,7 @@ msgstr ""
 "Fournit un bouclier énergétique cumulable de 20 couches, un bonus de 8 "
 "points de puissance aux moteurs et à l’ECM, 16 points aux boucliers et aux "
 "armes, et 6 points aux autres systèmes. Fournit également le personnel de "
-"base pour tous les systèmes."
+"base (lvl 2) pour tous les systèmes."
 
 #: src-en/data/blueprints.xml.append:241
 msgid ""
@@ -133,21 +128,20 @@ msgid ""
 msgstr "Postcombustion"
 
 #: src-en/data/blueprints.xml.append:269
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_COMBAT_AFTERBURNER\"]/desc"
 msgstr ""
 "Postcombustion à fusion pour vos moteurs : offre une poussée considérable "
 "mais consomme énormément de carburant.\n"
-"[3 unités de carburant, +20 % d'évasion pendant 60 secondes OU inflige des "
-"dégâts à l'ennemi selon le niveau de vos moteurs]"
+"[3 unités de carburant, +20 % d'évasion pendant 60 secondes OU [Inflige 1 "
+"point de dégâts et déclenche des incendies dans une salle ennemie aléatoire] "
+"un nombre de fois égal à votre niveau de moteur]"
 
 #: src-en/data/blueprints.xml.append:278
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/title"
 msgstr "Résonateur anti-L.A.C."
 
 #: src-en/data/blueprints.xml.append:279
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/desc"
 msgstr ""
 "Cet étrange dispositif semble amener vos armes à résonner avec la "
@@ -189,7 +183,6 @@ msgid ""
 msgstr "E"
 
 #: src-en/data/blueprints.xml.append:315
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ESTROGEN_DISPERSAL\"]/desc"
 msgstr ""
@@ -202,12 +195,11 @@ msgid ""
 msgstr "Bouclier mystérieux"
 
 #: src-en/data/blueprints.xml.append:325
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ADV_ELDRITCH_SHIELDS\"]/desc"
 msgstr ""
 "Une barrière d’énergie chaotique et surnaturelle qui fournit un Super "
-"Bouclier de 20 couches. Vos scanners ne peuvent même pas déterminer d’où "
+"Bouclier de 20 couches. Vos capteurs ne peuvent même pas déterminer d’où "
 "provient la puissance du bouclier."
 
 #: src-en/data/blueprints.xml.append:333
@@ -228,7 +220,6 @@ msgid ""
 msgstr "Énergie Azur"
 
 #: src-en/data/blueprints.xml.append:344
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_AZURE\"]/desc"
 msgstr ""
 "Les membres d'équipage non-Sirènes ennemis à bord du vaisseau voient leur "
@@ -268,12 +259,11 @@ msgid ""
 msgstr "Siphon d'Âme"
 
 #: src-en/data/blueprints.xml.append:372
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_VAMP\"]/desc"
 msgstr ""
-"Les Sirènes se soignent désormais proportionnellement aux dégâts qu'elles "
-"infligent. Cependant, leurs dégâts sont réduits de moitié."
+"Les Sirènes / Harpies se soignent désormais de 1.0 / 2.0 PV/s par ennemi "
+"présent dans la salle, mais leurs dégâts sont réduits de moitié."
 
 #: src-en/data/blueprints.xml.append:379
 msgid ""
@@ -281,7 +271,6 @@ msgid ""
 msgstr "Rêves Colorés"
 
 #: src-en/data/blueprints.xml.append:380
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_BUFF\"]/desc"
 msgstr ""
@@ -296,14 +285,12 @@ msgid ""
 msgstr "Regard Flétrissant"
 
 #: src-en/data/blueprints.xml.append:388
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_DAMAGE\"]/desc"
 msgstr ""
-"Les ennemis directement ciblés par les Sirènes subissent 30 % de dégâts "
-"supplémentaires de toutes les sources et perdent leur immunité au contrôle "
-"mental s'ils en avaient une. N'affecte pas les autres Sirènes ni les êtres "
-"surnaturels."
+"Les ennemis ciblés par les Sirènes subissent 30 % de dégâts supplémentaires "
+"de toutes les sources et perdent leur immunité au contrôle mental s'ils en "
+"avaient une. N'affecte pas les autres Sirènes ni les êtres surnaturels."
 
 #: src-en/data/blueprints.xml.append:395
 msgid ""
@@ -324,12 +311,11 @@ msgid ""
 msgstr "[L] Siphon d'Âme"
 
 #: src-en/data/blueprints.xml.append:407
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_VAMP\"]/desc"
 msgstr ""
-"Les Sirènes se soignent désormais proportionnellement aux dégâts qu'elles "
-"infligent. Cependant, leurs dégâts sont réduits de moitié.\n"
+"Les Sirènes / Harpies se soignent désormais de 1,0 / 2,0 PV/s par ennemi "
+"présent dans la salle, mais leurs dégâts sont réduits de moitié.\n"
 "        \n"
 "[L] -Amélioration de labo externe, fournit son effet mais occupe un "
 "emplacement. Elle ne peut pas être converti en véritable amélioration de "
@@ -342,7 +328,6 @@ msgid ""
 msgstr "[L] Rêves Colorés"
 
 #: src-en/data/blueprints.xml.append:417
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_BUFF\"]/desc"
 msgstr ""
@@ -362,14 +347,13 @@ msgid ""
 msgstr "[L] Regard Flétrissant"
 
 #: src-en/data/blueprints.xml.append:427
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_DAMAGE\"]/desc"
 msgstr ""
-"Les ennemis directement ciblés par les Sirènes subissent 30 % de dégâts "
-"supplémentaires de toutes les sources et perdent leur immunité au contrôle "
-"mental s'ils en avaient une. Cependant, cet effet n'affecte pas les autres "
-"Sirènes ni les êtres surnaturels.\n"
+"Les ennemis ciblés par les Sirènes subissent 30 % de dégâts supplémentaires "
+"de toutes les sources et perdent leur immunité au contrôle mental s'ils en "
+"avaient une. Cependant, cet effet n'affecte pas les autres Sirènes ni les "
+"êtres surnaturels.\n"
 "      \n"
 "[L] -Amélioration de labo externe, fournit son effet mais occupe un "
 "emplacement. Elle ne peut pas être converti en véritable amélioration de "
@@ -403,15 +387,15 @@ msgid ""
 msgstr "Son Renforcement"
 
 #: src-en/data/blueprints.xml.append:456
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_HER_EMPOWERMENT\"]/desc"
 msgstr ""
 "Ce vaisseau est renforcé par Ses pouvoirs surnaturels. Il fonctionnera comme "
-"un auto-vaisseau avec un équipage et des réparations améliorés, réparera "
-"rapidement sa coque, et recevra un bouclier énergétique de 20 points. Votre "
-"équipage surnaturel et Sirène est également renforcé, lui accordant une "
-"résistance aux dégâts et l'immunité aux dégâts environnementaux."
+"un auto-vaisseau avec un équipage et des réparations améliorés (lvl 2), "
+"réparera rapidement sa coque, et recevra un bouclier énergétique de 20 "
+"points. Votre équipage surnaturel et Sirène est également renforcé, lui "
+"accordant une résistance aux dégâts et l'immunité aux dégâts "
+"environnementaux."
 
 #: src-en/data/blueprints.xml.append:463
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_SHIP_HER\"]/title"
@@ -451,7 +435,6 @@ msgid ""
 msgstr "Peut se téléporter n'importe où sur le vaisseau actuel"
 
 #: src-en/data/blueprints.xml.append:482
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/powerList/power[3]"
 msgstr "Maîtrise un vaste arsenal de pouvoirs surnaturels"
@@ -631,7 +614,6 @@ msgid ""
 msgstr "Aiguill-ion Chaîne"
 
 #: src-en/data/blueprints.xml.append:1042
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_CHAIN\"]/desc"
 msgstr ""
@@ -759,7 +741,6 @@ msgid ""
 msgstr "'Sunset' [H]"
 
 #: src-en/data/blueprints.xml.append:1341
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_H\"]/desc"
 msgstr ""
@@ -1101,7 +1082,6 @@ msgid ""
 msgstr "'seringue' [-]"
 
 #: src-en/data/blueprints.xml.append:1908
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/desc"
 msgstr ""
@@ -1222,7 +1202,6 @@ msgid ""
 msgstr "'Edison' [0]"
 
 #: src-en/data/blueprints.xml.append:2341
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/desc"
 msgstr ""
@@ -1243,7 +1222,6 @@ msgid ""
 msgstr "'Edison' [1]"
 
 #: src-en/data/blueprints.xml.append:2380
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/desc"
 msgstr ""
@@ -1263,7 +1241,6 @@ msgid ""
 msgstr "'Edison' [2]"
 
 #: src-en/data/blueprints.xml.append:2419
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/desc"
 msgstr ""
@@ -1283,7 +1260,6 @@ msgid ""
 msgstr "'Edison' [3]"
 
 #: src-en/data/blueprints.xml.append:2457
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/desc"
 msgstr ""
@@ -1303,7 +1279,6 @@ msgid ""
 msgstr "'Edison' [SM]"
 
 #: src-en/data/blueprints.xml.append:2494
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/desc"
 msgstr ""
@@ -1377,14 +1352,14 @@ msgid ""
 msgstr "Réfr. II"
 
 #: src-en/data/blueprints.xml.append:2654
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/desc"
 msgstr ""
 "Un Rayon Aiguillon utilisant une technologie de perforation spécialisée. "
 "Bien qu'incapable de traverser les boucliers de manière classique, il peut "
 "se réfracter à travers eux et atteindre tout de même le vaisseau, au prix "
-"d'une perte de précision. Plus puissant que la version I."
+"d'une perte de précision. Plus puissant que la version I et se divise en un "
+"arc‑en‑ciel de couleurs lors de la réfraction."
 
 #: src-en/data/blueprints.xml.append:2687
 msgid ""
@@ -1397,14 +1372,14 @@ msgid ""
 msgstr "Réfr. II†"
 
 #: src-en/data/blueprints.xml.append:2689
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/desc"
 msgstr ""
 "Un Rayon Aiguillon utilisant une technologie de perforation spécialisée. "
 "Bien qu'incapable de traverser les boucliers de manière classique, il peut "
 "se réfracter à travers eux et atteindre tout de même le vaisseau, au prix "
-"d'une perte de précision. Plus puissant que la version I."
+"d'une perte de précision. Plus puissant que la version I et se divise en un "
+"arc‑en‑ciel de couleurs lors de la réfraction."
 
 #: src-en/data/blueprints.xml.append:2722
 msgid ""
@@ -1522,12 +1497,12 @@ msgid ""
 msgstr "'Réseau' [M]"
 
 #: src-en/data/blueprints.xml.append:2972
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/desc"
 msgstr ""
 "Cette arme est un réseau de 3 rayons aiguillons regroupés, modifiés pour "
-"pouvoir percer les boucliers. Mode actuel : Motif"
+"pouvoir percer les boucliers. Mode actuel : Motif "
+"(ligne verticale ou horizontale avec un espacement de 2 tuiles)"
 
 #: src-en/data/blueprints.xml.append:3006
 msgid ""
@@ -1557,14 +1532,13 @@ msgid ""
 msgstr "'Matrix' [M]"
 
 #: src-en/data/blueprints.xml.append:3047
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/desc"
 msgstr ""
 "Cette arme est un réseau de 9 rayons aiguillons regroupés, modifiés pour "
 "pouvoir percer les boucliers. Peut abattre les boucliers et semer le chaos à "
 "bord du vaisseau ennemi, mais il est encombrant et difficile à viser. Mode "
-"actuel : Motif"
+"actuel : Motif (grille avec un espacement de 2 tuiles)"
 
 #: src-en/data/blueprints.xml.append:3081
 msgid ""
@@ -1577,7 +1551,6 @@ msgid ""
 msgstr "'Matrix' [D]"
 
 #: src-en/data/blueprints.xml.append:3083
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/desc"
 msgstr ""
@@ -1597,7 +1570,6 @@ msgid ""
 msgstr "D-Link"
 
 #: src-en/data/blueprints.xml.append:3132
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/desc"
 msgstr ""
@@ -1616,7 +1588,6 @@ msgid ""
 msgstr "'Quake'"
 
 #: src-en/data/blueprints.xml.append:3215
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/desc"
 msgstr ""
@@ -1687,7 +1658,6 @@ msgid ""
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
 #: src-en/data/blueprints.xml.append:3379
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/descriptionOverride"
 msgstr ""
@@ -1801,7 +1771,6 @@ msgid ""
 msgstr "C.I.W.S."
 
 #: src-en/data/blueprints.xml.append:3657
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/desc"
 msgstr ""
@@ -1851,7 +1820,6 @@ msgid ""
 msgstr "Noyau Verdant"
 
 #: src-en/data/blueprints.xml.append:3763
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/desc"
 msgstr ""
@@ -1899,7 +1867,6 @@ msgid ""
 msgstr "Noyau Crimson"
 
 #: src-en/data/blueprints.xml.append:3802
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/desc"
 msgstr ""
@@ -1947,7 +1914,6 @@ msgid ""
 msgstr "Noyau Azure"
 
 #: src-en/data/blueprints.xml.append:3841
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/desc"
 msgstr ""
@@ -1995,7 +1961,6 @@ msgid ""
 msgstr "Noyau Radiant"
 
 #: src-en/data/blueprints.xml.append:3880
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/desc"
 msgstr ""
@@ -2047,7 +2012,6 @@ msgid ""
 msgstr "Noyau Iridium"
 
 #: src-en/data/blueprints.xml.append:3923
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/desc"
 msgstr ""
@@ -2099,7 +2063,6 @@ msgid ""
 msgstr "'Ira'"
 
 #: src-en/data/blueprints.xml.append:3973
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/desc"
 msgstr ""
@@ -2107,7 +2070,8 @@ msgstr ""
 "matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
 "sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
 "et les réparations.\n"
-"Traverse 1 bouclier, -4 PV/s et x0,5 soins et réparations pour l'équipage."
+"Traverse 1 bouclier, -4 PV/s et x0,5 soins et réparations pour l'équipage.\n"
+"Inflige 1 point de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:4044
 msgid ""
@@ -2120,7 +2084,6 @@ msgid ""
 msgstr "'Angoris'"
 
 #: src-en/data/blueprints.xml.append:4046
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/desc"
 msgstr ""
@@ -2128,7 +2091,8 @@ msgstr ""
 "matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
 "sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
 "et les réparations.\n"
-"Traverse 1 bouclier, -4 PV/s et x0,5 soins et réparations pour l'équipage."
+"Traverse 1 bouclier, -4 PV/s et x0,5 soins et réparations pour l'équipage.\n"
+"Inflige 1 point de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:4117
 msgid ""
@@ -2141,7 +2105,6 @@ msgid ""
 msgstr "'Dolor'"
 
 #: src-en/data/blueprints.xml.append:4119
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/desc"
 msgstr ""
@@ -2150,6 +2113,8 @@ msgstr ""
 "sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
 "et les réparations.\n"
 "Traverse 2 boucliers, -8 PV/s et x0,25 soins et réparations pour l'équipage."
+"\n"
+"Inflige 2 points de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:4191
 msgid ""
@@ -2162,7 +2127,6 @@ msgid ""
 msgstr "'Tormentum'"
 
 #: src-en/data/blueprints.xml.append:4193
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/desc"
 msgstr ""
@@ -2170,22 +2134,32 @@ msgstr ""
 "matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
 "sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
 "et les réparations.\n"
-"Traverse 3 boucliers, -8 PV/s et x0,0 soins et réparations pour l'équipage."
+"Traverse 3 boucliers, -8 PV/s et x0,0 soins et réparations pour l'équipage.\n"
+"Inflige 3 points de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:4265
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA\"]/title"
-msgstr ""
+msgstr "Rayon désintégrateur Chaoschoc \"Fulmen\""
 
 #: src-en/data/blueprints.xml.append:4266
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA\"]/short"
-msgstr ""
+msgstr "'Fulmen'"
 
 #: src-en/data/blueprints.xml.append:4267
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA\"]/desc"
 msgstr ""
+"Tire un rayon d’énergie surnaturel chaotique qui désintègre toute matière "
+"touchée. Applique un effet d’érosion aux salles et des dégâts sur la durée à "
+"tous les membres d’équipage touchés, tout en réduisant leur capacité de soin "
+"et de réparation. Applique également un effet de chaoschoc aux systèmes, "
+"ralentissant la dissipation des effets ioniques à 50 % de la vitesse normale."
+"\n"
+"Perce 2 boucliers, inflige -5 PV/s et réduit les soins et réparations des "
+"équipages à ×0,25.\n"
+"Inflige 1 point de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:4357
 msgid ""
@@ -2198,7 +2172,6 @@ msgid ""
 msgstr "'Arde'"
 
 #: src-en/data/blueprints.xml.append:4359
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/desc"
 msgstr ""
@@ -2209,7 +2182,8 @@ msgstr ""
 "blesser n'importe quel type d'équipage "
 "(à une vitesse supérieure ou égale à 1,5 fois la vitesse de base) et brûlant "
 "sans oxygène.\n"
-"Traverse 1 bouclier, -3 PV/s et x0,5 soins et réparations pour l'équipage."
+"Traverse 1 bouclier, -3 PV/s et x0,5 soins et réparations pour l'équipage.\n"
+"Inflige 0 point de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:4509
 msgid ""
@@ -2222,7 +2196,6 @@ msgid ""
 msgstr "'Impedio'"
 
 #: src-en/data/blueprints.xml.append:4511
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/desc"
 msgstr ""
@@ -2233,7 +2206,8 @@ msgstr ""
 "chaotique, empêchant les membres d'équipage dans les pièces touchées de "
 "manœuvrer, combattre, saboter ou réparer, et réduit leur vitesse de "
 "déplacement à 0,25.\n"
-"Traverse 1 bouclier, -3 PVs et x0,5 soins et réparations, pour l'équipage."
+"Traverse 1 bouclier, -3 PVs et x0,5 soins et réparations, pour l'équipage.\n"
+"Inflige 0 point de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:4708
 msgid ""
@@ -2246,7 +2220,6 @@ msgid ""
 msgstr "'Ira'™"
 
 #: src-en/data/blueprints.xml.append:4710
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/desc"
 msgstr ""
@@ -2254,7 +2227,8 @@ msgstr ""
 "matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
 "sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
 "et les réparations.\n"
-"Traverse 3 boucliers, -4 PV/s et x0,5 soins et réparations pour l'équipage."
+"Traverse 3 boucliers, -4 PV/s et x0,5 soins et réparations pour l'équipage.\n"
+"Inflige 1 point de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:4786
 msgid ""
@@ -2267,7 +2241,6 @@ msgid ""
 msgstr "'Angoris'™"
 
 #: src-en/data/blueprints.xml.append:4788
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/desc"
 msgstr ""
@@ -2275,7 +2248,8 @@ msgstr ""
 "matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
 "sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
 "et les réparations.\n"
-"Traverse 3 boucliers, -4 PV/s et x0,5 soins et réparations pour l'équipage."
+"Traverse 3 boucliers, -4 PV/s et x0,5 soins et réparations pour l'équipage.\n"
+"Inflige 1 point de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:4864
 msgid ""
@@ -2288,7 +2262,6 @@ msgid ""
 msgstr "'Dolor'™"
 
 #: src-en/data/blueprints.xml.append:4866
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/desc"
 msgstr ""
@@ -2297,6 +2270,8 @@ msgstr ""
 "sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
 "et les réparations.\n"
 "Traverse 4 boucliers, -8 PV/s et x0,25 soins et réparations pour l'équipage."
+"\n"
+"Inflige 2 points de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:4943
 msgid ""
@@ -2309,7 +2284,6 @@ msgid ""
 msgstr "'Tormentum'™"
 
 #: src-en/data/blueprints.xml.append:4945
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/desc"
 msgstr ""
@@ -2317,22 +2291,32 @@ msgstr ""
 "matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
 "sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
 "et les réparations.\n"
-"Traverse 5 boucliers, -4 PV/s et x0,0 soins et réparations pour l'équipage."
+"Traverse 5 boucliers, -8 PV/s et x0,0 soins et réparations pour l'équipage.\n"
+"Inflige 3 points de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:5022
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_CHAOS\"]/title"
-msgstr ""
+msgstr "Rayon désintégrateur Chaoschoc Chaotique \"Fulmen\""
 
 #: src-en/data/blueprints.xml.append:5023
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_CHAOS\"]/short"
-msgstr ""
+msgstr "'Fulmen'™"
 
 #: src-en/data/blueprints.xml.append:5024
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_CHAOS\"]/desc"
 msgstr ""
+"Tire un rayon d’énergie surnaturel chaotique qui désintègre toute matière "
+"touchée. Applique un effet d’érosion aux salles et des dégâts sur la durée à "
+"tous les membres d’équipage touchés, tout en réduisant leur capacité de soin "
+"et de réparation. Applique également un effet de chaoschoc aux systèmes, "
+"ralentissant la dissipation des effets ioniques à 50 % de la vitesse normale."
+"\n"
+"Perce 4 boucliers, inflige -5 PV/s et réduit les soins et réparations des "
+"équipages à ×0,25.\n"
+"Inflige 1 point de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:5119
 msgid ""
@@ -2345,7 +2329,6 @@ msgid ""
 msgstr "'Arde'™"
 
 #: src-en/data/blueprints.xml.append:5121
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/desc"
 msgstr ""
@@ -2356,7 +2339,8 @@ msgstr ""
 "blesser n'importe quel type d'équipage "
 "(à une vitesse supérieure ou égale à 1,5 fois la vitesse de base) et brûlant "
 "sans oxygène.\n"
-"Traverse 3 boucliers, -3 PV/s et x0,5 soins et réparations pour l'équipage."
+"Traverse 3 boucliers, -3 PV/s et x0,5 soins et réparations pour l'équipage.\n"
+"Inflige 0 point de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:5276
 msgid ""
@@ -2369,7 +2353,6 @@ msgid ""
 msgstr "'Impedio'™"
 
 #: src-en/data/blueprints.xml.append:5278
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/desc"
 msgstr ""
@@ -2380,7 +2363,8 @@ msgstr ""
 "chaotique, empêchant les membres d'équipage dans les pièces touchées de "
 "manœuvrer, combattre, saboter ou réparer, et réduit leur vitesse de "
 "déplacement à 0,25.\n"
-"Traverse 3 boucliers, -3 PVs et x0,5 soins et réparations, pour l'équipage."
+"Traverse 3 boucliers, -3 PVs et x0,5 soins et réparations, pour l'équipage.\n"
+"Inflige 0 point de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:5480
 msgid ""
@@ -2393,7 +2377,6 @@ msgid ""
 msgstr "€ 'Ira'"
 
 #: src-en/data/blueprints.xml.append:5482
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/desc"
 msgstr ""
@@ -2401,7 +2384,8 @@ msgstr ""
 "matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
 "sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
 "et les réparations.\n"
-"Traverse 3 boucliers, -6 PVs et x0,25 soins et réparations pour l'équipage."
+"Traverse 3 boucliers, -6 PVs et x0,25 soins et réparations pour l'équipage.\n"
+"Inflige 2 points de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:5558
 msgid ""
@@ -2414,7 +2398,6 @@ msgid ""
 msgstr "€ 'Angoris'"
 
 #: src-en/data/blueprints.xml.append:5560
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/desc"
 msgstr ""
@@ -2422,7 +2405,8 @@ msgstr ""
 "matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
 "sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
 "et les réparations.\n"
-"Traverse 3 boucliers, -6 PVs et x0,25 soins et réparations pour l'équipage."
+"Traverse 3 boucliers, -6 PVs et x0,25 soins et réparations pour l'équipage.\n"
+"Inflige 2 points de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:5636
 msgid ""
@@ -2435,7 +2419,6 @@ msgid ""
 msgstr "€ 'Dolor'"
 
 #: src-en/data/blueprints.xml.append:5638
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/desc"
 msgstr ""
@@ -2443,7 +2426,8 @@ msgstr ""
 "matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
 "sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
 "et les réparations.\n"
-"Traverse 4 boucliers, -12 PVs et x0,0 soins et réparations pour l'équipage."
+"Traverse 4 boucliers, -12 PVs et x0,0 soins et réparations pour l'équipage.\n"
+"Inflige 3 points de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:5715
 msgid ""
@@ -2456,7 +2440,6 @@ msgid ""
 msgstr "€ 'Tormentum'"
 
 #: src-en/data/blueprints.xml.append:5717
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/desc"
 msgstr ""
@@ -2464,22 +2447,32 @@ msgstr ""
 "matière touchée. Applique l'effet Érosion aux pièces et inflige des dégâts "
 "sur la durée à tout membre d'équipage touché, tout en ralentissant les soins "
 "et les réparations.\n"
-"Traverse 5 boucliers, -6 PVs et x0,25 soins et réparations pour l'équipage."
+"Traverse 5 boucliers, -12 PVs et x0,0 soins et réparations pour l'équipage.\n"
+"Inflige 4 points de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:5803
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_ELITE\"]/title"
-msgstr ""
+msgstr "Rayon désintégrateur Chaoschoc Elite \"Fulmen\""
 
 #: src-en/data/blueprints.xml.append:5804
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_ELITE\"]/short"
-msgstr ""
+msgstr "€ 'Fulmen'"
 
 #: src-en/data/blueprints.xml.append:5805
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_ELITE\"]/desc"
 msgstr ""
+"Tire un rayon d’énergie surnaturel chaotique qui désintègre toute matière "
+"touchée. Applique un effet d’érosion aux salles et des dégâts sur la durée à "
+"tous les membres d’équipage touchés, tout en réduisant leur capacité de soin "
+"et de réparation. Applique également un effet de chaoschoc aux systèmes, "
+"ralentissant la dissipation des effets ioniques à 50 % de la vitesse normale."
+"\n"
+"Perce 4 boucliers, inflige -8 PV/s et réduit les soins et réparations des "
+"équipages à ×0,0.\n"
+"Inflige 2 points de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:5896
 msgid ""
@@ -2492,7 +2485,6 @@ msgid ""
 msgstr "€ 'Arde'"
 
 #: src-en/data/blueprints.xml.append:5898
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/desc"
 msgstr ""
@@ -2503,7 +2495,8 @@ msgstr ""
 "blesser n'importe quel type d'équipage "
 "(à une vitesse trois fois supérieure à la vitesse de base ou plus) et "
 "brûlant sans oxygène.\n"
-"Traverse 3 boucliers, -4 PVs et x0,25 soins et réparations pour l'équipage."
+"Traverse 3 boucliers, -4 PVs et x0,25 soins et réparations pour l'équipage.\n"
+"Inflige 1 point de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:6053
 msgid ""
@@ -2516,7 +2509,6 @@ msgid ""
 msgstr "€ 'Impedio'"
 
 #: src-en/data/blueprints.xml.append:6055
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/desc"
 msgstr ""
@@ -2526,7 +2518,8 @@ msgstr ""
 "et les réparations. De plus, cela applique également l'effet verrouillage "
 "chaotique, empêchant les membres d'équipage dans les pièces touchées de se "
 "déplacer, manœuvrer, combattre, saboter ou réparer.\n"
-"Traverse 3 boucliers, -4 PVs et x0,25 soins et réparations pour l'équipage."
+"Traverse 3 boucliers, -4 PVs et x0,25 soins et réparations pour l'équipage.\n"
+"Inflige 1 point de dégâts à la coque dans les salles éventrées."
 
 #: src-en/data/blueprints.xml.append:6286
 msgid ""
@@ -2539,7 +2532,6 @@ msgid ""
 msgstr "Ravisseur"
 
 #: src-en/data/blueprints.xml.append:6288
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/desc"
 msgstr ""
@@ -2564,7 +2556,6 @@ msgid ""
 msgstr "Kaléidoscope"
 
 #: src-en/data/blueprints.xml.append:6317
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/desc"
 msgstr ""
@@ -2590,7 +2581,6 @@ msgid ""
 msgstr "Chaosfire"
 
 #: src-en/data/blueprints.xml.append:6350
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/desc"
 msgstr ""
@@ -2816,7 +2806,6 @@ msgid ""
 msgstr "'Seuss'™"
 
 #: src-en/data/blueprints.xml.append:6885
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/desc"
 msgstr ""
@@ -2842,7 +2831,6 @@ msgid ""
 msgstr "'Lame Azur'"
 
 #: src-en/data/blueprints.xml.append:6983
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/desc"
 msgstr ""
@@ -2850,9 +2838,10 @@ msgstr ""
 "Cristalienne. Elle perce 3 boucliers, infligeant 1 point de dégât de "
 "système, 1 point de dégât ionique et 30 dégâts à l'équipage "
 "(ennemi uniquement), tout en verrouillant les pièces. Les ennemis dans ces "
-"pièces seront affectés par l'effet de statut gel, tandis que les alliés "
-"gagneront la capacité de traverser les portes et un soin mineur. "
-"[Temps de recharge par défaut : 40]"
+"pièces seront affectés par l'effet de statut gel (réduit de moitié leur "
+"vitesse de déplacement et de réparation et empêche l’utilisation de leurs "
+"capacités actives), tandis que les alliés gagneront la capacité de traverser "
+"les portes et un soin mineur (1 pv/s). [Temps de recharge par défaut : 40]"
 
 #: src-en/data/blueprints.xml.append:7116
 msgid ""
@@ -2865,11 +2854,10 @@ msgid ""
 msgstr "€ 'Tormentum' :)"
 
 #: src-en/data/blueprints.xml.append:7118
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/desc"
 msgstr ""
-"Exploitant Sa puissance surnaturelle, cette arme est un rayon dévastateur "
+"Exploitant Sa puissance surnaturelle, cette arme tire un rayon dévastateur "
 "d'énergie surnaturelle chaotique qui provoque la désintégration rapide de "
 "toute matière touchée. Elle applique un effet d'Érosion aux pièces et des "
 "dégâts sur la durée à tout membre d'équipage touché, tout en empêchant "
@@ -2943,14 +2931,13 @@ msgid ""
 msgstr "Thelxiope"
 
 #: src-en/data/blueprints.xml.append:7633
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/desc"
 msgstr ""
-"Un vaisseau de transport Sirène entièrement restauré et réaménagé, et "
-"désormais un bâtiment prêt au combat. Son Artillerie à Rayon unique étourdit "
-"et enlève tout membre d'équipage touché, en faisant une proie facile - l'une "
-"des tactiques favorites des Sirènes."
+"Un vaisseau de transport Sirène entièrement restauré et réaménagé, désormais "
+"prêt au combat. Son Artillerie à Rayon unique étourdit et enlève tout membre "
+"d'équipage touché, en faisant une proie facile - l'une des tactiques "
+"favorites des Sirènes."
 
 #: src-en/data/blueprints.xml.append:7712
 msgid ""
@@ -2963,7 +2950,6 @@ msgid ""
 msgstr "Parthenope"
 
 #: src-en/data/blueprints.xml.append:7714
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/desc"
 msgstr ""
@@ -2981,7 +2967,6 @@ msgid ""
 msgstr "Himerope"
 
 #: src-en/data/blueprints.xml.append:7798
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/desc"
 msgstr ""
@@ -3019,7 +3004,6 @@ msgid ""
 msgstr "Étoile du Néant"
 
 #: src-en/data/blueprints.xml.append:7958
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/desc"
 msgstr ""
