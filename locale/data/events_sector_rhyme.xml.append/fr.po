@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-04 18:49+0000\n"
+"PO-Revision-Date: 2026-01-04 01:44+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_sector_rhymexmlappend/fr/>\n"
@@ -57,7 +57,6 @@ msgid ""
 msgstr "(Lily) Il y en a un autre."
 
 #: src-en/data/events_sector_rhyme.xml.append:37
-#, fuzzy
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"HER_NOFIGHT_LILY\"]/choice/event/choice[@req=\"LILY_PATRONAGE\"]/event/text"
 msgstr ""
@@ -112,7 +111,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_sector_rhyme.xml.append:111
-#, fuzzy
 msgid "data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_REAL\"]/text"
 msgstr ""
 "Avant même que vous n'ayez le temps de réagir, une lumière aveuglante "
@@ -125,14 +123,14 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_sector_rhyme.xml.append:168
-#, fuzzy
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_REAL\"]/choice/event/text"
 msgstr ""
-"Le bombardement intense de chaleur et de particules exotiques détruit "
-"complètement l'engin du L.A.C, ainsi que la majorité de leur flotte...\n"
-"Votre coque est critique, les systèmes ont cessé de fonctionner et il semble "
-"que ce soit véritablement la fin..."
+"Le bombardement intense de chaleur, de particules exotiques et le flot "
+"extrême d’informations sortant du portail détruisent complètement l’appareil "
+"L.A.C. et la majorité de leur flotte...\n"
+"Votre coque est critique, vos systèmes ont cessé de fonctionner, et il "
+"semble que ce soit vraiment la fin..."
 
 #: src-en/data/events_sector_rhyme.xml.append:171
 msgid ""
@@ -152,7 +150,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_sector_rhyme.xml.append:184
-#, fuzzy
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_OFFER\"]/choice/event/text"
 msgstr ""
