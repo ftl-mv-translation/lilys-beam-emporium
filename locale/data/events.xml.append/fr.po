@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-04 01:44+0000\n"
+"PO-Revision-Date: 2026-01-10 18:13+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataeventsxmlappend/fr/>\n"
@@ -192,8 +192,8 @@ msgstr "Continuer..."
 #: src-en/data/events.xml.append:247
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/text"
 msgstr ""
-"\"Et j’espère pouvoir me joindre à vous pour votre périple ! Je vous "
-"accompagnerais jusqu’à ce qu’il soit terminé ! Ça ne vous dérangerait pas ?\""
+"\"Et j'espère pouvoir me joindre à vous pour votre périple ! Je vous "
+"accompagnerais jusqu'à ce qu'il soit terminé ! Ça ne vous dérangerait pas ?\""
 
 #: src-en/data/events.xml.append:249
 msgid ""
