@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-04 01:44+0000\n"
+"PO-Revision-Date: 2026-01-10 18:13+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datahyperspace-xml-append/fr/>\n"
@@ -626,9 +626,9 @@ msgstr "Recevez la Faveur de ??? de Thest."
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SIREN\"]/description"
 msgstr ""
-"Révéler une Sirène à Thest. Tant que l’effet est actif, les membres d’"
-"équipage Sirène gagnent la vision des salles adjacentes, sont immunisés aux "
-"étourdissements et ne perdent aucune compétence lors du clonage."
+"Révéler une Sirène à Thest. Tant que l'effet est actif, les membres "
+"d'équipage Sirène gagnent la vision des salles adjacentes, sont immunisés "
+"aux étourdissements et ne perdent aucune compétence lors du clonage."
 
 #: src-en/data/hyperspace.xml.append:3462
 msgid ""
@@ -654,7 +654,7 @@ msgstr "Recevez la Faveur de ??? de Thest."
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/description"
 msgstr ""
-"Montrer l’Avatar de Lily à Thest. Tant que l’effet est actif, la valeur de "
+"Montrer l'Avatar de Lily à Thest. Tant que l'effet est actif, la valeur de "
 "stabilité de la partie est fixée à 1."
 
 #: src-en/data/hyperspace.xml.append:3473
@@ -708,8 +708,8 @@ msgstr "Recevez la Bénédiction de ??? de Wakeson."
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/description"
 msgstr ""
-"Montrer un rayon désintégrateur à Wakeson. Tant que l’effet est actif, les "
-"membres d’équipage ennemis perdent 25 % de vitesse de soin et de réparation, "
+"Montrer un rayon désintégrateur à Wakeson. Tant que l'effet est actif, les "
+"membres d'équipage ennemis perdent 25 % de vitesse de soin et de réparation, "
 "et subissent 2 PV/s supplémentaires de dégâts à bord de votre vaisseau."
 
 #: src-en/data/hyperspace.xml.append:3497
