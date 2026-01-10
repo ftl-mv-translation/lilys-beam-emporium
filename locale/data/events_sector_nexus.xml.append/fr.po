@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-04 01:44+0000\n"
+"PO-Revision-Date: 2026-01-10 18:13+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/dataevents_sector_nexusxmlappend/fr/>\n"
@@ -284,7 +284,7 @@ msgstr ""
 #: src-en/data/events_sector_nexus.xml.append:260
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_DEPART_LILY\"]/text"
-msgstr "« Alors, vous avez fait vos valises pour le voyage ?\""
+msgstr "\"Alors, vous avez fait vos valises pour le voyage ?\""
 
 #: src-en/data/events_sector_nexus.xml.append:262
 msgid ""
