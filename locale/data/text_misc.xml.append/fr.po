@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-04 01:44+0000\n"
+"PO-Revision-Date: 2026-01-10 18:13+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datatext_miscxmlappend/fr/>\n"
@@ -243,8 +243,8 @@ msgstr "\"Comme c'est pathétique...\""
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext1\"]"
 msgstr ""
 "Un vaisseau noir comme la nuit s'approche, et sans un mot, commence à "
-"charger ses armes. Mais, dès qu’ils se rendent compte que Lily est avec "
-"vous, ils s’arrêtent rapidement."
+"charger ses armes. Mais, dès qu'ils se rendent compte que Lily est avec "
+"vous, ils s'arrêtent rapidement."
 
 #: src-en/data/text_misc.xml.append:72
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext2\"]"
