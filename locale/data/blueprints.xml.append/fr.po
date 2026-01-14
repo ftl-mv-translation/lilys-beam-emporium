@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-11 18:52+0000\n"
+"PO-Revision-Date: 2026-01-14 19:45+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datablueprintsxmlappend/fr/>\n"
@@ -1690,7 +1690,7 @@ msgstr ""
 "Longueur du rayon : 25\n"
 "Vitesse du rayon : 6\n"
 "\n"
-"Chances de trou dans la coque : 20 / 50 / 80 / 110 %\n"
+"Chances de brèche : 20 / 50 / 80 / 110 %\n"
 "\n"
 "Prix par défaut : 70~   -   Prix de vente : 35~"
 
@@ -1711,7 +1711,7 @@ msgstr ""
 "Longueur du rayon : 25\n"
 "Vitesse du rayon : 6\n"
 "\n"
-"Chances de trou dans la coque : 20 / 50 / 80 / 110 %"
+"Chances de brèche : 20 / 50 / 80 / 110 %"
 
 #: src-en/data/blueprints.xml.append:3454
 msgid ""
