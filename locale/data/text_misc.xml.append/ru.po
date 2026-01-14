@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-05 03:40+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2026-01-14 19:45+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "lilys-beam-emporium/datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -137,7 +137,7 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:31
 msgid "data/text_misc.xml.append$//text[@name=\"loot_zoltan_2\"]"
 msgstr ""
-"ДОБЫЧА ЗОЛТАН\n"
+"ПРОТОТИП ЗОЛТАНОВ\n"
 "Наносит дополнительный урон системам\n"
 "-1 секунда перезарядки, +20% шанс пробоины"
 
