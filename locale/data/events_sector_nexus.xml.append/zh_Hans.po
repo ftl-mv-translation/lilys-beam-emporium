@@ -1,21 +1,40 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-02-23 07:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/lilys-beam-emporium/dataevents_sector_nexusxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_nexus.xml.append:17
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（莉莉）“所以，这里果然就是那个地方……”"
 
 #: src-en/data/events_sector_nexus.xml.append:19
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice/event/text"
 msgstr ""
+"莉莉似乎完全不为蛞蝓的言论所动，仿佛这一切她早已熟知。“所以，这里果然就是那个"
+"地方。和我的预期没什么不同……现在，失陪了，我在这儿有事要办，找你的雇主，而你—"
+"—不会妨碍我的。”\n"
+"\t\t\n"
+"G-凡显然被她的发言弄糊涂了。\n"
+"“呃……你在这儿有生意？……和本尊本人？！恐怕我不知道你是谁……也……你在普莱姆面前更"
+"没机会……除非……？如果她决定……扭转局面，把你送到这儿来……不……我拒绝相信。”\n"
+"\n"
+"“而你指着我们舰船的那可爱的‘玩具’，也帮不了你什么——”\n"
+"\n"
+"\n"
+"莉莉只是咧嘴一笑，打了个响指，红蓝能量在她指间闪过。"
 
 #: src-en/data/events_sector_nexus.xml.append:27
 #, fuzzy
@@ -28,7 +47,7 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice/event/choice/event/text"
-msgstr ""
+msgstr "刹那间，你系统的所有限制瞬间解除……准备战斗！"
 
 #: src-en/data/events_sector_nexus.xml.append:46
 #, fuzzy
@@ -41,13 +60,18 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（莉莉）“还有……”"
 
 #: src-en/data/events_sector_nexus.xml.append:61
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
 "append:choice/event/text"
 msgstr ""
+"莉莉对蛞蝓的言论似乎毫不在意，眼中却闪过异常严厉的神色。\n"
+"\n"
+"“凭我奉行她的怪异权威，准备好被彻底抹除吧，害虫。”\n"
+"\n"
+"莉莉只是咧嘴一笑，打了个响指，指间迸发出蓝红交织的能量闪光。"
 
 #: src-en/data/events_sector_nexus.xml.append:67
 #, fuzzy
@@ -60,7 +84,7 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
 "append:choice/event/choice/event/text"
-msgstr ""
+msgstr "刹那间，你系统的所有限制瞬间解除……准备战斗！"
 
 #: src-en/data/events_sector_nexus.xml.append:86
 #, fuzzy
@@ -72,31 +96,34 @@ msgstr "继续。"
 #: src-en/data/events_sector_nexus.xml.append:118
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_ENTER_GLITCH_LILY_CONTINUE\"]/text"
-msgstr ""
+msgstr "令你惊讶的是，G-凡的系统突然开始失灵！你怀疑莉莉的行动将干扰信号重新导向了他"
+"！看他这副模样，似乎暂时不会构成什么威胁了！"
 
 #: src-en/data/events_sector_nexus.xml.append:137
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（莉莉）“你不过是我们目标路上的绊脚石，理应被摧毁。——”"
 
 #: src-en/data/events_sector_nexus.xml.append:139
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“陌生～～人，你在说什么绊脚石？被摧毁？你知不知道自己到底在说什～～么？”"
 
 #: src-en/data/events_sector_nexus.xml.append:141
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/text"
-msgstr ""
+msgstr "“哦，我完全知道自己在做什么、在说什么——就算是你，也无法永远抵挡那注定之事，本"
+"尊——”"
 
 #: src-en/data/events_sector_nexus.xml.append:143
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/text"
-msgstr ""
+msgstr "希尔凡本尊听闻莉莉的回答，神情颇为震惊。“我绝不相信这种事……但若你当真效忠于她"
+"……那我别无选择，只能立刻将你消灭！”"
 
 #: src-en/data/events_sector_nexus.xml.append:145
 #, fuzzy
@@ -111,7 +138,8 @@ msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
 "@lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "随着本尊那艘庞大的舰船逼近，你闭上眼睛，祈求援军的到来。但援军不会来了。这场"
+"战斗，你只能孤军奋战。"
 
 #: src-en/data/events_sector_nexus.xml.append:153
 #, fuzzy
@@ -135,6 +163,12 @@ msgid ""
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
 "@lvl=\"1\"]/event/text"
 msgstr ""
+"随着本尊那艘庞大的舰船逼近，一阵激光齐射从你身后爆发，噼啪作响地击打在他的护"
+"盾上！一艘熟悉的舰船跃入……是希尔凡——你的希尔凡！“陌生～～人，援军已到！”来不"
+"及多言，你必须战斗！你不确定希尔凡能发挥多大作用，但如果能将你们的火力集中，"
+"或许还有一线生机！\n"
+"\n"
+"[要命令希尔凡发射齐射，请使用位于“切换装备”按钮下方的新按钮。]"
 
 #: src-en/data/events_sector_nexus.xml.append:171
 msgid ""
@@ -165,6 +199,11 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"SHE_IS_DEFEATED_NOT\"]/text"
 msgstr ""
+"令你惊讶的是，一艘装备着巨型光束武器的隐形舰船在附近解除隐形。\n"
+"“可惜，你临阵的背叛只会给你自己带来厄运，变元者——”\n"
+"“唉，甚至没留下丝毫改变，因为在这件事上，我正是B计划——”\n"
+"“来填补你的失败——”\n"
+"“不过，顺便说一句，谢谢你打开了传送门，把我直接带到了这里——”"
 
 #: src-en/data/events_sector_nexus.xml.append:210
 #, fuzzy
@@ -175,7 +214,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_nexus.xml.append:222
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_ENDING_NOTGOOD\"]/text"
-msgstr ""
+msgstr "随着希尔凡本尊的消失，她被释放了。你只剩下须臾片刻，便将迎来终结。"
 
 #: src-en/data/events_sector_nexus.xml.append:226
 msgid ""
@@ -186,6 +225,9 @@ msgstr "你的遗产将被铭记。"
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/text"
 msgstr ""
+"那疯狂的红色色调终于消退，你在自己的舰船上醒来，发现自己孤身一人，只剩下本尊"
+"那艘已空无一人的舰船。随着普莱姆的消失，她也已收回她全部三块力量碎片，C.E.L. "
+"恐怕已无力与她抗衡。你唯一的选择，就是等待那不可避免的结局。"
 
 #: src-en/data/events_sector_nexus.xml.append:238
 #, fuzzy
@@ -197,6 +239,13 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/choice/event/text"
 msgstr ""
+"“也许未必——”\n"
+"你注意到莉莉正在与你通讯。\n"
+"“她赢了。我们赢了！——”——你从未听过她如此兴奋。\n"
+"“对了，干得漂亮，一路带着那个矮人来到这里，还击败了本尊！——”\n"
+"“她大概已经返回她（也是我）的家乡星团了，很可能去集结力量，对联结点和 C.E.L. "
+"的残余势力展开攻势。太令人激动了——”\n"
+"“不过我们可不想留在这儿，所以，来吧，变元者，别失礼了，我们也去加入她——”"
 
 #: src-en/data/events_sector_nexus.xml.append:247
 #, fuzzy
@@ -207,12 +256,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_nexus.xml.append:249
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "“哦，顺便一提，趁现在，随便拿点东西吧——”"
 
 #: src-en/data/events_sector_nexus.xml.append:260
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_DEPART_LILY\"]/text"
-msgstr ""
+msgstr "“那么，准备好出发了吗？——”"
 
 #: src-en/data/events_sector_nexus.xml.append:262
 msgid ""
