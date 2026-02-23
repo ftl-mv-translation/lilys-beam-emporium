@@ -30,7 +30,7 @@ msgstr "阿奇"
 
 #: src-en/data/hyperspace.xml.append:283
 msgid "data/hyperspace.xml.append$//siren[@name=\"Noemi\"]/@name"
-msgstr ""
+msgstr "诺艾米"
 
 #: src-en/data/hyperspace.xml.append:284
 msgid "data/hyperspace.xml.append$//crystal[@name=\"Sapphire\"]/@name"
