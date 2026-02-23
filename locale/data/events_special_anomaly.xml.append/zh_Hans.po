@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-23 07:44+0000\n"
+"PO-Revision-Date: 2026-02-24 06:58+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-beam-emporium/dataevents_special_anomalyxmlappend/zh_Hans/>\n"
@@ -56,13 +56,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "（“苏斯”™）也许吧。"
 
 #: src-en/data/events_special_anomaly.xml.append:37
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[3]/event/text"
-msgstr ""
+msgstr "“哦……谢谢你通知我。这件武器确实……蕴含着怪异之力。恐怕我得……没收它了，不过我会"
+"给予公平的补偿。现在，我们继续吧。”"
 
 #: src-en/data/events_special_anomaly.xml.append:43
 #, fuzzy
@@ -75,13 +76,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "（€“苏斯”）也许吧。"
 
 #: src-en/data/events_special_anomaly.xml.append:51
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[4]/event/text"
-msgstr ""
+msgstr "“哦……谢谢你通知我。这件武器确实……蕴含着怪异之力。恐怕我得……没收它了，不过我会"
+"给予公平的补偿。现在，我们继续吧。”"
 
 #: src-en/data/events_special_anomaly.xml.append:57
 #, fuzzy
@@ -94,13 +96,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "（€“苏斯”）也许吧。"
 
 #: src-en/data/events_special_anomaly.xml.append:65
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[5]/event/text"
-msgstr ""
+msgstr "“哦……谢谢你通知我。这件武器确实……蕴含着怪异之力。恐怕我得……没收它了，不过我会"
+"给予公平的补偿。现在，我们继续吧。”"
 
 #: src-en/data/events_special_anomaly.xml.append:71
 #, fuzzy
@@ -113,6 +116,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"ANOMALY_CHAOS_POLICE\"]/text"
 msgstr ""
+"你环顾四周，第一眼看到的是一艘看似盟卫调查船的舰船，但它漆黑如虚空，闪烁着红"
+"蓝光芒。他们立刻联系你：“这里是混沌执法部队。立刻让你和你的舰船接受检查。”"
 
 #: src-en/data/events_special_anomaly.xml.append:102
 #, fuzzy
@@ -124,6 +129,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"ANOMALY_CHAOS_POLICE\"]/choice/event/text"
 msgstr ""
+"“让我们看看你犯了什么罪……”\n"
+"飞船开始某种扫描，你感到一种难以承受的恐惧和不安。"
 
 #: src-en/data/events_special_anomaly.xml.append:107
 #, fuzzy
@@ -135,16 +142,18 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/text"
 msgstr ""
+"“根据你的记录……等等，你的记录几乎是清白的！”\n"
+"“这意味着你和你的船将被逮捕！”"
 
 #: src-en/data/events_special_anomaly.xml.append:142
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[1]/text"
-msgstr ""
+msgstr "尝试贿赂执法者。[50~]"
 
 #: src-en/data/events_special_anomaly.xml.append:144
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你试图用一些废料贿赂执法官，希望这些破烂能让他放你一马……"
 
 #: src-en/data/events_special_anomaly.xml.append:149
 #, fuzzy
@@ -156,6 +165,11 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"“这是什么？贿赂？你不知道贿赂是犯罪吗？！”\n"
+"\n"
+"“……所以，干得好！你会因此得到奖励的。”\n"
+"\n"
+"“记住要一直犯罪，制造更多混乱！哈哈！”"
 
 #: src-en/data/events_special_anomaly.xml.append:160
 #, fuzzy
@@ -166,17 +180,17 @@ msgstr "继续。"
 #: src-en/data/events_special_anomaly.xml.append:162
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "话音刚落，那艘奇怪的飞船便立刻离开了。"
 
 #: src-en/data/events_special_anomaly.xml.append:172
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "（先进武器）威胁执法官。"
 
 #: src-en/data/events_special_anomaly.xml.append:174
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[@req=\"weapons\"]/event/text"
-msgstr ""
+msgstr "你试图用你的先进武器威胁执法官，让他别管你……"
 
 #: src-en/data/events_special_anomaly.xml.append:176
 #, fuzzy
@@ -188,6 +202,11 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[@req=\"weapons\"]/event/choice/event/text"
 msgstr ""
+"\"你是在威胁我吗！？你不知道威胁执法者是犯罪吗？！\"\n"
+"\n"
+"\"……所以，干得好！你会因此得到奖励的。\"\n"
+"\n"
+"\"记住要一直犯罪，制造更多混乱！哈哈！\""
 
 #: src-en/data/events_special_anomaly.xml.append:186
 #, fuzzy
@@ -198,17 +217,17 @@ msgstr "继续。"
 #: src-en/data/events_special_anomaly.xml.append:188
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[@req=\"weapons\"]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "话音刚落，那艘奇怪的飞船便立刻离开了。"
 
 #: src-en/data/events_special_anomaly.xml.append:198
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/text"
-msgstr ""
+msgstr "直接攻击执法者。"
 
 #: src-en/data/events_special_anomaly.xml.append:201
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你为武器充能，准备攻击执法官……"
 
 #: src-en/data/events_special_anomaly.xml.append:203
 #, fuzzy
@@ -220,6 +239,11 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/event/choice/event/text"
 msgstr ""
+"\"你在攻击我吗！？你不知道袭警是重罪吗？！\"\n"
+"\n"
+"\"……所以，干得好！你会因此得到奖励的。\"\n"
+"\n"
+"\"记住要一直犯罪，制造更多混乱！哈哈！\""
 
 #: src-en/data/events_special_anomaly.xml.append:213
 #, fuzzy
@@ -230,12 +254,15 @@ msgstr "继续。"
 #: src-en/data/events_special_anomaly.xml.append:215
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "话音刚落，那艘奇怪的飞船便立刻离开了。"
 
 #: src-en/data/events_special_anomaly.xml.append:227
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/text"
 msgstr ""
+"“根据你的记录……等等，你身上带着那个矮人吗？……那个矮人？！”\n"
+"“这东西会让整个宇宙陷入混乱！哈哈！”\n"
+"“太棒了，你会得到奖励的！”"
 
 #: src-en/data/events_special_anomaly.xml.append:232
 #, fuzzy
@@ -247,11 +274,13 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/choice/event/text"
 msgstr ""
+"“而且你知道吗，我其实知道一个地方，你应该把它送到那里去……”\n"
+"“让我加入你们，帮助你们到达那里。”"
 
 #: src-en/data/events_special_anomaly.xml.append:239
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/choice/event/crewMember"
-msgstr ""
+msgstr "伊亚莱拉军官"
 
 #: src-en/data/events_special_anomaly.xml.append:241
 #, fuzzy
@@ -262,12 +291,14 @@ msgstr "继续。"
 #: src-en/data/events_special_anomaly.xml.append:243
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "话音刚落，那艘奇怪的飞船便立刻离开了。"
 
 #: src-en/data/events_special_anomaly.xml.append:253
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL_HIGH\"]/text"
 msgstr ""
+"\"根据你的记录……你确实是整个联邦里臭名昭著的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:259
 #, fuzzy
@@ -278,7 +309,7 @@ msgstr "继续。"
 #: src-en/data/events_special_anomaly.xml.append:261
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_REWARD_HIGH\"]/text"
-msgstr ""
+msgstr "\"记住要一直犯罪，制造更多混乱！哈哈！\""
 
 #: src-en/data/events_special_anomaly.xml.append:265
 #, fuzzy
@@ -289,12 +320,14 @@ msgstr "继续。"
 #: src-en/data/events_special_anomaly.xml.append:267
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_REWARD_HIGH\"]/choice/event/text"
-msgstr ""
+msgstr "话音刚落，那艘奇怪的飞船便立刻离开了。"
 
 #: src-en/data/events_special_anomaly.xml.append:276
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_UNION_HIGH\"]/text"
 msgstr ""
+"\"根据你的记录……你确实是同盟里臭名昭著的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:282
 #, fuzzy
@@ -306,6 +339,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ENGI_HIGH\"]/text"
 msgstr ""
+"\"根据你的记录……你确实是半械谐合中非常臭名昭著的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:294
 #, fuzzy
@@ -317,6 +352,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ZOLTAN_HIGH\"]/text"
 msgstr ""
+"\"根据你的记录……你确实是超能族牧师团中非常臭名昭著的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:306
 #, fuzzy
@@ -328,6 +365,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ORCHID_HIGH\"]/text"
 msgstr ""
+"\"根据你的记录……你确实是集议会中非常臭名昭著的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:318
 #, fuzzy
@@ -339,6 +378,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_VAMPWEED_HIGH\"]/text"
 msgstr ""
+"\"根据你的记录……你确实是血兰邦中非常臭名昭著的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:330
 #, fuzzy
@@ -350,6 +391,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_FREEMANTIS_HIGH\"]/text"
 msgstr ""
+"\"根据你的记录……你确实是自由螳螂认定的非常臭名昭著的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:342
 #, fuzzy
@@ -361,6 +404,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_CRYSTAL_HIGH\"]/text"
 msgstr ""
+"\"根据你的记录……你确实是水晶帝国里非常臭名昭著的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:354
 #, fuzzy
@@ -372,6 +417,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_OUTCAST_HIGH\"]/text"
 msgstr ""
+"根据你的记录……你确实是岩石族流放者公认的非常臭名昭著的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:366
 #, fuzzy
@@ -383,6 +430,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_SHELL_HIGH\"]/text"
 msgstr ""
+"\"根据你的记录……你确实是甲壳族议会中非常臭名昭著的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:379
 #, fuzzy
@@ -394,6 +443,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL\"]/text"
 msgstr ""
+"\"根据你的记录……你确实是联邦中非常臭名昭著的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:393
 #, fuzzy
@@ -404,7 +455,7 @@ msgstr "继续。"
 #: src-en/data/events_special_anomaly.xml.append:395
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_REWARD\"]/text"
-msgstr ""
+msgstr "\"记住要一直犯罪，制造更多混乱！哈哈！\""
 
 #: src-en/data/events_special_anomaly.xml.append:398
 #, fuzzy
@@ -415,12 +466,14 @@ msgstr "继续。"
 #: src-en/data/events_special_anomaly.xml.append:400
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_REWARD\"]/choice/event/text"
-msgstr ""
+msgstr "话音刚落，那艘奇怪的飞船便立刻离开了。"
 
 #: src-en/data/events_special_anomaly.xml.append:409
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_UNION\"]/text"
 msgstr ""
+"\"根据你的记录……你确实是同盟里的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:415
 #, fuzzy
@@ -432,6 +485,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ENGI\"]/text"
 msgstr ""
+"\"根据你的记录……你确实是半械谐合中的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:427
 #, fuzzy
@@ -443,6 +498,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ZOLTAN\"]/text"
 msgstr ""
+"\"根据你的记录……你确实是超能族牧师团的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:439
 #, fuzzy
@@ -454,6 +511,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ORCHID\"]/text"
 msgstr ""
+"\"根据你的记录……你确实是集议会的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:451
 #, fuzzy
@@ -465,6 +524,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_VAMPWEED\"]/text"
 msgstr ""
+"\"根据你的记录……你确实是血兰邦中的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:463
 #, fuzzy
@@ -476,6 +537,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_FREEMANTIS\"]/text"
 msgstr ""
+"\"根据你的记录……你确实是自由螳螂中的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:475
 #, fuzzy
@@ -487,6 +550,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_OUTCAST\"]/text"
 msgstr ""
+"\"根据你的记录……你确实是岩石流放者公认的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:487
 #, fuzzy
@@ -498,6 +563,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_CRYSTAL\"]/text"
 msgstr ""
+"\"根据你的记录……你确实是水晶帝国公认的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:499
 #, fuzzy
@@ -509,6 +576,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_SHELL\"]/text"
 msgstr ""
+"\"根据你的记录……你确实是甲壳族议会中的罪犯！……\"\n"
+"\"……所以，干得好！你会因此得到奖励的。\""
 
 #: src-en/data/events_special_anomaly.xml.append:511
 #, fuzzy
