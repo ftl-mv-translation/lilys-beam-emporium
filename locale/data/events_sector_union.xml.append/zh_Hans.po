@@ -1,21 +1,28 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-02-23 07:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/lilys-beam-emporium/dataevents_sector_unionxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_union.xml.append:8
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "升级你的离子光点 II。"
 
 #: src-en/data/events_sector_union.xml.append:10
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "你把武器交给工程师，让他进行作业。"
 
 #: src-en/data/events_sector_union.xml.append:16
 #, fuzzy
@@ -28,7 +35,7 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "片刻之后，你的力量被归还于你，且附带了一项优化。"
 
 #: src-en/data/events_sector_union.xml.append:25
 msgid ""
