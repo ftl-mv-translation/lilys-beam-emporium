@@ -1,29 +1,37 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-02-23 07:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/lilys-beam-emporium/datatext_blueprintsxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/text_blueprints.xml.append:1
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_LILY_WRECKED_SIREN_TRANSPORT_unlock\"]"
-msgstr ""
+msgstr "在群星闪耀之地，借助一位非凡女子的力量，完整地将这艘船救回。"
 
 #: src-en/data/text_blueprints.xml.append:2
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_LILY_SIREN_TRANSPORT_unlock\"]"
-msgstr ""
+msgstr "使用此舰船的破损版本赢得游戏，以解锁修复版本。"
 
 #: src-en/data/text_blueprints.xml.append:3
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_LILY_SIREN_TRANSPORT_2_unlock\"]"
-msgstr ""
+msgstr "使用异鸣族运输船 A 型抵达第五星区，以解锁本船。"
 
 #: src-en/data/text_blueprints.xml.append:4
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_LILY_SIREN_TRANSPORT_3_unlock\"]"
-msgstr ""
+msgstr "使用异鸣族运输舰 B 型抵达第五星区，或使用异鸣族运输舰 A 型通关游戏，以解锁本"
+"船。"
 
 #: src-en/data/text_blueprints.xml.append:5
 msgid ""
