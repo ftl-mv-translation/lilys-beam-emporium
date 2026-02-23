@@ -1,29 +1,39 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-02-23 07:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/lilys-beam-emporium/datatext_miscxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/text_misc.xml.append:3
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_pointer\"]"
-msgstr ""
+msgstr "提示：你可以用它来逗你的猫。也可以逗你的无人机。"
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_siphon\"]"
-msgstr ""
+msgstr "提示：这道光束不造成伤害，但会将敌方护盾（包括超级护盾）转移至你方。可用于进"
+"攻、防御，或两者兼顾！"
 
 #: src-en/data/text_misc.xml.append:5
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_refractor\"]"
-msgstr ""
+msgstr "提示：折射光束可穿透任意层数的护盾，但护盾越强，折射导致的瞄准点偏移就越大。"
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_beam_shotgun\"]"
-msgstr ""
+msgstr "提示：光点阵列可同时发射多道光点光束。有两种模式：[阵列模式] 按预设图案发射光"
+"束，[散射] 则在半径范围内随机发射。"
 
 #: src-en/data/text_misc.xml.append:7
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_focus_hack\"]"
-msgstr ""
+msgstr "提示：这道光束无法穿透任何护盾，但在护盾失效时，能有效对系统保持持续黑客入侵"
+"。此外还会心灵控制任何被击中的船员！"
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_howitzers\"]"
