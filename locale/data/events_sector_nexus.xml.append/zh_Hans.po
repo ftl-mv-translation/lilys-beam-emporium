@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-23 07:44+0000\n"
+"PO-Revision-Date: 2026-02-24 06:58+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-beam-emporium/dataevents_sector_nexusxmlappend/zh_Hans/>\n"
@@ -37,7 +37,6 @@ msgstr ""
 "莉莉只是咧嘴一笑，打了个响指，红蓝能量在她指间闪过。"
 
 #: src-en/data/events_sector_nexus.xml.append:27
-#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice/event/choice/text"
@@ -50,7 +49,6 @@ msgid ""
 msgstr "刹那间，你系统的所有限制瞬间解除……准备战斗！"
 
 #: src-en/data/events_sector_nexus.xml.append:46
-#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice/event/choice/event/choice/text"
@@ -74,7 +72,6 @@ msgstr ""
 "莉莉只是咧嘴一笑，打了个响指，指间迸发出蓝红交织的能量闪光。"
 
 #: src-en/data/events_sector_nexus.xml.append:67
-#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
 "append:choice/event/choice/text"
@@ -87,7 +84,6 @@ msgid ""
 msgstr "刹那间，你系统的所有限制瞬间解除……准备战斗！"
 
 #: src-en/data/events_sector_nexus.xml.append:86
-#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"START_NEXUS\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
 "append:choice/event/choice/event/choice/text"
@@ -126,7 +122,6 @@ msgstr "希尔凡本尊听闻莉莉的回答，神情颇为震惊。“我绝不
 "……那我别无选择，只能立刻将你消灭！”"
 
 #: src-en/data/events_sector_nexus.xml.append:145
-#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
@@ -142,7 +137,6 @@ msgstr "随着本尊那艘庞大的舰船逼近，你闭上眼睛，祈求援军
 "战斗，你只能孤军奋战。"
 
 #: src-en/data/events_sector_nexus.xml.append:153
-#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
@@ -150,7 +144,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_nexus.xml.append:159
-#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
@@ -188,7 +181,6 @@ msgid ""
 msgstr "轮到希尔凡的火力支援了。"
 
 #: src-en/data/events_sector_nexus.xml.append:188
-#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//mod:findName[@name=\"SYLVAN_PRIME_QUESTIONS\"]/mod-"
 "append:choice/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\" and "
@@ -206,7 +198,6 @@ msgstr ""
 "“不过，顺便说一句，谢谢你打开了传送门，把我直接带到了这里——”"
 
 #: src-en/data/events_sector_nexus.xml.append:210
-#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"SHE_IS_DEFEATED_NOT\"]/choice/text"
 msgstr "继续。"
@@ -230,7 +221,6 @@ msgstr ""
 "恐怕已无力与她抗衡。你唯一的选择，就是等待那不可避免的结局。"
 
 #: src-en/data/events_sector_nexus.xml.append:238
-#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/choice/text"
 msgstr "继续。"
@@ -248,7 +238,6 @@ msgstr ""
 "“不过我们可不想留在这儿，所以，来吧，变元者，别失礼了，我们也去加入她——”"
 
 #: src-en/data/events_sector_nexus.xml.append:247
-#, fuzzy
 msgid ""
 "data/events_sector_nexus.xml.append$//event[@name=\"NEXUS_HER_HELP_LILY\"]/choice/event/choice/text"
 msgstr "继续。"
