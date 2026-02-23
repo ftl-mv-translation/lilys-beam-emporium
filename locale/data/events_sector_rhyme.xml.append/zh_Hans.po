@@ -1,14 +1,23 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-02-23 07:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/lilys-beam-emporium/dataevents_sector_rhymexmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_rhyme.xml.append:2
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"REALM_MADNESS_START_LILY\"]/text"
 msgstr ""
+"“啊，终于到家了——”莉莉说道。\n"
+"“可惜我好久好久没回来了；很迷人，不是吗？——”"
 
 #: src-en/data/events_sector_rhyme.xml.append:19
 #, fuzzy
@@ -20,6 +29,13 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"HER_NOFIGHT_LILY\"]/text"
 msgstr ""
+"怪异幻象开始模糊你的视线，一艘巨型巡洋舰在你面前的太空中凝结成形。一个莫名熟"
+"悉的声音——尽管你不知从何而来——对你说道。\n"
+"\n"
+"\t\t\t“哈哈，哈嘿！好久不见，真的好久不见了！又见面了，亲爱的朋友！是我，‘押"
+"韵者’。如你所知，我们正处在新纪元的边缘！我的主人在这里，终于苏醒了！前所未有"
+"，现在我们真的要大干一场了！”尽管你从未见过眼前这个手舞足蹈的怪异生物，你脑海"
+"深处某个阴暗角落似乎隐约记得他那不同寻常的说话方式，以及他那邪恶的笑容。"
 
 #: src-en/data/events_sector_rhyme.xml.append:31
 #, fuzzy
@@ -36,12 +52,23 @@ msgstr ""
 #: src-en/data/events_sector_rhyme.xml.append:35
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"HER_NOFIGHT_LILY\"]/choice/event/choice[@req=\"LILY_PATRONAGE\"]/text"
-msgstr ""
+msgstr "（莉莉）还有一个。"
 
 #: src-en/data/events_sector_rhyme.xml.append:37
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"HER_NOFIGHT_LILY\"]/choice/event/choice[@req=\"LILY_PATRONAGE\"]/event/text"
 msgstr ""
+"“事实上，是两个次等神祇。”莉莉说道，\n"
+"“以及这位变元者……他已被证明比大多数人都要有用得多。”\n"
+"\n"
+"“哦，所以你终于也到了？来得正是时候。你为我效力得很好，光明使者。\n"
+"至于你，变元者……亲爱的，感谢你为解放我所做的一切。每一位优秀的女皇都需要她的"
+"行刑者，而你的火力，将完美胜任这个角色。\n"
+"\n"
+"至于联结点里可能还活着的那些蛞蝓害虫，我真是迫不及待想把他们撕碎。那么，开始"
+"吧。让他们都见识我们的愤怒！”\n"
+"/\n"
+":)"
 
 #: src-en/data/events_sector_rhyme.xml.append:52
 #, fuzzy
@@ -58,6 +85,8 @@ msgstr ":)"
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_PORTAL\"]/text"
 msgstr ""
+"突然，又一个传送门在 C.E.L. 链接正前方打开！\n"
+"鉴于它看起来与多元推进器生成的传送门相似，你确定会有一名变元者出现！"
 
 #: src-en/data/events_sector_rhyme.xml.append:76
 #, fuzzy
@@ -69,6 +98,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_PORTAL\"]/choice/event/text"
 msgstr ""
+"……然而，你从传送门中听到的是一段以最大强度猛烈攻击的信息：\n"
+"\n"
+"“去死吧，你们这些害虫！见证光明使者的力量！爆——炸——吧——”"
 
 #: src-en/data/events_sector_rhyme.xml.append:82
 #, fuzzy
@@ -78,7 +110,8 @@ msgstr "继续。"
 
 #: src-en/data/events_sector_rhyme.xml.append:111
 msgid "data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_REAL\"]/text"
-msgstr ""
+msgstr "在你来不及反应之前，一道耀眼光芒从传送门中迸发而出，将C.E.L.舰队、你的飞船以"
+"及所有事物都笼罩其中。"
 
 #: src-en/data/events_sector_rhyme.xml.append:114
 #, fuzzy
@@ -90,6 +123,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_REAL\"]/choice/event/text"
 msgstr ""
+"热能的猛烈轰击、异质粒子的侵袭以及从传送门涌出的极端信息流，彻底摧毁了C.E.L."
+"装置及其大部分舰队……\n"
+"你的船体已达危急状态，所有系统停止运作，看来这真是终结的时刻了……"
 
 #: src-en/data/events_sector_rhyme.xml.append:171
 #, fuzzy
@@ -101,6 +137,8 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_OFFER\"]/text"
 msgstr ""
+"“我曾承诺会及时赶到，并带来扭转战局之物。看，它来了，恰逢其时——”\n"
+"“可从未说明会为谁扭转战局，哈嘿！——”"
 
 #: src-en/data/events_sector_rhyme.xml.append:182
 #, fuzzy
@@ -112,11 +150,18 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_OFFER\"]/choice/event/text"
 msgstr ""
+"“谢谢你这么快就消灭了这些C.E.L.害虫，亲爱的光明使者 :)”\n"
+"\n"
+"“至于你，叛徒，我最后提个条件。”\n"
+"“现在投降，我就给你个特别待遇。我会先摧毁你的星团，而不是让它的居民受几百年的"
+"折磨。哈嘿！”\n"
+"/\n"
+":)"
 
 #: src-en/data/events_sector_rhyme.xml.append:192
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_OFFER\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "投降吧，让你的星团被摧毁。"
 
 #: src-en/data/events_sector_rhyme.xml.append:195
 msgid ""
@@ -127,3 +172,5 @@ msgstr ":)"
 msgid ""
 "data/events_sector_rhyme.xml.append$//event[@name=\"LILY_NUKE_OFFER\"]/choice/event/choice[2]/text"
 msgstr ""
+"拒绝，并继续战斗。\n"
+"[警告：选择此选项后，若死亡将导致游戏结束。]"
