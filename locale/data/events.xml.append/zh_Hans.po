@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-02-23 07:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/lilys-beam-emporium/dataeventsxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events.xml.append:5
 msgid "data/events.xml.append$//event[@name=\"STORE_LOAD_LILY_EMPORIUM\"]/text"
@@ -36,7 +43,7 @@ msgstr "跳过。"
 
 #: src-en/data/events.xml.append:30
 msgid "data/events.xml.append$//event[@name=\"LILY_MAD_FIGHT\"]/text"
-msgstr ""
+msgstr "看来莉莉已经相当疯狂。别无选择，只能与这艘舰船战斗！"
 
 #: src-en/data/events.xml.append:32
 msgid "data/events.xml.append$//event[@name=\"LILY_MAD_FIGHT\"]/choice/text"
@@ -45,16 +52,19 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:45
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/text"
 msgstr ""
+"不知何故，你摧毁了空间站。它碎裂成闪烁的彩色碎片，随后逐渐消失。\n"
+"可惜，空间站本身已无任何可搜刮的残骸。"
 
 #: src-en/data/events.xml.append:48
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/text"
-msgstr ""
+msgstr "继续..."
 
 #: src-en/data/events.xml.append:50
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/text"
-msgstr ""
+msgstr "然而，空间站上的一件武器似乎在战斗中幸存下来，正漂浮在太空中！你匆忙将其拾起"
+"。"
 
 #: src-en/data/events.xml.append:53
 msgid ""
@@ -65,6 +75,11 @@ msgstr "继续。"
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/choice/event/text"
 msgstr ""
+"片刻后，莉莉联络了你。\n"
+"“哦，这一阶段的测试完成了！——”\n"
+"“结果出乎意料……而且令人印象深刻！——”\n"
+"“你和你的舰船既然能办到，无疑十分强大！——”\n"
+"“这意味着——你们将成为进一步测试的绝佳对象！——”"
 
 #: src-en/data/events.xml.append:61
 msgid ""
@@ -75,6 +90,9 @@ msgstr "继续。"
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“哦，而且对你来说幸运的是，这甚至不会涉及你被实验性武器射击——”\n"
+"“只是携带和使用一些潜在不稳定的科技，哈哈！——”\n"
+"“好了，我们开始吧，不，你没法退出——”"
 
 #: src-en/data/events.xml.append:68
 msgid ""
@@ -85,10 +103,13 @@ msgstr "继续。"
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_DESTROYED\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“还有，这个也拿着——”\n"
+"“不会要你命的——大概吧——”"
 
 #: src-en/data/events.xml.append:98
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_QUEST_START\"]/text"
-msgstr ""
+msgstr "你已抵达广告中宣称的“光束商店”位置。奇怪的是，信标处空无一物，没有舰船。然而"
+"，你感到一种一种奇怪的不安感，仿佛有人正在注视着你……"
 
 #: src-en/data/events.xml.append:100
 msgid ""
@@ -98,26 +119,33 @@ msgstr "进一步调查。"
 #: src-en/data/events.xml.append:109
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_QUEST_START\"]/choice[2]/text"
-msgstr ""
+msgstr "尽快离开。"
 
 #: src-en/data/events.xml.append:111
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_QUEST_START\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你对冒险调查奇异现象毫无兴趣，掉头便为超光速推进器充能，准备立刻离开。"
 
 #: src-en/data/events.xml.append:142
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_GLITCH_CONTINUE\"]/text"
-msgstr ""
+msgstr "你继续搜寻商店，突然，你的系统发生故障并重启！"
 
 #: src-en/data/events.xml.append:160
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_CEL_FOUND\"]/text"
-msgstr ""
+msgstr "你继续花时间搜寻商店。然而，尽管尽了最大努力，仍然一无所获。为什么会有商店广"
+"告在此处，成了一个谜。"
 
 #: src-en/data/events.xml.append:186
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR\"]/text"
 msgstr ""
+"你终于发现一座外观相对正常的空间站，尽管它似乎被某种奇特的能量护盾所保护。\n"
+"它向你发出呼叫：“欢迎光临莉莉光束商店！——”\n"
+"\"...等等。这难道是押韵者本人？！\n"
+"居然还是变元者？！等等我肯定在做梦吧？\n"
+"真没想到你还会再来...更别说是在这种情况下——\n"
+"当然，我的店里随便拿。来玩个痛快制造混乱吧！——\""
 
 #: src-en/data/events.xml.append:193
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR\"]/choice/text"
@@ -125,7 +153,7 @@ msgstr "继续。"
 
 #: src-en/data/events.xml.append:214
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_1\"]/text"
-msgstr ""
+msgstr "“来自莉莉的赠礼！——”"
 
 #: src-en/data/events.xml.append:219
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_1\"]/choice/text"
@@ -133,7 +161,7 @@ msgstr "继续。"
 
 #: src-en/data/events.xml.append:230
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_2\"]/text"
-msgstr ""
+msgstr "“还有一件，满足你的胃口！——”"
 
 #: src-en/data/events.xml.append:235
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_2\"]/choice/text"
@@ -141,31 +169,36 @@ msgstr "继续。"
 
 #: src-en/data/events.xml.append:247
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/text"
-msgstr ""
+msgstr "“希望我能加入你的旅程！我会一直同行直到结束！你介意吗？——”"
 
 #: src-en/data/events.xml.append:249
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[1]/text"
-msgstr ""
+msgstr "那真是太好了！"
 
 #: src-en/data/events.xml.append:251
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“那我们就快走吧！准备战斗！——”"
 
 #: src-en/data/events.xml.append:259
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[2]/text"
-msgstr ""
+msgstr "抱歉让你失望，但这件事，我无法让你前往。"
 
 #: src-en/data/events.xml.append:261
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_TOWR_3\"]/choice[2]/event/text"
-msgstr ""
+msgstr "“不得不说，真遗憾。不过，还是欢迎逛逛我的商店——”"
 
 #: src-en/data/events.xml.append:269
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/text"
 msgstr ""
+"你终于发现了一座外观相对正常的空间站，尽管它似乎被一层奇特的能量护盾所保护。"
+"\n"
+"它向你发出欢迎讯号：\"欢迎光临莉莉光束商店！——\n"
+"这里提供种类繁多的光束武器与光点武器供您选购——\"\n"
+"你确信几分钟前这里根本不存在这座空间站……"
 
 #: src-en/data/events.xml.append:274
 msgid ""
@@ -175,17 +208,17 @@ msgstr "只是购物。"
 #: src-en/data/events.xml.append:276
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你无视那些正在发生的怪事，继续前往商店。幸运的是，一切顺利，再无波折。"
 
 #: src-en/data/events.xml.append:282
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/text"
-msgstr ""
+msgstr "你想起之前发现的那张神秘便条。"
 
 #: src-en/data/events.xml.append:284
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/text"
-msgstr ""
+msgstr "你把那张神秘便条递给莉莉，等待她的回应。"
 
 #: src-en/data/events.xml.append:286
 msgid ""
@@ -196,6 +229,10 @@ msgstr "继续。"
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/choice/event/text"
 msgstr ""
+"“这张便条……在你手里？那只能意味着一件事——你是她选中的，来完成那项使命的人。什"
+"么使命——只有她知道。不过，我恰好也是她的仆人之一——因此，从现在起，我会提供协"
+"助——\n"
+"哦，还有，这个给你，助你旅途一臂之力。”"
 
 #: src-en/data/events.xml.append:295
 msgid ""
@@ -206,16 +243,19 @@ msgstr "继续。"
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LILY_MYSTERIOUS_NOTE\"]/event/choice/event/choice/event/text"
 msgstr ""
+"那我们就出发吧！\n"
+"（注：可在星舰管理菜单中联系莉莉）"
 
 #: src-en/data/events.xml.append:317
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/text"
-msgstr ""
+msgstr "你的异鸣族船员认出了空间站上的能量护盾。"
 
 #: src-en/data/events.xml.append:319
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/text"
-msgstr ""
+msgstr "你的异鸣族船员恰巧非常熟悉空间站上的怪异混沌能量，并运用他们的力量向莉莉远程"
+"发送了一条相关信息。"
 
 #: src-en/data/events.xml.append:321
 msgid ""
@@ -226,6 +266,9 @@ msgstr "继续。"
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/text"
 msgstr ""
+"“像你这样的异鸣族，居然在变元者舰船上？最近可难得一见。这个给你，助你旅途一程"
+"，商店也尽管逛！”\n"
+"“你介意我加入你的冒险吗？我想这对我们双方的目标都有益——”"
 
 #: src-en/data/events.xml.append:330
 msgid ""
@@ -236,26 +279,29 @@ msgstr "那就给我吧！"
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"“那我们快走吧！”\n"
+"（注：可在星舰管理菜单中联系莉莉）"
 
 #: src-en/data/events.xml.append:340
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "抱歉，这次不行。"
 
 #: src-en/data/events.xml.append:342
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_SIREN\"]/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "“那太可惜了，不过，商店还是尽管逛吧——”"
 
 #: src-en/data/events.xml.append:352
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/text"
-msgstr ""
+msgstr "你的怪异造物认出了空间站上的能量护盾。"
 
 #: src-en/data/events.xml.append:354
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/text"
-msgstr ""
+msgstr "你的怪异造物恰巧非常熟悉空间站上的怪异混沌能量，并运用其力量向莉莉远程发送了"
+"一条相关信息。"
 
 #: src-en/data/events.xml.append:356
 msgid ""
@@ -266,6 +312,9 @@ msgstr "继续。"
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/text"
 msgstr ""
+"“像你这样的怪异造物，居然在变元者舰船上？最近可难得一见。这个给你，助你旅途一"
+"程，商店也尽管逛！”\n"
+"“你介意我加入你的冒险吗？我想这对我们双方的目标都有益——”"
 
 #: src-en/data/events.xml.append:365
 msgid ""
@@ -276,26 +325,32 @@ msgstr "那就给我吧！"
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"“那我们快走吧！——”\n"
+"（注：可在星舰管理菜单中联系莉莉）"
 
 #: src-en/data/events.xml.append:375
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "抱歉，这次不行。"
 
 #: src-en/data/events.xml.append:377
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"LIST_CREW_ELDRITCH\"]/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "“那太可惜了，不过，商店还是尽管逛吧——”"
 
 #: src-en/data/events.xml.append:387
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"lily_questioned\"]/text"
-msgstr ""
+msgstr "向她询问异常的情况。"
 
 #: src-en/data/events.xml.append:390
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[@req=\"lily_questioned\"]/event/text"
 msgstr ""
+"你向她询问那些异常现象。\n"
+"\"你说系统出故障了？——\n"
+"这可真奇怪，你是第一个抱怨这事的人——\n"
+"介意我看看吗？免费帮你检查——\""
 
 #: src-en/data/events.xml.append:395
 msgid ""
@@ -310,7 +365,7 @@ msgstr "不，谢谢。"
 
 #: src-en/data/events.xml.append:408
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_STOREASK\"]/text"
-msgstr ""
+msgstr "“好吧。还想要逛逛商店吗？——”"
 
 #: src-en/data/events.xml.append:410
 #, fuzzy
@@ -327,37 +382,41 @@ msgstr "否。"
 #: src-en/data/events.xml.append:418
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_STOREASK\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你决定不逛商店，继续你的旅程。"
 
 #: src-en/data/events.xml.append:426
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/text"
-msgstr ""
+msgstr "攻击空间站，我们可以用武力夺取些物资！"
 
 #: src-en/data/events.xml.append:428
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/text"
 msgstr ""
+"\"等等等等等等等等！\n"
+"你真要攻击平民基地？\n"
+"这会让你恶名值上升的，不知道吗？甚至会翻倍！\n"
+"再说，我其实是个可选BOSS，你绝对还没准备好和我打！\""
 
 #: src-en/data/events.xml.append:433
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[1]/text"
-msgstr ""
+msgstr "改变主意，掉头返回。"
 
 #: src-en/data/events.xml.append:439
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[2]/text"
-msgstr ""
+msgstr "请选择上述选项。"
 
 #: src-en/data/events.xml.append:443
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[@req=\"lily_testing_allowed\"]/text"
-msgstr ""
+msgstr "我只是来对你的技术做些战斗测试。"
 
 #: src-en/data/events.xml.append:450
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[4]/text"
-msgstr ""
+msgstr "@%#$$#$$@$"
 
 #: src-en/data/events.xml.append:454
 #, fuzzy
@@ -373,17 +432,24 @@ msgstr "不。"
 #: src-en/data/events.xml.append:462
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[7]/text"
-msgstr ""
+msgstr "我说了不行。"
 
 #: src-en/data/events.xml.append:466
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_REAL\"]/choice[6]/event/choice[8]/text"
-msgstr ""
+msgstr "继续，还是攻击她。"
 
 #: src-en/data/events.xml.append:479
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/text"
 msgstr ""
+"你终于注意到一座外观相对正常的空间站，尽管它似乎被一层奇特的能量护盾所保护。"
+"\n"
+"你确信自己曾在光年之外见过一模一样的空间站。\n"
+"它向你打招呼：\"哦，是你！欢迎光临莉莉光束商城！--\n"
+"需要补给弹药吗？--\n"
+"各类光束武器与光点武器一应俱全--\n"
+"还附赠免费小礼品，本店敬请享用--\""
 
 #: src-en/data/events.xml.append:487
 msgid ""
@@ -408,12 +474,14 @@ msgstr "跳过。"
 #: src-en/data/events.xml.append:503
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[@req=\"LILY_PATRONAGE\"]/text"
-msgstr ""
+msgstr "邀请莉莉加入你的队伍。"
 
 #: src-en/data/events.xml.append:505
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[@req=\"LILY_PATRONAGE\"]/event/text"
 msgstr ""
+"所以你终究还是改变主意了？——\n"
+"当然，我加入——"
 
 #: src-en/data/events.xml.append:510
 msgid ""
@@ -438,32 +506,36 @@ msgstr "跳过。"
 #: src-en/data/events.xml.append:528
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/text"
-msgstr ""
+msgstr "攻击空间站，我们可以用武力夺取些物资！"
 
 #: src-en/data/events.xml.append:530
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/text"
 msgstr ""
+"\"等等等等等等等等！\n"
+"你真要攻击平民基地？\n"
+"这会让你恶名值上升的，不知道吗？甚至会翻倍！\n"
+"再说，我其实是个可选BOSS，你绝对还没准备好和我打！\""
 
 #: src-en/data/events.xml.append:535
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "改变主意，掉头返回。"
 
 #: src-en/data/events.xml.append:541
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "请选择上述选项。"
 
 #: src-en/data/events.xml.append:545
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[@req=\"lily_testing_allowed\"]/text"
-msgstr ""
+msgstr "我只是来对你的技术做些战斗测试。"
 
 #: src-en/data/events.xml.append:552
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[4]/text"
-msgstr ""
+msgstr "@%#$$#$$@$"
 
 #: src-en/data/events.xml.append:556
 #, fuzzy
@@ -479,17 +551,19 @@ msgstr "不。"
 #: src-en/data/events.xml.append:564
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[7]/text"
-msgstr ""
+msgstr "我说了不行。"
 
 #: src-en/data/events.xml.append:568
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[3]/event/choice[8]/text"
-msgstr ""
+msgstr "继续，还是攻击她。"
 
 #: src-en/data/events.xml.append:582
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_INSTALL_SENSORS\"]/text"
 msgstr ""
+"“好吧，你连传感器系统都没有，是吧！——\n"
+"这个给你，虽然不是最好的，但总比没有强——”"
 
 #: src-en/data/events.xml.append:586
 msgid ""
@@ -500,6 +574,8 @@ msgstr "继续。"
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_UPGRADE_SENSORS\"]/text"
 msgstr ""
+"\"嗯，你的传感器确实还需要改进！——\n"
+"顺便说一句，我已经稍微调试过它们了——\""
 
 #: src-en/data/events.xml.append:598
 msgid ""
@@ -510,6 +586,8 @@ msgstr "继续。"
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_UPGRADE_REACTOR\"]/text"
 msgstr ""
+"\"嗯，或许是你们电力系统出了点怪故障？——\n"
+"顺便说一句，我已经把它调试得更顺畅了——\""
 
 #: src-en/data/events.xml.append:611
 msgid ""
@@ -520,6 +598,8 @@ msgstr "继续。"
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_UPGRADE_NOTHING\"]/text"
 msgstr ""
+"\"嗯，这可奇怪了，但我没发现什么异常——\n"
+"大概没什么事，别放在心上——\""
 
 #: src-en/data/events.xml.append:622
 msgid ""
@@ -530,20 +610,28 @@ msgstr "继续。"
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_ATTACK_REAL\"]/text"
 msgstr ""
+"“所以你还是决定要攻击我？”\n"
+"“你知道吗，这样也好。反正武器也需要测试——”\n"
+"“那就放马过来吧，哈嘿！”"
 
 #: src-en/data/events.xml.append:645
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_ATTACK_REAL\"]/choice/text"
-msgstr ""
+msgstr "继续..."
 
 #: src-en/data/events.xml.append:647
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_ATTACK_REAL\"]/choice/event/text"
 msgstr ""
+"“另外，什么是战斗检查？——”\n"
+"“这附近没见过——”"
 
 #: src-en/data/events.xml.append:654
 msgid "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_ATTACK_TEST\"]/text"
 msgstr ""
+"“你知道吗，这样挺好。反正武器也需要测试——”\n"
+"“要是你能赢，我就给你奖励——”\n"
+"“那就放马过来吧，哈嘿！”"
 
 #: src-en/data/events.xml.append:658
 msgid ""
@@ -553,7 +641,8 @@ msgstr "继续。"
 #: src-en/data/events.xml.append:683
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_ATTACK_CONTINUE\"]/text"
-msgstr ""
+msgstr "你试图攻击空间站，但你的系统突然再次出现故障，空间站瞬间消失，仿佛从未存在过"
+"！"
 
 #: src-en/data/events.xml.append:686
 msgid ""
@@ -564,8 +653,15 @@ msgstr "继续。"
 msgid ""
 "data/events.xml.append$//event[@name=\"LILY_EMPORIUM_ATTACK_CONTINUE\"]/choice/event/text"
 msgstr ""
+"更糟的是，一颗蓝巨星就在附近出现了！除非你想被烤熟，否则必须立刻离开！\n"
+"无论这位神秘店主是谁，显然都不欢迎你来捣乱。"
 
 #: src-en/data/events.xml.append:703
 msgid ""
 "data/events.xml.append$//event[@name=\"TRANSPORT_CAPTURE_STARGROVE_LILY\"]/text"
 msgstr ""
+"“如此美丽的舰船，还是异鸣族的设计——\n"
+"却这般破败……\n"
+"就这样丢在这里任其焚毁，未免太可惜了……\n"
+"不如这样，我把它（好吧，剩下的部分）当作礼物送到你的机库去？——\n"
+"你那儿空间很大，对吧？而且总归有办法修复的，迟早的事——”"
