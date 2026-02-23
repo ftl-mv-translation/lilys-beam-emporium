@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-23 07:44+0000\n"
+"PO-Revision-Date: 2026-02-24 06:58+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-beam-emporium/dataevents_special_multiversexmlappend/zh_Hans/>"
@@ -45,45 +45,56 @@ msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
+"你突然感到一阵难以名状的不安。“等等……这股能量……她……是我以为的那个人吗？哦，请"
+"别在意我的胡言乱语，变元者……信条不允许我透露太多。我只能告诉你，她是一个异数…"
+"…拥有巨大的威胁与力量。但你还活着的事实告诉我，她是站在你这边的，至少目前是，"
+"无论她的动机如何。是的，这……非常令人印象深刻。在你下次启程之前，会收到……奖励"
+"的。只是……请务必小心。”"
 
 #: src-en/data/events_special_multiverse.xml.append:25
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[2]/event/choice/text"
-msgstr ""
+msgstr "继续..."
 
 #: src-en/data/events_special_multiverse.xml.append:33
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "展示一件多模式光束武器。"
 
 #: src-en/data/events_special_multiverse.xml.append:35
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
+"“哦，这可是件精雕细琢的武器。是光束武器，对吧？能在一个系统里实现多种功能？它"
+"还能帮你洗衣服吗？哈哈！不错。这是份上好的贡品！我将赐予你光谱的祝福。但要有"
+"耐心。不是现在，而是稍后！”"
 
 #: src-en/data/events_special_multiverse.xml.append:40
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[1]/event/choice/text"
-msgstr ""
+msgstr "继续..."
 
 #: src-en/data/events_special_multiverse.xml.append:46
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "展示一件分解光束武器。"
 
 #: src-en/data/events_special_multiverse.xml.append:48
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
+"“哦天哪……一件分解光束？这才是真正的贡品！真正邪恶的武器，能对金属与血肉相同造"
+"成不可愈合的伤口！但无论这些武器多么邪恶，其力量不可否认！我将赐予你分解的祝"
+"福。但要有耐心。不是现在，而是稍后！”"
 
 #: src-en/data/events_special_multiverse.xml.append:53
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[2]/event/choice/text"
-msgstr ""
+msgstr "继续..."
