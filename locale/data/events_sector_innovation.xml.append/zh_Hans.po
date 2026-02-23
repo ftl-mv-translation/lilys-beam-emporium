@@ -1,21 +1,29 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-02-23 07:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/lilys-beam-emporium/dataevents_sector_innovationxmlappend/zh_Hans/>"
+"\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_innovation.xml.append:8
 msgid ""
 "data/events_sector_innovation.xml.append$//mod:findName[@name=\"ESTATE_STATUE\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（聚能推进器）让雕像与行星的军事设施相撞。[3{]"
 
 #: src-en/data/events_sector_innovation.xml.append:10
 msgid ""
 "data/events_sector_innovation.xml.append$//mod:findName[@name=\"ESTATE_STATUE\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "聚能推进器已启动！"
 
 #: src-en/data/events_sector_innovation.xml.append:15
 #, fuzzy
@@ -29,6 +37,10 @@ msgid ""
 "data/events_sector_innovation.xml.append$//mod:findName[@name=\"ESTATE_STATUE\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice/event/choice/event/text"
 msgstr ""
+"雕像被拖挂在你的船体上，你启动聚能推进，将它如弹弓般甩向行星。它朝着地表疾速"
+"坠落，撞击扬起巨大的尘埃与碎片云，遮蔽你的视野长达数分钟。尘埃落定时，你发现"
+"这次撞击摧毁的远不止那处军事定居点。整座城市被冲击波夷为废墟，最终留下了巨量"
+"战利品。至少，那些孩子再也不用担心睡不好觉了。"
 
 #: src-en/data/events_sector_innovation.xml.append:20
 #, fuzzy
