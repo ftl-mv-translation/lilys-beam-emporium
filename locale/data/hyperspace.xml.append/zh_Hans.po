@@ -1,25 +1,32 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-02-23 07:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/lilys-beam-emporium/datahyperspace-xml-append/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/hyperspace.xml.append:86
 msgid "data/hyperspace.xml.append$//siren_harpy[@name=\"Liliana\"]/@name"
-msgstr ""
+msgstr "莉莉安娜"
 
 #: src-en/data/hyperspace.xml.append:87
 msgid "data/hyperspace.xml.append$//siren_harpy[@name=\"Katherine\"]/@name"
-msgstr ""
+msgstr "凯瑟琳"
 
 #: src-en/data/hyperspace.xml.append:196
 msgid "data/hyperspace.xml.append$//unique_lily_avatar[@name=\"Lily\"]/@name"
-msgstr ""
+msgstr "莉莉"
 
 #: src-en/data/hyperspace.xml.append:282
 msgid "data/hyperspace.xml.append$//siren[@name=\"Aki\"]/@name"
-msgstr ""
+msgstr "阿奇"
 
 #: src-en/data/hyperspace.xml.append:283
 msgid "data/hyperspace.xml.append$//siren[@name=\"Noemi\"]/@name"
