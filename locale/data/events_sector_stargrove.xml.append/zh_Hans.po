@@ -1,21 +1,29 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-02-23 07:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/lilys-beam-emporium/dataevents_sector_stargrovexmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_stargrove.xml.append:4
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "（先进引擎 + 聚能推进器）启动聚能推进的先进引擎，飞至足够近的距离，以拆解舰船"
+"并救出它的船员。[3{]"
 
 #: src-en/data/events_sector_stargrove.xml.append:6
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "聚能推进器已启动！"
 
 #: src-en/data/events_sector_stargrove.xml.append:11
 #, fuzzy
@@ -29,24 +37,27 @@ msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
 "append:choice[1]/event/choice/event/text"
 msgstr ""
+"你的舰船启动先进聚能推进引擎，对抗着极端引力，一寸寸靠近。时间的尺度愈发扭曲"
+"，但你的舰船轻松应对。更棒的是，你不仅救下了玛嬏，还有机会在从重力井返回前拆"
+"解那艘舰船。你的速度甚至快到让时间膨胀无法推进舰队。"
 
 #: src-en/data/events_sector_stargrove.xml.append:16
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
 "append:choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "联络科研船……"
 
 #: src-en/data/events_sector_stargrove.xml.append:24
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "（聚能推进器）冒险飞至足够近的距离，以拆解舰船并救出它的船员。[3{]"
 
 #: src-en/data/events_sector_stargrove.xml.append:26
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
 "append:choice[2]/event/text"
-msgstr ""
+msgstr "聚能推进器已启动！"
 
 #: src-en/data/events_sector_stargrove.xml.append:31
 #, fuzzy
@@ -60,9 +71,13 @@ msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
 "append:choice[2]/event/choice/event/text"
 msgstr ""
+"你的舰船启动聚能推进引擎，对抗着极端引力，一寸寸靠近。时间的尺度愈发扭曲，但"
+"你的舰船并未遭受太多损伤便应对下来。更棒的是，你不仅救下了玛嬏，还有机会在从"
+"重力井返回前拆解那艘舰船。不幸的是，时间膨胀还是让舰队向前推进了一些，不过不"
+"多。"
 
 #: src-en/data/events_sector_stargrove.xml.append:39
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
 "append:choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "联络科研船……"
