@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-23 07:44+0000\n"
+"PO-Revision-Date: 2026-02-24 06:58+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-beam-emporium/datatext_miscxmlappend/zh_Hans/>\n"
@@ -37,43 +37,55 @@ msgstr "提示：这道光束无法穿透任何护盾，但在护盾失效时，
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_howitzers\"]"
-msgstr ""
+msgstr "提示：榴弹炮是光束武器与导弹武器的结合体。它们消耗导弹进行射击，瞄准半径与破"
+"片类似，可部分穿透护盾，通常造成重创。"
 
 #: src-en/data/text_misc.xml.append:9
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_disintegrators\"]"
 msgstr ""
+"提示：分解光束是莉莉利用怪异科技设计的特殊光束。它们会对船员和系统造成持续伤"
+"害，并严重阻碍治疗与修复，击中已破舱的舱室时还会造成船体伤害。这些效果甚至能"
+"作用于抗性舱室或击中护盾时！"
 
 #: src-en/data/text_misc.xml.append:10
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_disintegrators_alt\"]"
 msgstr ""
+"提示：分解光束是莉莉利用怪异科技设计的特殊光束。它们会对船员和系统造成持续伤"
+"害，并严重阻碍治疗与修复，击中已完全摧毁的系统时还会造成船体伤害。这些效果甚"
+"至能作用于抗性舱室或击中护盾时！"
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_exonet_weapon_core\"]"
-msgstr ""
+msgstr "提示：埃克诺特核心采用特殊科技，可实现海量数据与能量的无线传输。这一核心已校"
+"准并设置为“接收”模式，为你的武器提供能量与数据以增强其性能。"
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe\"]"
-msgstr ""
+msgstr "提示：特殊光束武器。使用前需要配置。"
 
 #: src-en/data/text_misc.xml.append:15
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_m\"]"
-msgstr ""
+msgstr "提示：为友方船员提供每秒 4 点治疗，持续 15 秒。持续期间，所受环境危害伤害减半"
+"。"
 
 #: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_s\"]"
-msgstr ""
+msgstr "提示：为友方船员提供双倍移动速度与伤害，持续 10 秒。"
 
 #: src-en/data/text_misc.xml.append:17
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_p\"]"
 msgstr ""
+"提示：对被击中的任何船员造成每秒 4 点生命值伤害，持续 25 秒，效果不叠加。对舰"
+"上无医疗设施的绝大多数种族而言是致命的。不影响甲壳族的船员。"
 
 #: src-en/data/text_misc.xml.append:18
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_a\"]"
-msgstr ""
+msgstr "提示：对被击中的每个格子施加弱等侵蚀效果。并对被击中的任何船员造成每秒 10 点"
+"生命值伤害，持续 3 秒。"
 
 #: src-en/data/text_misc.xml.append:21
 msgid "data/text_misc.xml.append$//text[@name=\"button_lily_beam\"]"
-msgstr ""
+msgstr "E。冲击波"
 
 #: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"button_lily_ion\"]"
@@ -81,19 +93,26 @@ msgstr "离子脉冲"
 
 #: src-en/data/text_misc.xml.append:24
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_beam_emporium\"]"
-msgstr ""
+msgstr "光束商店"
 
 #: src-en/data/text_misc.xml.append:26
 msgid "data/text_misc.xml.append$//text[@name=\"lily_aether_submit\"]"
 msgstr ""
+"你目睹空间裂缝开启，吞噬了你献上的物品。\n"
+"“好东西，这正好合适——”"
 
 #: src-en/data/text_misc.xml.append:28
 msgid "data/text_misc.xml.append$//text[@name=\"lily_aether_redeem\"]"
 msgstr ""
+"你目睹空间裂缝开启，为你献上全新的以太武器！\n"
+"“这是对你所有辛苦的回报——”"
 
 #: src-en/data/text_misc.xml.append:31
 msgid "data/text_misc.xml.append$//text[@name=\"loot_zoltan_2\"]"
 msgstr ""
+"超能族战利品\n"
+"对系统造成额外伤害\n"
+"-1 秒冷却时间，+20% 破舱几率"
 
 #: src-en/data/text_misc.xml.append:38
 #, fuzzy
@@ -102,84 +121,108 @@ msgstr "继续。"
 
 #: src-en/data/text_misc.xml.append:40
 msgid "data/text_misc.xml.append$//text[@name=\"lily_text_multiverse_crp\"]"
-msgstr ""
+msgstr "FTL: 多元宇宙:)"
 
 #: src-en/data/text_misc.xml.append:42
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_nospareprime\"]"
-msgstr ""
+msgstr "“你或许愿意放过本尊。但我绝不会——”"
 
 #: src-en/data/text_misc.xml.append:43
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_lilysnipesprime\"]"
 msgstr ""
+"当你的船体损伤达到临界值时，你注意到本尊已从护环中脱离，此刻正将光环高举过头"
+"顶。“你说得对，留着你确实是我的失误。幸好我没犯下让你永久存在的错误——”本尊的"
+"话音未落，一道来自未知方位的能量束便将他瞬间蒸发。"
 
 #: src-en/data/text_misc.xml.append:45
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_herrealm_alt\"]"
 msgstr ""
+"你抵达了一片翻涌的地狱景象，笼罩在朦胧的雾霭之中，隐约可见近乎人形的面孔在深"
+"渊中飞舞，仿佛带着嘲弄。尽管周遭空间如同噩梦，你却感到……出奇的满足与平静。\n"
+"\n"
+"“啊，终于到家了——”莉莉说道。\n"
+"“可惜我好久好久没回来了；很迷人，不是吗？——”\n"
+"\n"
+"“别担心，我保证你在这儿不会有危险——”"
 
 #: src-en/data/text_misc.xml.append:52
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_hernofight\"]"
 msgstr ""
+"你终于抵达了她所在之处。四周空间唯余黑暗，每一颗星辰都被某种远古邪恶从夜空扯"
+"下并吞噬。就是这里了。你即将见到——也许是多元宇宙已知存在中最强大、最邪恶的实"
+"体……又一次。"
 
 #: src-en/data/text_misc.xml.append:54
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_hernukewarning\"]"
 msgstr ""
+"然而，即便在那里，你仍收到一条消息：\n"
+"\"嘿，抱歉耽搁了，我马上就到！——\n"
+"我带了些礼物，绝对能扭转战局，等着瞧——\n"
+"只是需要找个合适的物体来校准我的跃迁推进器——\""
 
 #: src-en/data/text_misc.xml.append:59
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight1\"]"
-msgstr ""
+msgstr "“准备受死吧，害虫！——”"
 
 #: src-en/data/text_misc.xml.append:60
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight2\"]"
-msgstr ""
+msgstr "“你准备好——去见你的造物主了吗？——”"
 
 #: src-en/data/text_misc.xml.append:61
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight3\"]"
-msgstr ""
+msgstr "“歼灭协议：目标已锁定”"
 
 #: src-en/data/text_misc.xml.append:62
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight4\"]"
-msgstr ""
+msgstr "“以她的名义，去死吧！——”"
 
 #: src-en/data/text_misc.xml.append:63
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight5\"]"
-msgstr ""
+msgstr "“又一个黏糊糊的害虫即将完蛋——”"
 
 #: src-en/data/text_misc.xml.append:65
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur1\"]"
-msgstr ""
+msgstr "“对虫子无需怜悯！——”"
 
 #: src-en/data/text_misc.xml.append:66
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur2\"]"
-msgstr ""
+msgstr "“受死吧！——”"
 
 #: src-en/data/text_misc.xml.append:67
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur3\"]"
-msgstr ""
+msgstr "“求饶是没用的——”"
 
 #: src-en/data/text_misc.xml.append:68
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur4\"]"
-msgstr ""
+msgstr "“还有什么遗言吗？”"
 
 #: src-en/data/text_misc.xml.append:69
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur5\"]"
-msgstr ""
+msgstr "“真可悲——”"
 
 #: src-en/data/text_misc.xml.append:71
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext1\"]"
-msgstr ""
+msgstr "一艘漆黑如夜的舰船驶近，一言不发，开始为武器充能。但一察觉到莉莉在你身边，他"
+"们便迅速停止。"
 
 #: src-en/data/text_misc.xml.append:72
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext2\"]"
-msgstr ""
+msgstr "“原来这就是引发永恒混沌统治的变元者？真是帮了大忙，但别妄想扭转天命。或许你还"
+"有容身之处。”"
 
 #: src-en/data/text_misc.xml.append:73
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext3\"]"
-msgstr ""
+msgstr "一艘外星舰船，她的又一个仆从，正在靠近。这些黑暗军团似乎无穷无尽。幸运的是……"
+"它似乎并不打算攻击你。"
 
 #: src-en/data/text_misc.xml.append:74
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext4\"]"
-msgstr ""
+msgstr "起初你觉得自己可能产生了幻觉，但一艘黑色舰船开始在你面前成形。在黑暗的太空里"
+"，你险些与之相撞。"
 
 #: src-en/data/text_misc.xml.append:76
 msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_nexus_her_lily\"]"
 msgstr ""
+"力量无与伦比，在押韵者、莉莉与你的护卫下，她重返星界枢纽，彻底剿灭了C.E.L.残"
+"余势力。原初使命顷刻消散，新的黑暗帝国降临多元宇宙，将永恒的疯狂蔓延至浩瀚无"
+"垠的宇宙深处。"
