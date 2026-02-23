@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-23 07:44+0000\n"
+"PO-Revision-Date: 2026-02-24 06:58+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-beam-emporium/dataevents_sector_unionxmlappend/zh_Hans/>\n"
@@ -41,13 +41,13 @@ msgstr "片刻之后，你的力量被归还于你，且附带了一项优化。
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "升级你的光束“剪刀”。"
 
 #: src-en/data/events_sector_union.xml.append:27
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/text"
-msgstr ""
+msgstr "你把武器交给工程师，让他进行作业。"
 
 #: src-en/data/events_sector_union.xml.append:33
 #, fuzzy
@@ -60,19 +60,19 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "片刻之后，你的武器被归还于你，并附带了一项优化。"
 
 #: src-en/data/events_sector_union.xml.append:42
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "升级你的折射光点 I。"
 
 #: src-en/data/events_sector_union.xml.append:44
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/text"
-msgstr ""
+msgstr "你把武器交给工程师，让他进行作业。"
 
 #: src-en/data/events_sector_union.xml.append:50
 #, fuzzy
@@ -85,19 +85,19 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice/event/text"
-msgstr ""
+msgstr "片刻之后，你的武器被归还于你，并附带了一项优化。"
 
 #: src-en/data/events_sector_union.xml.append:59
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "升级你的折射光点 II。"
 
 #: src-en/data/events_sector_union.xml.append:61
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/text"
-msgstr ""
+msgstr "你把武器交给工程师，让他进行作业。"
 
 #: src-en/data/events_sector_union.xml.append:67
 #, fuzzy
@@ -110,19 +110,19 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice/event/text"
-msgstr ""
+msgstr "片刻之后，你的武器被归还于你，并附带了一项优化。"
 
 #: src-en/data/events_sector_union.xml.append:76
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "升级你的“北极星”冰霜光束。"
 
 #: src-en/data/events_sector_union.xml.append:78
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/text"
-msgstr ""
+msgstr "你把武器交给工程师，让他进行作业。"
 
 #: src-en/data/events_sector_union.xml.append:84
 #, fuzzy
@@ -135,4 +135,4 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/choice/event/text"
-msgstr ""
+msgstr "片刻之后，你的力量被归还于你，且附带了一项优化。"
