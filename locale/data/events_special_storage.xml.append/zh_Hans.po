@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-23 07:44+0000\n"
+"PO-Revision-Date: 2026-02-24 06:58+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-beam-emporium/dataevents_special_storagexmlappend/zh_Hans/>\n"
@@ -39,12 +39,12 @@ msgstr "向她询问特殊科技。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[@req=\"LIST_CREW_LILY_AVATAR\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "请她本人加入你的队伍。"
 
 #: src-en/data/events_special_storage.xml.append:32
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[4]/text"
-msgstr ""
+msgstr "她已经在陪同你了。"
 
 #: src-en/data/events_special_storage.xml.append:36
 #, fuzzy
@@ -62,16 +62,20 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/text"
 msgstr ""
+"“哦，你想要那种别人都没有的花哨的光束武器？——”\n"
+"“还是其他酷炫的舰船配件？——”\n"
+"“那我们倒是有了共同点——”\n"
+"“准备好必要的材料与知识，我很乐意分享——”"
 
 #: src-en/data/events_special_storage.xml.append:55
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[1]/text"
-msgstr ""
+msgstr "向她询问以太。"
 
 #: src-en/data/events_special_storage.xml.append:59
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[2]/text"
-msgstr ""
+msgstr "更多对话选项将在后续更新中添加。"
 
 #: src-en/data/events_special_storage.xml.append:63
 #, fuzzy
@@ -83,88 +87,93 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/text"
 msgstr ""
+"啊，经典款——\n"
+"这类武器已经存在了数千年，至今仍是最强的之一——\n"
+"但还不够强，不足以做到我希望的事……\n"
+"不过好吧，带些材料来，我为你造一件——\n"
+"2-3 件远古科技应该就够了——"
 
 #: src-en/data/events_special_storage.xml.append:80
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "[当前零件：0]"
 
 #: src-en/data/events_special_storage.xml.append:84
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "[当前零件：1]"
 
 #: src-en/data/events_special_storage.xml.append:88
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "[当前零件：2]"
 
 #: src-en/data/events_special_storage.xml.append:92
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "[当前零件：3]"
 
 #: src-en/data/events_special_storage.xml.append:96
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "[当前零件：4]"
 
 #: src-en/data/events_special_storage.xml.append:100
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "[当前零件：5]"
 
 #: src-en/data/events_special_storage.xml.append:104
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "[当前零件：6]"
 
 #: src-en/data/events_special_storage.xml.append:108
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "[当前零件：7]"
 
 #: src-en/data/events_special_storage.xml.append:112
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "[当前零件：8]"
 
 #: src-en/data/events_special_storage.xml.append:116
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "[当前零件：9]"
 
 #: src-en/data/events_special_storage.xml.append:120
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "[当前零件：10]"
 
 #: src-en/data/events_special_storage.xml.append:124
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"11\"]/text"
-msgstr ""
+msgstr "[当前零件：10+]"
 
 #: src-en/data/events_special_storage.xml.append:128
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[13]/text"
-msgstr ""
+msgstr "给她一些科技零件供她使用。"
 
 #: src-en/data/events_special_storage.xml.append:132
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[14]/text"
-msgstr ""
+msgstr "让她用你给的零件做一把新武器。"
 
 #: src-en/data/events_special_storage.xml.append:136
 #, fuzzy
@@ -175,122 +184,122 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:142
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/text"
-msgstr ""
+msgstr "选择你想要给予的物品："
 
 #: src-en/data/events_special_storage.xml.append:144
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER\"]/text"
-msgstr ""
+msgstr "你向她提议：远古预兆者 I（+1 分）"
 
 #: src-en/data/events_special_storage.xml.append:154
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_2\"]/text"
-msgstr ""
+msgstr "你向她提议：远古预兆者 II（+2 分）"
 
 #: src-en/data/events_special_storage.xml.append:164
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_LASER_3\"]/text"
-msgstr ""
+msgstr "你向她提议：远古预兆者 III（+3 分）"
 
 #: src-en/data/events_special_storage.xml.append:174
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BEAM\"]/text"
-msgstr ""
+msgstr "你向她提议：远古根除者 I（+2 分）"
 
 #: src-en/data/events_special_storage.xml.append:184
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BEAM_2\"]/text"
-msgstr ""
+msgstr "你向她提议：远古根除者 II（+3 分）"
 
 #: src-en/data/events_special_storage.xml.append:194
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BEAM_3\"]/text"
-msgstr ""
+msgstr "你向她提议：远古根除者 III（+4 分）"
 
 #: src-en/data/events_special_storage.xml.append:204
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS\"]/text"
-msgstr ""
+msgstr "你向她提议：远古净化者 I（+2 分）"
 
 #: src-en/data/events_special_storage.xml.append:214
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_FOCUS_2\"]/text"
-msgstr ""
+msgstr "你向她提议：远古净化者 II（+3 分）"
 
 #: src-en/data/events_special_storage.xml.append:224
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"HAVOC\"]/text"
-msgstr ""
+msgstr "你向她提议：远古浩劫者（+2 分）"
 
 #: src-en/data/events_special_storage.xml.append:234
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_MISSILES\"]/text"
-msgstr ""
+msgstr "你向她提议：远古杀戮（+2 分）"
 
 #: src-en/data/events_special_storage.xml.append:244
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_BOMB\"]/text"
-msgstr ""
+msgstr "你向她提议：远古爆弹（+1 分）。"
 
 #: src-en/data/events_special_storage.xml.append:254
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_MINELAUNCHER\"]/text"
-msgstr ""
+msgstr "你向她提议：远古猛攻空雷（+2 分）"
 
 #: src-en/data/events_special_storage.xml.append:264
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_ION_1\"]/text"
-msgstr ""
+msgstr "你向她提议：远古等离子 I（+1 分）"
 
 #: src-en/data/events_special_storage.xml.append:274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_ION_2\"]/text"
-msgstr ""
+msgstr "你向她提议：远古等离子 II（+2 分）"
 
 #: src-en/data/events_special_storage.xml.append:284
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_STUN\"]/text"
-msgstr ""
+msgstr "你向她提议：远古镇定者（+1 分）"
 
 #: src-en/data/events_special_storage.xml.append:294
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_LASER\"]/text"
-msgstr ""
+msgstr "你向她提议：预兆者无人机（+1 分）"
 
 #: src-en/data/events_special_storage.xml.append:304
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_ION\"]/text"
-msgstr ""
+msgstr "你向她提议：远古等离子无人机（+1 分）"
 
 #: src-en/data/events_special_storage.xml.append:314
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_COMBAT_MISSILE\"]/text"
-msgstr ""
+msgstr "你向她提议：远古杀戮无人机（+1 分）"
 
 #: src-en/data/events_special_storage.xml.append:324
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_DEFENSE_1\"]/text"
-msgstr ""
+msgstr "你向她提议：远古守望者无人机（+2 分）"
 
 #: src-en/data/events_special_storage.xml.append:334
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"MENDER\"]/text"
-msgstr ""
+msgstr "你向她提议：远古修复机（+1 分）"
 
 #: src-en/data/events_special_storage.xml.append:344
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"DIRECTOR\"]/text"
-msgstr ""
+msgstr "你向她提议：远古导引机（+1 分）"
 
 #: src-en/data/events_special_storage.xml.append:354
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_DEFEND\"]/text"
-msgstr ""
+msgstr "你向她提议：远古解离机（+1 分）"
 
 #: src-en/data/events_special_storage.xml.append:364
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ATOM_BOARDER\"]/text"
-msgstr ""
+msgstr "你向她提议：远古解离机（+1 分）"
 
 #: src-en/data/events_special_storage.xml.append:374
 #, fuzzy
@@ -301,98 +310,98 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:381
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/text"
-msgstr ""
+msgstr "选择你想让她制作的物品："
 
 #: src-en/data/events_special_storage.xml.append:384
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[@req=\"lily_aether_points\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "你要求她制作：皇家根除者 III [5 分]"
 
 #: src-en/data/events_special_storage.xml.append:394
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[2]/text"
-msgstr ""
+msgstr "你要求她制作：皇家根除者 III [5 分]"
 
 #: src-en/data/events_special_storage.xml.append:399
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[3]/text"
-msgstr ""
+msgstr "你要求她制作：皇家净化者 [4 分]"
 
 #: src-en/data/events_special_storage.xml.append:409
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[4]/text"
-msgstr ""
+msgstr "你要求她制作：皇家净化者 [4 分]"
 
 #: src-en/data/events_special_storage.xml.append:414
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[5]/text"
-msgstr ""
+msgstr "你要求她制作：皇家浩劫者 [4 分]"
 
 #: src-en/data/events_special_storage.xml.append:424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[6]/text"
-msgstr ""
+msgstr "你要求她制作：皇家浩劫者 [4 分]"
 
 #: src-en/data/events_special_storage.xml.append:429
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[7]/text"
-msgstr ""
+msgstr "你要求她制作：根除者III [4 分]"
 
 #: src-en/data/events_special_storage.xml.append:439
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[8]/text"
-msgstr ""
+msgstr "你要求她制作：根除者III [4 分]"
 
 #: src-en/data/events_special_storage.xml.append:444
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[9]/text"
-msgstr ""
+msgstr "你要求她制作：根除者II [3 分]"
 
 #: src-en/data/events_special_storage.xml.append:454
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[10]/text"
-msgstr ""
+msgstr "你要求她制作：根除者II [3 分]"
 
 #: src-en/data/events_special_storage.xml.append:459
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[11]/text"
-msgstr ""
+msgstr "你要求她制作：根除者I [2 分]"
 
 #: src-en/data/events_special_storage.xml.append:469
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[12]/text"
-msgstr ""
+msgstr "你要求她制作：根除者I [2 分]"
 
 #: src-en/data/events_special_storage.xml.append:474
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[13]/text"
-msgstr ""
+msgstr "你要求她制作：净化者II [3 分]"
 
 #: src-en/data/events_special_storage.xml.append:484
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[14]/text"
-msgstr ""
+msgstr "你要求她制作：净化者II [3 分]"
 
 #: src-en/data/events_special_storage.xml.append:489
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[15]/text"
-msgstr ""
+msgstr "你要求她制作：净化者I [2 分]"
 
 #: src-en/data/events_special_storage.xml.append:499
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[16]/text"
-msgstr ""
+msgstr "你要求她制作：净化者I [2 分]"
 
 #: src-en/data/events_special_storage.xml.append:504
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[17]/text"
-msgstr ""
+msgstr "你要求她制作：浩劫者 [2 分]"
 
 #: src-en/data/events_special_storage.xml.append:514
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[18]/text"
-msgstr ""
+msgstr "你要求她制作：浩劫者 [2 分]"
 
 #: src-en/data/events_special_storage.xml.append:519
 #, fuzzy
@@ -404,54 +413,66 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/text"
 msgstr ""
+"“哦，你想让我亲自加入？——\n"
+"由于某些……原因，我不能这么做，但我可以把我的化身借给你——\n"
+"你可以把它想象成一种远程控制的无人机，只不过它不是——\n"
+"哦，千万别把它当成一次性的东西，否则我会让你付出代价——\n"
+"\n"
+"“不过，你需要一件特殊的设备我才能这么做……”"
 
 #: src-en/data/events_special_storage.xml.append:546
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "你已经拥有这项技术，用它来召唤莉莉的化身……"
 
 #: src-en/data/events_special_storage.xml.append:548
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "一个空间裂痕突然在你附近打开，从中实体化出……一个看起来相当普通的人类。虽然感"
+"觉有些不对劲……"
 
 #: src-en/data/events_special_storage.xml.append:549
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"1\"]/event/crewMember"
-msgstr ""
+msgstr "莉莉"
 
 #: src-en/data/events_special_storage.xml.append:556
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/text"
-msgstr ""
+msgstr "（押韵者） 让我数一下：三、二、一……"
 
 #: src-en/data/events_special_storage.xml.append:558
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/event/text"
 msgstr ""
+"一切所需皆已完成！\n"
+"\n"
+"一个空间裂痕突然在你附近打开，从中实体化出……一个看起来相当普通的人类。虽然感"
+"觉有些不对劲……"
 
 #: src-en/data/events_special_storage.xml.append:562
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/event/crewMember"
-msgstr ""
+msgstr "莉莉"
 
 #: src-en/data/events_special_storage.xml.append:569
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"BLUELIST_AETHER\"]/text"
-msgstr ""
+msgstr "(以太科技) 以太科技即可——先把其中一件科技部件交给莉莉。（在菜单里向她询问科技"
+"相关事宜）"
 
 #: src-en/data/events_special_storage.xml.append:573
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"lily_aether_points\"]/text"
-msgstr ""
+msgstr "（以太点数）安装该科技并使用 [30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:575
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/text"
-msgstr ""
+msgstr "你正在安装所需科技……"
 
 #: src-en/data/events_special_storage.xml.append:583
 #, fuzzy
@@ -463,17 +484,21 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/event/text"
 msgstr ""
+"启动它！\n"
+"\n"
+"空间裂缝突然在你身边开启，显现出……一个看起来相当普通的人类。虽然感觉似乎有些"
+"不对劲……"
 
 #: src-en/data/events_special_storage.xml.append:588
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/event/crewMember"
-msgstr ""
+msgstr "莉莉"
 
 #: src-en/data/events_special_storage.xml.append:596
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"LILY_AVATAR_LINKER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "注意：你需要拥有以太科技（或某种替代品）才能进行安装。"
 
 #: src-en/data/events_special_storage.xml.append:600
 #, fuzzy
@@ -485,6 +510,8 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/text"
 msgstr ""
+"\"嘿！我不是告诉过你别把我的化身当成一次性用品吗？——\n"
+"算了，我就当这是个意外……但仅此一次——\""
 
 #: src-en/data/events_special_storage.xml.append:612
 #, fuzzy
@@ -495,12 +522,12 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:614
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/event/text"
-msgstr ""
+msgstr "一个空间裂痕突然在你附近打开，化身再次实体化出现。看来她其实无法真正死去。"
 
 #: src-en/data/events_special_storage.xml.append:615
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/event/crewMember"
-msgstr ""
+msgstr "莉莉"
 
 #: src-en/data/events_special_storage.xml.append:623
 #, fuzzy
@@ -512,6 +539,8 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/text"
 msgstr ""
+"\"嘿！我不是告诉过你别把我的化身当成一次性用品吗？——\n"
+"不过，看到押韵者和你在一起，我就破例一次吧，我可不想错过这场好戏——\""
 
 #: src-en/data/events_special_storage.xml.append:634
 #, fuzzy
@@ -522,12 +551,12 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:636
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/event/text"
-msgstr ""
+msgstr "一个空间裂痕突然在你附近打开，化身再次实体化出现。看来她其实无法真正死去。"
 
 #: src-en/data/events_special_storage.xml.append:637
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/event/crewMember"
-msgstr ""
+msgstr "莉莉"
 
 #: src-en/data/events_special_storage.xml.append:644
 #, fuzzy
@@ -538,7 +567,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:650
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/text"
-msgstr ""
+msgstr "好的——"
 
 #: src-en/data/events_special_storage.xml.append:653
 #, fuzzy
@@ -549,12 +578,12 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:655
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "一个空间裂痕突然在你附近打开，化身再次实体化出现。看来她其实无法真正死去。"
 
 #: src-en/data/events_special_storage.xml.append:656
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[1]/event/crewMember"
-msgstr ""
+msgstr "莉莉"
 
 #: src-en/data/events_special_storage.xml.append:663
 #, fuzzy
@@ -566,45 +595,49 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/text"
 msgstr ""
+"\"嗯……那就付钱吧——\n"
+"变元者看重什么呢……废料？好吧，你可以给我一些，或者我直接从你船上拿也行！——\""
 
 #: src-en/data/events_special_storage.xml.append:674
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/text"
-msgstr ""
+msgstr "付给她 100~"
 
 #: src-en/data/events_special_storage.xml.append:679
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/event/text"
-msgstr ""
+msgstr "空间裂缝骤然开启，将你的残骸卷入其中。紧接着，另一道裂缝在你身旁显现，化身再"
+"度现形。她似乎永远不会真正死去。"
 
 #: src-en/data/events_special_storage.xml.append:680
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[1]/event/crewMember"
-msgstr ""
+msgstr "莉莉"
 
 #: src-en/data/events_special_storage.xml.append:688
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/text"
-msgstr ""
+msgstr "用你的飞船付给她 [船体伤害 20]"
 
 #: src-en/data/events_special_storage.xml.append:691
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/event/text"
-msgstr ""
+msgstr "多个空间裂痕突然打开，几乎将你的飞船撕裂，造成严重的船体损伤！紧接着，另一个"
+"裂痕在你身边出现，化身再次实体化。看来她确实无法真正死去。"
 
 #: src-en/data/events_special_storage.xml.append:692
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and @lvl=\"21\"]/event/crewMember"
-msgstr ""
+msgstr "莉莉"
 
 #: src-en/data/events_special_storage.xml.append:700
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[@req=\"hull\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "用你的飞船付给她 [船体伤害 20]"
 
 #: src-en/data/events_special_storage.xml.append:706
 #, fuzzy
@@ -616,6 +649,9 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/text"
 msgstr ""
+"\"那么，你想听听我的故事吗？——\n"
+"嗯，我们该从何说起呢？……\n"
+"我想想，或许从多元宇宙的结构开始？——\""
 
 #: src-en/data/events_special_storage.xml.append:716
 #, fuzzy
@@ -627,6 +663,15 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/text"
 msgstr ""
+"\"如你所知，身为一名多元宇宙变元者，你可以使用多元推进器在多个宇宙之间穿梭。"
+"而这些宇宙的数量是无限的。——\n"
+"在有些宇宙中，联邦获胜了（如果你完成任务，这个宇宙也会成为其中之一）。在另一"
+"些宇宙中，叛军获胜了。见鬼，我甚至见过兰花族和血兰花莫名其妙地与蛞蝓族结盟，"
+"把整个银河系据为己有的宇宙……\n"
+"但总的来说，它们仍然相似。都有飞船，有联邦，有叛军，有螳螂族，有岩石族，诸如"
+"此类的东西……\n"
+"而那组相似的宇宙通常被称为一个\"星团\"。你的星团里可能有无数个宇宙，但它并不"
+"是唯一的——\""
 
 #: src-en/data/events_special_storage.xml.append:723
 #, fuzzy
@@ -638,6 +683,12 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/text"
 msgstr ""
+"\"然而，其他星团可能与你们的星团截然不同。我曾到过一个完全没有人类、甚至没有"
+"任何传统生命形式的星团。那里唯一的居民是巨大的智能机器集群，它们耗尽一切可获"
+"取的物质和能量，只为了堆砌成山般的……某种像回形针的东西？\n"
+"当然，那绝不是什么度假胜地——不像另一个星团，那里的河流是汽水做的，大地是棉花"
+"糖铺的，植物则是黑白巧克力长成的——\n"
+"不同的集群可能包含无数种可能性——\""
 
 #: src-en/data/events_special_storage.xml.append:729
 #, fuzzy
@@ -649,6 +700,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/text"
 msgstr ""
+"\"想必你也猜到了，我也并非来自这个星团——\n"
+"我来自一个非常非常遥远的地方。那个地方极其危险……充斥着无休止的内斗。\n"
+"所以我识趣地选择了‘自我流放’，可以这么说，然后开始探索其他集群——\""
 
 #: src-en/data/events_special_storage.xml.append:735
 #, fuzzy
@@ -660,6 +714,11 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/text"
 msgstr ""
+"\"那可真是一段美妙的时光！我探索了能探索的一切，学到了无数科技，做了各种实验…"
+"…\n"
+"……当然，过程中我可能不小心让几个现实自我坍缩了——\n"
+"哎呀——\n"
+"但那真是太有趣了，过去的事就让它过去吧——\""
 
 #: src-en/data/events_special_storage.xml.append:742
 #, fuzzy
@@ -671,6 +730,15 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/text"
 msgstr ""
+"\"但是，当然，一切都变了，当那些该死的、开着灰绿色飞船的蛞蝓族出现时……\n"
+"你知道的，就是那个用奇怪数字'8'做标志的家伙——\n"
+"他们不仅用卑鄙的蛞蝓诡计不知怎么抓住了我的女主人，现在只要我想找点乐子，他们"
+"就不断骚扰我！\n"
+"当然，不是他们能打败我，但他们确实一直在尝试——我可不会傻等着他们再对我用什么"
+"卑鄙手段！\n"
+"这就是为什么最近我大多只能卖些光束武器……\n"
+"这一切都是为了什么？为了什么'秩序'和'多元宇宙连续性'？呸！好像蛞蝓从一开始就"
+"懂得什么叫'秩序'似的？！荒谬！\""
 
 #: src-en/data/events_special_storage.xml.append:751
 #, fuzzy
@@ -682,6 +750,11 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/text"
 msgstr ""
+"\"我绝不会让那些黏糊糊的混蛋逍遥法外——他们必须完蛋！\n"
+"……好吧，等我找到能真正打败他们的办法……一种特殊的光束武器似乎是个不错的选择，"
+"或者也许是大规模杀伤性武器……\n"
+"……当然，还得等我也找到他们的藏身之处。不过我听说这个宇宙里有一条通道，和'风暴"
+"之心'有关……\""
 
 #: src-en/data/events_special_storage.xml.append:757
 #, fuzzy
@@ -693,6 +766,13 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/text"
 msgstr ""
+"\"……幸运的是，我的女主人既耐心又狡猾……我也一样。\n"
+"我们最终会想出办法的——\n"
+"……但这并不意味着你不能帮忙——如果你真的成功了，我们肯定会奖励你。\n"
+"哦，而且你还能亲手试用我将要测试和开发的各种原型武器——听起来是不是很令人兴奋"
+"？——\n"
+"……如果不行……你在旅途中收集的数据也仍将助力我们的目标。也许下一个变元者会成功"
+"，如果你做不到的话？\""
 
 #: src-en/data/events_special_storage.xml.append:765
 #, fuzzy
@@ -704,6 +784,10 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_9\"]/text"
 msgstr ""
+"\"好了，故事讲得够长了，是吧？——希望你现在能理解，并且更有动力帮助我们……\n"
+"这不仅对我有好处，对你也有好处！——这叫双赢——\n"
+"总之，还有什么想问的吗？\n"
+"（附注：如果你真的读完了所有这些——干得好——）\""
 
 #: src-en/data/events_special_storage.xml.append:773
 #, fuzzy
@@ -714,22 +798,22 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:779
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/choice[2]/text"
-msgstr ""
+msgstr "我希望你已经说完了？"
 
 #: src-en/data/events_special_storage.xml.append:785
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/choice[2]/text"
-msgstr ""
+msgstr "停下。"
 
 #: src-en/data/events_special_storage.xml.append:791
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/choice[2]/text"
-msgstr ""
+msgstr "请别再继续了。"
 
 #: src-en/data/events_special_storage.xml.append:797
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/choice[2]/text"
-msgstr ""
+msgstr "够了！"
 
 #: src-en/data/events_special_storage.xml.append:803
 msgid ""
@@ -739,32 +823,42 @@ msgstr "不听了。"
 #: src-en/data/events_special_storage.xml.append:809
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/choice[2]/text"
-msgstr ""
+msgstr "走出舱室。"
 
 #: src-en/data/events_special_storage.xml.append:815
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/choice[2]/text"
-msgstr ""
+msgstr "请停止说话。"
 
 #: src-en/data/events_special_storage.xml.append:821
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/choice[2]/text"
-msgstr ""
+msgstr "其实，我此刻没心情做这个。"
 
 #: src-en/data/events_special_storage.xml.append:831
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/text"
 msgstr ""
+"你决定问莉莉，她——或者说她的\"化身\"——是如何拥有这种超人力量的。\n"
+"\"哦，你想知道我的力量之类的？——\"\n"
+"\"打听秘密呢，我看到了——\"\n"
+"\"但你肯定听说过魔法师、巫师、术士之类的吧？——\"\n"
+"\"所以很简单——我是个女巫——\""
 
 #: src-en/data/events_special_storage.xml.append:837
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_1\"]/choice[1]/text"
-msgstr ""
+msgstr "我听说了——但这根本说明不了什么。"
 
 #: src-en/data/events_special_storage.xml.append:839
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_2\"]/text"
 msgstr ""
+"\"好吧，看来我得说得……更具体一些了？——\"\n"
+"\"以太，对吧？你听说过，对吧？——\"\n"
+"\"那埃克诺特呢？——\"\n"
+"\"没听说过也不怪你——这种物质在你的星团里根本不存在——连你们最古老的帝国都没接"
+"触过它——\""
 
 #: src-en/data/events_special_storage.xml.append:844
 #, fuzzy
@@ -776,6 +870,10 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_3\"]/text"
 msgstr ""
+"\"但幸运的是，这种限制对我无效！——\"\n"
+"\"既然我能穿梭于不同星团之间，找到存在它的星团只是时间问题——\"\n"
+"\"埃克诺特——无论是物质本身还是其科技——或许没有以太那样神奇的结构特性——但它确"
+"实能实现一些真正奇妙的事情——\""
 
 #: src-en/data/events_special_storage.xml.append:850
 #, fuzzy
