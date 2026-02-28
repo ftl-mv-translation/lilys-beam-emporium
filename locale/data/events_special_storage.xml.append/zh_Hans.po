@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-28 14:36+0000\n"
+"PO-Revision-Date: 2026-03-01 06:54+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-beam-emporium/dataevents_special_storagexmlappend/zh_Hans/>\n"
@@ -47,13 +47,11 @@ msgid ""
 msgstr "她已经在陪同你了。"
 
 #: src-en/data/events_special_storage.xml.append:36
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[5]/text"
 msgstr "算了。"
 
 #: src-en/data/events_special_storage.xml.append:40
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_MENU\"]/choice[6]/text"
 msgstr "算了。"
@@ -78,7 +76,6 @@ msgid ""
 msgstr "更多对话选项将在后续更新中添加。"
 
 #: src-en/data/events_special_storage.xml.append:63
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS\"]/choice[3]/text"
 msgstr "算了。"
@@ -176,7 +173,6 @@ msgid ""
 msgstr "让她用你给的零件做一把新武器。"
 
 #: src-en/data/events_special_storage.xml.append:136
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/choice[15]/text"
 msgstr "算了。"
@@ -302,7 +298,6 @@ msgid ""
 msgstr "你向她提议：远古解离机（+1 分）"
 
 #: src-en/data/events_special_storage.xml.append:374
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[24]/text"
 msgstr "算了。"
@@ -404,7 +399,6 @@ msgid ""
 msgstr "你要求她制作：浩劫者 [2 分]"
 
 #: src-en/data/events_special_storage.xml.append:519
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_REDEEM\"]/choice[19]/text"
 msgstr "算了。"
@@ -475,7 +469,6 @@ msgid ""
 msgstr "你正在安装所需科技……"
 
 #: src-en/data/events_special_storage.xml.append:583
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LINKER_INSTALL\"]/choice/text"
 msgstr "继续。"
@@ -501,7 +494,6 @@ msgid ""
 msgstr "注意：你需要拥有以太科技（或某种替代品）才能进行安装。"
 
 #: src-en/data/events_special_storage.xml.append:600
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[6]/text"
 msgstr "算了。"
@@ -514,7 +506,6 @@ msgstr ""
 "算了，我就当这是个意外……但仅此一次——\""
 
 #: src-en/data/events_special_storage.xml.append:612
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[1]/text"
 msgstr "继续。"
@@ -530,7 +521,6 @@ msgid ""
 msgstr "莉莉"
 
 #: src-en/data/events_special_storage.xml.append:623
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_SECOND\"]/choice[2]/text"
 msgstr "算了。"
@@ -543,7 +533,6 @@ msgstr ""
 "不过，看到押韵者和你在一起，我就破例一次吧，我可不想错过这场好戏——\""
 
 #: src-en/data/events_special_storage.xml.append:634
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[1]/text"
 msgstr "继续。"
@@ -559,7 +548,6 @@ msgid ""
 msgstr "莉莉"
 
 #: src-en/data/events_special_storage.xml.append:644
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/choice[2]/text"
 msgstr "算了。"
@@ -570,7 +558,6 @@ msgid ""
 msgstr "好的——"
 
 #: src-en/data/events_special_storage.xml.append:653
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[1]/text"
 msgstr "继续。"
@@ -586,7 +573,6 @@ msgid ""
 msgstr "莉莉"
 
 #: src-en/data/events_special_storage.xml.append:663
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/choice[2]/text"
 msgstr "算了。"
@@ -640,7 +626,6 @@ msgid ""
 msgstr "用你的飞船付给她 [船体伤害 20]"
 
 #: src-en/data/events_special_storage.xml.append:706
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/choice[4]/text"
 msgstr "算了。"
@@ -654,7 +639,6 @@ msgstr ""
 "我想想，或许从多元宇宙的结构开始？——\""
 
 #: src-en/data/events_special_storage.xml.append:716
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_1\"]/choice[1]/text"
 msgstr "继续。"
@@ -674,7 +658,6 @@ msgstr ""
 "是唯一的——\""
 
 #: src-en/data/events_special_storage.xml.append:723
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_2\"]/choice[1]/text"
 msgstr "继续。"
@@ -691,7 +674,6 @@ msgstr ""
 "不同的集群可能包含无数种可能性——\""
 
 #: src-en/data/events_special_storage.xml.append:729
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_3\"]/choice[1]/text"
 msgstr "继续。"
@@ -705,7 +687,6 @@ msgstr ""
 "所以我识趣地选择了‘自我流放’，可以这么说，然后开始探索其他集群——\""
 
 #: src-en/data/events_special_storage.xml.append:735
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_4\"]/choice[1]/text"
 msgstr "继续。"
@@ -721,7 +702,6 @@ msgstr ""
 "但那真是太有趣了，过去的事就让它过去吧——\""
 
 #: src-en/data/events_special_storage.xml.append:742
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_5\"]/choice[1]/text"
 msgstr "继续。"
@@ -741,7 +721,6 @@ msgstr ""
 "懂得什么叫'秩序'似的？！荒谬！\""
 
 #: src-en/data/events_special_storage.xml.append:751
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_6\"]/choice[1]/text"
 msgstr "继续。"
@@ -757,7 +736,6 @@ msgstr ""
 "之心'有关……\""
 
 #: src-en/data/events_special_storage.xml.append:757
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_7\"]/choice[1]/text"
 msgstr "继续。"
@@ -775,7 +753,6 @@ msgstr ""
 "，如果你做不到的话？\""
 
 #: src-en/data/events_special_storage.xml.append:765
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_8\"]/choice[1]/text"
 msgstr "继续。"
@@ -790,7 +767,6 @@ msgstr ""
 "（附注：如果你真的读完了所有这些——干得好——）\""
 
 #: src-en/data/events_special_storage.xml.append:773
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_9\"]/choice/text"
 msgstr "继续。"
@@ -861,7 +837,6 @@ msgstr ""
 "触过它——\""
 
 #: src-en/data/events_special_storage.xml.append:844
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_2\"]/choice/text"
 msgstr "继续。"
@@ -876,7 +851,6 @@ msgstr ""
 "实能实现一些真正奇妙的事情——\""
 
 #: src-en/data/events_special_storage.xml.append:850
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_3\"]/choice/text"
 msgstr "继续。"
@@ -894,7 +868,6 @@ msgstr ""
 "是如此。”"
 
 #: src-en/data/events_special_storage.xml.append:857
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_4\"]/choice/text"
 msgstr "继续。"
@@ -908,7 +881,6 @@ msgstr ""
 "“至于那些力量——它们同样借助埃克诺特所提供的连接——”"
 
 #: src-en/data/events_special_storage.xml.append:862
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_5\"]/choice/text"
 msgstr "继续。"
@@ -923,7 +895,6 @@ msgstr ""
 "“乖乖听话，也许以后就有机会弄到手，哈嘿——”"
 
 #: src-en/data/events_special_storage.xml.append:869
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_ASK_POWERS_6\"]/choice/text"
 msgstr "继续。"
@@ -1056,13 +1027,11 @@ msgid ""
 msgstr "你安装了此特质。"
 
 #: src-en/data/events_special_storage.xml.append:1009
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[1]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:1015
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_VAMP\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1089,13 +1058,11 @@ msgid ""
 msgstr "你安装了此特质。"
 
 #: src-en/data/events_special_storage.xml.append:1038
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[1]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:1044
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_BUFF\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1122,13 +1089,11 @@ msgid ""
 msgstr "你安装了此特质。"
 
 #: src-en/data/events_special_storage.xml.append:1068
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[1]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:1074
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_DAMAGE\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1157,7 +1122,6 @@ msgid ""
 msgstr "你安装了此特质。"
 
 #: src-en/data/events_special_storage.xml.append:1098
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -1170,7 +1134,6 @@ msgid ""
 msgstr "你必须拥有物种实验室升级才能安装此改造。"
 
 #: src-en/data/events_special_storage.xml.append:1108
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_LILY_SIREN_HARPY_MIND\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1211,7 +1174,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1147
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -1222,7 +1184,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1152
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1238,7 +1199,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1165
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -1249,7 +1209,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1170
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_H\"]/choice[2]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1277,7 +1236,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1191
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -1288,7 +1246,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1196
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1304,7 +1261,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1209
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -1315,7 +1271,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1214
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_P\"]/choice[2]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1343,7 +1298,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1235
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -1354,7 +1308,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1240
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1370,7 +1323,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1253
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -1381,7 +1333,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1258
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SUNSET_B\"]/choice[2]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1433,7 +1384,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1301
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -1444,7 +1394,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1306
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1460,7 +1409,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1319
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -1471,7 +1419,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1324
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[2]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1487,7 +1434,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1337
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/choice/text"
 msgstr "继续。"
@@ -1498,7 +1444,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1342
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_L\"]/choice[3]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1526,7 +1471,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1364
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -1537,7 +1481,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1369
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1553,7 +1496,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1382
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -1564,7 +1506,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1387
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[2]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1580,7 +1521,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1400
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/choice/text"
 msgstr "继续。"
@@ -1591,7 +1531,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1405
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_B\"]/choice[3]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1619,7 +1558,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1428
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -1630,7 +1568,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1433
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1646,7 +1583,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1446
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -1657,7 +1593,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1451
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[2]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1673,7 +1608,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1464
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/choice/text"
 msgstr "继续。"
@@ -1684,7 +1618,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1469
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_P\"]/choice[3]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1712,7 +1645,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1490
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -1723,7 +1655,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1495
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1739,7 +1670,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1508
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -1750,7 +1680,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1513
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[2]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1766,7 +1695,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1526
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/choice/text"
 msgstr "继续。"
@@ -1777,7 +1705,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1531
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_EVENTIDE_H\"]/choice[3]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1823,7 +1750,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1573
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -1834,7 +1760,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1578
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1850,7 +1775,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1591
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -1861,7 +1785,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1596
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_B\"]/choice[2]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1889,7 +1812,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1617
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -1900,7 +1822,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1622
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1916,7 +1837,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1635
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -1927,7 +1847,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1640
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_F\"]/choice[2]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1955,7 +1874,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1661
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -1966,7 +1884,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1666
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -1982,7 +1899,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1679
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -1993,7 +1909,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1684
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_AKATSUKI_S\"]/choice[2]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2049,7 +1964,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1734
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -2060,7 +1974,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1739
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2076,7 +1989,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1752
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -2087,7 +1999,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1757
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[2]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2103,7 +2014,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1770
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/choice/text"
 msgstr "继续。"
@@ -2114,7 +2024,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1775
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[3]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2130,7 +2039,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1788
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/choice/text"
 msgstr "继续。"
@@ -2141,7 +2049,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1793
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE\"]/choice[4]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2157,7 +2064,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1811
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/text"
 msgstr "继续。"
@@ -2168,7 +2074,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1816
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_M\"]/choice/event/choice/text"
 msgstr "继续。"
@@ -2179,7 +2084,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1826
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/text"
 msgstr "继续。"
@@ -2190,7 +2094,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1831
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_S\"]/choice/event/choice/text"
 msgstr "继续。"
@@ -2201,7 +2104,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1841
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/text"
 msgstr "继续。"
@@ -2212,7 +2114,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1846
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_P\"]/choice/event/choice/text"
 msgstr "继续。"
@@ -2223,7 +2124,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1856
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/choice/text"
 msgstr "继续。"
@@ -2234,7 +2134,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1861
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_TOGGLE_SYRINGE_A\"]/choice/event/choice/text"
 msgstr "继续。"
@@ -2287,7 +2186,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1917
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -2298,7 +2196,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1922
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2314,7 +2211,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1935
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -2325,7 +2221,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1940
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[2]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2341,7 +2236,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1953
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/choice/text"
 msgstr "继续。"
@@ -2352,7 +2246,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1958
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[3]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2368,7 +2261,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1971
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/choice/text"
 msgstr "继续。"
@@ -2379,7 +2271,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:1976
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_0\"]/choice[4]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2407,7 +2298,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:1999
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -2418,7 +2308,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2004
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2434,7 +2323,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:2017
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -2445,7 +2333,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2022
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[2]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2461,7 +2348,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:2035
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/choice/text"
 msgstr "继续。"
@@ -2472,7 +2358,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2040
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[3]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2488,7 +2373,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:2053
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/choice/text"
 msgstr "继续。"
@@ -2499,7 +2383,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2058
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_1\"]/choice[4]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2527,7 +2410,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:2080
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -2538,7 +2420,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2085
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2554,7 +2435,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:2098
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -2565,7 +2445,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2103
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[2]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2581,7 +2460,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:2116
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/choice/text"
 msgstr "继续。"
@@ -2592,7 +2470,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2121
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[3]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2608,7 +2485,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:2134
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/choice/text"
 msgstr "继续。"
@@ -2619,7 +2495,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2139
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_2\"]/choice[4]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2647,7 +2522,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:2161
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -2658,7 +2532,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2166
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2674,7 +2547,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:2179
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -2685,7 +2557,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2184
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[2]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2701,7 +2572,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:2197
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/choice/text"
 msgstr "继续。"
@@ -2712,7 +2582,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2202
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[3]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2728,7 +2597,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:2215
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/choice/text"
 msgstr "继续。"
@@ -2739,7 +2607,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2220
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_3\"]/choice[4]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2767,7 +2634,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:2242
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -2778,7 +2644,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2247
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2794,7 +2659,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:2260
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -2805,7 +2669,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2265
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[2]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2821,7 +2684,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:2278
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/choice/text"
 msgstr "继续。"
@@ -2832,7 +2694,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2283
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[3]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -2848,7 +2709,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:2296
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/choice/text"
 msgstr "继续。"
@@ -2859,7 +2719,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2301
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_AMP_SIPHON_OD\"]/choice[4]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -3007,7 +2866,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:2659
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/choice/text"
 msgstr "继续。"
@@ -3018,7 +2876,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2664
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_P\"]/choice/event/choice/text"
 msgstr "继续。"
@@ -3029,7 +2886,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:2675
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/choice/text"
 msgstr "继续。"
@@ -3040,7 +2896,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2680
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_S\"]/choice/event/choice/text"
 msgstr "继续。"
@@ -3063,7 +2918,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:2703
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/choice/text"
 msgstr "继续。"
@@ -3074,7 +2928,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2708
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_P\"]/choice/event/choice/text"
 msgstr "继续。"
@@ -3085,7 +2938,6 @@ msgid ""
 msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:2719
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/choice/text"
 msgstr "继续。"
@@ -3096,7 +2948,6 @@ msgid ""
 msgstr "校准武器成功。"
 
 #: src-en/data/events_special_storage.xml.append:2724
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_BEAM_SHOTGUN_9_S\"]/choice/event/choice/text"
 msgstr "继续。"
@@ -3114,7 +2965,6 @@ msgid ""
 msgstr "你确定吗？你甚至不确定能否以常规方式克隆莉莉的化身。"
 
 #: src-en/data/events_special_storage.xml.append:2741
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/choice[1]/text"
@@ -3128,7 +2978,6 @@ msgstr "你启动了程序。它……似乎正如预料那样不起作用。但
 "什么……改变了？"
 
 #: src-en/data/events_special_storage.xml.append:2746
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/choice[1]/event/choice/text"
@@ -3144,14 +2993,12 @@ msgstr ""
 "“尽管试试，亲自看看效果吧——”"
 
 #: src-en/data/events_special_storage.xml.append:2753
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:2761
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/choice[2]/text"
@@ -3170,7 +3017,6 @@ msgid ""
 msgstr "你重置了武器。"
 
 #: src-en/data/events_special_storage.xml.append:2774
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
 "append:choice/event/choice/text"
@@ -3183,7 +3029,6 @@ msgid ""
 msgstr "尽管火炮的改造……非常不同寻常，重置过程中并未出现任何问题。"
 
 #: src-en/data/events_special_storage.xml.append:2779
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
 "append:choice/event/choice/event/choice/text"
