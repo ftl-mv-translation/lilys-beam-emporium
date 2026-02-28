@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-23 07:44+0000\n"
+"PO-Revision-Date: 2026-02-28 14:36+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-beam-emporium/datablueprintsxmlappend/zh_Hans/>\n"
@@ -1346,7 +1346,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:2970
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/title"
-msgstr "“阵列”多光点 [阵列模式]"
+msgstr "“阵列”多发光点 [阵列模式]"
 
 #: src-en/data/blueprints.xml.append:2971
 msgid ""
@@ -1362,7 +1362,7 @@ msgstr "这件武器由 3 个光点光束组合而成，经改造后能够击破
 #: src-en/data/blueprints.xml.append:3006
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/title"
-msgstr "“阵列”多光点 [散射]"
+msgstr "“阵列”多发光点 [散射]"
 
 #: src-en/data/blueprints.xml.append:3007
 msgid ""
