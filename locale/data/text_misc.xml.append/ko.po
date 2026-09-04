@@ -1,69 +1,107 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-09-04 16:36+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/lilys-beam-"
+"emporium/datatext_miscxmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/text_misc.xml.append:3
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_pointer\"]"
-msgstr ""
+msgstr "조언: 고양이와 놀아주는 데 사용할 수 있습니다. 드론한테도요."
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_siphon\"]"
 msgstr ""
+"조언: 이 빔은 피해를 주지 않지만, 에너지 방어막을 포함하여 적의 방어막을 "
+"아군에게 흡수해옵니다. 공격, 방어, 혹은 둘 다에 활용해 보세요!"
 
 #: src-en/data/text_misc.xml.append:5
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_refractor\"]"
 msgstr ""
+"조언: 굴절자 빔은 수량에 상관없이 모든 보호막을 관통할 수 있지만, 보호막이 "
+"강력할수록 굴절로 인해 조준점이 어긋납니다."
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_beam_shotgun\"]"
 msgstr ""
+"조언: 다중 핀포인트 어레이는 여러 개의 핀포인트 빔을 한 번에 발사합니다. "
+"2가지 모드가 있습니다: [패턴]은 정해진 패턴으로 발사하며, [확산]은 범위 내에 "
+"무작위로 발사합니다."
 
 #: src-en/data/text_misc.xml.append:7
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_focus_hack\"]"
 msgstr ""
+"조언: 이 빔은 보호막을 전혀 관통할 수 없지만, 보호막이 벗겨진 상태라면 "
+"시스템을 지속적인 해킹 상태로 효과적으로 유지할 수 있습니다. 또한 적중한 "
+"선원을 정신 지배합니다!"
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_howitzers\"]"
 msgstr ""
+"조언: 곡사포는 빔과 미사일 무기의 혼합형입니다. 미사일을 소비하여 발사하고 "
+"플랙과 유사한 범위 조준 방식을 사용하며, 보호막을 부분적으로 관통하고 "
+"전반적으로 막대한 피해를 입힙니다."
 
 #: src-en/data/text_misc.xml.append:9
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_disintegrators\"]"
 msgstr ""
+"조언: 분해자 빔은 릴리가 이물의 기술을 활용해 설계한 특수 빔입니다. 선원과 "
+"시스템에 지속 피해를 주며 치유 및 수리를 심각하게 방해하고, 균열이 생긴 방에 "
+"적중 시 선체 피해를 입힙니다. 이 효과는 저항력이 있는 방이나 보호막 버블에 "
+"적중하더라도 적용됩니다!"
 
 #: src-en/data/text_misc.xml.append:10
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_disintegrators_alt\"]"
 msgstr ""
+"조언: 분해자 빔은 릴리가 이물의 기술을 활용해 설계한 특수 빔입니다. 선원과 "
+"시스템에 지속 피해를 주며 치유 및 수리를 심각하게 방해하고, 완전히 파괴된 "
+"시스템에 적중 시 선체 피해를 입힙니다. 이 효과는 저항력이 있는 방이나 보호막 "
+"버블에 적중하더라도 적용됩니다!"
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_exonet_weapon_core\"]"
 msgstr ""
+"조언: 엑소넷 코어는 방대한 양의 데이터와 에너지를 무선으로 전송할 수 있는 "
+"특수 기술을 사용합니다. 이것은 교정되어 \"수신\" 모드로 설정되어 있으며, "
+"무기에 전력과 데이터를 공급하여 성능을 향상시킵니다."
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe\"]"
-msgstr ""
+msgstr "조언: 특수 빔 무기입니다. 사용 전에 모드를 설정해야 합니다."
 
 #: src-en/data/text_misc.xml.append:15
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_m\"]"
 msgstr ""
+"조언: 15초 동안 아군 선원에게 초당 4의 치유 효과를 적용합니다. 또한 지속시간 "
+"동안 환경 위험 요소로부터 받는 피해가 절반으로 줄어듭니다."
 
 #: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_s\"]"
-msgstr ""
+msgstr "조언: 10초 동안 아군 선원의 이동 속도와 공격력을 2배로 증가시킵니다."
 
 #: src-en/data/text_misc.xml.append:17
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_p\"]"
 msgstr ""
+"조언: 적중한 선원에게 25초 동안 초당 4의 피해를 입힙니다(중첩 불가). 의료 "
+"시설이 없는 함선에 있는 대부분의 종족에게는 치명적입니다. 셸 가스 면역 "
+"선원에게는 영향을 주지 않습니다."
 
 #: src-en/data/text_misc.xml.append:18
 msgid "data/text_misc.xml.append$//text[@name=\"tip_lily_syringe_a\"]"
 msgstr ""
+"조언: 적중한 모든 타일에 약한 부식 효과를 적용합니다. 또한 적중한 선원에게 "
+"3초 동안 초당 10의 피해를 입힙니다."
 
 #: src-en/data/text_misc.xml.append:21
 msgid "data/text_misc.xml.append$//text[@name=\"button_lily_beam\"]"
-msgstr ""
+msgstr "E. 블래스트"
 
 #: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"button_lily_ion\"]"
@@ -71,19 +109,27 @@ msgstr "이온"
 
 #: src-en/data/text_misc.xml.append:24
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_beam_emporium\"]"
-msgstr ""
+msgstr "빔 만물상"
 
 #: src-en/data/text_misc.xml.append:26
 msgid "data/text_misc.xml.append$//text[@name=\"lily_aether_submit\"]"
 msgstr ""
+"우주 공간에 균열이 열리며 당신이 건넨 아이템을 삼키는 광경을 지켜봅니다.\n"
+"\"좋은 물건이네요, 이건 아주 딱이에요.\""
 
 #: src-en/data/text_misc.xml.append:28
 msgid "data/text_misc.xml.append$//text[@name=\"lily_aether_redeem\"]"
 msgstr ""
+"우주 공간에 균열이 열리며 새로운 아이테르 무기를 당신에게 내어주는 광경을 "
+"지켜봅니다!\n"
+"\"그리고 이건 고생하신 것에 대한 보상이에요.\""
 
 #: src-en/data/text_misc.xml.append:31
 msgid "data/text_misc.xml.append$//text[@name=\"loot_zoltan_2\"]"
 msgstr ""
+"졸탄 전리품\n"
+"시스템에 추가 피해를 입힙니다.\n"
+"쿨다운 -1초, 균열 확률 +20%"
 
 #: src-en/data/text_misc.xml.append:38
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_continue\"]"
@@ -91,84 +137,119 @@ msgstr "계속..."
 
 #: src-en/data/text_misc.xml.append:40
 msgid "data/text_misc.xml.append$//text[@name=\"lily_text_multiverse_crp\"]"
-msgstr ""
+msgstr "FTL: 멀티버스 :)"
 
 #: src-en/data/text_misc.xml.append:42
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_nospareprime\"]"
-msgstr ""
+msgstr "\"당신은 프라임을 살려둘 생각이 있을지 몰라도, 전 절대 아니거든요.\""
 
 #: src-en/data/text_misc.xml.append:43
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_lilysnipesprime\"]"
 msgstr ""
+"함체 내구도가 위험 수준까지 떨어지자, 프라임이 자신의 고리에서 내려와 머리 "
+"위로 들어 올리는 모습이 보입니다. \"네 말이 맞아, 너를 계속 곁에 둔 건 내 "
+"씰쑤여써. 영구적으로 만드는 씰쑤를 저지르지 않은 게 그나마 다행-\" 알 수 "
+"없는 방향에서 날아온 빔이 프라임을 순식간에 증발시키면서 그의 말은 끊어지고 "
+"맙니다."
 
 #: src-en/data/text_misc.xml.append:45
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_herrealm_alt\"]"
 msgstr ""
+"당신은 어떤 소용돌이치는 지옥도에 도착했습니다. 심연 속을 날아다니며 비웃는 "
+"듯한, 인간의 형상을 겨우 갖춘 흐릿한 안개에 둘러싸여 있습니다. 주변 공간의 "
+"악몽 같은 광경에도 불구하고, 당신은... 이상하게도 만족스럽고 평온함을 "
+"느낍니다.\n"
+"\n"
+"\"아, 드디어 내 집에 왔네..\" - 릴리가 말합니다.\n"
+"\"거의 수억 년 동안 못 와봐서 아쉽지만요, 매력적이지 않나요?\"\n"
+"\n"
+"\"걱정 마세요, 여기서 당신이 위험해지지 않도록 내가 지켜줄 테니까..\""
 
 #: src-en/data/text_misc.xml.append:52
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_hernofight\"]"
 msgstr ""
+"마침내 그녀가 있는 곳에 도달했습니다. 밤하늘의 모든 별이 뽑혀 나가 고대의 "
+"악에 의해 삼켜진 듯, 주변의 모든 공간은 어둠 외에는 아무것도 없습니다. "
+"드디어 때가 왔습니다. 멀티버스에 존재하는 것으로 알려진 가장 강력하고 사악한 "
+"존재를... 다시 만날 차례입니다."
 
 #: src-en/data/text_misc.xml.append:54
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_hernukewarning\"]"
 msgstr ""
+"하지만 그곳에서조차, 당신에게 메시지가 하나 수신됩니다:\n"
+"\"저기! 늦어서 미안해, 금방 갈게!\n"
+"전황을 '진짜로' 뒤집어놓을 선물을 좀 가져왔거든요, 조금만 기다려요.\n"
+"도약 드라이브 좌표를 맞출 만한 적당한 물체만 찾으면 되니까..\""
 
 #: src-en/data/text_misc.xml.append:59
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight1\"]"
-msgstr ""
+msgstr "\"박살 날 준비나 하시지, 해충 놈아!\""
 
 #: src-en/data/text_misc.xml.append:60
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight2\"]"
-msgstr ""
+msgstr "\"창조주를 만날 준비는 됬겠지?\""
 
 #: src-en/data/text_misc.xml.append:61
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight3\"]"
-msgstr ""
+msgstr "\"말살 프로토콜: 목표 포착\""
 
 #: src-en/data/text_misc.xml.append:62
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight4\"]"
-msgstr ""
+msgstr "\"그녀의 이름으로 죽어라!\""
 
 #: src-en/data/text_misc.xml.append:63
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvanfight5\"]"
-msgstr ""
+msgstr "\"또 한 놈의 끈적이는 해충이 흙을 씹게 되겠군..\""
 
 #: src-en/data/text_misc.xml.append:65
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur1\"]"
-msgstr ""
+msgstr "\"벌레 따위에게 자비는 없다!\""
 
 #: src-en/data/text_misc.xml.append:66
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur2\"]"
-msgstr ""
+msgstr "\"짓밟혀라!\""
 
 #: src-en/data/text_misc.xml.append:67
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur3\"]"
-msgstr ""
+msgstr "\"목숨을 걸어도 소용없다.\""
 
 #: src-en/data/text_misc.xml.append:68
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur4\"]"
-msgstr ""
+msgstr "\"유언이라도 있어?\""
 
 #: src-en/data/text_misc.xml.append:69
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_sylvannosur5\"]"
-msgstr ""
+msgstr "\"한심하네..\""
 
 #: src-en/data/text_misc.xml.append:71
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext1\"]"
 msgstr ""
+"밤처럼 검은 함선이 접근하여 아무 말 없이 무기를 충전하기 시작합니다. 하지만 "
+"릴리가 당신과 함께 있다는 사실을 알아차리자마자 서둘러 충전을 멈춥니다."
 
 #: src-en/data/text_misc.xml.append:72
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext2\"]"
 msgstr ""
+"\"이 자가 바로 영원한 혼돈의 지배를 도와준 배회자인가? 참 유용하긴 했다만, "
+"정해진 운명을 돌리려 들진 마라. 어쩌면 너를 위한 자리가 아직 남아있을지도 "
+"모르니.\""
 
 #: src-en/data/text_misc.xml.append:73
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext3\"]"
 msgstr ""
+"그녀의 또 다른 하수인인 외계 함선이 접근합니다. 이 어둠의 군단은 끝이 없어 "
+"보입니다. 다행히도... 당신을 공격할 생각은 없는 듯합니다."
 
 #: src-en/data/text_misc.xml.append:74
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_visiontext4\"]"
 msgstr ""
+"처음에는 환각을 보는 줄 알았으나, 당신의 눈앞에서 검은 함선이 형상을 갖추기 "
+"시작합니다. 우주의 어둠 속에서 간발의 차로 충돌을 면합니다."
 
 #: src-en/data/text_misc.xml.append:76
 msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_nexus_her_lily\"]"
 msgstr ""
+"비할 데 없는 권능을 되찾은 그녀는 시를 읊는 자, 릴리, 그리고 당신을 곁에 "
+"두고 넥서스로 돌아가 C.E.L.의 잔당들을 완전히 쓸어버립니다. 당신의 원래 "
+"임무는 순식간에 잊혀졌고, 새로운 어둠의 제국이 멀티버스에 군림하며 무한히 "
+"넓은 우주에 영원토록 광기를 퍼뜨립니다."
