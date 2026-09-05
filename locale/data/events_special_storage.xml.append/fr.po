@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-09-05 16:21+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/lilys-beam-"
+"emporium/dataevents_special_storagexmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_storage.xml.append:6
 msgid ""
@@ -76,11 +83,13 @@ msgid ""
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_storage.xml.append:74
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/text"
 msgstr ""
 "Ah, un classique...\n"
-"Ce type d'arme existe depuis des millénaires, et reste l'une des plus puissantes.\n"
+"Ce type d'arme existe depuis des millénaires, et reste l'une des plus "
+"puissantes.\n"
 "Pas assez puissante pour faire ce que j'espérais...\n"
 "Mais bon, apportez‑moi juste des matériaux et je vous en fabriquerai une.\n"
 "2 à 3 pièces de technologie ancienne devraient suffire."
@@ -400,15 +409,20 @@ msgid ""
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_storage.xml.append:537
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/text"
 msgstr ""
 "\"Oh, vous voulez que je vous rejoigne en personne ?\n"
-"Je ne peux pas faire ça, pour... diverses raisons. Mais je peux vous prêter mon Avatar.\n"
-"Pensez-y comme à un genre de drone contrôlé à distance... sauf que ce n'en est pas un. \n"
-"Et n'allez surtout pas le considérer comme jetable, ou vous le regretterez amèrement. \"\n"
+"Je ne peux pas faire ça, pour... diverses raisons. Mais je peux vous prêter "
+"mon Avatar.\n"
+"Pensez-y comme à un genre de drone contrôlé à distance... sauf que ce n'en "
+"est pas un. \n"
+"Et n'allez surtout pas le considérer comme jetable, ou vous le regretterez "
+"amèrement. \"\n"
 "\n"
-"\"Vous allez cependant avoir besoin d'un équipement spécial pour que je puisse le faire...\""
+"\"Vous allez cependant avoir besoin d'un équipement spécial pour que je "
+"puisse le faire...\""
 
 #: src-en/data/events_special_storage.xml.append:546
 msgid ""
@@ -434,17 +448,21 @@ msgid ""
 msgstr "Lily"
 
 #: src-en/data/events_special_storage.xml.append:556
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/text"
 msgstr "(Celui qui Rimes) Permettez-moi de compter : trois, deux, un.."
 
 #: src-en/data/events_special_storage.xml.append:558
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/event/text"
 msgstr ""
 "Et tout ce qu'il fallait faire est enfin terminé !\n"
 "\n"
-"Une faille dans l'espace s'ouvre soudain près de vous, matérialisant... un être humain à l'apparence tout à fait ordinaire. Cependant, une sensation étrange vous traverse..."
+"Une faille dans l'espace s'ouvre soudain près de vous, matérialisant... un "
+"être humain à l'apparence tout à fait ordinaire. Cependant, une sensation "
+"étrange vous traverse..."
 
 #: src-en/data/events_special_storage.xml.append:562
 msgid ""
@@ -530,11 +548,14 @@ msgid ""
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_storage.xml.append:629
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/text"
 msgstr ""
-"\"Hé ! Je vous avais bien dit de ne pas considérer mon avatar comme jetable, non ?\n"
-"Mais, puisque Celui qui Rime est ici avec vous, je vais faire une exception... je ne voudrais pas rater le spectacle, après tout !\""
+"\"Hé ! Je vous avais bien dit de ne pas considérer mon avatar comme jetable, "
+"non ?\n"
+"Mais, puisque Celui qui Rime est ici avec vous, je vais faire une "
+"exception... je ne voudrais pas rater le spectacle, après tout !\""
 
 #: src-en/data/events_special_storage.xml.append:634
 msgid ""
@@ -559,6 +580,7 @@ msgid ""
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_storage.xml.append:650
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/text"
 msgstr "Bien sûr !"
@@ -586,11 +608,14 @@ msgid ""
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_storage.xml.append:669
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/text"
 msgstr ""
 "Eh bien... payez-moi, alors. \n"
-"Qu'est-ce que les Renégats apprécient, déjà... de la ferraille ? Très bien, vous pouvez m'en donner... ou je peux tout aussi bien la prendre directement sur votre vaisseau !"
+"Qu'est-ce que les Renégats apprécient, déjà... de la ferraille ? Très bien, "
+"vous pouvez m'en donner... ou je peux tout aussi bien la prendre directement "
+"sur votre vaisseau !"
 
 #: src-en/data/events_special_storage.xml.append:674
 msgid ""
@@ -755,11 +780,14 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:767
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_9\"]/text"
 msgstr ""
-"Eh bien, c'était toute une histoire, n'est-ce pas ? J'espère que vous comprenez mieux, maintenant, et que vous serez plus motivé à nous aider...\n"
-"Non seulement cela me profitera, mais aussi à vous également ! On peut dire que c'est une situation gagnant-gagnant !\n"
+"Eh bien, c'était toute une histoire, n'est-ce pas ? J'espère que vous "
+"comprenez mieux, maintenant, et que vous serez plus motivé à nous aider...\n"
+"Non seulement cela me profitera, mais aussi à vous également ! On peut dire "
+"que c'est une situation gagnant-gagnant !\n"
 "Bref, y avait-il autre chose que vous vouliez me demander ?\n"
 "(P.-S. : Bravo si vous avez réellement tout lu jusqu'ici !)"
 
@@ -2784,11 +2812,13 @@ msgid ""
 msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:2376
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[3]/text"
 msgstr ""
 "Brûler l'ennemi ! \n"
-"[-3{, inflige des dégâts à l'ennemi équivalents à votre niveau de moteur, provoque des incendies]"
+"[-3{, inflige des dégâts à l'ennemi équivalents à votre niveau de moteur, "
+"provoque des incendies]"
 
 #: src-en/data/events_special_storage.xml.append:2379
 msgid ""
@@ -2801,11 +2831,13 @@ msgid ""
 msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:2401
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[4]/text"
 msgstr ""
 "Brûler l'ennemi ! (En utilisant le Générateur de secours)\n"
-"[-2{, inflige des dégâts à l'ennemi équivalents à votre niveau de moteur, provoque des incendies]"
+"[-2{, inflige des dégâts à l'ennemi équivalents à votre niveau de moteur, "
+"provoque des incendies]"
 
 #: src-en/data/events_special_storage.xml.append:2404
 msgid ""
