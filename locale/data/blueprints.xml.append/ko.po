@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-09-05 16:21+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/lilys-beam-"
+"emporium/datablueprintsxmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/blueprints.xml.append:195
 msgid ""
@@ -338,9 +345,12 @@ msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_SHIP_HER\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:473
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/desc"
-msgstr "\"다차원 여행자이자, 빔 외판원이자, 진정한 혼돈을 관장하는 최고 기이한 여신의 충직한 하수인. 네, 그게 바로 저랍니다.\""
+msgstr ""
+"\"다차원 여행자이자, 빔 외판원이자, 진정한 혼돈을 관장하는 최고 기이한 "
+"여신의 충직한 하수인. 네, 그게 바로 저랍니다.\""
 
 #: src-en/data/blueprints.xml.append:476
 msgid ""
@@ -402,11 +412,13 @@ msgid ""
 msgstr "Cloner [???]"
 
 #: src-en/data/blueprints.xml.append:533
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_LILY_BEAM\"]/desc"
 msgstr ""
-"이보다 더 큰 윤리적 논란을 불러일으킨 무기는 없었지만, 작동하기만 한다면 장땡입니다. 릴리의 분신을 업로드하려 했던 시도가... 빔으로"
-" 만들어 버린 모양입니다?"
+"이보다 더 큰 윤리적 논란을 불러일으킨 무기는 없었지만, 작동하기만 한다면 "
+"장땡입니다. 릴리의 분신을 업로드하려 했던 시도가... 빔으로 만들어 버린 "
+"모양입니다?"
 
 #: src-en/data/blueprints.xml.append:602
 msgid ""
@@ -825,6 +837,7 @@ msgid ""
 msgstr "한 번에 교차하는 한 쌍의 빔을 발사할 수 있는 독특한 무기입니다."
 
 #: src-en/data/blueprints.xml.append:1724
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/descriptionOverride"
 msgstr ""
@@ -852,6 +865,7 @@ msgstr ""
 "기본 가격: 100~   -   판매 가격: 50~"
 
 #: src-en/data/blueprints.xml.append:1745
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/tooltipOverride"
 msgstr ""
@@ -904,6 +918,7 @@ msgid ""
 msgstr "한 번에 교차하는 한 쌍의 빔을 발사할 수 있는 독특한 무기입니다."
 
 #: src-en/data/blueprints.xml.append:1824
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/descriptionOverride"
 msgstr ""
@@ -931,6 +946,7 @@ msgstr ""
 "기본 가격: 100~   -   판매 가격: 50~"
 
 #: src-en/data/blueprints.xml.append:1845
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/tooltipOverride"
 msgstr ""
@@ -2656,9 +2672,12 @@ msgid ""
 msgstr "Parthenope"
 
 #: src-en/data/blueprints.xml.append:7735
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/desc"
-msgstr "혼돈을 완전히 받아들인 이 함선은 10가지 다른 빔 중 하나를 완전 무작위로 발사하는 포격을 갖추고 있습니다."
+msgstr ""
+"혼돈을 완전히 받아들인 이 함선은 10가지 다른 빔 중 하나를 완전 무작위로 "
+"발사하는 포격을 갖추고 있습니다."
 
 #: src-en/data/blueprints.xml.append:7817
 msgid ""
