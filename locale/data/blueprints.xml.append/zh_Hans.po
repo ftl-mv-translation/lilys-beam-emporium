@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-09-05 16:21+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/lilys-beam-emporium/datablueprintsxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/blueprints.xml.append:195
 msgid ""
@@ -321,6 +328,7 @@ msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_SHIP_HER\"]/desc"
 msgstr "开发人员信息"
 
 #: src-en/data/blueprints.xml.append:473
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/desc"
 msgstr "多元宇宙旅行者、光束推销员，以及至高混沌怪异女神的忠实仆人。没错，就是我--"
@@ -385,9 +393,12 @@ msgid ""
 msgstr "克隆器 [???]"
 
 #: src-en/data/blueprints.xml.append:533
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_LILY_BEAM\"]/desc"
-msgstr "从未有哪件武器引发过如此巨大的伦理争议，但有用就行。显然，你试图将莉莉的化身上传至其中的举动，让它变成了……某种光点？"
+msgstr ""
+"从未有哪件武器引发过如此巨大的伦理争议，但有用就行。显然，你试图将莉莉的化身"
+"上传至其中的举动，让它变成了……某种光点？"
 
 #: src-en/data/blueprints.xml.append:602
 msgid ""
@@ -790,6 +801,7 @@ msgid ""
 msgstr "一种独特的武器，可同时发射一对汇聚光束。"
 
 #: src-en/data/blueprints.xml.append:1724
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/descriptionOverride"
 msgstr ""
@@ -817,6 +829,7 @@ msgstr ""
 "标准售价：100～ · 出售价格：50～"
 
 #: src-en/data/blueprints.xml.append:1745
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/tooltipOverride"
 msgstr ""
@@ -869,6 +882,7 @@ msgid ""
 msgstr "一种独特的武器，可同时发射一对汇聚光束。"
 
 #: src-en/data/blueprints.xml.append:1824
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/descriptionOverride"
 msgstr ""
@@ -896,6 +910,7 @@ msgstr ""
 "标准售价：100～ · 出售价格：50～"
 
 #: src-en/data/blueprints.xml.append:1845
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/tooltipOverride"
 msgstr ""
@@ -2592,6 +2607,7 @@ msgid ""
 msgstr "帕耳忒诺佩"
 
 #: src-en/data/blueprints.xml.append:7735
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/desc"
 msgstr "这艘舰船完全拥抱混沌，配备的巨炮会从 8 种不同光束中完全随机发射一种。"
