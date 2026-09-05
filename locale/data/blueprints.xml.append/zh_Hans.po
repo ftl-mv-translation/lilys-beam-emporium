@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-28 14:36+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/lilys-beam-emporium/datablueprintsxmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:195
 msgid ""
@@ -20,8 +13,7 @@ msgstr "埃克诺特主机(V)"
 #: src-en/data/blueprints.xml.append:196
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_VERDANT\"]/desc"
-msgstr "安装在你的飞船上的苍翠等级埃克诺特联网主机。提供 3 点可叠加的能量护盾，并为引"
-"擎提供 3 点额外动力。"
+msgstr "安装在你的飞船上的苍翠等级埃克诺特联网主机。提供 3 点可叠加的能量护盾，并为引擎提供 3 点额外动力。"
 
 #: src-en/data/blueprints.xml.append:204
 msgid ""
@@ -31,8 +23,7 @@ msgstr "埃克诺特主机 (C)"
 #: src-en/data/blueprints.xml.append:205
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_CRIMSON\"]/desc"
-msgstr "安装在舰船上的深红级埃克诺特兼容主机。提供 5 点可叠加能量护盾，引擎 +4 额外电"
-"力，护盾与装甲 +2，其他系统 +1。"
+msgstr "安装在舰船上的深红级埃克诺特兼容主机。提供 5 点可叠加能量护盾，引擎 +4 额外电力，护盾与装甲 +2，其他系统 +1。"
 
 #: src-en/data/blueprints.xml.append:213
 msgid ""
@@ -43,9 +34,8 @@ msgstr "埃克诺特主机 (A)"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_AZURE\"]/desc"
 msgstr ""
-"安装在舰船上的天蓝级埃克诺特兼容主机。提供 8 点可叠加能量护盾，引擎 +5 额外电"
-"力，护盾、装甲及 ECM 各 +4，其他系统 +2。同时为所有系统提供基础（0 级）操控加"
-"成。"
+"安装在舰船上的天蓝级埃克诺特兼容主机。提供 8 点可叠加能量护盾，引擎 +5 额外电力，护盾、装甲及 ECM 各 +4，其他系统 "
+"+2。同时为所有系统提供基础（0 级）操控加成。"
 
 #: src-en/data/blueprints.xml.append:222
 msgid ""
@@ -56,9 +46,8 @@ msgstr "埃克诺特主机 (R)"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_RADIANT\"]/desc"
 msgstr ""
-"安装在舰船上的辉光级埃克诺特兼容主机。提供 14 点可叠加能量护盾，引擎与 ECM 各"
-" +6 额外电力，护盾与装甲各 +8，其他系统 +4。同时为所有系统提供强化（1 级）操"
-"控加成。"
+"安装在舰船上的辉光级埃克诺特兼容主机。提供 14 点可叠加能量护盾，引擎与 ECM 各 +6 额外电力，护盾与装甲各 +8，其他系统 "
+"+4。同时为所有系统提供强化（1 级）操控加成。"
 
 #: src-en/data/blueprints.xml.append:231
 msgid ""
@@ -69,9 +58,8 @@ msgstr "埃克诺特主机 (I)"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_IRIDIUM\"]/desc"
 msgstr ""
-"安装在舰船上的铱金级埃克诺特兼容主机。提供 20 点可叠加能量护盾，引擎与 ECM 各"
-" +8 额外电力，护盾与装甲各 +16，其他系统 +6。同时为所有系统提供高级（2 级）操"
-"控加成。"
+"安装在舰船上的铱金级埃克诺特兼容主机。提供 20 点可叠加能量护盾，引擎与 ECM 各 +8 额外电力，护盾与装甲各 +16，其他系统 "
+"+6。同时为所有系统提供高级（2 级）操控加成。"
 
 #: src-en/data/blueprints.xml.append:241
 msgid ""
@@ -113,8 +101,7 @@ msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_COMBAT_AFTERBURNER\"]/desc"
 msgstr ""
 "为你的引擎配备的聚能推进器，能提供强大推力，但极其耗油。\n"
-"[消耗 3 燃料，获得 20% 闪避加成，持续 60 秒] 或 [造成 1 点伤害并在敌方随机舱"
-"室引发火灾，效果次数等同于你的引擎等级]"
+"[消耗 3 燃料，获得 20% 闪避加成，持续 60 秒] 或 [造成 1 点伤害并在敌方随机舱室引发火灾，效果次数等同于你的引擎等级]"
 
 #: src-en/data/blueprints.xml.append:278
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/title"
@@ -123,8 +110,8 @@ msgstr "反 C.E.L. 共振器"
 #: src-en/data/blueprints.xml.append:279
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/desc"
 msgstr ""
-"这个奇怪的装置似乎能以某种方式让你的武器与敌舰上的 C.E.L. 技术产生共振，从而"
-"使武器造成双倍伤害。上面附着一张纸条：“帮你对付那些害虫的小玩意儿—— :) ”"
+"这个奇怪的装置似乎能以某种方式让你的武器与敌舰上的 C.E.L. "
+"技术产生共振，从而使武器造成双倍伤害。上面附着一张纸条：“帮你对付那些害虫的小玩意儿—— :) ”"
 
 #: src-en/data/blueprints.xml.append:287
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_PATRONAGE\"]/title"
@@ -172,8 +159,7 @@ msgstr "神秘护盾"
 #: src-en/data/blueprints.xml.append:325
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ADV_ELDRITCH_SHIELDS\"]/desc"
-msgstr "一道由诡异混沌能量构筑的屏障，提供20点的超级护盾。你的传感器甚至无法探测到护"
-"盾能量的来源。"
+msgstr "一道由诡异混沌能量构筑的屏障，提供20点的超级护盾。你的传感器甚至无法探测到护盾能量的来源。"
 
 #: src-en/data/blueprints.xml.append:333
 msgid ""
@@ -182,8 +168,7 @@ msgstr "剧烈混沌能量"
 
 #: src-en/data/blueprints.xml.append:334
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_ELITE\"]/desc"
-msgstr "非异鸣族船员在强烈混沌能量场中，将失去主动技能、战斗、操控、修复或破坏能力，"
-"且移动速度降至四分之一。"
+msgstr "非异鸣族船员在强烈混沌能量场中，将失去主动技能、战斗、操控、修复或破坏能力，且移动速度降至四分之一。"
 
 #: src-en/data/blueprints.xml.append:343
 msgid ""
@@ -193,8 +178,7 @@ msgstr "蔚蓝能量"
 #: src-en/data/blueprints.xml.append:344
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_AZURE\"]/desc"
 msgstr ""
-"敌方非异鸣族船员登舰后，在蔚蓝能量场中移动与破坏速度减半、失去主动技能与心灵"
-"控制免疫；友方船员登舰后则获得心灵控制与眩晕免疫，并每秒恢复 1 点生命值。"
+"敌方非异鸣族船员登舰后，在蔚蓝能量场中移动与破坏速度减半、失去主动技能与心灵控制免疫；友方船员登舰后则获得心灵控制与眩晕免疫，并每秒恢复 1 点生命值。"
 
 #: src-en/data/blueprints.xml.append:352
 msgid ""
@@ -204,8 +188,7 @@ msgstr "蔚蓝装甲"
 #: src-en/data/blueprints.xml.append:353
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AZURE_ARMOR\"]/desc"
 msgstr ""
-"每当你的舰船受到伤害，就会分裂出一块隐形的水晶碎片飞向敌人，该碎片能穿透所有"
-"护盾，造成 1 点船体与系统伤害，封锁舱室，并心灵控制敌方船员 20 秒。"
+"每当你的舰船受到伤害，就会分裂出一块隐形的水晶碎片飞向敌人，该碎片能穿透所有护盾，造成 1 点船体与系统伤害，封锁舱室，并心灵控制敌方船员 20 秒。"
 
 #: src-en/data/blueprints.xml.append:361
 msgid ""
@@ -225,8 +208,7 @@ msgstr "灵魂虹吸"
 #: src-en/data/blueprints.xml.append:372
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_VAMP\"]/desc"
-msgstr "异鸣族/异鸣食梦者现在根据舱室内每个敌人获得每秒 1.0/2.0 点生命值恢复，但其伤"
-"害减半。"
+msgstr "异鸣族/异鸣食梦者现在根据舱室内每个敌人获得每秒 1.0/2.0 点生命值恢复，但其伤害减半。"
 
 #: src-en/data/blueprints.xml.append:379
 msgid ""
@@ -236,8 +218,7 @@ msgstr "缤纷梦境"
 #: src-en/data/blueprints.xml.append:380
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_BUFF\"]/desc"
-msgstr "与异鸣族同处一室的友方非异鸣族船员，所受伤害降低 30%，修复速度提升 50%，并获"
-"得心灵控制免疫，但移动速度降低 50%。"
+msgstr "与异鸣族同处一室的友方非异鸣族船员，所受伤害降低 30%，修复速度提升 50%，并获得心灵控制免疫，但移动速度降低 50%。"
 
 #: src-en/data/blueprints.xml.append:387
 msgid ""
@@ -247,8 +228,7 @@ msgstr "枯萎凝视"
 #: src-en/data/blueprints.xml.append:388
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_DAMAGE\"]/desc"
-msgstr "被异鸣族魅惑的敌人所受所有伤害提升 30%，并失去原有的心灵控制免疫。不影响其他"
-"异鸣族或怪异造物。"
+msgstr "被异鸣族魅惑的敌人所受所有伤害提升 30%，并失去原有的心灵控制免疫。不影响其他异鸣族或怪异造物。"
 
 #: src-en/data/blueprints.xml.append:395
 msgid ""
@@ -258,8 +238,7 @@ msgstr "心灵夺舍"
 #: src-en/data/blueprints.xml.append:396
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/desc"
-msgstr "异鸣族食梦者获得新能力：心灵控制当前舱室内的随机一名敌方船员，持续 10 秒。冷"
-"却时间 30 秒。"
+msgstr "异鸣族食梦者获得新能力：心灵控制当前舱室内的随机一名敌方船员，持续 10 秒。冷却时间 30 秒。"
 
 #: src-en/data/blueprints.xml.append:406
 msgid ""
@@ -270,11 +249,9 @@ msgstr "[L] 灵魂虹吸"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_VAMP\"]/desc"
 msgstr ""
-"异鸣族/异鸣食梦者现在根据舱室内每个敌人获得每秒 1.0/2.0 点生命值恢复，但其伤"
-"害减半。\n"
+"异鸣族/异鸣食梦者现在根据舱室内每个敌人获得每秒 1.0/2.0 点生命值恢复，但其伤害减半。\n"
 "\n"
-"[外] - 作为外置特质，该部件将提供船员的特质效果，但占用一个增强部件槽位。其无"
-"法被转换为不占槽位的物种特质，但也不影响主次要特质的配置，且相同效果不叠加。"
+"[外] - 作为外置特质，该部件将提供船员的特质效果，但占用一个增强部件槽位。其无法被转换为不占槽位的物种特质，但也不影响主次要特质的配置，且相同效果不叠加。"
 
 #: src-en/data/blueprints.xml.append:416
 msgid ""
@@ -285,11 +262,9 @@ msgstr "[L] 缤纷梦境"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_BUFF\"]/desc"
 msgstr ""
-"与异鸣族同处一室的友方非异鸣族船员，所受伤害降低 30%，修复速度提升 50%，并获"
-"得心灵控制免疫，但移动速度降低 50%。\n"
+"与异鸣族同处一室的友方非异鸣族船员，所受伤害降低 30%，修复速度提升 50%，并获得心灵控制免疫，但移动速度降低 50%。\n"
 "\n"
-"[外] - 作为外置特质，该部件将提供船员的特质效果，但占用一个增强部件槽位。其无"
-"法被转换为不占槽位的物种特质，但也不影响主次要特质的配置，且相同效果不叠加。"
+"[外] - 作为外置特质，该部件将提供船员的特质效果，但占用一个增强部件槽位。其无法被转换为不占槽位的物种特质，但也不影响主次要特质的配置，且相同效果不叠加。"
 
 #: src-en/data/blueprints.xml.append:426
 msgid ""
@@ -300,11 +275,9 @@ msgstr "[L] 枯萎凝视"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_DAMAGE\"]/desc"
 msgstr ""
-"被异鸣族魅惑的敌人所受所有伤害提升 30%，并失去原有的心灵控制免疫。不影响其他"
-"异鸣族或怪异造物。\n"
+"被异鸣族魅惑的敌人所受所有伤害提升 30%，并失去原有的心灵控制免疫。不影响其他异鸣族或怪异造物。\n"
 "\n"
-"[外] - 作为外置特质，该部件将提供船员的特质效果，但占用一个增强部件槽位。其无"
-"法被转换为不占槽位的物种特质，但也不影响主次要特质的配置，且相同效果不叠加。"
+"[外] - 作为外置特质，该部件将提供船员的特质效果，但占用一个增强部件槽位。其无法被转换为不占槽位的物种特质，但也不影响主次要特质的配置，且相同效果不叠加。"
 
 #: src-en/data/blueprints.xml.append:436
 msgid ""
@@ -315,11 +288,9 @@ msgstr "[L] 心灵夺舍"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/desc"
 msgstr ""
-"异鸣族食梦者获得新能力：心灵控制当前舱室内的随机一名敌方船员，持续 10 秒。冷"
-"却时间 30 秒。\n"
+"异鸣族食梦者获得新能力：心灵控制当前舱室内的随机一名敌方船员，持续 10 秒。冷却时间 30 秒。\n"
 "\n"
-"[外] - 作为外置特质，该部件将提供船员的特质效果，但占用一个增强部件槽位。其无"
-"法被转换为不占槽位的物种特质，但也不影响主次要特质的配置，且相同效果不叠加。"
+"[外] - 作为外置特质，该部件将提供船员的特质效果，但占用一个增强部件槽位。其无法被转换为不占槽位的物种特质，但也不影响主次要特质的配置，且相同效果不叠加。"
 
 #: src-en/data/blueprints.xml.append:447
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SIREN\"]/title"
@@ -338,9 +309,8 @@ msgstr "她的赋能"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_HER_EMPOWERMENT\"]/desc"
 msgstr ""
-"这艘舰船由她的怪异力量赋能。它将作为拥有强化（2 级）操控与修复能力的自动舰运"
-"作，快速修复船体，并获得 20 点能量护盾。你的怪异造物与异鸣族船员亦被赋能，获"
-"得伤害抗性与环境危害免疫。"
+"这艘舰船由她的怪异力量赋能。它将作为拥有强化（2 级）操控与修复能力的自动舰运作，快速修复船体，并获得 20 "
+"点能量护盾。你的怪异造物与异鸣族船员亦被赋能，获得伤害抗性与环境危害免疫。"
 
 #: src-en/data/blueprints.xml.append:463
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_SHIP_HER\"]/title"
@@ -417,8 +387,7 @@ msgstr "克隆器 [???]"
 #: src-en/data/blueprints.xml.append:533
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_LILY_BEAM\"]/desc"
-msgstr "从未有哪件武器引发过如此巨大的伦理争议，但有用就行。显然，你试图将莉莉的化身"
-"上传至其中的举动，让它变成了……某种光点？"
+msgstr "从未有哪件武器引发过如此巨大的伦理争议，但有用就行。显然，你试图将莉莉的化身上传至其中的举动，让它变成了……某种光点？"
 
 #: src-en/data/blueprints.xml.append:602
 msgid ""
@@ -538,8 +507,7 @@ msgstr "链式离子光点"
 #: src-en/data/blueprints.xml.append:1042
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_CHAIN\"]/desc"
-msgstr "这种改造过的光点武器只造成少量离子伤害，但射速会迅速提升，最终能独自瘫痪多个"
-"系统。"
+msgstr "这种改造过的光点武器只造成少量离子伤害，但射速会迅速提升，最终能独自瘫痪多个系统。"
 
 #: src-en/data/blueprints.xml.append:1094
 msgid ""
@@ -554,8 +522,7 @@ msgstr "热能离子光点"
 #: src-en/data/blueprints.xml.append:1096
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_FIRE\"]/desc"
-msgstr "一种改造过的光点光束，可发射超高温离子流。造成 1 点离子伤害，并必定点燃命中的"
-"格子。"
+msgstr "一种改造过的光点光束，可发射超高温离子流。造成 1 点离子伤害，并必定点燃命中的格子。"
 
 #: src-en/data/blueprints.xml.append:1142
 msgid ""
@@ -600,8 +567,7 @@ msgstr "相位离子光点"
 #: src-en/data/blueprints.xml.append:1247
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/desc"
-msgstr "一种改造过的光点光束，造成 2 点离子伤害，并可相位穿透护盾。它会逐渐适应敌方护"
-"盾，连续射击时可穿透额外层数。"
+msgstr "一种改造过的光点光束，造成 2 点离子伤害，并可相位穿透护盾。它会逐渐适应敌方护盾，连续射击时可穿透额外层数。"
 
 #: src-en/data/blueprints.xml.append:1249
 msgid ""
@@ -656,8 +622,7 @@ msgstr "“日落”光束 [破舰]"
 #: src-en/data/blueprints.xml.append:1341
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_H\"]/desc"
-msgstr "这道光束拥有独特的多元化能量核心，使其能有效针对船体、系统或船员——但不能同时"
-"兼顾。当前模式：反船体。"
+msgstr "这道光束拥有独特的多元化能量核心，使其能有效针对船体、系统或船员——但不能同时兼顾。当前模式：反船体。"
 
 #: src-en/data/blueprints.xml.append:1367
 msgid ""
@@ -672,8 +637,7 @@ msgstr "'日落'[粒子]"
 #: src-en/data/blueprints.xml.append:1369
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_P\"]/desc"
-msgstr "这道光束拥有独特的多元化能量核心，使其能有效针对船体、系统或船员——但不能同时"
-"兼顾。当前模式：反系统。"
+msgstr "这道光束拥有独特的多元化能量核心，使其能有效针对船体、系统或船员——但不能同时兼顾。当前模式：反系统。"
 
 #: src-en/data/blueprints.xml.append:1399
 msgid ""
@@ -688,8 +652,7 @@ msgstr "“日落”[辐射]"
 #: src-en/data/blueprints.xml.append:1401
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_B\"]/desc"
-msgstr "这道光束拥有独特的多元化能量核心，使其能有效针对船体、系统或船员——但不能同时"
-"兼顾。当前模式：反船员。"
+msgstr "这道光束拥有独特的多元化能量核心，使其能有效针对船体、系统或船员——但不能同时兼顾。当前模式：反船员。"
 
 #: src-en/data/blueprints.xml.append:1446
 msgid ""
@@ -704,8 +667,7 @@ msgstr "“暮色”[长距离]"
 #: src-en/data/blueprints.xml.append:1448
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_L\"]/desc"
-msgstr "作为“日落”的升级版，这道光束的核心不仅更强大，还多了一个模式！当前模式：长距"
-"离、纯粹伤害。"
+msgstr "作为“日落”的升级版，这道光束的核心不仅更强大，还多了一个模式！当前模式：长距离、纯粹伤害。"
 
 #: src-en/data/blueprints.xml.append:1474
 msgid ""
@@ -720,8 +682,7 @@ msgstr "“暮色”[撕裂]"
 #: src-en/data/blueprints.xml.append:1476
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_B\"]/desc"
-msgstr "作为“日落”的升级版，这道光束的核心不仅更强大，还多了一个模式！当前模式：撕裂"
-"，高破舱、系统与船员伤害。"
+msgstr "作为“日落”的升级版，这道光束的核心不仅更强大，还多了一个模式！当前模式：撕裂，高破舱、系统与船员伤害。"
 
 #: src-en/data/blueprints.xml.append:1513
 msgid ""
@@ -736,8 +697,7 @@ msgstr "“暮色” [热能]"
 #: src-en/data/blueprints.xml.append:1515
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_P\"]/desc"
-msgstr "作为“日落”的升级版，这道光束的核心不仅更强大，还多了一个模式！当前模式：热粒"
-"子，高系统伤害，必定起火。"
+msgstr "作为“日落”的升级版，这道光束的核心不仅更强大，还多了一个模式！当前模式：热粒子，高系统伤害，必定起火。"
 
 #: src-en/data/blueprints.xml.append:1547
 msgid ""
@@ -752,8 +712,7 @@ msgstr "“暮色”[骇客]"
 #: src-en/data/blueprints.xml.append:1549
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_H\"]/desc"
-msgstr "作为“日落”的升级版，这道光束的核心不仅更强大，还多了一个模式！当前模式：骇客"
-"，对被击中的任何系统施加黑客控制效果。"
+msgstr "作为“日落”的升级版，这道光束的核心不仅更强大，还多了一个模式！当前模式：骇客，对被击中的任何系统施加黑客控制效果。"
 
 #: src-en/data/blueprints.xml.append:1593
 msgid ""
@@ -768,8 +727,7 @@ msgstr "“晓” [光束]"
 #: src-en/data/blueprints.xml.append:1595
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_B\"]/desc"
-msgstr "一种特殊的光束武器，可即时切换射击模式，在长度与伤害之间取舍。当前模式：光束"
-"。"
+msgstr "一种特殊的光束武器，可即时切换射击模式，在长度与伤害之间取舍。当前模式：光束。"
 
 #: src-en/data/blueprints.xml.append:1620
 msgid ""
@@ -784,8 +742,7 @@ msgstr "“晓” [集束]"
 #: src-en/data/blueprints.xml.append:1622
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_F\"]/desc"
-msgstr "一种特殊的光束武器，可即时切换射击模式，在长度与伤害之间取舍。当前模式：光点"
-"。"
+msgstr "一种特殊的光束武器，可即时切换射击模式，在长度与伤害之间取舍。当前模式：光点。"
 
 #: src-en/data/blueprints.xml.append:1649
 msgid ""
@@ -800,8 +757,7 @@ msgstr "“晓” [散射]"
 #: src-en/data/blueprints.xml.append:1651
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S\"]/desc"
-msgstr "一种特殊的光束武器，可即时切换射击模式，在长度与伤害之间取舍。当前模式：散射"
-"。"
+msgstr "一种特殊的光束武器，可即时切换射击模式，在长度与伤害之间取舍。当前模式：散射。"
 
 #: src-en/data/blueprints.xml.append:1683
 msgid ""
@@ -860,7 +816,7 @@ msgstr ""
 "\n"
 "标准售价：100～ · 出售价格：50～"
 
-#: src-en/data/blueprints.xml.append:1746
+#: src-en/data/blueprints.xml.append:1745
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/tooltipOverride"
 msgstr ""
@@ -882,37 +838,37 @@ msgstr ""
 "船员伤害：45\n"
 "破舱几率：30%（修正后：30%）"
 
-#: src-en/data/blueprints.xml.append:1793
+#: src-en/data/blueprints.xml.append:1791
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_SEC\"]/title"
 msgstr "光束“剪刀”"
 
-#: src-en/data/blueprints.xml.append:1794
+#: src-en/data/blueprints.xml.append:1792
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_SEC\"]/short"
 msgstr "“剪刀”"
 
-#: src-en/data/blueprints.xml.append:1795
+#: src-en/data/blueprints.xml.append:1793
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_SEC\"]/desc"
 msgstr "一种独特的武器，可同时发射一对汇聚光束。"
 
-#: src-en/data/blueprints.xml.append:1823
+#: src-en/data/blueprints.xml.append:1820
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/title"
 msgstr "光束“剪刀”†"
 
-#: src-en/data/blueprints.xml.append:1824
+#: src-en/data/blueprints.xml.append:1821
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/short"
 msgstr "“剪刀”†"
 
-#: src-en/data/blueprints.xml.append:1825
+#: src-en/data/blueprints.xml.append:1822
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/desc"
 msgstr "一种独特的武器，可同时发射一对汇聚光束。"
 
-#: src-en/data/blueprints.xml.append:1827
+#: src-en/data/blueprints.xml.append:1824
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/descriptionOverride"
 msgstr ""
@@ -939,7 +895,7 @@ msgstr ""
 "\n"
 "标准售价：100～ · 出售价格：50～"
 
-#: src-en/data/blueprints.xml.append:1849
+#: src-en/data/blueprints.xml.append:1845
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/tooltipOverride"
 msgstr ""
@@ -961,550 +917,532 @@ msgstr ""
 "船员总伤害：45\n"
 "破舱几率：30%（修正后：30%）"
 
-#: src-en/data/blueprints.xml.append:1906
+#: src-en/data/blueprints.xml.append:1901
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/title"
 msgstr "“注射器”光束 [空载]"
 
-#: src-en/data/blueprints.xml.append:1907
+#: src-en/data/blueprints.xml.append:1902
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/short"
 msgstr "“注射器”[-]"
 
-#: src-en/data/blueprints.xml.append:1908
+#: src-en/data/blueprints.xml.append:1903
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/desc"
-msgstr "这件与其说是传统光束武器，不如说是个超大型医疗设备。内置自动化学合成物种实验"
-"室。当前模式：空载，使用前需配置。"
+msgstr "这件与其说是传统光束武器，不如说是个超大型医疗设备。内置自动化学合成物种实验室。当前模式：空载，使用前需配置。"
 
-#: src-en/data/blueprints.xml.append:1942
+#: src-en/data/blueprints.xml.append:1937
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/title"
 msgstr "“注射器”光束 [医疗]"
 
-#: src-en/data/blueprints.xml.append:1943
+#: src-en/data/blueprints.xml.append:1938
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/short"
 msgstr "“注射器”[医疗]"
 
-#: src-en/data/blueprints.xml.append:1944
+#: src-en/data/blueprints.xml.append:1939
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/desc"
-msgstr "这件与其说是传统光束武器，不如说是个超大型医疗设备。内置自动化学合成物种实验"
-"室。当前模式：医疗。"
+msgstr "这件与其说是传统光束武器，不如说是个超大型医疗设备。内置自动化学合成物种实验室。当前模式：医疗。"
 
-#: src-en/data/blueprints.xml.append:2004
+#: src-en/data/blueprints.xml.append:1999
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/title"
 msgstr "“注射器”光束 [兴奋剂]"
 
-#: src-en/data/blueprints.xml.append:2005
+#: src-en/data/blueprints.xml.append:2000
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/short"
 msgstr "“注射器”[兴奋剂]"
 
-#: src-en/data/blueprints.xml.append:2006
+#: src-en/data/blueprints.xml.append:2001
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/desc"
-msgstr "这件与其说是传统光束武器，不如说是个超大型医疗设备。内置自动化学合成物种实验"
-"室。当前模式：兴奋剂。"
+msgstr "这件与其说是传统光束武器，不如说是个超大型医疗设备。内置自动化学合成物种实验室。当前模式：兴奋剂。"
 
-#: src-en/data/blueprints.xml.append:2091
+#: src-en/data/blueprints.xml.append:2086
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/title"
 msgstr "“注射器”光束 [毒]"
 
-#: src-en/data/blueprints.xml.append:2092
+#: src-en/data/blueprints.xml.append:2087
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/short"
 msgstr "“注射器”[毒]"
 
-#: src-en/data/blueprints.xml.append:2093
+#: src-en/data/blueprints.xml.append:2088
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/desc"
-msgstr "这件与其说是传统光束武器，不如说是个超大型医疗设备。内置自动化学合成物种实验"
-"室。当前模式：毒。"
+msgstr "这件与其说是传统光束武器，不如说是个超大型医疗设备。内置自动化学合成物种实验室。当前模式：毒。"
 
-#: src-en/data/blueprints.xml.append:2192
+#: src-en/data/blueprints.xml.append:2187
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/title"
 msgstr "“注射器”光束 [酸液]"
 
-#: src-en/data/blueprints.xml.append:2193
+#: src-en/data/blueprints.xml.append:2188
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/short"
 msgstr "“注射器”[酸液]"
 
-#: src-en/data/blueprints.xml.append:2194
+#: src-en/data/blueprints.xml.append:2189
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/desc"
-msgstr "这件与其说是传统光束武器，不如说是个超大型医疗设备。内置自动化学合成物种实验"
-"室。当前模式：酸液。"
+msgstr "这件与其说是传统光束武器，不如说是个超大型医疗设备。内置自动化学合成物种实验室。当前模式：酸液。"
 
-#: src-en/data/blueprints.xml.append:2271
+#: src-en/data/blueprints.xml.append:2266
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON\"]/title"
 msgstr "爆裂光束弹体"
 
-#: src-en/data/blueprints.xml.append:2272
+#: src-en/data/blueprints.xml.append:2267
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON\"]/short"
 msgstr "爆裂光束弹体"
 
-#: src-en/data/blueprints.xml.append:2273
+#: src-en/data/blueprints.xml.append:2268
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON\"]/desc"
 msgstr "开发人员信息"
 
-#: src-en/data/blueprints.xml.append:2303
+#: src-en/data/blueprints.xml.append:2298
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_O\"]/title"
 msgstr "爆裂光束弹体"
 
-#: src-en/data/blueprints.xml.append:2304
+#: src-en/data/blueprints.xml.append:2299
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_O\"]/short"
 msgstr "爆裂光束弹体"
 
-#: src-en/data/blueprints.xml.append:2305
+#: src-en/data/blueprints.xml.append:2300
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_O\"]/desc"
 msgstr "开发人员信息"
 
-#: src-en/data/blueprints.xml.append:2339
+#: src-en/data/blueprints.xml.append:2334
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/title"
 msgstr "“爱迪生”虹吸光束 [0]"
 
-#: src-en/data/blueprints.xml.append:2340
+#: src-en/data/blueprints.xml.append:2335
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/short"
 msgstr "“爱迪生”[0]"
 
-#: src-en/data/blueprints.xml.append:2341
+#: src-en/data/blueprints.xml.append:2336
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/desc"
 msgstr ""
-"这种独特的光束武器能够虹吸敌方护盾，同时为你的护盾充能。直接命中时强制降低目"
-"标系统 1 点能量，但不会锁定。更多能量可延长爆发时长。当前能量：0（集能模式）"
-"。"
+"这种独特的光束武器能够虹吸敌方护盾，同时为你的护盾充能。直接命中时强制降低目标系统 1 "
+"点能量，但不会锁定。更多能量可延长爆发时长。当前能量：0（集能模式）。"
 
-#: src-en/data/blueprints.xml.append:2378
+#: src-en/data/blueprints.xml.append:2373
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/title"
 msgstr "“爱迪生”虹吸光束 [1]"
 
-#: src-en/data/blueprints.xml.append:2379
+#: src-en/data/blueprints.xml.append:2374
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/short"
 msgstr "“爱迪生”[1]"
 
-#: src-en/data/blueprints.xml.append:2380
+#: src-en/data/blueprints.xml.append:2375
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/desc"
 msgstr ""
-"这种独特的光束武器能够虹吸敌方护盾，同时为你的护盾充能。直接命中时强制降低目"
-"标系统 1 点能量，但不会锁定。更多能量可延长爆发时长。当前能量：1。"
+"这种独特的光束武器能够虹吸敌方护盾，同时为你的护盾充能。直接命中时强制降低目标系统 1 点能量，但不会锁定。更多能量可延长爆发时长。当前能量：1。"
 
-#: src-en/data/blueprints.xml.append:2417
+#: src-en/data/blueprints.xml.append:2412
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/title"
 msgstr "“爱迪生”虹吸光束 [2]"
 
-#: src-en/data/blueprints.xml.append:2418
+#: src-en/data/blueprints.xml.append:2413
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/short"
 msgstr "“爱迪生”[2]"
 
-#: src-en/data/blueprints.xml.append:2419
+#: src-en/data/blueprints.xml.append:2414
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/desc"
 msgstr ""
-"这种独特的光束武器能够虹吸敌方护盾，同时为你的护盾充能。直接命中时强制降低目"
-"标系统 1 点能量，但不会锁定。更多能量可延长爆发时长。当前能量：2。"
+"这种独特的光束武器能够虹吸敌方护盾，同时为你的护盾充能。直接命中时强制降低目标系统 1 点能量，但不会锁定。更多能量可延长爆发时长。当前能量：2。"
 
-#: src-en/data/blueprints.xml.append:2455
+#: src-en/data/blueprints.xml.append:2450
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/title"
 msgstr "“爱迪生”虹吸光束 [3]"
 
-#: src-en/data/blueprints.xml.append:2456
+#: src-en/data/blueprints.xml.append:2451
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/short"
 msgstr "“爱迪生”[3]"
 
-#: src-en/data/blueprints.xml.append:2457
+#: src-en/data/blueprints.xml.append:2452
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/desc"
 msgstr ""
-"这种独特的光束武器能够虹吸敌方护盾，同时为你的护盾充能。直接命中时强制降低目"
-"标系统 1 点能量，但不会锁定。更多能量可延长爆发时长。当前能量：3。"
+"这种独特的光束武器能够虹吸敌方护盾，同时为你的护盾充能。直接命中时强制降低目标系统 1 点能量，但不会锁定。更多能量可延长爆发时长。当前能量：3。"
 
-#: src-en/data/blueprints.xml.append:2492
+#: src-en/data/blueprints.xml.append:2487
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/title"
 msgstr "“爱迪生”虹吸光束 [超载模式]"
 
-#: src-en/data/blueprints.xml.append:2493
+#: src-en/data/blueprints.xml.append:2488
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/short"
 msgstr "“爱迪生”[超载模式]"
 
-#: src-en/data/blueprints.xml.append:2494
+#: src-en/data/blueprints.xml.append:2489
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/desc"
 msgstr ""
-"这种独特的光束武器能够虹吸敌方护盾，同时为你的护盾充能。直接命中时强制降低目"
-"标系统 1 点能量，但不会锁定。更多能量可延长爆发时长。当前能量：超载模式。"
+"这种独特的光束武器能够虹吸敌方护盾，同时为你的护盾充能。直接命中时强制降低目标系统 1 点能量，但不会锁定。更多能量可延长爆发时长。当前能量：超载模式。"
 
-#: src-en/data/blueprints.xml.append:2545
+#: src-en/data/blueprints.xml.append:2540
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1\"]/title"
 msgstr "折射光点 I"
 
-#: src-en/data/blueprints.xml.append:2546
+#: src-en/data/blueprints.xml.append:2541
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1\"]/short"
 msgstr "折射I"
 
-#: src-en/data/blueprints.xml.append:2547
+#: src-en/data/blueprints.xml.append:2542
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1\"]/desc"
-msgstr "一种采用特殊穿透技术的光点光束。虽然无法以常规方式穿透护盾，但能让光束折射穿"
-"过护盾，仍可击中舰船——尽管精度有所损失。"
+msgstr "一种采用特殊穿透技术的光点光束。虽然无法以常规方式穿透护盾，但能让光束折射穿过护盾，仍可击中舰船——尽管精度有所损失。"
 
-#: src-en/data/blueprints.xml.append:2581
+#: src-en/data/blueprints.xml.append:2576
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/title"
 msgstr "折射光点 I†"
 
-#: src-en/data/blueprints.xml.append:2582
+#: src-en/data/blueprints.xml.append:2577
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/short"
 msgstr "折射I†"
 
-#: src-en/data/blueprints.xml.append:2583
+#: src-en/data/blueprints.xml.append:2578
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/desc"
-msgstr "一种采用特殊穿透技术的光点光束。虽然无法以常规方式穿透护盾，但能让光束折射穿"
-"过护盾，仍可击中舰船——尽管精度有所损失。"
+msgstr "一种采用特殊穿透技术的光点光束。虽然无法以常规方式穿透护盾，但能让光束折射穿过护盾，仍可击中舰船——尽管精度有所损失。"
 
-#: src-en/data/blueprints.xml.append:2618
+#: src-en/data/blueprints.xml.append:2613
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_R\"]/title"
 msgstr "折射光点 I"
 
-#: src-en/data/blueprints.xml.append:2619
+#: src-en/data/blueprints.xml.append:2614
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_R\"]/short"
 msgstr "折射I"
 
-#: src-en/data/blueprints.xml.append:2620
+#: src-en/data/blueprints.xml.append:2615
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_R\"]/desc"
 msgstr "开发人员信息"
 
-#: src-en/data/blueprints.xml.append:2652
+#: src-en/data/blueprints.xml.append:2647
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/title"
 msgstr "折射光点 II"
 
-#: src-en/data/blueprints.xml.append:2653
+#: src-en/data/blueprints.xml.append:2648
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/short"
 msgstr "折射II"
 
-#: src-en/data/blueprints.xml.append:2654
+#: src-en/data/blueprints.xml.append:2649
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/desc"
 msgstr ""
-"一种采用特殊穿透技术的光点光束。虽然无法以常规方式穿透护盾，但能让光束折射穿"
-"过护盾，仍可击中舰船——尽管精度有所损失。比 I 型更强，折射时会化作一道彩虹。"
+"一种采用特殊穿透技术的光点光束。虽然无法以常规方式穿透护盾，但能让光束折射穿过护盾，仍可击中舰船——尽管精度有所损失。比 I "
+"型更强，折射时会化作一道彩虹。"
 
-#: src-en/data/blueprints.xml.append:2687
+#: src-en/data/blueprints.xml.append:2682
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/title"
 msgstr "折射光点 II†"
 
-#: src-en/data/blueprints.xml.append:2688
+#: src-en/data/blueprints.xml.append:2683
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/short"
 msgstr "折射II†"
 
-#: src-en/data/blueprints.xml.append:2689
+#: src-en/data/blueprints.xml.append:2684
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/desc"
 msgstr ""
-"一种采用特殊穿透技术的光点光束。虽然无法以常规方式穿透护盾，但能让光束折射穿"
-"过护盾，仍可击中舰船——尽管精度有所损失。比 I 型更强，折射时会化作一道彩虹。"
+"一种采用特殊穿透技术的光点光束。虽然无法以常规方式穿透护盾，但能让光束折射穿过护盾，仍可击中舰船——尽管精度有所损失。比 I "
+"型更强，折射时会化作一道彩虹。"
 
-#: src-en/data/blueprints.xml.append:2722
+#: src-en/data/blueprints.xml.append:2717
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_R\"]/title"
 msgstr "折射光点 II"
 
-#: src-en/data/blueprints.xml.append:2723
+#: src-en/data/blueprints.xml.append:2718
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_R\"]/short"
 msgstr "折射II"
 
-#: src-en/data/blueprints.xml.append:2724
+#: src-en/data/blueprints.xml.append:2719
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_R\"]/desc"
 msgstr "开发人员信息"
 
-#: src-en/data/blueprints.xml.append:2755
+#: src-en/data/blueprints.xml.append:2750
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_O\"]/title"
 msgstr "折射光点 II"
 
-#: src-en/data/blueprints.xml.append:2756
+#: src-en/data/blueprints.xml.append:2751
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_O\"]/short"
 msgstr "折射II"
 
-#: src-en/data/blueprints.xml.append:2757
+#: src-en/data/blueprints.xml.append:2752
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_O\"]/desc"
 msgstr "开发人员信息"
 
-#: src-en/data/blueprints.xml.append:2788
+#: src-en/data/blueprints.xml.append:2783
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_Y\"]/title"
 msgstr "折射光点 II"
 
-#: src-en/data/blueprints.xml.append:2789
+#: src-en/data/blueprints.xml.append:2784
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_Y\"]/short"
 msgstr "折射II"
 
-#: src-en/data/blueprints.xml.append:2790
+#: src-en/data/blueprints.xml.append:2785
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_Y\"]/desc"
 msgstr "开发人员信息"
 
-#: src-en/data/blueprints.xml.append:2822
+#: src-en/data/blueprints.xml.append:2817
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_G\"]/title"
 msgstr "折射光点 II"
 
-#: src-en/data/blueprints.xml.append:2823
+#: src-en/data/blueprints.xml.append:2818
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_G\"]/short"
 msgstr "折射II"
 
-#: src-en/data/blueprints.xml.append:2824
+#: src-en/data/blueprints.xml.append:2819
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_G\"]/desc"
 msgstr "开发人员信息"
 
-#: src-en/data/blueprints.xml.append:2855
+#: src-en/data/blueprints.xml.append:2850
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_B\"]/title"
 msgstr "折射光点 II"
 
-#: src-en/data/blueprints.xml.append:2856
+#: src-en/data/blueprints.xml.append:2851
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_B\"]/short"
 msgstr "折射II"
 
-#: src-en/data/blueprints.xml.append:2857
+#: src-en/data/blueprints.xml.append:2852
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_B\"]/desc"
 msgstr "开发人员信息"
 
-#: src-en/data/blueprints.xml.append:2888
+#: src-en/data/blueprints.xml.append:2883
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_I\"]/title"
 msgstr "折射光点 II"
 
-#: src-en/data/blueprints.xml.append:2889
+#: src-en/data/blueprints.xml.append:2884
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_I\"]/short"
 msgstr "折射II"
 
-#: src-en/data/blueprints.xml.append:2890
+#: src-en/data/blueprints.xml.append:2885
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_I\"]/desc"
 msgstr "开发人员信息"
 
-#: src-en/data/blueprints.xml.append:2921
+#: src-en/data/blueprints.xml.append:2916
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_V\"]/title"
 msgstr "折射光点 II"
 
-#: src-en/data/blueprints.xml.append:2922
+#: src-en/data/blueprints.xml.append:2917
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_V\"]/short"
 msgstr "折射II"
 
-#: src-en/data/blueprints.xml.append:2923
+#: src-en/data/blueprints.xml.append:2918
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_V\"]/desc"
 msgstr "开发人员信息"
 
-#: src-en/data/blueprints.xml.append:2970
+#: src-en/data/blueprints.xml.append:2965
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/title"
 msgstr "“阵列”多发光点 [阵列模式]"
 
-#: src-en/data/blueprints.xml.append:2971
+#: src-en/data/blueprints.xml.append:2966
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/short"
 msgstr "“阵列”[阵列模式]"
 
-#: src-en/data/blueprints.xml.append:2972
+#: src-en/data/blueprints.xml.append:2967
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/desc"
-msgstr "这件武器由 3 个光点光束组合而成，经改造后能够击破护盾。当前模式：阵列模式（垂"
-"直或水平，间距 2 格）"
+msgstr "这件武器由 3 个光点光束组合而成，经改造后能够击破护盾。当前模式：阵列模式（垂直或水平，间距 2 格）"
 
-#: src-en/data/blueprints.xml.append:3006
+#: src-en/data/blueprints.xml.append:3001
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/title"
 msgstr "“阵列”多发光点 [散射]"
 
-#: src-en/data/blueprints.xml.append:3007
+#: src-en/data/blueprints.xml.append:3002
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/short"
 msgstr "“阵列”[散射]"
 
-#: src-en/data/blueprints.xml.append:3008
+#: src-en/data/blueprints.xml.append:3003
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/desc"
 msgstr "这件武器由 3 个光点光束组合而成，经改造后能够击破护盾。当前模式：散射"
 
-#: src-en/data/blueprints.xml.append:3045
+#: src-en/data/blueprints.xml.append:3040
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/title"
 msgstr "“矩阵”多光点 [阵列模式]"
 
-#: src-en/data/blueprints.xml.append:3046
+#: src-en/data/blueprints.xml.append:3041
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/short"
 msgstr "“矩阵”[阵列模式]"
 
-#: src-en/data/blueprints.xml.append:3047
+#: src-en/data/blueprints.xml.append:3042
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/desc"
 msgstr ""
-"这件武器由 9 个光点光束组合而成，经改造后能够击破护盾。能摧毁敌方护盾并造成严"
-"重破坏，但操作笨重，难以瞄准。当前模式：阵列模式（舱格，间距 2 格）"
+"这件武器由 9 个光点光束组合而成，经改造后能够击破护盾。能摧毁敌方护盾并造成严重破坏，但操作笨重，难以瞄准。当前模式：阵列模式（舱格，间距 2 格）"
 
-#: src-en/data/blueprints.xml.append:3081
+#: src-en/data/blueprints.xml.append:3076
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/title"
 msgstr "“矩阵”多光点 [散射]"
 
-#: src-en/data/blueprints.xml.append:3082
+#: src-en/data/blueprints.xml.append:3077
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/short"
 msgstr "“矩阵”[散射]"
 
-#: src-en/data/blueprints.xml.append:3083
+#: src-en/data/blueprints.xml.append:3078
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/desc"
-msgstr "这件武器由 9 个光点光束组合而成，经改造后能够击破护盾。能摧毁敌方护盾并造成严"
-"重破坏，但操作笨重，难以瞄准。当前模式：散射"
+msgstr "这件武器由 9 个光点光束组合而成，经改造后能够击破护盾。能摧毁敌方护盾并造成严重破坏，但操作笨重，难以瞄准。当前模式：散射"
 
-#: src-en/data/blueprints.xml.append:3130
+#: src-en/data/blueprints.xml.append:3125
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/title"
 msgstr "数据链光点"
 
-#: src-en/data/blueprints.xml.append:3131
+#: src-en/data/blueprints.xml.append:3126
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/short"
 msgstr "数据链光点"
 
-#: src-en/data/blueprints.xml.append:3132
+#: src-en/data/blueprints.xml.append:3127
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/desc"
-msgstr "这件武器发射的光束可实现无线数据传输，骇入系统并控制被击中的船员。但需敌方护"
-"盾已失效。"
+msgstr "这件武器发射的光束可实现无线数据传输，骇入系统并控制被击中的船员。但需敌方护盾已失效。"
 
-#: src-en/data/blueprints.xml.append:3213
+#: src-en/data/blueprints.xml.append:3208
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/title"
 msgstr "“地震”榴弹炮"
 
-#: src-en/data/blueprints.xml.append:3214
+#: src-en/data/blueprints.xml.append:3209
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/short"
 msgstr "“地震”"
 
-#: src-en/data/blueprints.xml.append:3215
+#: src-en/data/blueprints.xml.append:3210
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/desc"
-msgstr "作为榴弹炮系列中最轻便的一款，这件武器仍能对击中系统造成重创，且拥有不错的精"
-"度与装填速度。"
+msgstr "作为榴弹炮系列中最轻便的一款，这件武器仍能对击中系统造成重创，且拥有不错的精度与装填速度。"
 
-#: src-en/data/blueprints.xml.append:3269
+#: src-en/data/blueprints.xml.append:3264
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_P\"]/title"
 msgstr "不行"
 
-#: src-en/data/blueprints.xml.append:3270
+#: src-en/data/blueprints.xml.append:3265
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_P\"]/short"
 msgstr "不行"
 
-#: src-en/data/blueprints.xml.append:3271
+#: src-en/data/blueprints.xml.append:3266
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_P\"]/desc"
 msgstr "开发人员信息"
 
-#: src-en/data/blueprints.xml.append:3301
+#: src-en/data/blueprints.xml.append:3296
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_S\"]/title"
 msgstr "不行"
 
-#: src-en/data/blueprints.xml.append:3302
+#: src-en/data/blueprints.xml.append:3297
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_S\"]/short"
 msgstr "不行"
 
-#: src-en/data/blueprints.xml.append:3303
+#: src-en/data/blueprints.xml.append:3298
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_S\"]/desc"
 msgstr "开发人员信息"
 
-#: src-en/data/blueprints.xml.append:3342
+#: src-en/data/blueprints.xml.append:3337
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_PARTICLE_MINI\"]/title"
 msgstr "微型粒子光束"
 
-#: src-en/data/blueprints.xml.append:3343
+#: src-en/data/blueprints.xml.append:3338
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_PARTICLE_MINI\"]/short"
 msgstr "微型粒子光束."
 
-#: src-en/data/blueprints.xml.append:3344
+#: src-en/data/blueprints.xml.append:3339
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_PARTICLE_MINI\"]/desc"
 msgstr "发射一束小型凝聚的光束，可损坏系统并引发火灾，但对船体和船员无伤害。"
 
-#: src-en/data/blueprints.xml.append:3375
+#: src-en/data/blueprints.xml.append:3370
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/title"
 msgstr "回旋加速光束"
 
-#: src-en/data/blueprints.xml.append:3376
+#: src-en/data/blueprints.xml.append:3371
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/short"
 msgstr "回旋"
 
-#: src-en/data/blueprints.xml.append:3378
+#: src-en/data/blueprints.xml.append:3373
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/desc"
 msgstr "开发人员信息"
 
-#: src-en/data/blueprints.xml.append:3379
+#: src-en/data/blueprints.xml.append:3374
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/descriptionOverride"
 msgstr ""
-"增幅器采用特殊技术，每次充能都能增强威力，而非增加投射物数量。每层充能提升伤"
-"害输出与状态效果几率。充能速度逐层加快。\n"
+"增幅器采用特殊技术，每次充能都能增强威力，而非增加投射物数量。每层充能提升伤害输出与状态效果几率。充能速度逐层加快。\n"
 "这种粒子对撞机设计利用该技术，在完全充能后可释放出毁灭性的粒子光束。\n"
 "有传言称这件武器曾被怪异实体篡改过……但传言终究只是传言。\n"
 "\n"
@@ -1526,7 +1464,7 @@ msgstr ""
 "\n"
 "标准售价：70～ · 出售价格：35～"
 
-#: src-en/data/blueprints.xml.append:3401
+#: src-en/data/blueprints.xml.append:3396
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/tooltipOverride"
 msgstr ""
@@ -1545,128 +1483,139 @@ msgstr ""
 "\n"
 "破舱几率：20% / 50% / 80% / 110%"
 
-#: src-en/data/blueprints.xml.append:3454
+#: src-en/data/blueprints.xml.append:3449
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST\"]/title"
 msgstr "“北极星”霜冻光束"
 
-#: src-en/data/blueprints.xml.append:3455
+#: src-en/data/blueprints.xml.append:3450
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST\"]/short"
 msgstr "“北极星”"
 
-#: src-en/data/blueprints.xml.append:3456
+#: src-en/data/blueprints.xml.append:3451
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST\"]/desc"
 msgstr ""
 "这件令人不寒而栗的武器能发射液氮光束。它能封锁房间，阻止大多数船员进出。\n"
 "过量的氮气还会破坏大气平衡。"
 
-#: src-en/data/blueprints.xml.append:3535
+#: src-en/data/blueprints.xml.append:3530
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/title"
 msgstr "“北极星”霜冻光束†"
 
-#: src-en/data/blueprints.xml.append:3536
+#: src-en/data/blueprints.xml.append:3531
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/short"
 msgstr "“北极星”†"
 
-#: src-en/data/blueprints.xml.append:3537
+#: src-en/data/blueprints.xml.append:3532
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/desc"
 msgstr ""
 "这件冰冷的武器发射一道液氮光束。能封锁舱室，阻止大多数船员进出。\n"
 "\t过量的氮气还会破坏大气平衡。"
 
-#: src-en/data/blueprints.xml.append:3616
+#: src-en/data/blueprints.xml.append:3611
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/title"
 msgstr "破盾光束"
 
-#: src-en/data/blueprints.xml.append:3617
+#: src-en/data/blueprints.xml.append:3612
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/short"
 msgstr "破盾"
 
-#: src-en/data/blueprints.xml.append:3618
+#: src-en/data/blueprints.xml.append:3613
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/desc"
 msgstr ""
-"发射一束小型凝聚光束，虽无伤害，但可击破 2 层护盾。具有使受影响船员陷入眩晕的"
-"特殊属性。\n"
+"发射一束小型凝聚光束，虽无伤害，但可击破 2 层护盾。具有使受影响船员陷入眩晕的特殊属性。\n"
 "集能武器本身不消耗能量，但需要系统本身供电。"
 
-#: src-en/data/blueprints.xml.append:3655
+#: src-en/data/blueprints.xml.append:3650
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/title"
 msgstr "光束 C.I.W.S."
 
-#: src-en/data/blueprints.xml.append:3656
+#: src-en/data/blueprints.xml.append:3651
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/short"
 msgstr "C.I.W.S."
 
-#: src-en/data/blueprints.xml.append:3657
+#: src-en/data/blueprints.xml.append:3652
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/desc"
-msgstr "这件光束武器配备了独特的全向红外发射器与先进瞄准系统。能有效拦截来袭导弹与无"
-"人机，但对舰作战效能不佳。"
+msgstr "这件光束武器配备了独特的全向红外发射器与先进瞄准系统。能有效拦截来袭导弹与无人机，但对舰作战效能不佳。"
 
-#: src-en/data/blueprints.xml.append:3680
+#: src-en/data/blueprints.xml.append:3675
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_EFF\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3676
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_EFF\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3677
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_EFF\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3700
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3681
+#: src-en/data/blueprints.xml.append:3701
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3682
+#: src-en/data/blueprints.xml.append:3702
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ\"]/desc"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3707
+#: src-en/data/blueprints.xml.append:3727
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ_2\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3708
+#: src-en/data/blueprints.xml.append:3728
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ_2\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3709
+#: src-en/data/blueprints.xml.append:3729
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ_2\"]/desc"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3761
+#: src-en/data/blueprints.xml.append:3781
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/title"
 msgstr "埃克诺特武器核心 - 苍翠"
 
-#: src-en/data/blueprints.xml.append:3762
+#: src-en/data/blueprints.xml.append:3782
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/short"
 msgstr "苍翠核心"
 
-#: src-en/data/blueprints.xml.append:3763
+#: src-en/data/blueprints.xml.append:3783
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/desc"
 msgstr ""
-"这件奇特的装置利用某种外星技术，从未知源头远程接收能量与信息，大幅提升武器性"
-"能并提供能量。“苍翠”等级。\n"
+"这件奇特的装置利用某种外星技术，从未知源头远程接收能量与信息，大幅提升武器性能并提供能量。“苍翠”等级。\n"
 "\t[武器若要运作，武器系统至少需分配 1 格常规反应堆能量]"
 
-#: src-en/data/blueprints.xml.append:3766
+#: src-en/data/blueprints.xml.append:3786
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/descriptionOverride"
 msgstr ""
-"这件奇特的装置利用某种外星技术，从未知源头远程接收能量与信息，大幅提升武器性"
-"能并提供能量。\n"
+"这件奇特的装置利用某种外星技术，从未知源头远程接收能量与信息，大幅提升武器性能并提供能量。\n"
 "\n"
 "属性：\n"
 "等级：苍翠\n"
@@ -1679,7 +1628,7 @@ msgstr ""
 "\n"
 "标准售价：100～ · 出售价格：50～"
 
-#: src-en/data/blueprints.xml.append:3778
+#: src-en/data/blueprints.xml.append:3798
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/tooltipOverride"
 msgstr ""
@@ -1688,30 +1637,28 @@ msgstr ""
 "装填速度加成：10%\n"
 "命中率加成：10%"
 
-#: src-en/data/blueprints.xml.append:3800
+#: src-en/data/blueprints.xml.append:3820
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/title"
 msgstr "埃克诺特武器核心 - 深红"
 
-#: src-en/data/blueprints.xml.append:3801
+#: src-en/data/blueprints.xml.append:3821
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/short"
 msgstr "深红核心"
 
-#: src-en/data/blueprints.xml.append:3802
+#: src-en/data/blueprints.xml.append:3822
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/desc"
 msgstr ""
-"这件奇特的装置利用某种外星技术，从未知源头远程接收能量与信息，大幅提升武器性"
-"能并提供能量。“深红”等级。\n"
+"这件奇特的装置利用某种外星技术，从未知源头远程接收能量与信息，大幅提升武器性能并提供能量。“深红”等级。\n"
 "\t[武器若要运作，武器系统至少需分配 1 格常规反应堆能量]"
 
-#: src-en/data/blueprints.xml.append:3805
+#: src-en/data/blueprints.xml.append:3825
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/descriptionOverride"
 msgstr ""
-"这件奇特的装置利用某种外星技术，从未知源头远程接收能量与信息，大幅提升武器性"
-"能并提供能量。\n"
+"这件奇特的装置利用某种外星技术，从未知源头远程接收能量与信息，大幅提升武器性能并提供能量。\n"
 "\n"
 "属性：\n"
 "等级：深红\n"
@@ -1724,7 +1671,7 @@ msgstr ""
 "\n"
 "标准售价：150～ · 出售价格：75～"
 
-#: src-en/data/blueprints.xml.append:3817
+#: src-en/data/blueprints.xml.append:3837
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/tooltipOverride"
 msgstr ""
@@ -1733,30 +1680,28 @@ msgstr ""
 "装填速度加成：25%\n"
 "命中率加成：20%"
 
-#: src-en/data/blueprints.xml.append:3839
+#: src-en/data/blueprints.xml.append:3859
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/title"
 msgstr "埃克诺特武器核心-天蓝"
 
-#: src-en/data/blueprints.xml.append:3840
+#: src-en/data/blueprints.xml.append:3860
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/short"
 msgstr "天蓝核心"
 
-#: src-en/data/blueprints.xml.append:3841
+#: src-en/data/blueprints.xml.append:3861
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/desc"
 msgstr ""
-"这件奇特的装置利用某种外星科技，从未知源头远程接收能量与信息，大幅提升武器性"
-"能并提供能量。“天蓝”等级。\n"
+"这件奇特的装置利用某种外星科技，从未知源头远程接收能量与信息，大幅提升武器性能并提供能量。“天蓝”等级。\n"
 "\t[武器若要运作，武器系统至少需分配 1 格常规反应堆能量]"
 
-#: src-en/data/blueprints.xml.append:3844
+#: src-en/data/blueprints.xml.append:3864
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/descriptionOverride"
 msgstr ""
-"这件奇特的装置利用某种外星科技，从未知源头远程接收能量与信息，大幅提升武器性"
-"能并提供能量。\n"
+"这件奇特的装置利用某种外星科技，从未知源头远程接收能量与信息，大幅提升武器性能并提供能量。\n"
 "\n"
 "属性：\n"
 "等级：天蓝\n"
@@ -1769,7 +1714,7 @@ msgstr ""
 "\n"
 "标准售价：200～ · 出售价格：100～"
 
-#: src-en/data/blueprints.xml.append:3856
+#: src-en/data/blueprints.xml.append:3876
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/tooltipOverride"
 msgstr ""
@@ -1778,30 +1723,28 @@ msgstr ""
 "装填速度加成：50%\n"
 "命中率加成：30%"
 
-#: src-en/data/blueprints.xml.append:3878
+#: src-en/data/blueprints.xml.append:3898
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/title"
 msgstr "埃克诺特武器核心-辉光"
 
-#: src-en/data/blueprints.xml.append:3879
+#: src-en/data/blueprints.xml.append:3899
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/short"
 msgstr "辉光核心"
 
-#: src-en/data/blueprints.xml.append:3880
+#: src-en/data/blueprints.xml.append:3900
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/desc"
 msgstr ""
-"这件奇特的装置利用某种外星科技，从未知源头远程接收能量与信息，大幅提升武器性"
-"能并提供能量。“辉光”等级。\n"
+"这件奇特的装置利用某种外星科技，从未知源头远程接收能量与信息，大幅提升武器性能并提供能量。“辉光”等级。\n"
 "\t[武器若要运作，武器系统至少需分配 1 格常规反应堆能量]"
 
-#: src-en/data/blueprints.xml.append:3883
+#: src-en/data/blueprints.xml.append:3903
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/descriptionOverride"
 msgstr ""
-"这件奇特的装置利用某种外星科技，从未知源头远程接收能量与信息，大幅提升武器性"
-"能并提供能量。\n"
+"这件奇特的装置利用某种外星科技，从未知源头远程接收能量与信息，大幅提升武器性能并提供能量。\n"
 "\n"
 "属性：\n"
 "等级：辉光\n"
@@ -1816,7 +1759,7 @@ msgstr ""
 "\n"
 "标准售价：300～ · 出售价格：150～"
 
-#: src-en/data/blueprints.xml.append:3897
+#: src-en/data/blueprints.xml.append:3917
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/tooltipOverride"
 msgstr ""
@@ -1827,30 +1770,28 @@ msgstr ""
 "装填速度加成：100%\n"
 "命中率加成：50%"
 
-#: src-en/data/blueprints.xml.append:3921
+#: src-en/data/blueprints.xml.append:3941
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/title"
 msgstr "埃克诺特武器核心-铱金"
 
-#: src-en/data/blueprints.xml.append:3922
+#: src-en/data/blueprints.xml.append:3942
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/short"
 msgstr "铱金核心"
 
-#: src-en/data/blueprints.xml.append:3923
+#: src-en/data/blueprints.xml.append:3943
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/desc"
 msgstr ""
-"这件奇特的装置利用某种外星科技，从未知源头远程接收能量与信息，大幅提升武器性"
-"能并提供能量。“铱金”等级。\n"
+"这件奇特的装置利用某种外星科技，从未知源头远程接收能量与信息，大幅提升武器性能并提供能量。“铱金”等级。\n"
 "\t[武器若要运作，武器系统至少需分配 1 格常规反应堆能量]"
 
-#: src-en/data/blueprints.xml.append:3926
+#: src-en/data/blueprints.xml.append:3946
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/descriptionOverride"
 msgstr ""
-"这件奇特的装置利用某种外星科技，从未知源头远程接收能量与信息，大幅提升武器性"
-"能并提供能量。\n"
+"这件奇特的装置利用某种外星科技，从未知源头远程接收能量与信息，大幅提升武器性能并提供能量。\n"
 "\n"
 "属性：\n"
 "等级：铱金\n"
@@ -1865,7 +1806,7 @@ msgstr ""
 "\n"
 "标准售价：500～ · 出售价格：250～"
 
-#: src-en/data/blueprints.xml.append:3940
+#: src-en/data/blueprints.xml.append:3960
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/tooltipOverride"
 msgstr ""
@@ -1876,875 +1817,826 @@ msgstr ""
 "装填速度加成：200%\n"
 "命中率加成：80%"
 
-#: src-en/data/blueprints.xml.append:3971
+#: src-en/data/blueprints.xml.append:3991
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/title"
 msgstr "“伊拉”分解光束"
 
-#: src-en/data/blueprints.xml.append:3972
+#: src-en/data/blueprints.xml.append:3992
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/short"
 msgstr "“伊拉”"
 
-#: src-en/data/blueprints.xml.append:3973
+#: src-en/data/blueprints.xml.append:3993
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
 "穿透 1 层护盾，对船员造成每秒 4 点伤害，并使其治疗与修复效果减半。\n"
 "对已破舱的舱室造成 1 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:4044
+#: src-en/data/blueprints.xml.append:4064
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/title"
 msgstr "“安戈里斯”分解光束"
 
-#: src-en/data/blueprints.xml.append:4045
+#: src-en/data/blueprints.xml.append:4065
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/short"
 msgstr "“安戈里斯”"
 
-#: src-en/data/blueprints.xml.append:4046
+#: src-en/data/blueprints.xml.append:4066
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
 "穿透 1 层护盾，对船员造成每秒 4 点生命值伤害，并使其治疗与修复效果减半。\n"
 "对已破舱的舱室造成 1 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:4117
+#: src-en/data/blueprints.xml.append:4137
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/title"
 msgstr "“多洛”分解光束"
 
-#: src-en/data/blueprints.xml.append:4118
+#: src-en/data/blueprints.xml.append:4138
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/short"
 msgstr "“多洛”"
 
-#: src-en/data/blueprints.xml.append:4119
+#: src-en/data/blueprints.xml.append:4139
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
-"穿透 2 层护盾，对船员造成每秒 8 点生命值伤害，并使其治疗与修复效果降至 0.25 "
-"倍。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
+"穿透 2 层护盾，对船员造成每秒 8 点生命值伤害，并使其治疗与修复效果降至 0.25 倍。\n"
 "对已破舱的舱室造成 2 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:4191
+#: src-en/data/blueprints.xml.append:4211
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/title"
 msgstr "“托门图姆”分解光束"
 
-#: src-en/data/blueprints.xml.append:4192
+#: src-en/data/blueprints.xml.append:4212
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/short"
 msgstr "“托门图姆”"
 
-#: src-en/data/blueprints.xml.append:4193
+#: src-en/data/blueprints.xml.append:4213
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
 "穿透 3 层护盾，对船员造成每秒 8 点生命值伤害，并使其完全无法治疗与修复。\n"
 "对已破舱的舱室造成 3 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:4265
+#: src-en/data/blueprints.xml.append:4285
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA\"]/title"
 msgstr "“富尔曼”混沌震荡分解光束"
 
-#: src-en/data/blueprints.xml.append:4266
+#: src-en/data/blueprints.xml.append:4286
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA\"]/short"
 msgstr "“富尔曼”"
 
-#: src-en/data/blueprints.xml.append:4267
+#: src-en/data/blueprints.xml.append:4287
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。此外对系统施加混沌震荡效果，使离"
-"子效果以正常速度的 50% 消散。\n"
-"穿透 2 层护盾，对船员造成每秒 5 点生命值伤害，并使其治疗与修复效果降至 0.25 "
-"倍。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。此外对系统施加混沌震荡效果，使离子效果以正常速度的 50% 消散。\n"
+"穿透 2 层护盾，对船员造成每秒 5 点生命值伤害，并使其治疗与修复效果降至 0.25 倍。\n"
 "对已破舱的舱室造成 1 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:4357
+#: src-en/data/blueprints.xml.append:4377
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/title"
 msgstr "“阿尔德”混沌之火分解光束"
 
-#: src-en/data/blueprints.xml.append:4358
+#: src-en/data/blueprints.xml.append:4378
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/short"
 msgstr "“阿尔德”"
 
-#: src-en/data/blueprints.xml.append:4359
+#: src-en/data/blueprints.xml.append:4379
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。此外会引发混沌之火，可伤害任何类"
-"型的船员（以 1.5 倍基础速度或更快燃烧），且无需氧气。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。此外会引发混沌之火，可伤害任何类型的船员（以 1.5 倍基础速度或更快燃烧），且无需氧气。\n"
 "穿透 1 层护盾，对船员造成每秒 3 点生命值伤害，并使其治疗与修复效果减半。\n"
 "对已破舱的舱室造成 0 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:4509
+#: src-en/data/blueprints.xml.append:4529
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/title"
 msgstr "“因佩迪奥”混沌封锁分解光束"
 
-#: src-en/data/blueprints.xml.append:4510
+#: src-en/data/blueprints.xml.append:4530
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/short"
 msgstr "“因佩迪奥”"
 
-#: src-en/data/blueprints.xml.append:4511
+#: src-en/data/blueprints.xml.append:4531
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。此外施加混沌封锁效果，阻止受影响"
-"舱室内的船员进行操控、战斗、破坏和修复，并将其移动速度降至 0.25 倍。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。此外施加混沌封锁效果，阻止受影响舱室内的船员进行操控、战斗、破坏和修复，并将其移动速度降至 0.25 倍。\n"
 "穿透 1 层护盾，对船员造成每秒 3 点生命值伤害，并使其治疗与修复效果减半。\n"
 "对已破舱的舱室造成 0 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:4708
+#: src-en/data/blueprints.xml.append:4728
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/title"
 msgstr "混沌“伊拉”分解光束"
 
-#: src-en/data/blueprints.xml.append:4709
+#: src-en/data/blueprints.xml.append:4729
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/short"
 msgstr "'伊拉'™"
 
-#: src-en/data/blueprints.xml.append:4710
+#: src-en/data/blueprints.xml.append:4730
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
 "穿透 3 层护盾，对船员造成每秒 4 点生命值伤害，并使其治疗与修复效果减半。\n"
 "对已破舱的舱室造成 1 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:4786
+#: src-en/data/blueprints.xml.append:4806
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/title"
 msgstr "混沌“安戈里斯”分解光束"
 
-#: src-en/data/blueprints.xml.append:4787
+#: src-en/data/blueprints.xml.append:4807
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/short"
 msgstr "'安戈里斯'™"
 
-#: src-en/data/blueprints.xml.append:4788
+#: src-en/data/blueprints.xml.append:4808
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
 "穿透 3 层护盾，对船员造成每秒 4 点生命值伤害，并使其治疗与修复效果减半。\n"
 "对已破舱的舱室造成 1 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:4864
+#: src-en/data/blueprints.xml.append:4884
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/title"
 msgstr "混沌“多洛”分解光束"
 
-#: src-en/data/blueprints.xml.append:4865
+#: src-en/data/blueprints.xml.append:4885
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/short"
 msgstr "'多洛'™"
 
-#: src-en/data/blueprints.xml.append:4866
+#: src-en/data/blueprints.xml.append:4886
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
-"穿透 4 层护盾，对船员造成每秒 8 点生命值伤害，并使其治疗与修复效果降至 0.25 "
-"倍。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
+"穿透 4 层护盾，对船员造成每秒 8 点生命值伤害，并使其治疗与修复效果降至 0.25 倍。\n"
 "对已破舱的舱室造成 2 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:4943
+#: src-en/data/blueprints.xml.append:4963
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/title"
 msgstr "混沌“托门图姆”分解光束"
 
-#: src-en/data/blueprints.xml.append:4944
+#: src-en/data/blueprints.xml.append:4964
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/short"
 msgstr "“托门图姆”™"
 
-#: src-en/data/blueprints.xml.append:4945
+#: src-en/data/blueprints.xml.append:4965
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
 "穿透 5 层护盾，对船员造成每秒 8 点生命值伤害，并使其完全无法治疗与修复。\n"
 "对已破舱的舱室造成 3 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:5022
+#: src-en/data/blueprints.xml.append:5042
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_CHAOS\"]/title"
 msgstr "混沌“富尔曼”混沌震荡分解光束"
 
-#: src-en/data/blueprints.xml.append:5023
+#: src-en/data/blueprints.xml.append:5043
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_CHAOS\"]/short"
 msgstr "'富尔曼'™"
 
-#: src-en/data/blueprints.xml.append:5024
+#: src-en/data/blueprints.xml.append:5044
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_CHAOS\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。此外对系统施加混沌震荡效果，使离"
-"子效果以正常速度的 50% 消散。\n"
-"穿透 4 层护盾，对船员造成每秒 5 点生命值伤害，并使其治疗与修复效果降至 0.25 "
-"倍。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。此外对系统施加混沌震荡效果，使离子效果以正常速度的 50% 消散。\n"
+"穿透 4 层护盾，对船员造成每秒 5 点生命值伤害，并使其治疗与修复效果降至 0.25 倍。\n"
 "对已破舱的舱室造成 1 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:5119
+#: src-en/data/blueprints.xml.append:5139
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/title"
 msgstr "混沌“阿尔德”混沌之火分解光束"
 
-#: src-en/data/blueprints.xml.append:5120
+#: src-en/data/blueprints.xml.append:5140
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/short"
 msgstr "'阿尔德'™"
 
-#: src-en/data/blueprints.xml.append:5121
+#: src-en/data/blueprints.xml.append:5141
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。此外会引发混沌之火，可伤害任何类"
-"型的船员（以 1.5 倍基础速度或更快燃烧），且无需氧气。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。此外会引发混沌之火，可伤害任何类型的船员（以 1.5 倍基础速度或更快燃烧），且无需氧气。\n"
 "穿透 3 层护盾，对船员造成每秒 3 点生命值伤害，并使其治疗与修复效果减半。\n"
 "对已破舱的舱室造成 0 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:5276
+#: src-en/data/blueprints.xml.append:5296
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/title"
 msgstr "混沌“因佩迪奥”混沌封锁分解光束"
 
-#: src-en/data/blueprints.xml.append:5277
+#: src-en/data/blueprints.xml.append:5297
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/short"
 msgstr "'因佩迪奥'™"
 
-#: src-en/data/blueprints.xml.append:5278
+#: src-en/data/blueprints.xml.append:5298
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。此外施加混沌封锁效果，阻止受影响"
-"舱室内的船员进行操控、战斗、破坏和修复，并将其移动速度降至 0.25 倍。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。此外施加混沌封锁效果，阻止受影响舱室内的船员进行操控、战斗、破坏和修复，并将其移动速度降至 0.25 倍。\n"
 "穿透 3 层护盾，对船员造成每秒 3 点生命值伤害，并使其治疗与修复效果减半。\n"
 "对已破舱的舱室造成 0 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:5480
+#: src-en/data/blueprints.xml.append:5500
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/title"
 msgstr "精英“伊拉”分解光束"
 
-#: src-en/data/blueprints.xml.append:5481
+#: src-en/data/blueprints.xml.append:5501
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/short"
 msgstr "€ '伊拉'"
 
-#: src-en/data/blueprints.xml.append:5482
+#: src-en/data/blueprints.xml.append:5502
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
-"穿透 3 层护盾，对船员造成每秒 6 点生命值伤害，并使其治疗与修复效果降至 0.25 "
-"倍。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
+"穿透 3 层护盾，对船员造成每秒 6 点生命值伤害，并使其治疗与修复效果降至 0.25 倍。\n"
 "对已破舱的舱室造成 2 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:5558
+#: src-en/data/blueprints.xml.append:5578
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/title"
 msgstr "精英“安戈里斯”分解光束"
 
-#: src-en/data/blueprints.xml.append:5559
+#: src-en/data/blueprints.xml.append:5579
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/short"
 msgstr "€ '安戈里斯'"
 
-#: src-en/data/blueprints.xml.append:5560
+#: src-en/data/blueprints.xml.append:5580
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
-"穿透 3 层护盾，对船员造成每秒 6 点生命值伤害，并使其治疗与修复效果降至 0.25 "
-"倍。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
+"穿透 3 层护盾，对船员造成每秒 6 点生命值伤害，并使其治疗与修复效果降至 0.25 倍。\n"
 "对已破舱的舱室造成 2 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:5636
+#: src-en/data/blueprints.xml.append:5656
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/title"
 msgstr "精英“多洛”分解光束"
 
-#: src-en/data/blueprints.xml.append:5637
+#: src-en/data/blueprints.xml.append:5657
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/short"
 msgstr "€ '多洛'"
 
-#: src-en/data/blueprints.xml.append:5638
+#: src-en/data/blueprints.xml.append:5658
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
 "穿透 4 层护盾，对船员造成每秒 12 点生命值伤害，并使其完全无法治疗与修复。\n"
 "对已破舱的舱室造成 3 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:5715
+#: src-en/data/blueprints.xml.append:5735
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/title"
 msgstr "精英“托门图姆”分解光束"
 
-#: src-en/data/blueprints.xml.append:5716
+#: src-en/data/blueprints.xml.append:5736
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/short"
 msgstr "€ '托门图姆'"
 
-#: src-en/data/blueprints.xml.append:5717
+#: src-en/data/blueprints.xml.append:5737
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。\n"
 "穿透 5 层护盾，对船员造成每秒 12 点生命值伤害，并使其完全无法治疗与修复。\n"
 "对已破舱的舱室造成 4 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:5803
+#: src-en/data/blueprints.xml.append:5823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_ELITE\"]/title"
 msgstr "精英“富尔曼”精英震荡分解光束"
 
-#: src-en/data/blueprints.xml.append:5804
+#: src-en/data/blueprints.xml.append:5824
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_ELITE\"]/short"
 msgstr "€ '富尔曼'"
 
-#: src-en/data/blueprints.xml.append:5805
+#: src-en/data/blueprints.xml.append:5825
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_ELITE\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。此外对系统施加混沌震荡效果，使离"
-"子效果以正常速度的 50% 消散。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。此外对系统施加混沌震荡效果，使离子效果以正常速度的 50% 消散。\n"
 "穿透 4 层护盾，对船员造成每秒 8 点生命值伤害，并使其完全无法治疗与修复。\n"
 "对已破舱的舱室造成 2 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:5896
+#: src-en/data/blueprints.xml.append:5916
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/title"
 msgstr "精英“阿尔德”混沌之火分解光束"
 
-#: src-en/data/blueprints.xml.append:5897
+#: src-en/data/blueprints.xml.append:5917
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/short"
 msgstr "€ '阿尔德'"
 
-#: src-en/data/blueprints.xml.append:5898
+#: src-en/data/blueprints.xml.append:5918
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。此外会引发混沌之火，可伤害任何类"
-"型的船员（以 3 倍基础速度或更快燃烧），且无需氧气。\n"
-"穿透 3 层护盾，对船员造成每秒 4 点生命值伤害，并使其治疗与修复效果降至 0.25 "
-"倍。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。此外会引发混沌之火，可伤害任何类型的船员（以 3 倍基础速度或更快燃烧），且无需氧气。\n"
+"穿透 3 层护盾，对船员造成每秒 4 点生命值伤害，并使其治疗与修复效果降至 0.25 倍。\n"
 "对已破舱的舱室造成 1 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:6053
+#: src-en/data/blueprints.xml.append:6073
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/title"
 msgstr "精英“因佩迪奥”混沌封锁分解光束"
 
-#: src-en/data/blueprints.xml.append:6054
+#: src-en/data/blueprints.xml.append:6074
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/short"
 msgstr "€ '因佩迪奥'"
 
-#: src-en/data/blueprints.xml.append:6055
+#: src-en/data/blueprints.xml.append:6075
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/desc"
 msgstr ""
-"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有"
-"被击中的船员造成持续伤害，并阻碍治疗与修复。此外施加混沌锁效果，阻止受影响舱"
-"室内的船员移动、操控、战斗、破坏和修复。\n"
-"穿透 3 层护盾，对船员造成每秒 4 点生命值伤害，并使其治疗与修复效果降至 0.25 "
-"倍。\n"
+"发射一道混沌的怪异能量光束，使触及的所有物质分解。对舱室施加侵蚀效果，对所有被击中的船员造成持续伤害，并阻碍治疗与修复。此外施加混沌锁效果，阻止受影响舱室内的船员移动、操控、战斗、破坏和修复。\n"
+"穿透 3 层护盾，对船员造成每秒 4 点生命值伤害，并使其治疗与修复效果降至 0.25 倍。\n"
 "对已破舱的舱室造成 1 点船体伤害。"
 
-#: src-en/data/blueprints.xml.append:6286
+#: src-en/data/blueprints.xml.append:6306
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/title"
 msgstr "异鸣劫持巨炮"
 
-#: src-en/data/blueprints.xml.append:6287
+#: src-en/data/blueprints.xml.append:6307
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/short"
 msgstr "劫持"
 
-#: src-en/data/blueprints.xml.append:6288
+#: src-en/data/blueprints.xml.append:6308
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/desc"
-msgstr "异鸣族设计的光束武器，可穿透所有护盾，将被击中的船员劫持至传送舱室，并使其陷"
-"入眩晕状态。需传送系统方可运作。[基础冷却时间：15秒]"
+msgstr "异鸣族设计的光束武器，可穿透所有护盾，将被击中的船员劫持至传送舱室，并使其陷入眩晕状态。需传送系统方可运作。[基础冷却时间：15秒]"
 
-#: src-en/data/blueprints.xml.append:6289
+#: src-en/data/blueprints.xml.append:6309
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/tooltip"
 msgstr "异鸣劫持巨炮。 [基础冷却时间：15秒]"
 
-#: src-en/data/blueprints.xml.append:6315
+#: src-en/data/blueprints.xml.append:6335
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/title"
 msgstr "异鸣万花筒巨炮"
 
-#: src-en/data/blueprints.xml.append:6316
+#: src-en/data/blueprints.xml.append:6336
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/short"
 msgstr "万花筒"
 
-#: src-en/data/blueprints.xml.append:6317
+#: src-en/data/blueprints.xml.append:6337
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/desc"
 msgstr ""
-"异鸣族设计的光束武器，它拥抱混沌，随机发射 10 种不同光束之一。[基础冷却时间："
-"16秒] 可能的效果：火焰、粒子、修复、眩晕、破舱、能量、离子、冰霜、黑客、辐射"
+"异鸣族设计的光束武器，它拥抱混沌，随机发射 10 种不同光束之一。[基础冷却时间：16秒] "
+"可能的效果：火焰、粒子、修复、眩晕、破舱、能量、离子、冰霜、黑客、辐射"
 
-#: src-en/data/blueprints.xml.append:6318
+#: src-en/data/blueprints.xml.append:6338
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/tooltip"
 msgstr "异鸣万花筒巨炮。 [基础冷却时间：16秒] 红橙黄绿青蓝紫"
 
-#: src-en/data/blueprints.xml.append:6348
+#: src-en/data/blueprints.xml.append:6368
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/title"
 msgstr "异鸣混沌之火巨炮"
 
-#: src-en/data/blueprints.xml.append:6349
+#: src-en/data/blueprints.xml.append:6369
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/short"
 msgstr "混沌之火"
 
-#: src-en/data/blueprints.xml.append:6350
+#: src-en/data/blueprints.xml.append:6370
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/desc"
 msgstr ""
-"异鸣族设计的光束武器，发射一道混沌能量光束，用混沌之火点燃所触一切。与普通火"
-"焰不同，混沌之火无需氧气即可燃烧，甚至能伤害防火船员。穿透 2 层护盾。[基础冷"
-"却时间：40秒]"
+"异鸣族设计的光束武器，发射一道混沌能量光束，用混沌之火点燃所触一切。与普通火焰不同，混沌之火无需氧气即可燃烧，甚至能伤害防火船员。穿透 2 "
+"层护盾。[基础冷却时间：40秒]"
 
-#: src-en/data/blueprints.xml.append:6351
+#: src-en/data/blueprints.xml.append:6371
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/tooltip"
 msgstr "异鸣族混沌之火巨炮[基础冷却时间：40秒]"
 
-#: src-en/data/blueprints.xml.append:6489
+#: src-en/data/blueprints.xml.append:6509
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6490
+#: src-en/data/blueprints.xml.append:6510
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6491
+#: src-en/data/blueprints.xml.append:6511
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/desc"
 msgstr "你在游戏中绝不该看到这个"
 
-#: src-en/data/blueprints.xml.append:6492
+#: src-en/data/blueprints.xml.append:6512
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6522
+#: src-en/data/blueprints.xml.append:6542
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6523
+#: src-en/data/blueprints.xml.append:6543
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6524
+#: src-en/data/blueprints.xml.append:6544
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/desc"
 msgstr "你在游戏中绝不该看到这个"
 
-#: src-en/data/blueprints.xml.append:6525
+#: src-en/data/blueprints.xml.append:6545
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6555
+#: src-en/data/blueprints.xml.append:6575
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6556
+#: src-en/data/blueprints.xml.append:6576
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6557
+#: src-en/data/blueprints.xml.append:6577
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/desc"
 msgstr "你在游戏中绝不该看到这个"
 
-#: src-en/data/blueprints.xml.append:6558
+#: src-en/data/blueprints.xml.append:6578
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6590
+#: src-en/data/blueprints.xml.append:6610
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6591
+#: src-en/data/blueprints.xml.append:6611
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6592
+#: src-en/data/blueprints.xml.append:6612
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/desc"
 msgstr "你在游戏中绝不该看到这个"
 
-#: src-en/data/blueprints.xml.append:6593
+#: src-en/data/blueprints.xml.append:6613
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6624
+#: src-en/data/blueprints.xml.append:6644
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6625
+#: src-en/data/blueprints.xml.append:6645
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6626
+#: src-en/data/blueprints.xml.append:6646
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/desc"
 msgstr "你在游戏中绝不该看到这个"
 
-#: src-en/data/blueprints.xml.append:6627
+#: src-en/data/blueprints.xml.append:6647
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6657
+#: src-en/data/blueprints.xml.append:6677
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6658
+#: src-en/data/blueprints.xml.append:6678
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6659
+#: src-en/data/blueprints.xml.append:6679
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/desc"
 msgstr "你在游戏中绝不该看到这个"
 
-#: src-en/data/blueprints.xml.append:6660
+#: src-en/data/blueprints.xml.append:6680
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6694
+#: src-en/data/blueprints.xml.append:6714
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6695
+#: src-en/data/blueprints.xml.append:6715
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6696
+#: src-en/data/blueprints.xml.append:6716
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/desc"
 msgstr "你在游戏中绝不该看到这个"
 
-#: src-en/data/blueprints.xml.append:6697
+#: src-en/data/blueprints.xml.append:6717
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6730
+#: src-en/data/blueprints.xml.append:6750
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6731
+#: src-en/data/blueprints.xml.append:6751
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6732
+#: src-en/data/blueprints.xml.append:6752
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/desc"
 msgstr "你在游戏中绝不该看到这个"
 
-#: src-en/data/blueprints.xml.append:6733
+#: src-en/data/blueprints.xml.append:6753
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6808
+#: src-en/data/blueprints.xml.append:6828
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6809
+#: src-en/data/blueprints.xml.append:6829
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6810
+#: src-en/data/blueprints.xml.append:6830
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/desc"
 msgstr "你在游戏中绝不该看到这个"
 
-#: src-en/data/blueprints.xml.append:6811
+#: src-en/data/blueprints.xml.append:6831
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6842
+#: src-en/data/blueprints.xml.append:6862
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6843
+#: src-en/data/blueprints.xml.append:6863
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6844
+#: src-en/data/blueprints.xml.append:6864
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/desc"
 msgstr "你在游戏中绝不该看到这个"
 
-#: src-en/data/blueprints.xml.append:6845
+#: src-en/data/blueprints.xml.append:6865
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6883
+#: src-en/data/blueprints.xml.append:6903
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/title"
 msgstr "混沌“苏斯”巨炮"
 
-#: src-en/data/blueprints.xml.append:6884
+#: src-en/data/blueprints.xml.append:6904
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/short"
 msgstr "'苏斯'™"
 
-#: src-en/data/blueprints.xml.append:6885
+#: src-en/data/blueprints.xml.append:6905
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/desc"
 msgstr ""
-"这把臭名昭著武器的巨炮版本，这道毁灭性的长光束能伤害敌方系统与船员，并让被击"
-"中的船员暂时陷入疯狂，使其主动技能失效。友方怪异造物与异鸣族则会被治疗。[基础"
-"冷却时间：30秒]"
+"这把臭名昭著武器的巨炮版本，这道毁灭性的长光束能伤害敌方系统与船员，并让被击中的船员暂时陷入疯狂，使其主动技能失效。友方怪异造物与异鸣族则会被治疗。[基础冷却时间：30秒]"
 
-#: src-en/data/blueprints.xml.append:6886
+#: src-en/data/blueprints.xml.append:6906
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/tooltip"
 msgstr "混沌“苏斯”巨炮。[基础冷却时间：30秒]"
 
-#: src-en/data/blueprints.xml.append:6981
+#: src-en/data/blueprints.xml.append:7001
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/title"
 msgstr "“蔚蓝梦刃”"
 
-#: src-en/data/blueprints.xml.append:6982
+#: src-en/data/blueprints.xml.append:7002
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/short"
 msgstr "“蔚蓝”"
 
-#: src-en/data/blueprints.xml.append:6983
+#: src-en/data/blueprints.xml.append:7003
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/desc"
 msgstr ""
-"独特的光束巨炮，融合了异鸣族与水晶科技。穿透 3 层护盾，造成 1 点系统伤害、1 "
-"点离子伤害和 30 点船员伤害（仅限敌方），并封锁舱室。这些舱室内的敌人将受到冰"
-"霜减益效果（移动与修复速度减半，且无法使用主动技能），而友方则获得穿门能力与"
-"微弱（每秒 1 点）生命恢复。[基础冷却时间：40秒]"
+"独特的光束巨炮，融合了异鸣族与水晶科技。穿透 3 层护盾，造成 1 点系统伤害、1 点离子伤害和 30 "
+"点船员伤害（仅限敌方），并封锁舱室。这些舱室内的敌人将受到冰霜减益效果（移动与修复速度减半，且无法使用主动技能），而友方则获得穿门能力与微弱（每秒 1 "
+"点）生命恢复。[基础冷却时间：40秒]"
 
-#: src-en/data/blueprints.xml.append:7116
+#: src-en/data/blueprints.xml.append:7137
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/title"
 msgstr "她的“托门图姆”分解巨炮 :)"
 
-#: src-en/data/blueprints.xml.append:7117
+#: src-en/data/blueprints.xml.append:7138
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/short"
 msgstr "€ '托门图姆' :)"
 
-#: src-en/data/blueprints.xml.append:7118
+#: src-en/data/blueprints.xml.append:7139
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/desc"
 msgstr ""
-"这件武器调动她的怪异之力，发射出毁灭性的混沌怪异能量光束，使所有接触到的物质"
-"迅速瓦解。对房间施加侵蚀效果，对所有中弹船员造成持续伤害，并完全阻止治疗与维"
-"修。[基础冷却时间：60]"
+"这件武器调动她的怪异之力，发射出毁灭性的混沌怪异能量光束，使所有接触到的物质迅速瓦解。对房间施加侵蚀效果，对所有中弹船员造成持续伤害，并完全阻止治疗与维修。[基础冷却时间：60]"
 
-#: src-en/data/blueprints.xml.append:7119
+#: src-en/data/blueprints.xml.append:7140
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/tooltip"
 msgstr "她的“托门图姆”巨炮 :) [基础冷却时间：60 秒]"
 
-#: src-en/data/blueprints.xml.append:7315
+#: src-en/data/blueprints.xml.append:7336
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/title"
 msgstr "蔚蓝碎片"
 
-#: src-en/data/blueprints.xml.append:7316
+#: src-en/data/blueprints.xml.append:7337
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/short"
 msgstr "蔚蓝"
 
-#: src-en/data/blueprints.xml.append:7317
+#: src-en/data/blueprints.xml.append:7338
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/desc"
 msgstr "蔚蓝水晶复仇弹体"
 
-#: src-en/data/blueprints.xml.append:7471
+#: src-en/data/blueprints.xml.append:7492
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/class"
 msgstr "多元异鸣运输舰"
 
-#: src-en/data/blueprints.xml.append:7472
+#: src-en/data/blueprints.xml.append:7493
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/name"
 msgstr "碧梦"
 
-#: src-en/data/blueprints.xml.append:7473
+#: src-en/data/blueprints.xml.append:7494
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/desc"
-msgstr "异鸣族通常不以与其他种族合作而闻名。然而，多元宇宙浩瀚无垠，这艘舰船上的异鸣"
-"族与水晶船员并肩作战，证明了这一刻板印象确有例外。"
+msgstr "异鸣族通常不以与其他种族合作而闻名。然而，多元宇宙浩瀚无垠，这艘舰船上的异鸣族与水晶船员并肩作战，证明了这一刻板印象确有例外。"
 
-#: src-en/data/blueprints.xml.append:7552
+#: src-en/data/blueprints.xml.append:7573
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/class"
 msgstr "失事异鸣族运输舰"
 
-#: src-en/data/blueprints.xml.append:7553
+#: src-en/data/blueprints.xml.append:7574
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/name"
 msgstr "破碎之梦"
 
-#: src-en/data/blueprints.xml.append:7554
+#: src-en/data/blueprints.xml.append:7575
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/desc"
-msgstr "从恒星森林回收的异鸣族舰船残骸。破败不堪，氧气全无，如今由食铁族和一名喜欢“漂"
-"亮颜色”的兰花族船员操控。不过，那件特殊的异鸣族武器依然留存。"
+msgstr ""
+"从恒星森林回收的异鸣族舰船残骸。破败不堪，氧气全无，如今由食铁族和一名喜欢“漂亮颜色”的兰花族船员操控。不过，那件特殊的异鸣族武器依然留存。"
 
-#: src-en/data/blueprints.xml.append:7631
+#: src-en/data/blueprints.xml.append:7652
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/class"
 msgstr "异鸣族运输舰"
 
-#: src-en/data/blueprints.xml.append:7632
+#: src-en/data/blueprints.xml.append:7653
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/name"
 msgstr "特尔希奥佩"
 
-#: src-en/data/blueprints.xml.append:7633
+#: src-en/data/blueprints.xml.append:7654
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/desc"
 msgstr ""
-"一艘完全修复并改造的异鸣族运输舰，成为准备就绪的战斗舰。其独特的巨炮光束可眩"
-"晕并劫持被击中的船员，使其成为猎物——这正是异鸣族最喜爱的 战术之一。"
+"一艘完全修复并改造的异鸣族运输舰，成为准备就绪的战斗舰。其独特的巨炮光束可眩晕并劫持被击中的船员，使其成为猎物——这正是异鸣族最喜爱的 战术之一。"
 
-#: src-en/data/blueprints.xml.append:7712
+#: src-en/data/blueprints.xml.append:7733
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/class"
 msgstr "异鸣族运输舰"
 
-#: src-en/data/blueprints.xml.append:7713
+#: src-en/data/blueprints.xml.append:7734
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/name"
 msgstr "帕耳忒诺佩"
 
-#: src-en/data/blueprints.xml.append:7714
+#: src-en/data/blueprints.xml.append:7735
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/desc"
 msgstr "这艘舰船完全拥抱混沌，配备的巨炮会从 8 种不同光束中完全随机发射一种。"
 
-#: src-en/data/blueprints.xml.append:7796
+#: src-en/data/blueprints.xml.append:7817
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/class"
 msgstr "异鸣族运输舰"
 
-#: src-en/data/blueprints.xml.append:7797
+#: src-en/data/blueprints.xml.append:7818
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/name"
 msgstr "希梅洛佩"
 
-#: src-en/data/blueprints.xml.append:7798
+#: src-en/data/blueprints.xml.append:7819
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/desc"
-msgstr "如果梦能烹饪，尝起来会是什么味道？这对异鸣食梦者姐妹决定一探究竟——她们安装了"
-"一门能够烧尽沿途一切的火炮光束。"
+msgstr "如果梦能烹饪，尝起来会是什么味道？这对异鸣食梦者姐妹决定一探究竟——她们安装了一门能够烧尽沿途一切的火炮光束。"
 
-#: src-en/data/blueprints.xml.append:7877
+#: src-en/data/blueprints.xml.append:7898
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/class"
 msgstr "押韵运输舰"
 
-#: src-en/data/blueprints.xml.append:7878
+#: src-en/data/blueprints.xml.append:7899
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/name"
 msgstr "伊德海拉"
 
-#: src-en/data/blueprints.xml.append:7879
+#: src-en/data/blueprints.xml.append:7900
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/desc"
-msgstr "追随“押韵者”的信徒获得的的舰船，如今“运输”着一门恐怖尺寸与威力的强力光束。然"
-"而，代价是牺牲了反应堆及其怪异护盾以外的所有防御。"
+msgstr "追随“押韵者”的信徒获得的的舰船，如今“运输”着一门恐怖尺寸与威力的强力光束。然而，代价是牺牲了反应堆及其怪异护盾以外的所有防御。"
 
-#: src-en/data/blueprints.xml.append:7956
+#: src-en/data/blueprints.xml.append:7977
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/class"
 msgstr "莉莉的特员星舰"
 
-#: src-en/data/blueprints.xml.append:7957
+#: src-en/data/blueprints.xml.append:7978
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/name"
 msgstr "虚空之星"
 
-#: src-en/data/blueprints.xml.append:7958
+#: src-en/data/blueprints.xml.append:7979
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/desc"
 msgstr "这艘舰船由她的怪异力量亲自赋能，是莉莉执行她的意志的完美星舰。"

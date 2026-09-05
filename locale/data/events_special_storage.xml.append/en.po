@@ -77,11 +77,11 @@ msgstr "Nevermind."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER\"]/text"
 msgstr ""
-"Ah, a classic--\n"
+"\"Ah, a classic--\n"
 "This kind of weapons has been around for millenia, and they still remain one of the strongest--\n"
 "Not strong enough to do the thing I was hoping to...\n"
 "But alright, just bring me some materials and I'll make one for you--\n"
-"2-3 pieces of ancient tech should suffice--"
+"2-3 pieces of ancient tech should suffice--\""
 
 #: src-en/data/events_special_storage.xml.append:80
 msgid ""
@@ -217,7 +217,7 @@ msgstr "Offer her an Ancient Purifier II. (+3 pts.)"
 
 #: src-en/data/events_special_storage.xml.append:224
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"HAVOC\"]/text"
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_HAVOC\"]/text"
 msgstr "Offer her an Ancient Havoceizer. (+2 pts.)"
 
 #: src-en/data/events_special_storage.xml.append:234
@@ -403,7 +403,7 @@ msgstr ""
 "\"Oh, you want me to join personally?--\n"
 "While I can't do that due to ... reasons, I can lend you my Avatar--\n"
 "Think of it as a kind of remotely controlled drone, except that it's not--\n"
-"Oh, and don't dare to think of it as expendable, or I will make you pay--\n"
+"Oh, and don't dare to think of it as expendable, or I will make you pay--\"\n"
 "\n"
 "\"You are going to need a special piece of equipment for me to do so though...\""
 
@@ -430,13 +430,13 @@ msgstr "Lily"
 #: src-en/data/events_special_storage.xml.append:556
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/text"
-msgstr "(The One Who Rhymes) Allow me to count: three, two, one..."
+msgstr "(The One Who Rhymes) \"Allow me to count: three, two, one..."
 
 #: src-en/data/events_special_storage.xml.append:558
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FIRST\"]/choice[@req=\"eldritch_cat\"]/event/text"
 msgstr ""
-"And everything that's needed is all done!\n"
+"And everything that's needed is all done!\"\n"
 "\n"
 "A rift in space suddenly opens near you, materializing... a quite normal looking human. Although if feels like there's something off..."
 
@@ -527,7 +527,7 @@ msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_RHYMES\"]/text"
 msgstr ""
 "\"Hey! Didn't I tell you NOT to treat my avatar as expendable?--\n"
-"But, seeing The One Who Rhymes here with you I'll make an exception, don't want to miss out on the fun--\"\""
+"But, seeing The One Who Rhymes here with you I'll make an exception, don't want to miss out on the fun--\""
 
 #: src-en/data/events_special_storage.xml.append:634
 msgid ""
@@ -554,7 +554,7 @@ msgstr "Nevermind."
 #: src-en/data/events_special_storage.xml.append:650
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/text"
-msgstr "Sure--"
+msgstr "\"Sure--\""
 
 #: src-en/data/events_special_storage.xml.append:653
 msgid ""
@@ -582,8 +582,8 @@ msgstr "Nevermind."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/text"
 msgstr ""
-"Well... pay me then--\n"
-"What do Renegades value... Scrap? Well, you can give me some or I can take it right from your ship!--"
+"\"Well... pay me then--\n"
+"What do Renegades value... Scrap? Well, you can give me some or I can take it right from your ship!--\""
 
 #: src-en/data/events_special_storage.xml.append:674
 msgid ""
@@ -750,9 +750,9 @@ msgstr "Continue..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_LOREDUMP_9\"]/text"
 msgstr ""
-"Well, that was quite the tale, wasn't it?-- I hope you now understand and will be more motivated to help us...\n"
-"Not only will it benefit me, but you as well!-- Call it a win-win--\n"
-"Anyway, was there anything else you wanted to ask?\n"
+"\"Well, that was quite the tale, wasn't it?-- I hope you now understand and will be more motivated to help us...\n"
+"Not only will it benefit me, but you as well!-- Call it a win-win--\"\n"
+"\"Anyway, was there anything else you wanted to ask?\"\n"
 "(P.S. Good job if you actually have read all of this--)"
 
 #: src-en/data/events_special_storage.xml.append:773
@@ -2769,7 +2769,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[3]/text"
 msgstr ""
 "Burn the enemy!\n"
-"[-3{, deals damage to enemy equals to your engine level, starts fires]"
+"[-3{, [deal 1 damage and start fires in a random enemy room] amount of times equal to your engine level]"
 
 #: src-en/data/events_special_storage.xml.append:2379
 msgid ""
@@ -2786,7 +2786,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AFTERBURNER\"]/choice[4]/text"
 msgstr ""
 "Burn the enemy! (Using Emergency Generator)\n"
-"[-2{, deals damage to enemy equals to your engine level, starts fires]"
+"[-2{, [deal 1 damage and start fires in a random enemy room] amount of times equal to your engine level]"
 
 #: src-en/data/events_special_storage.xml.append:2404
 msgid ""

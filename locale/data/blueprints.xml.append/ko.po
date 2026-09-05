@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-04 16:36+0000\n"
-"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/lilys-beam-"
-"emporium/datablueprintsxmlappend/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/blueprints.xml.append:195
 msgid ""
@@ -20,9 +13,7 @@ msgstr "엑소넷 메인프레임 (V)"
 #: src-en/data/blueprints.xml.append:196
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_VERDANT\"]/desc"
-msgstr ""
-"함선에 설치된 버던트(Verdant) 등급의 엑소넷 호환 메인프레임입니다. 3중첩 "
-"방어막 및 엔진 전력 +3을 제공합니다."
+msgstr "함선에 설치된 버던트(Verdant) 등급의 엑소넷 호환 메인프레임입니다. 3중첩 방어막 및 엔진 전력 +3을 제공합니다."
 
 #: src-en/data/blueprints.xml.append:204
 msgid ""
@@ -33,9 +24,8 @@ msgstr "엑소넷 메인프레임 (C)"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_CRIMSON\"]/desc"
 msgstr ""
-"함선에 설치된 크림슨(Crimson) 등급의 엑소넷 호환 메인프레임입니다. 5중첩 "
-"방어막, 엔진 전력 +4, 방어막 및 장갑 전력 +2, 기타 시스템 전력 +1을 "
-"제공합니다."
+"함선에 설치된 크림슨(Crimson) 등급의 엑소넷 호환 메인프레임입니다. 5중첩 방어막, 엔진 전력 +4, 방어막 및 장갑 전력 +2,"
+" 기타 시스템 전력 +1을 제공합니다."
 
 #: src-en/data/blueprints.xml.append:213
 msgid ""
@@ -46,9 +36,8 @@ msgstr "엑소넷 메인프레임 (A)"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_AZURE\"]/desc"
 msgstr ""
-"함선에 설치된 애저(Azure) 등급의 엑소넷 호환 메인프레임입니다. 8중첩 방어막, "
-"엔진 전력 +5, 방어막/장갑/ECM 전력 +4, 기타 시스템 전력 +2를 제공합니다. "
-"또한 모든 시스템에 기본(0레벨) 배치 효과를 제공합니다."
+"함선에 설치된 애저(Azure) 등급의 엑소넷 호환 메인프레임입니다. 8중첩 방어막, 엔진 전력 +5, 방어막/장갑/ECM 전력 +4, "
+"기타 시스템 전력 +2를 제공합니다. 또한 모든 시스템에 기본(0레벨) 배치 효과를 제공합니다."
 
 #: src-en/data/blueprints.xml.append:222
 msgid ""
@@ -59,9 +48,8 @@ msgstr "엑소넷 메인프레임 (R)"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_RADIANT\"]/desc"
 msgstr ""
-"함선에 설치된 라디언트(Radiant) 등급의 엑소넷 호환 메인프레임입니다. 14중첩 "
-"방어막, 엔진 및 ECM 전력 +6, 방어막 및 장갑 전력 +8, 기타 시스템 전력 +4를 "
-"제공합니다. 또한 모든 시스템에 향상된(1레벨) 배치 효과를 제공합니다."
+"함선에 설치된 라디언트(Radiant) 등급의 엑소넷 호환 메인프레임입니다. 14중첩 방어막, 엔진 및 ECM 전력 +6, 방어막 및 "
+"장갑 전력 +8, 기타 시스템 전력 +4를 제공합니다. 또한 모든 시스템에 향상된(1레벨) 배치 효과를 제공합니다."
 
 #: src-en/data/blueprints.xml.append:231
 msgid ""
@@ -72,9 +60,8 @@ msgstr "엑소넷 메인프레임 (I)"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_EXONET_SHIP_MAINFRAME_IRIDIUM\"]/desc"
 msgstr ""
-"함선에 설치된 이리듐(Iridium) 등급의 엑소넷 호환 메인프레임입니다. 20중첩 "
-"방어막, 엔진 및 ECM 전력 +8, 방어막 및 장갑 전력 +16, 기타 시스템 전력 +6을 "
-"제공합니다. 또한 모든 시스템에 상급(2레벨) 배치 효과를 제공합니다."
+"함선에 설치된 이리듐(Iridium) 등급의 엑소넷 호환 메인프레임입니다. 20중첩 방어막, 엔진 및 ECM 전력 +8, 방어막 및 장갑"
+" 전력 +16, 기타 시스템 전력 +6을 제공합니다. 또한 모든 시스템에 상급(2레벨) 배치 효과를 제공합니다."
 
 #: src-en/data/blueprints.xml.append:241
 msgid ""
@@ -85,8 +72,8 @@ msgstr "초재장전기"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_TARGETING_BYPASS\"]/desc"
 msgstr ""
-"무기 충전 속도가 30% 증가합니다. 단, 간섭 현상으로 인해 적 함선 타격 시 모든 "
-"무기의 명중률이 -20% 감소하는 페널티를 받습니다."
+"무기 충전 속도가 30% 증가합니다. 단, 간섭 현상으로 인해 적 함선 타격 시 모든 무기의 명중률이 -20% 감소하는 페널티를 "
+"받습니다."
 
 #: src-en/data/blueprints.xml.append:250
 msgid ""
@@ -97,8 +84,8 @@ msgstr "초재장전기"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_TARGETING_BYPASS_LOCKED\"]/desc"
 msgstr ""
-"무기 충전 속도가 30% 증가합니다. 단, 간섭 현상으로 인해 적 함선 타격 시 모든 "
-"무기의 명중률이 -20% 감소하는 페널티를 받습니다."
+"무기 충전 속도가 30% 증가합니다. 단, 간섭 현상으로 인해 적 함선 타격 시 모든 무기의 명중률이 -20% 감소하는 페널티를 "
+"받습니다."
 
 #: src-en/data/blueprints.xml.append:259
 msgid ""
@@ -108,9 +95,7 @@ msgstr "ASB 방해기"
 #: src-en/data/blueprints.xml.append:260
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ASB_SCRAMBLER\"]/desc"
-msgstr ""
-"함선의 장거리 식별 신호를 교란하여 적 행성기지 포격(ASB)이 정확하게 조준하지 "
-"못하도록 방해합니다."
+msgstr "함선의 장거리 식별 신호를 교란하여 적 행성기지 포격(ASB)이 정확하게 조준하지 못하도록 방해합니다."
 
 #: src-en/data/blueprints.xml.append:268
 msgid ""
@@ -121,10 +106,8 @@ msgstr "재연소 가속기"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_COMBAT_AFTERBURNER\"]/desc"
 msgstr ""
-"엔진 융합 동력 재연소 장치로, 강력한 추진력을 제공하지만 연료를 엄청나게 "
-"소비합니다.\n"
-"[연료 3 소비: 60초간 회피율 +20% 증가 또는 엔진 레벨 수치만큼 무작위 적실에 "
-"1 피해를 주고 화재 발생]"
+"엔진 융합 동력 재연소 장치로, 강력한 추진력을 제공하지만 연료를 엄청나게 소비합니다.\n"
+"[연료 3 소비: 60초간 회피율 +20% 증가 또는 엔진 레벨 수치만큼 무작위 적실에 1 피해를 주고 화재 발생]"
 
 #: src-en/data/blueprints.xml.append:278
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/title"
@@ -133,9 +116,8 @@ msgstr "대 C.E.L. 공명기"
 #: src-en/data/blueprints.xml.append:279
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ANTI_CEL\"]/desc"
 msgstr ""
-"이 기묘한 장치는 적 함선의 C.E.L. 기술과 무기가 반응하도록 만들어 2배의 "
-"피해를 입히게 합니다. 동봉된 메모에는 이렇게 적혀있습니다: \"그 골칫거리들을 "
-"처리하는 데 도움이 되길 바라며 - :)\""
+"이 기묘한 장치는 적 함선의 C.E.L. 기술과 무기가 반응하도록 만들어 2배의 피해를 입히게 합니다. 동봉된 메모에는 이렇게 "
+"적혀있습니다: \"그 골칫거리들을 처리하는 데 도움이 되길 바라며 - :)\""
 
 #: src-en/data/blueprints.xml.append:287
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_PATRONAGE\"]/title"
@@ -184,8 +166,8 @@ msgstr "신비로운 방어막"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ADV_ELDRITCH_SHIELDS\"]/desc"
 msgstr ""
-"20의 체력을 가진 에너지 방어막을 제공하는 이물적인 혼돈 에너지의 "
-"보호막입니다. 센서조차 방어막의 동력이 어디서 오는지 파악할 수 없습니다."
+"20의 체력을 가진 에너지 방어막을 제공하는 이물적인 혼돈 에너지의 보호막입니다. 센서조차 방어막의 동력이 어디서 오는지 파악할 수 "
+"없습니다."
 
 #: src-en/data/blueprints.xml.append:333
 msgid ""
@@ -195,8 +177,7 @@ msgstr "강렬한 혼돈 에너지"
 #: src-en/data/blueprints.xml.append:334
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_ELITE\"]/desc"
 msgstr ""
-"세이렌이 아닌 선원은 강렬한 혼돈 에너지 장 내부에서 액티브 능력, 전투/배치/"
-"수리/파괴 능력을 잃고 이동 속도가 1/4로 감소합니다."
+"세이렌이 아닌 선원은 강렬한 혼돈 에너지 장 내부에서 액티브 능력, 전투/배치/수리/파괴 능력을 잃고 이동 속도가 1/4로 감소합니다."
 
 #: src-en/data/blueprints.xml.append:343
 msgid ""
@@ -206,9 +187,8 @@ msgstr "청색 에너지"
 #: src-en/data/blueprints.xml.append:344
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_CHAOS_AZURE\"]/desc"
 msgstr ""
-"함내 적군(비세이렌) 선원의 이동/파괴 속도가 절반으로 감소하고, 액티브 능력 "
-"및 정신 지배 면역을 잃습니다. 함내 아군 선원은 청색 에너지 장 내부에서 정신 "
-"지배 및 기절 면역을 얻고 초당 1의 체력을 회복합니다."
+"함내 적군(비세이렌) 선원의 이동/파괴 속도가 절반으로 감소하고, 액티브 능력 및 정신 지배 면역을 잃습니다. 함내 아군 선원은 청색 "
+"에너지 장 내부에서 정신 지배 및 기절 면역을 얻고 초당 1의 체력을 회복합니다."
 
 #: src-en/data/blueprints.xml.append:352
 msgid ""
@@ -218,9 +198,8 @@ msgstr "청색 장갑"
 #: src-en/data/blueprints.xml.append:353
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_AZURE_ARMOR\"]/desc"
 msgstr ""
-"함선이 피해를 입을 때마다 은폐된 수정 조각이 튀어나와 적에게 날아갑니다. "
-"모든 방어막을 관통하여 1의 선체 및 시스템 피해를 주고, 방을 봉쇄하며, 적 "
-"선원을 20초 동안 정신 지배합니다."
+"함선이 피해를 입을 때마다 은폐된 수정 조각이 튀어나와 적에게 날아갑니다. 모든 방어막을 관통하여 1의 선체 및 시스템 피해를 주고, "
+"방을 봉쇄하며, 적 선원을 20초 동안 정신 지배합니다."
 
 #: src-en/data/blueprints.xml.append:361
 msgid ""
@@ -241,8 +220,7 @@ msgstr "영혼 흡수"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_VAMP\"]/desc"
 msgstr ""
-"세이렌 / 하피는 이제 방 안에 있는 적 하나당 초당 1.0 / 2.0의 체력을 "
-"회복합니다. 단, 공격력이 절반으로 감소합니다."
+"세이렌 / 하피는 이제 방 안에 있는 적 하나당 초당 1.0 / 2.0의 체력을 회복합니다. 단, 공격력이 절반으로 감소합니다."
 
 #: src-en/data/blueprints.xml.append:379
 msgid ""
@@ -253,9 +231,8 @@ msgstr "다채로운 꿈"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_BUFF\"]/desc"
 msgstr ""
-"세이렌과 같은 방에 있는 세이렌이 아닌 아군 선원은 받는 피해가 30% 감소하고 "
-"수리 속도가 50% 증가하며 정신 지배에 면역이 되지만, 이동 속도가 50% "
-"감소합니다."
+"세이렌과 같은 방에 있는 세이렌이 아닌 아군 선원은 받는 피해가 30% 감소하고 수리 속도가 50% 증가하며 정신 지배에 면역이 되지만,"
+" 이동 속도가 50% 감소합니다."
 
 #: src-en/data/blueprints.xml.append:387
 msgid ""
@@ -266,9 +243,8 @@ msgstr "시드는 시선"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_DAMAGE\"]/desc"
 msgstr ""
-"세이렌에게 매료된 적은 모든 피해원으로부터 30%의 추가 피해를 받고 정신 지배 "
-"면역(보유 시)을 잃습니다. 다른 세이렌이나 기이한 존재에게는 영향을 미치지 "
-"않습니다."
+"세이렌에게 매료된 적은 모든 피해원으로부터 30%의 추가 피해를 받고 정신 지배 면역(보유 시)을 잃습니다. 다른 세이렌이나 기이한 "
+"존재에게는 영향을 미치지 않습니다."
 
 #: src-en/data/blueprints.xml.append:395
 msgid ""
@@ -279,8 +255,7 @@ msgstr "정신 강탈"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/desc"
 msgstr ""
-"세이렌 하피가 새 능력을 얻습니다: 현재 방에 있는 무작위 적 선원 하나를 10초 "
-"동안 정신 지배합니다. 재사용 대기시간 30초."
+"세이렌 하피가 새 능력을 얻습니다: 현재 방에 있는 무작위 적 선원 하나를 10초 동안 정신 지배합니다. 재사용 대기시간 30초."
 
 #: src-en/data/blueprints.xml.append:406
 msgid ""
@@ -291,12 +266,9 @@ msgstr "[L] 영혼 흡수"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_VAMP\"]/desc"
 msgstr ""
-"세이렌 / 하피는 이제 방 안에 있는 적 하나당 초당 1.0 / 2.0의 체력을 "
-"회복합니다. 단, 공격력이 절반으로 감소합니다.\n"
+"세이렌 / 하피는 이제 방 안에 있는 적 하나당 초당 1.0 / 2.0의 체력을 회복합니다. 단, 공격력이 절반으로 감소합니다.\n"
 "\n"
-"[L] - 이 보조장비는 외장형 연구실 업그레이드로, 정상적인 효과를 제공하지만 "
-"보조장비 슬롯을 차지합니다. 내장형 업그레이드로 전환할 수는 없지만, 1차 "
-"업그레이드 슬롯을 차지하지 않습니다. 동일한 장비와 중첩되지 않습니다."
+"[L] - 이 보조장비는 외장형 연구실 업그레이드로, 정상적인 효과를 제공하지만 보조장비 슬롯을 차지합니다. 내장형 업그레이드로 전환할 수는 없지만, 1차 업그레이드 슬롯을 차지하지 않습니다. 동일한 장비와 중첩되지 않습니다."
 
 #: src-en/data/blueprints.xml.append:416
 msgid ""
@@ -307,13 +279,9 @@ msgstr "[L] 다채로운 꿈"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_BUFF\"]/desc"
 msgstr ""
-"세이렌과 같은 방에 있는 세이렌이 아닌 아군 선원은 받는 피해가 30% 감소하고 "
-"수리 속도가 50% 증가하며 정신 지배에 면역이 되지만, 이동 속도가 50% "
-"감소합니다.\n"
+"세이렌과 같은 방에 있는 세이렌이 아닌 아군 선원은 받는 피해가 30% 감소하고 수리 속도가 50% 증가하며 정신 지배에 면역이 되지만, 이동 속도가 50% 감소합니다.\n"
 "\n"
-"[L] - 이 보조장비는 외장형 연구실 업그레이드로, 정상적인 효과를 제공하지만 "
-"보조장비 슬롯을 차지합니다. 내장형 업그레이드로 전환할 수는 없지만, 1차 "
-"업그레이드 슬롯을 차지하지 않습니다. 동일한 장비와 중첩되지 않습니다."
+"[L] - 이 보조장비는 외장형 연구실 업그레이드로, 정상적인 효과를 제공하지만 보조장비 슬롯을 차지합니다. 내장형 업그레이드로 전환할 수는 없지만, 1차 업그레이드 슬롯을 차지하지 않습니다. 동일한 장비와 중첩되지 않습니다."
 
 #: src-en/data/blueprints.xml.append:426
 msgid ""
@@ -324,13 +292,9 @@ msgstr "[L] 시드는 시선"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_DAMAGE\"]/desc"
 msgstr ""
-"세이렌에게 매료된 적은 모든 피해원으로부터 30%의 추가 피해를 받고 정신 지배 "
-"면역(보유 시)을 잃습니다. 다른 세이렌이나 이물의 존재에게는 영향을 미치지 "
-"않습니다.\n"
+"세이렌에게 매료된 적은 모든 피해원으로부터 30%의 추가 피해를 받고 정신 지배 면역(보유 시)을 잃습니다. 다른 세이렌이나 이물의 존재에게는 영향을 미치지 않습니다.\n"
 "\n"
-"[L] - 이 보조장비는 외장형 연구실 업그레이드로, 정상적인 효과를 제공하지만 "
-"보조장비 슬롯을 차지합니다. 내장형 업그레이드로 전환할 수는 없지만, 1차 "
-"업그레이드 슬롯을 차지하지 않습니다. 동일한 장비와 중첩되지 않습니다."
+"[L] - 이 보조장비는 외장형 연구실 업그레이드로, 정상적인 효과를 제공하지만 보조장비 슬롯을 차지합니다. 내장형 업그레이드로 전환할 수는 없지만, 1차 업그레이드 슬롯을 차지하지 않습니다. 동일한 장비와 중첩되지 않습니다."
 
 #: src-en/data/blueprints.xml.append:436
 msgid ""
@@ -341,12 +305,9 @@ msgstr "[L] 정신 강탈"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/desc"
 msgstr ""
-"세이렌 하피가 새 능력을 얻습니다: 현재 방에 있는 무작위 적 선원 하나를 10초 "
-"동안 정신 지배합니다. (재사용 대기시간 30초)\n"
+"세이렌 하피가 새 능력을 얻습니다: 현재 방에 있는 무작위 적 선원 하나를 10초 동안 정신 지배합니다. (재사용 대기시간 30초)\n"
 "\n"
-"[L] - 이 보조장비는 외장형 연구실 업그레이드로, 정상적인 효과를 제공하지만 "
-"보조장비 슬롯을 차지합니다. 내장형 업그레이드로 전환할 수는 없지만, 1차 "
-"업그레이드 슬롯을 차지하지 않습니다. 동일한 장비와 중첩되지 않습니다."
+"[L] - 이 보조장비는 외장형 연구실 업그레이드로, 정상적인 효과를 제공하지만 보조장비 슬롯을 차지합니다. 내장형 업그레이드로 전환할 수는 없지만, 1차 업그레이드 슬롯을 차지하지 않습니다. 동일한 장비와 중첩되지 않습니다."
 
 #: src-en/data/blueprints.xml.append:447
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SIREN\"]/title"
@@ -365,10 +326,8 @@ msgstr "그녀의 권능 부여"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_HER_EMPOWERMENT\"]/desc"
 msgstr ""
-"이 함선은 그녀의 이물적인 권능으로 강화되었습니다. 상급(2레벨) 배치 및 수리 "
-"능력을 갖춘 무인선으로 작동하며, 선체를 빠르게 수리하고 20의 에너지를 가진 "
-"방어막을 부여받습니다. 이물의 존재 및 세이렌 선원 역시 강화되어 피해 저항과 "
-"환경 위험 면역을 얻습니다."
+"이 함선은 그녀의 이물적인 권능으로 강화되었습니다. 상급(2레벨) 배치 및 수리 능력을 갖춘 무인선으로 작동하며, 선체를 빠르게 수리하고"
+" 20의 에너지를 가진 방어막을 부여받습니다. 이물의 존재 및 세이렌 선원 역시 강화되어 피해 저항과 환경 위험 면역을 얻습니다."
 
 #: src-en/data/blueprints.xml.append:463
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_SHIP_HER\"]/title"
@@ -381,9 +340,7 @@ msgstr "YOU SHOULD NEVER SEE THIS"
 #: src-en/data/blueprints.xml.append:473
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/desc"
-msgstr ""
-"\"다차원 여행자이자, 빔 외판원이자, 진정한 혼돈을 관장하는 최고 기이한 "
-"여신의 충직한 하수인. 네, 그게 바로 저랍니다.\""
+msgstr "\"다차원 여행자이자, 빔 외판원이자, 진정한 혼돈을 관장하는 최고 기이한 여신의 충직한 하수인. 네, 그게 바로 저랍니다.\""
 
 #: src-en/data/blueprints.xml.append:476
 msgid ""
@@ -448,9 +405,8 @@ msgstr "Cloner [???]"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_LILY_BEAM\"]/desc"
 msgstr ""
-"이보다 더 큰 윤리적 논란을 불러일으킨 무기는 없었지만, 작동하기만 한다면 "
-"장땡입니다. 릴리의 분신을 업로드하려 했던 시도가... 빔으로 만들어 버린 "
-"모양입니다?"
+"이보다 더 큰 윤리적 논란을 불러일으킨 무기는 없었지만, 작동하기만 한다면 장땡입니다. 릴리의 분신을 업로드하려 했던 시도가... 빔으로"
+" 만들어 버린 모양입니다?"
 
 #: src-en/data/blueprints.xml.append:602
 msgid ""
@@ -465,9 +421,7 @@ msgstr "'Pointer'"
 #: src-en/data/blueprints.xml.append:604
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POINTER\"]/desc"
-msgstr ""
-"이건... 군용 무기가 아니라 그저 평범한 레이저 포인터입니다. 이게 왜 여기 "
-"있는 걸까요?"
+msgstr "이건... 군용 무기가 아니라 그저 평범한 레이저 포인터입니다. 이게 왜 여기 있는 걸까요?"
 
 #: src-en/data/blueprints.xml.append:718
 msgid ""
@@ -512,9 +466,7 @@ msgstr "Ionpoint I"
 #: src-en/data/blueprints.xml.append:849
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_1\"]/desc"
-msgstr ""
-"1의 이온 피해를 주도록 개조된 핀포인트 빔입니다. 일반 이온 무기보다 충전이 "
-"느립니다."
+msgstr "1의 이온 피해를 주도록 개조된 핀포인트 빔입니다. 일반 이온 무기보다 충전이 느립니다."
 
 #: src-en/data/blueprints.xml.append:895
 msgid ""
@@ -529,9 +481,7 @@ msgstr "Ionpoint II"
 #: src-en/data/blueprints.xml.append:897
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2\"]/desc"
-msgstr ""
-"1의 이온 피해를 주도록 개조된 핀포인트 빔입니다. 이전 모델보다 충전이 "
-"빠릅니다."
+msgstr "1의 이온 피해를 주도록 개조된 핀포인트 빔입니다. 이전 모델보다 충전이 빠릅니다."
 
 #: src-en/data/blueprints.xml.append:943
 msgid ""
@@ -546,9 +496,7 @@ msgstr "Ionpoint II†"
 #: src-en/data/blueprints.xml.append:945
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_2_PLAYER\"]/desc"
-msgstr ""
-"1의 이온 피해를 주도록 개조된 핀포인트 빔입니다. 이전 모델보다 충전이 "
-"빠릅니다."
+msgstr "1의 이온 피해를 주도록 개조된 핀포인트 빔입니다. 이전 모델보다 충전이 빠릅니다."
 
 #: src-en/data/blueprints.xml.append:991
 msgid ""
@@ -579,8 +527,7 @@ msgstr "Ch. Ionpoint"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_CHAIN\"]/desc"
 msgstr ""
-"개조된 이 핀포인트 무기는 약간의 이온 피해만 주지만, 연사 속도가 빠르게 "
-"증가하여 혼자서 여러 시스템을 무력화할 수 있게 됩니다."
+"개조된 이 핀포인트 무기는 약간의 이온 피해만 주지만, 연사 속도가 빠르게 증가하여 혼자서 여러 시스템을 무력화할 수 있게 됩니다."
 
 #: src-en/data/blueprints.xml.append:1094
 msgid ""
@@ -595,9 +542,7 @@ msgstr "Th. Ionpoint"
 #: src-en/data/blueprints.xml.append:1096
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_FIRE\"]/desc"
-msgstr ""
-"초고열 이온 줄기를 발사하도록 개조된 핀포인트 빔입니다. 1의 이온 피해를 주며 "
-"타격한 타일에 반드시 화재를 일으킵니다."
+msgstr "초고열 이온 줄기를 발사하도록 개조된 핀포인트 빔입니다. 1의 이온 피해를 주며 타격한 타일에 반드시 화재를 일으킵니다."
 
 #: src-en/data/blueprints.xml.append:1142
 msgid ""
@@ -627,9 +572,7 @@ msgstr "Rad Ionpoint"
 #: src-en/data/blueprints.xml.append:1193
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_BIO\"]/desc"
-msgstr ""
-"베타 입자 줄기를 발사하도록 개조된 핀포인트 빔으로, 시스템을 교란하고 선원을 "
-"피폭시킵니다."
+msgstr "베타 입자 줄기를 발사하도록 개조된 핀포인트 빔으로, 시스템을 교란하고 선원을 피폭시킵니다."
 
 #: src-en/data/blueprints.xml.append:1245
 msgid ""
@@ -645,8 +588,8 @@ msgstr "Ph. Ionpoint"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_ION_PHASE\"]/desc"
 msgstr ""
-"2의 이온 피해를 주고 방어막을 관통하도록 개조된 핀포인트 빔입니다. 적의 "
-"방어막에 점차 적응하여 연사할 때마다 추가 방어막을 관통합니다."
+"2의 이온 피해를 주고 방어막을 관통하도록 개조된 핀포인트 빔입니다. 적의 방어막에 점차 적응하여 연사할 때마다 추가 방어막을 "
+"관통합니다."
 
 #: src-en/data/blueprints.xml.append:1249
 msgid ""
@@ -702,9 +645,8 @@ msgstr "'Sunset' [H]"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_H\"]/desc"
 msgstr ""
-"이 빔은 독특한 다중 모드 동력 코어를 자랑하며, 선체, 시스템, 선원 모두에게 "
-"효과적일 수 있습니다(단, 동시에 전부 효과적인 것은 아닙니다). 현재 모드: "
-"선체 파쇄."
+"이 빔은 독특한 다중 모드 동력 코어를 자랑하며, 선체, 시스템, 선원 모두에게 효과적일 수 있습니다(단, 동시에 전부 효과적인 것은 "
+"아닙니다). 현재 모드: 선체 파쇄."
 
 #: src-en/data/blueprints.xml.append:1367
 msgid ""
@@ -720,9 +662,8 @@ msgstr "'Sunset' [P]"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_P\"]/desc"
 msgstr ""
-"이 빔은 독특한 다중 모드 동력 코어를 자랑하며, 선체, 시스템, 선원 모두에게 "
-"효과적일 수 있습니다(단, 동시에 전부 효과적인 것은 아닙니다). 현재 모드: "
-"입자."
+"이 빔은 독특한 다중 모드 동력 코어를 자랑하며, 선체, 시스템, 선원 모두에게 효과적일 수 있습니다(단, 동시에 전부 효과적인 것은 "
+"아닙니다). 현재 모드: 입자."
 
 #: src-en/data/blueprints.xml.append:1399
 msgid ""
@@ -738,9 +679,8 @@ msgstr "'Sunset' [B]"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SUNSET_B\"]/desc"
 msgstr ""
-"이 빔은 독특한 다중 모드 동력 코어를 자랑하며, 선체, 시스템, 선원 모두에게 "
-"효과적일 수 있습니다(단, 동시에 전부 효과적인 것은 아닙니다). 현재 모드: "
-"대인."
+"이 빔은 독특한 다중 모드 동력 코어를 자랑하며, 선체, 시스템, 선원 모두에게 효과적일 수 있습니다(단, 동시에 전부 효과적인 것은 "
+"아닙니다). 현재 모드: 대인."
 
 #: src-en/data/blueprints.xml.append:1446
 msgid ""
@@ -756,8 +696,7 @@ msgstr "'Eventide' [L]"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_L\"]/desc"
 msgstr ""
-"'노을'의 상위 모델인 이 빔의 코어는 더 강력할 뿐만 아니라 추가 모드까지 "
-"탑재하고 있습니다! 현재 모드: 장거리, 순수 피해."
+"'노을'의 상위 모델인 이 빔의 코어는 더 강력할 뿐만 아니라 추가 모드까지 탑재하고 있습니다! 현재 모드: 장거리, 순수 피해."
 
 #: src-en/data/blueprints.xml.append:1474
 msgid ""
@@ -773,8 +712,8 @@ msgstr "'Eventide' [S]"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_B\"]/desc"
 msgstr ""
-"'노을'의 상위 모델인 이 빔의 코어는 더 강력할 뿐만 아니라 추가 모드까지 "
-"탑재하고 있습니다! 현재 모드: 도살, 높은 균열/시스템/선원 피해."
+"'노을'의 상위 모델인 이 빔의 코어는 더 강력할 뿐만 아니라 추가 모드까지 탑재하고 있습니다! 현재 모드: 도살, 높은 "
+"균열/시스템/선원 피해."
 
 #: src-en/data/blueprints.xml.append:1513
 msgid ""
@@ -790,8 +729,8 @@ msgstr "'Eventide' [T]"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_P\"]/desc"
 msgstr ""
-"'노을'의 상위 모델인 이 빔의 코어는 더 강력할 뿐만 아니라 추가 모드까지 "
-"탑재하고 있습니다! 현재 모드: 열입자, 높은 시스템 피해, 확실한 화재 발생."
+"'노을'의 상위 모델인 이 빔의 코어는 더 강력할 뿐만 아니라 추가 모드까지 탑재하고 있습니다! 현재 모드: 열입자, 높은 시스템 피해,"
+" 확실한 화재 발생."
 
 #: src-en/data/blueprints.xml.append:1547
 msgid ""
@@ -807,8 +746,8 @@ msgstr "'Eventide' [H]"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_EVENTIDE_H\"]/desc"
 msgstr ""
-"'노을'의 상위 모델인 이 빔의 코어는 더 강력할 뿐만 아니라 추가 모드까지 "
-"탑재하고 있습니다! 현재 모드: 해킹, 적중한 시스템에 해킹 효과 적용."
+"'노을'의 상위 모델인 이 빔의 코어는 더 강력할 뿐만 아니라 추가 모드까지 탑재하고 있습니다! 현재 모드: 해킹, 적중한 시스템에 해킹"
+" 효과 적용."
 
 #: src-en/data/blueprints.xml.append:1593
 msgid ""
@@ -823,9 +762,7 @@ msgstr "'Akatsuki' [B]"
 #: src-en/data/blueprints.xml.append:1595
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_B\"]/desc"
-msgstr ""
-"길이와 피해량을 조절하며 발사 패턴을 즉석에서 전환할 수 있는 특수 빔 "
-"무기입니다. 현재 모드: 빔."
+msgstr "길이와 피해량을 조절하며 발사 패턴을 즉석에서 전환할 수 있는 특수 빔 무기입니다. 현재 모드: 빔."
 
 #: src-en/data/blueprints.xml.append:1620
 msgid ""
@@ -840,9 +777,7 @@ msgstr "'Akatsuki' [F]"
 #: src-en/data/blueprints.xml.append:1622
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_F\"]/desc"
-msgstr ""
-"길이와 피해량을 조절하며 발사 패턴을 즉석에서 전환할 수 있는 특수 빔 "
-"무기입니다. 현재 모드: 집중."
+msgstr "길이와 피해량을 조절하며 발사 패턴을 즉석에서 전환할 수 있는 특수 빔 무기입니다. 현재 모드: 집중."
 
 #: src-en/data/blueprints.xml.append:1649
 msgid ""
@@ -857,9 +792,7 @@ msgstr "'Akatsuki' [S]"
 #: src-en/data/blueprints.xml.append:1651
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_AKATSUKI_S\"]/desc"
-msgstr ""
-"길이와 피해량을 조절하며 발사 패턴을 즉석에서 전환할 수 있는 특수 빔 "
-"무기입니다. 현재 모드: 산탄."
+msgstr "길이와 피해량을 조절하며 발사 패턴을 즉석에서 전환할 수 있는 특수 빔 무기입니다. 현재 모드: 산탄."
 
 #: src-en/data/blueprints.xml.append:1683
 msgid ""
@@ -918,7 +851,7 @@ msgstr ""
 "\n"
 "기본 가격: 100~   -   판매 가격: 50~"
 
-#: src-en/data/blueprints.xml.append:1746
+#: src-en/data/blueprints.xml.append:1745
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/tooltipOverride"
 msgstr ""
@@ -940,37 +873,37 @@ msgstr ""
 "총 선원 피해량: 45\n"
 "균열 확률: 30% (조정치: 30%)"
 
-#: src-en/data/blueprints.xml.append:1793
+#: src-en/data/blueprints.xml.append:1791
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_SEC\"]/title"
 msgstr "빔 '가위'"
 
-#: src-en/data/blueprints.xml.append:1794
+#: src-en/data/blueprints.xml.append:1792
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_SEC\"]/short"
 msgstr "'Scissors'"
 
-#: src-en/data/blueprints.xml.append:1795
+#: src-en/data/blueprints.xml.append:1793
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_SEC\"]/desc"
 msgstr "한 번에 교차하는 한 쌍의 빔을 발사할 수 있는 독특한 무기입니다."
 
-#: src-en/data/blueprints.xml.append:1823
+#: src-en/data/blueprints.xml.append:1820
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/title"
 msgstr "빔 '가위'†"
 
-#: src-en/data/blueprints.xml.append:1824
+#: src-en/data/blueprints.xml.append:1821
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/short"
 msgstr "'Scissors'†"
 
-#: src-en/data/blueprints.xml.append:1825
+#: src-en/data/blueprints.xml.append:1822
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/desc"
 msgstr "한 번에 교차하는 한 쌍의 빔을 발사할 수 있는 독특한 무기입니다."
 
-#: src-en/data/blueprints.xml.append:1827
+#: src-en/data/blueprints.xml.append:1824
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/descriptionOverride"
 msgstr ""
@@ -997,7 +930,7 @@ msgstr ""
 "\n"
 "기본 가격: 100~   -   판매 가격: 50~"
 
-#: src-en/data/blueprints.xml.append:1849
+#: src-en/data/blueprints.xml.append:1845
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/tooltipOverride"
 msgstr ""
@@ -1019,581 +952,553 @@ msgstr ""
 "총 선원 피해량: 45\n"
 "균열 확률: 30% (조정치: 30%)"
 
-#: src-en/data/blueprints.xml.append:1906
+#: src-en/data/blueprints.xml.append:1901
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/title"
 msgstr "'주사기' 빔 [빈 상태]"
 
-#: src-en/data/blueprints.xml.append:1907
+#: src-en/data/blueprints.xml.append:1902
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/short"
 msgstr "'Syringe' [-]"
 
-#: src-en/data/blueprints.xml.append:1908
+#: src-en/data/blueprints.xml.append:1903
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE\"]/desc"
 msgstr ""
-"이 무기는 전통적인 빔보다는 거대한 의료 기기에 가깝습니다. 자동 화학 합성 "
-"연구소가 포함되어 있습니다. 현재 모드: 빈 상태, 사용 전 설정이 필요합니다."
+"이 무기는 전통적인 빔보다는 거대한 의료 기기에 가깝습니다. 자동 화학 합성 연구소가 포함되어 있습니다. 현재 모드: 빈 상태, 사용 전"
+" 설정이 필요합니다."
 
-#: src-en/data/blueprints.xml.append:1942
+#: src-en/data/blueprints.xml.append:1937
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/title"
 msgstr "'주사기' 빔 [치료제]"
 
-#: src-en/data/blueprints.xml.append:1943
+#: src-en/data/blueprints.xml.append:1938
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/short"
 msgstr "'Syringe' [M]"
 
-#: src-en/data/blueprints.xml.append:1944
+#: src-en/data/blueprints.xml.append:1939
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_M\"]/desc"
 msgstr ""
-"이 무기는 전통적인 빔보다는 거대한 의료 기기에 가깝습니다. 자동 화학 합성 "
-"연구소가 포함되어 있습니다. 현재 모드: 치료제."
+"이 무기는 전통적인 빔보다는 거대한 의료 기기에 가깝습니다. 자동 화학 합성 연구소가 포함되어 있습니다. 현재 모드: 치료제."
 
-#: src-en/data/blueprints.xml.append:2004
+#: src-en/data/blueprints.xml.append:1999
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/title"
 msgstr "'주사기' 빔 [각성제]"
 
-#: src-en/data/blueprints.xml.append:2005
+#: src-en/data/blueprints.xml.append:2000
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/short"
 msgstr "'Syringe' [S]"
 
-#: src-en/data/blueprints.xml.append:2006
+#: src-en/data/blueprints.xml.append:2001
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_S\"]/desc"
 msgstr ""
-"이 무기는 전통적인 빔보다는 거대한 의료 기기에 가깝습니다. 자동 화학 합성 "
-"연구소가 포함되어 있습니다. 현재 모드: 각성제."
+"이 무기는 전통적인 빔보다는 거대한 의료 기기에 가깝습니다. 자동 화학 합성 연구소가 포함되어 있습니다. 현재 모드: 각성제."
 
-#: src-en/data/blueprints.xml.append:2091
+#: src-en/data/blueprints.xml.append:2086
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/title"
 msgstr "'주사기' 빔 [독성]"
 
-#: src-en/data/blueprints.xml.append:2092
+#: src-en/data/blueprints.xml.append:2087
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/short"
 msgstr "'Syringe' [P]"
 
-#: src-en/data/blueprints.xml.append:2093
+#: src-en/data/blueprints.xml.append:2088
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_P\"]/desc"
-msgstr ""
-"이 무기는 전통적인 빔보다는 거대한 의료 기기에 가깝습니다. 자동 화학 합성 "
-"연구소가 포함되어 있습니다. 현재 모드: 독성."
+msgstr "이 무기는 전통적인 빔보다는 거대한 의료 기기에 가깝습니다. 자동 화학 합성 연구소가 포함되어 있습니다. 현재 모드: 독성."
 
-#: src-en/data/blueprints.xml.append:2192
+#: src-en/data/blueprints.xml.append:2187
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/title"
 msgstr "'주사기' 빔 [산성]"
 
-#: src-en/data/blueprints.xml.append:2193
+#: src-en/data/blueprints.xml.append:2188
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/short"
 msgstr "'Syringe' [A]"
 
-#: src-en/data/blueprints.xml.append:2194
+#: src-en/data/blueprints.xml.append:2189
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_TOGGLE_SYRINGE_A\"]/desc"
-msgstr ""
-"이 무기는 전통적인 빔보다는 거대한 의료 기기에 가깝습니다. 자동 화학 합성 "
-"연구소가 포함되어 있습니다. 현재 모드: 산성."
+msgstr "이 무기는 전통적인 빔보다는 거대한 의료 기기에 가깝습니다. 자동 화학 합성 연구소가 포함되어 있습니다. 현재 모드: 산성."
 
-#: src-en/data/blueprints.xml.append:2271
+#: src-en/data/blueprints.xml.append:2266
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON\"]/title"
 msgstr "버스트 빔 투사체"
 
-#: src-en/data/blueprints.xml.append:2272
+#: src-en/data/blueprints.xml.append:2267
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON\"]/short"
 msgstr "Burst Beam Projectile"
 
-#: src-en/data/blueprints.xml.append:2273
+#: src-en/data/blueprints.xml.append:2268
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2303
+#: src-en/data/blueprints.xml.append:2298
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_O\"]/title"
 msgstr "버스트 빔 투사체"
 
-#: src-en/data/blueprints.xml.append:2304
+#: src-en/data/blueprints.xml.append:2299
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_O\"]/short"
 msgstr "Burst Beam Projectile"
 
-#: src-en/data/blueprints.xml.append:2305
+#: src-en/data/blueprints.xml.append:2300
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_O\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2339
+#: src-en/data/blueprints.xml.append:2334
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/title"
 msgstr "'에디슨' 흡수 빔 [0]"
 
-#: src-en/data/blueprints.xml.append:2340
+#: src-en/data/blueprints.xml.append:2335
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/short"
 msgstr "'Edison' [0]"
 
-#: src-en/data/blueprints.xml.append:2341
+#: src-en/data/blueprints.xml.append:2336
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_0\"]/desc"
 msgstr ""
-"이 독특한 빔 무기는 적의 방어막을 흡수하여 자신의 방어막을 재충전할 수 "
-"있습니다. 직접 적중 시 시스템 전력을 강제로 1 감소시키지만 봉쇄하지는 "
-"않습니다. 전력이 높을수록 더 오래 발사할 수 있습니다. 현재 전력: 0 (보수적)."
+"이 독특한 빔 무기는 적의 방어막을 흡수하여 자신의 방어막을 재충전할 수 있습니다. 직접 적중 시 시스템 전력을 강제로 1 감소시키지만 "
+"봉쇄하지는 않습니다. 전력이 높을수록 더 오래 발사할 수 있습니다. 현재 전력: 0 (보수적)."
 
-#: src-en/data/blueprints.xml.append:2378
+#: src-en/data/blueprints.xml.append:2373
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/title"
 msgstr "'에디슨' 흡수 빔 [1]"
 
-#: src-en/data/blueprints.xml.append:2379
+#: src-en/data/blueprints.xml.append:2374
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/short"
 msgstr "'Edison' [1]"
 
-#: src-en/data/blueprints.xml.append:2380
+#: src-en/data/blueprints.xml.append:2375
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_1\"]/desc"
 msgstr ""
-"이 독특한 빔 무기는 적의 방어막을 흡수하여 자신의 방어막을 재충전할 수 "
-"있습니다. 직접 적중 시 시스템 전력을 강제로 1 감소시키지만 봉쇄하지는 "
-"않습니다. 전력이 높을수록 더 오래 발사할 수 있습니다. 현재 전력: 1."
+"이 독특한 빔 무기는 적의 방어막을 흡수하여 자신의 방어막을 재충전할 수 있습니다. 직접 적중 시 시스템 전력을 강제로 1 감소시키지만 "
+"봉쇄하지는 않습니다. 전력이 높을수록 더 오래 발사할 수 있습니다. 현재 전력: 1."
 
-#: src-en/data/blueprints.xml.append:2417
+#: src-en/data/blueprints.xml.append:2412
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/title"
 msgstr "'에디슨' 흡수 빔 [2]"
 
-#: src-en/data/blueprints.xml.append:2418
+#: src-en/data/blueprints.xml.append:2413
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/short"
 msgstr "'Edison' [2]"
 
-#: src-en/data/blueprints.xml.append:2419
+#: src-en/data/blueprints.xml.append:2414
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_2\"]/desc"
 msgstr ""
-"이 독특한 빔 무기는 적의 방어막을 흡수하여 자신의 방어막을 재충전할 수 "
-"있습니다. 직접 적중 시 시스템 전력을 강제로 1 감소시키지만 봉쇄하지는 "
-"않습니다. 전력이 높을수록 더 오래 발사할 수 있습니다. 현재 전력: 2."
+"이 독특한 빔 무기는 적의 방어막을 흡수하여 자신의 방어막을 재충전할 수 있습니다. 직접 적중 시 시스템 전력을 강제로 1 감소시키지만 "
+"봉쇄하지는 않습니다. 전력이 높을수록 더 오래 발사할 수 있습니다. 현재 전력: 2."
 
-#: src-en/data/blueprints.xml.append:2455
+#: src-en/data/blueprints.xml.append:2450
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/title"
 msgstr "'에디슨' 흡수 빔 [3]"
 
-#: src-en/data/blueprints.xml.append:2456
+#: src-en/data/blueprints.xml.append:2451
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/short"
 msgstr "'Edison' [3]"
 
-#: src-en/data/blueprints.xml.append:2457
+#: src-en/data/blueprints.xml.append:2452
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_3\"]/desc"
 msgstr ""
-"이 독특한 빔 무기는 적의 방어막을 흡수하여 자신의 방어막을 재충전할 수 "
-"있습니다. 직접 적중 시 시스템 전력을 강제로 1 감소시키지만 봉쇄하지는 "
-"않습니다. 전력이 높을수록 더 오래 발사할 수 있습니다. 현재 전력: 3."
+"이 독특한 빔 무기는 적의 방어막을 흡수하여 자신의 방어막을 재충전할 수 있습니다. 직접 적중 시 시스템 전력을 강제로 1 감소시키지만 "
+"봉쇄하지는 않습니다. 전력이 높을수록 더 오래 발사할 수 있습니다. 현재 전력: 3."
 
-#: src-en/data/blueprints.xml.append:2492
+#: src-en/data/blueprints.xml.append:2487
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/title"
 msgstr "'에디슨' 흡수 빔 [과충전]"
 
-#: src-en/data/blueprints.xml.append:2493
+#: src-en/data/blueprints.xml.append:2488
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/short"
 msgstr "'Edison' [OD]"
 
-#: src-en/data/blueprints.xml.append:2494
+#: src-en/data/blueprints.xml.append:2489
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_AMP_SIPHON_OD\"]/desc"
 msgstr ""
-"이 독특한 빔 무기는 적의 방어막을 흡수하여 자신의 방어막을 재충전할 수 "
-"있습니다. 직접 적중 시 시스템 전력을 강제로 1 감소시키지만 봉쇄하지는 "
-"않습니다. 전력이 높을수록 더 오래 발사할 수 있습니다. 현재 전력: "
-"오버드라이브."
+"이 독특한 빔 무기는 적의 방어막을 흡수하여 자신의 방어막을 재충전할 수 있습니다. 직접 적중 시 시스템 전력을 강제로 1 감소시키지만 "
+"봉쇄하지는 않습니다. 전력이 높을수록 더 오래 발사할 수 있습니다. 현재 전력: 오버드라이브."
 
-#: src-en/data/blueprints.xml.append:2545
+#: src-en/data/blueprints.xml.append:2540
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1\"]/title"
 msgstr "굴절 핀포인트 I"
 
-#: src-en/data/blueprints.xml.append:2546
+#: src-en/data/blueprints.xml.append:2541
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1\"]/short"
 msgstr "Refr. I"
 
-#: src-en/data/blueprints.xml.append:2547
+#: src-en/data/blueprints.xml.append:2542
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1\"]/desc"
 msgstr ""
-"특수 관통 기술을 활용하는 핀포인트 빔입니다. 일반적인 방식으로는 방어막을 "
-"관통할 수 없지만, 방어막을 통과하며 굴절되어 정밀도는 떨어지더라도 함선에 "
-"적중할 수 있습니다."
+"특수 관통 기술을 활용하는 핀포인트 빔입니다. 일반적인 방식으로는 방어막을 관통할 수 없지만, 방어막을 통과하며 굴절되어 정밀도는 "
+"떨어지더라도 함선에 적중할 수 있습니다."
 
-#: src-en/data/blueprints.xml.append:2581
+#: src-en/data/blueprints.xml.append:2576
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/title"
 msgstr "굴절 핀포인트 I†"
 
-#: src-en/data/blueprints.xml.append:2582
+#: src-en/data/blueprints.xml.append:2577
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/short"
 msgstr "Refr. I†"
 
-#: src-en/data/blueprints.xml.append:2583
+#: src-en/data/blueprints.xml.append:2578
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_PLAYER\"]/desc"
 msgstr ""
-"특수 관통 기술을 활용하는 핀포인트 빔입니다. 일반적인 방식으로는 방어막을 "
-"관통할 수 없지만, 방어막을 통과하며 굴절되어 정밀도는 떨어지더라도 함선에 "
-"적중할 수 있습니다."
+"특수 관통 기술을 활용하는 핀포인트 빔입니다. 일반적인 방식으로는 방어막을 관통할 수 없지만, 방어막을 통과하며 굴절되어 정밀도는 "
+"떨어지더라도 함선에 적중할 수 있습니다."
 
-#: src-en/data/blueprints.xml.append:2618
+#: src-en/data/blueprints.xml.append:2613
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_R\"]/title"
 msgstr "굴절 핀포인트 I"
 
-#: src-en/data/blueprints.xml.append:2619
+#: src-en/data/blueprints.xml.append:2614
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_R\"]/short"
 msgstr "Refr. I"
 
-#: src-en/data/blueprints.xml.append:2620
+#: src-en/data/blueprints.xml.append:2615
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_1_R\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2652
+#: src-en/data/blueprints.xml.append:2647
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/title"
 msgstr "굴절 핀포인트 II"
 
-#: src-en/data/blueprints.xml.append:2653
+#: src-en/data/blueprints.xml.append:2648
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/short"
 msgstr "Refr. II"
 
-#: src-en/data/blueprints.xml.append:2654
+#: src-en/data/blueprints.xml.append:2649
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2\"]/desc"
 msgstr ""
-"특수 관통 기술을 활용하는 핀포인트 빔입니다. 일반적인 방식으로는 방어막을 "
-"관통할 수 없지만, 방어막을 통과하며 굴절되어 정밀도는 떨어지더라도 함선에 "
-"적중할 수 있습니다. Mk I보다 강력하며 굴절 시 무지개색으로 갈라집니다."
+"특수 관통 기술을 활용하는 핀포인트 빔입니다. 일반적인 방식으로는 방어막을 관통할 수 없지만, 방어막을 통과하며 굴절되어 정밀도는 "
+"떨어지더라도 함선에 적중할 수 있습니다. Mk I보다 강력하며 굴절 시 무지개색으로 갈라집니다."
 
-#: src-en/data/blueprints.xml.append:2687
+#: src-en/data/blueprints.xml.append:2682
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/title"
 msgstr "굴절 핀포인트 II†"
 
-#: src-en/data/blueprints.xml.append:2688
+#: src-en/data/blueprints.xml.append:2683
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/short"
 msgstr "Refr. II†"
 
-#: src-en/data/blueprints.xml.append:2689
+#: src-en/data/blueprints.xml.append:2684
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_PLAYER\"]/desc"
 msgstr ""
-"특수 관통 기술을 활용하는 핀포인트 빔입니다. 일반적인 방식으로는 방어막을 "
-"관통할 수 없지만, 방어막을 통과하며 굴절되어 정밀도는 떨어지더라도 함선에 "
-"적중할 수 있습니다. Mk I보다 강력하며 굴절 시 무지개색으로 갈라집니다."
+"특수 관통 기술을 활용하는 핀포인트 빔입니다. 일반적인 방식으로는 방어막을 관통할 수 없지만, 방어막을 통과하며 굴절되어 정밀도는 "
+"떨어지더라도 함선에 적중할 수 있습니다. Mk I보다 강력하며 굴절 시 무지개색으로 갈라집니다."
 
-#: src-en/data/blueprints.xml.append:2722
+#: src-en/data/blueprints.xml.append:2717
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_R\"]/title"
 msgstr "굴절 핀포인트 II"
 
-#: src-en/data/blueprints.xml.append:2723
+#: src-en/data/blueprints.xml.append:2718
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_R\"]/short"
 msgstr "Refr. II"
 
-#: src-en/data/blueprints.xml.append:2724
+#: src-en/data/blueprints.xml.append:2719
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_R\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2755
+#: src-en/data/blueprints.xml.append:2750
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_O\"]/title"
 msgstr "굴절 핀포인트 II"
 
-#: src-en/data/blueprints.xml.append:2756
+#: src-en/data/blueprints.xml.append:2751
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_O\"]/short"
 msgstr "Refr. II"
 
-#: src-en/data/blueprints.xml.append:2757
+#: src-en/data/blueprints.xml.append:2752
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_O\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2788
+#: src-en/data/blueprints.xml.append:2783
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_Y\"]/title"
 msgstr "굴절 핀포인트 II"
 
-#: src-en/data/blueprints.xml.append:2789
+#: src-en/data/blueprints.xml.append:2784
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_Y\"]/short"
 msgstr "Refr. II"
 
-#: src-en/data/blueprints.xml.append:2790
+#: src-en/data/blueprints.xml.append:2785
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_Y\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2822
+#: src-en/data/blueprints.xml.append:2817
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_G\"]/title"
 msgstr "굴절 핀포인트 II"
 
-#: src-en/data/blueprints.xml.append:2823
+#: src-en/data/blueprints.xml.append:2818
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_G\"]/short"
 msgstr "Refr. II"
 
-#: src-en/data/blueprints.xml.append:2824
+#: src-en/data/blueprints.xml.append:2819
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_G\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2855
+#: src-en/data/blueprints.xml.append:2850
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_B\"]/title"
 msgstr "굴절 핀포인트 II"
 
-#: src-en/data/blueprints.xml.append:2856
+#: src-en/data/blueprints.xml.append:2851
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_B\"]/short"
 msgstr "Refr. II"
 
-#: src-en/data/blueprints.xml.append:2857
+#: src-en/data/blueprints.xml.append:2852
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_B\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2888
+#: src-en/data/blueprints.xml.append:2883
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_I\"]/title"
 msgstr "굴절 핀포인트 II"
 
-#: src-en/data/blueprints.xml.append:2889
+#: src-en/data/blueprints.xml.append:2884
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_I\"]/short"
 msgstr "Refr. II"
 
-#: src-en/data/blueprints.xml.append:2890
+#: src-en/data/blueprints.xml.append:2885
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_I\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2921
+#: src-en/data/blueprints.xml.append:2916
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_V\"]/title"
 msgstr "굴절 핀포인트 II"
 
-#: src-en/data/blueprints.xml.append:2922
+#: src-en/data/blueprints.xml.append:2917
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_V\"]/short"
 msgstr "Refr. II"
 
-#: src-en/data/blueprints.xml.append:2923
+#: src-en/data/blueprints.xml.append:2918
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_PIERCE_2_V\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2970
+#: src-en/data/blueprints.xml.append:2965
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/title"
 msgstr "'어레이' 다중 핀포인트 [패턴]"
 
-#: src-en/data/blueprints.xml.append:2971
+#: src-en/data/blueprints.xml.append:2966
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/short"
 msgstr "'Array' [P]"
 
-#: src-en/data/blueprints.xml.append:2972
+#: src-en/data/blueprints.xml.append:2967
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_P\"]/desc"
 msgstr ""
-"이 무기는 3개의 핀포인트 빔을 하나로 묶어 방어막을 깨뜨릴 수 있도록 개조한 "
-"어레이입니다. 현재 모드: 패턴 (2타일 간격의 수직 또는 수평선)"
+"이 무기는 3개의 핀포인트 빔을 하나로 묶어 방어막을 깨뜨릴 수 있도록 개조한 어레이입니다. 현재 모드: 패턴 (2타일 간격의 수직 또는"
+" 수평선)"
 
-#: src-en/data/blueprints.xml.append:3006
+#: src-en/data/blueprints.xml.append:3001
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/title"
 msgstr "'어레이' 다중 핀포인트 [산탄]"
 
-#: src-en/data/blueprints.xml.append:3007
+#: src-en/data/blueprints.xml.append:3002
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/short"
 msgstr "'Array' [S]"
 
-#: src-en/data/blueprints.xml.append:3008
+#: src-en/data/blueprints.xml.append:3003
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_S\"]/desc"
-msgstr ""
-"이 무기는 3개의 핀포인트 빔을 하나로 묶어 방어막을 깨뜨릴 수 있도록 개조한 "
-"어레이입니다. 현재 모드: 산탄"
+msgstr "이 무기는 3개의 핀포인트 빔을 하나로 묶어 방어막을 깨뜨릴 수 있도록 개조한 어레이입니다. 현재 모드: 산탄"
 
-#: src-en/data/blueprints.xml.append:3045
+#: src-en/data/blueprints.xml.append:3040
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/title"
 msgstr "'매트릭스' 다중 핀포인트 [패턴]"
 
-#: src-en/data/blueprints.xml.append:3046
+#: src-en/data/blueprints.xml.append:3041
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/short"
 msgstr "'Matrix' [P]"
 
-#: src-en/data/blueprints.xml.append:3047
+#: src-en/data/blueprints.xml.append:3042
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_P\"]/desc"
 msgstr ""
-"이 무기는 9개의 핀포인트 빔을 하나로 묶어 방어막을 깨뜨릴 수 있도록 개조한 "
-"어레이입니다. 방어막을 무력화하고 적 함선에 대혼란을 줄 수 있지만, 무겁고 "
-"조준하기 어렵습니다. 현재 모드: 패턴 (2타일 간격의 격자)"
+"이 무기는 9개의 핀포인트 빔을 하나로 묶어 방어막을 깨뜨릴 수 있도록 개조한 어레이입니다. 방어막을 무력화하고 적 함선에 대혼란을 줄 "
+"수 있지만, 무겁고 조준하기 어렵습니다. 현재 모드: 패턴 (2타일 간격의 격자)"
 
-#: src-en/data/blueprints.xml.append:3081
+#: src-en/data/blueprints.xml.append:3076
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/title"
 msgstr "'매트릭스' 다중 핀포인트 [산탄]"
 
-#: src-en/data/blueprints.xml.append:3082
+#: src-en/data/blueprints.xml.append:3077
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/short"
 msgstr "'Matrix' [S]"
 
-#: src-en/data/blueprints.xml.append:3083
+#: src-en/data/blueprints.xml.append:3078
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SHOTGUN_9_S\"]/desc"
 msgstr ""
-"이 무기는 9개의 핀포인트 빔을 하나로 묶어 방어막을 깨뜨릴 수 있도록 개조한 "
-"어레이입니다. 방어막을 무력화하고 적 함선에 대혼란을 줄 수 있지만, 무겁고 "
-"조준하기 어렵습니다. 현재 모드: 산탄"
+"이 무기는 9개의 핀포인트 빔을 하나로 묶어 방어막을 깨뜨릴 수 있도록 개조한 어레이입니다. 방어막을 무력화하고 적 함선에 대혼란을 줄 "
+"수 있지만, 무겁고 조준하기 어렵습니다. 현재 모드: 산탄"
 
-#: src-en/data/blueprints.xml.append:3130
+#: src-en/data/blueprints.xml.append:3125
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/title"
 msgstr "데이터링크 핀포인트"
 
-#: src-en/data/blueprints.xml.append:3131
+#: src-en/data/blueprints.xml.append:3126
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/short"
 msgstr "D-Link"
 
-#: src-en/data/blueprints.xml.append:3132
+#: src-en/data/blueprints.xml.append:3127
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_HACK\"]/desc"
 msgstr ""
-"무선 데이터 전송이 가능한 빔을 투사하여 적중한 시스템을 해킹하고 선원을 정신 "
-"지배하는 무기입니다. 단, 적의 방어막이 벗겨진 상태여야 합니다."
+"무선 데이터 전송이 가능한 빔을 투사하여 적중한 시스템을 해킹하고 선원을 정신 지배하는 무기입니다. 단, 적의 방어막이 벗겨진 상태여야 "
+"합니다."
 
-#: src-en/data/blueprints.xml.append:3213
+#: src-en/data/blueprints.xml.append:3208
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/title"
 msgstr "'지진' 곡사포"
 
-#: src-en/data/blueprints.xml.append:3214
+#: src-en/data/blueprints.xml.append:3209
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/short"
 msgstr "'Quake'"
 
-#: src-en/data/blueprints.xml.append:3215
+#: src-en/data/blueprints.xml.append:3210
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1\"]/desc"
-msgstr ""
-"곡사포 시리즈 중 가장 가볍지만, 적중한 시스템에 막대한 피해를 입힐 수 있으며 "
-"명중률과 재충전 속도도 준수합니다."
+msgstr "곡사포 시리즈 중 가장 가볍지만, 적중한 시스템에 막대한 피해를 입힐 수 있으며 명중률과 재충전 속도도 준수합니다."
 
-#: src-en/data/blueprints.xml.append:3269
+#: src-en/data/blueprints.xml.append:3264
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_P\"]/title"
 msgstr "NO"
 
-#: src-en/data/blueprints.xml.append:3270
+#: src-en/data/blueprints.xml.append:3265
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_P\"]/short"
 msgstr "NO"
 
-#: src-en/data/blueprints.xml.append:3271
+#: src-en/data/blueprints.xml.append:3266
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_P\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:3301
+#: src-en/data/blueprints.xml.append:3296
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_S\"]/title"
 msgstr "NO"
 
-#: src-en/data/blueprints.xml.append:3302
+#: src-en/data/blueprints.xml.append:3297
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_S\"]/short"
 msgstr "NO"
 
-#: src-en/data/blueprints.xml.append:3303
+#: src-en/data/blueprints.xml.append:3298
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_HOWITZER_1_BEAM_S\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:3342
+#: src-en/data/blueprints.xml.append:3337
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_PARTICLE_MINI\"]/title"
 msgstr "소형 입자 빔"
 
-#: src-en/data/blueprints.xml.append:3343
+#: src-en/data/blueprints.xml.append:3338
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_PARTICLE_MINI\"]/short"
 msgstr "Mini Part. B."
 
-#: src-en/data/blueprints.xml.append:3344
+#: src-en/data/blueprints.xml.append:3339
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_PARTICLE_MINI\"]/desc"
-msgstr ""
-"시스템에 피해를 주고 화재를 일으키는 소형 집속 빔을 발사하지만, 선체나 "
-"선원에게는 피해를 주지 않습니다."
+msgstr "시스템에 피해를 주고 화재를 일으키는 소형 집속 빔을 발사하지만, 선체나 선원에게는 피해를 주지 않습니다."
 
-#: src-en/data/blueprints.xml.append:3375
+#: src-en/data/blueprints.xml.append:3370
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/title"
 msgstr "사이클로트론 증폭 빔"
 
-#: src-en/data/blueprints.xml.append:3376
+#: src-en/data/blueprints.xml.append:3371
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/short"
 msgstr "Cyclotron"
 
-#: src-en/data/blueprints.xml.append:3378
+#: src-en/data/blueprints.xml.append:3373
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:3379
+#: src-en/data/blueprints.xml.append:3374
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/descriptionOverride"
 msgstr ""
-"증폭기는 추가 투사체를 얻는 대신 충전할 때마다 위력을 강화하는 특별한 기술을 "
-"사용합니다. 충전할 때마다 피해량과 상태 이상 확률이 증가합니다. 충전 속도는 "
-"갈수록 빨라집니다. 이 입자 가속기 디자인은 해당 기술을 활용해 완전히 "
-"충전되었을 때 대단히 파괴적인 입자 빔을 생성합니다.\n"
+"증폭기는 추가 투사체를 얻는 대신 충전할 때마다 위력을 강화하는 특별한 기술을 사용합니다. 충전할 때마다 피해량과 상태 이상 확률이 증가합니다. 충전 속도는 갈수록 빨라집니다. 이 입자 가속기 디자인은 해당 기술을 활용해 완전히 충전되었을 때 대단히 파괴적인 입자 빔을 생성합니다.\n"
 "\n"
-"이 무기가 이물의 존재들에 의해 조작되었다는 소문이 있지만... 소문은 소문일 "
-"뿐입니다.\n"
+"이 무기가 이물의 존재들에 의해 조작되었다는 소문이 있지만... 소문은 소문일 뿐입니다.\n"
 "\n"
 "스탯:\n"
 "필요 전력: 3\n"
@@ -1613,7 +1518,7 @@ msgstr ""
 "\n"
 "기본 가격: 70~   -   판매 가격: 35~"
 
-#: src-en/data/blueprints.xml.append:3401
+#: src-en/data/blueprints.xml.append:3396
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_CYCLOTRON\"]/tooltipOverride"
 msgstr ""
@@ -1632,135 +1537,141 @@ msgstr ""
 "\n"
 "균열 확률: 20/50/80/110%"
 
-#: src-en/data/blueprints.xml.append:3454
+#: src-en/data/blueprints.xml.append:3449
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST\"]/title"
 msgstr "'폴라리스' 서리 빔"
 
-#: src-en/data/blueprints.xml.append:3455
+#: src-en/data/blueprints.xml.append:3450
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST\"]/short"
 msgstr "'Polaris'"
 
-#: src-en/data/blueprints.xml.append:3456
+#: src-en/data/blueprints.xml.append:3451
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST\"]/desc"
 msgstr ""
-"이 차가운 무기는 액체 질소 빔을 발사합니다. 방을 봉쇄하여 대부분의 선원이 "
-"들어오거나 나가지 못하게 할 수 있습니다.\n"
+"이 차가운 무기는 액체 질소 빔을 발사합니다. 방을 봉쇄하여 대부분의 선원이 들어오거나 나가지 못하게 할 수 있습니다.\n"
 "과도한 질소 가스는 기체 균형도 무너뜨립니다."
 
-#: src-en/data/blueprints.xml.append:3535
+#: src-en/data/blueprints.xml.append:3530
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/title"
 msgstr "'폴라리스' 서리 빔†"
 
-#: src-en/data/blueprints.xml.append:3536
+#: src-en/data/blueprints.xml.append:3531
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/short"
 msgstr "'Polaris'†"
 
-#: src-en/data/blueprints.xml.append:3537
+#: src-en/data/blueprints.xml.append:3532
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_FROST_PLAYER\"]/desc"
 msgstr ""
-"이 차가운 무기는 액체 질소 빔을 발사합니다. 방을 봉쇄하여 대부분의 선원이 "
-"들어오거나 나가지 못하게 할 수 있습니다.\n"
+"이 차가운 무기는 액체 질소 빔을 발사합니다. 방을 봉쇄하여 대부분의 선원이 들어오거나 나가지 못하게 할 수 있습니다.\n"
 "과도한 질소 가스는 기체 균형도 무너뜨립니다."
 
-#: src-en/data/blueprints.xml.append:3616
+#: src-en/data/blueprints.xml.append:3611
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/title"
 msgstr "방어막 파괴 빔"
 
-#: src-en/data/blueprints.xml.append:3617
+#: src-en/data/blueprints.xml.append:3612
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/short"
 msgstr "'Poppy'"
 
-#: src-en/data/blueprints.xml.append:3618
+#: src-en/data/blueprints.xml.append:3613
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_POPPER\"]/desc"
 msgstr ""
-"피해는 주지 않지만 방어막 2겹을 깨뜨리는 소형 집속 빔을 발사합니다. 영향받은 "
-"선원을 혼란 상태로 만드는 독특한 특성도 있습니다.\n"
-"보존 무기는 자체 전력을 소비하지 않지만 시스템 자체에 전력이 공급되어 있어야 "
-"합니다."
+"피해는 주지 않지만 방어막 2겹을 깨뜨리는 소형 집속 빔을 발사합니다. 영향받은 선원을 혼란 상태로 만드는 독특한 특성도 있습니다.\n"
+"보존 무기는 자체 전력을 소비하지 않지만 시스템 자체에 전력이 공급되어 있어야 합니다."
 
-#: src-en/data/blueprints.xml.append:3655
+#: src-en/data/blueprints.xml.append:3650
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/title"
 msgstr "빔 C.I.W.S."
 
-#: src-en/data/blueprints.xml.append:3656
+#: src-en/data/blueprints.xml.append:3651
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/short"
 msgstr "C.I.W.S."
 
-#: src-en/data/blueprints.xml.append:3657
+#: src-en/data/blueprints.xml.append:3652
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS\"]/desc"
 msgstr ""
-"이 빔 무기는 독특한 전방위 적외선 방출기와 고급 조준 장비를 갖추고 있습니다. "
-"날아오는 미사일과 드론을 요격하는 데는 효과적이지만, 다른 함선을 상대할 때는 "
-"성능이 떨어집니다."
+"이 빔 무기는 독특한 전방위 적외선 방출기와 고급 조준 장비를 갖추고 있습니다. 날아오는 미사일과 드론을 요격하는 데는 효과적이지만, "
+"다른 함선을 상대할 때는 성능이 떨어집니다."
 
-#: src-en/data/blueprints.xml.append:3680
+#: src-en/data/blueprints.xml.append:3675
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_EFF\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3676
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_EFF\"]/short"
+msgstr "C.I.W.S. ††"
+
+#: src-en/data/blueprints.xml.append:3677
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_EFF\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3700
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3681
+#: src-en/data/blueprints.xml.append:3701
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3682
+#: src-en/data/blueprints.xml.append:3702
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ\"]/desc"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3707
+#: src-en/data/blueprints.xml.append:3727
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ_2\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3708
+#: src-en/data/blueprints.xml.append:3728
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ_2\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3709
+#: src-en/data/blueprints.xml.append:3729
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_PROJ_2\"]/desc"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:3761
+#: src-en/data/blueprints.xml.append:3781
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/title"
 msgstr "엑소넷 무기 코어 - 버던트"
 
-#: src-en/data/blueprints.xml.append:3762
+#: src-en/data/blueprints.xml.append:3782
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/short"
 msgstr "Verdant Core"
 
-#: src-en/data/blueprints.xml.append:3763
+#: src-en/data/blueprints.xml.append:3783
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/desc"
 msgstr ""
-"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 "
-"정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다. \"버던트(Verdant)"
-"\" 등급.\n"
-"\t[무기가 작동하려면 무기 시스템에 최소 1개 이상의 일반 반응로 전력이 "
-"할당되어 있어야 합니다]"
+"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다. \"버던트(Verdant)\" 등급.\n"
+"\t[무기가 작동하려면 무기 시스템에 최소 1개 이상의 일반 반응로 전력이 할당되어 있어야 합니다]"
 
-#: src-en/data/blueprints.xml.append:3766
+#: src-en/data/blueprints.xml.append:3786
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/descriptionOverride"
 msgstr ""
-"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 "
-"정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다.\n"
+"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다.\n"
 "\n"
 "스탯:\n"
 "등급: 버던트\n"
@@ -1773,7 +1684,7 @@ msgstr ""
 "\n"
 "기본 가격: 100~   -   판매 가격: 50~"
 
-#: src-en/data/blueprints.xml.append:3778
+#: src-en/data/blueprints.xml.append:3798
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_VERDANT\"]/tooltipOverride"
 msgstr ""
@@ -1782,32 +1693,28 @@ msgstr ""
 "보너스 충전 속도: 10%\n"
 "보너스 명중률: 10%"
 
-#: src-en/data/blueprints.xml.append:3800
+#: src-en/data/blueprints.xml.append:3820
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/title"
 msgstr "엑소넷 무기 코어 - 크림슨"
 
-#: src-en/data/blueprints.xml.append:3801
+#: src-en/data/blueprints.xml.append:3821
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/short"
 msgstr "Crimson Core"
 
-#: src-en/data/blueprints.xml.append:3802
+#: src-en/data/blueprints.xml.append:3822
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/desc"
 msgstr ""
-"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 "
-"정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다. \"크림슨(Crimson)"
-"\" 등급.\n"
-"\t[무기가 작동하려면 무기 시스템에 최소 1개 이상의 일반 반응로 전력이 "
-"할당되어 있어야 합니다]"
+"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다. \"크림슨(Crimson)\" 등급.\n"
+"\t[무기가 작동하려면 무기 시스템에 최소 1개 이상의 일반 반응로 전력이 할당되어 있어야 합니다]"
 
-#: src-en/data/blueprints.xml.append:3805
+#: src-en/data/blueprints.xml.append:3825
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/descriptionOverride"
 msgstr ""
-"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 "
-"정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다.\n"
+"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다.\n"
 "\n"
 "스탯:\n"
 "등급: 크림슨\n"
@@ -1820,7 +1727,7 @@ msgstr ""
 "\n"
 "기본 가격: 150~   -   판매 가격: 75~"
 
-#: src-en/data/blueprints.xml.append:3817
+#: src-en/data/blueprints.xml.append:3837
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_CRIMSON\"]/tooltipOverride"
 msgstr ""
@@ -1829,32 +1736,28 @@ msgstr ""
 "보너스 충전 속도: 25%\n"
 "보너스 명중률: 20%"
 
-#: src-en/data/blueprints.xml.append:3839
+#: src-en/data/blueprints.xml.append:3859
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/title"
 msgstr "엑소넷 무기 코어 - 애저"
 
-#: src-en/data/blueprints.xml.append:3840
+#: src-en/data/blueprints.xml.append:3860
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/short"
 msgstr "Azure Core"
 
-#: src-en/data/blueprints.xml.append:3841
+#: src-en/data/blueprints.xml.append:3861
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/desc"
 msgstr ""
-"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 "
-"정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다. \"애저(Azure)\" "
-"등급.\n"
-"\t[무기가 작동하려면 무기 시스템에 최소 1개 이상의 일반 반응로 전력이 "
-"할당되어 있어야 합니다]"
+"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다. \"애저(Azure)\" 등급.\n"
+"\t[무기가 작동하려면 무기 시스템에 최소 1개 이상의 일반 반응로 전력이 할당되어 있어야 합니다]"
 
-#: src-en/data/blueprints.xml.append:3844
+#: src-en/data/blueprints.xml.append:3864
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/descriptionOverride"
 msgstr ""
-"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 "
-"정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다.\n"
+"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다.\n"
 "\n"
 "스탯:\n"
 "등급: 애저\n"
@@ -1867,7 +1770,7 @@ msgstr ""
 "\n"
 "기본 가격: 200~   -   판매 가격: 100~"
 
-#: src-en/data/blueprints.xml.append:3856
+#: src-en/data/blueprints.xml.append:3876
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_AZURE\"]/tooltipOverride"
 msgstr ""
@@ -1876,32 +1779,28 @@ msgstr ""
 "보너스 충전 속도: 50%\n"
 "보너스 명중률: 30%"
 
-#: src-en/data/blueprints.xml.append:3878
+#: src-en/data/blueprints.xml.append:3898
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/title"
 msgstr "엑소넷 무기 코어 - 라디언트"
 
-#: src-en/data/blueprints.xml.append:3879
+#: src-en/data/blueprints.xml.append:3899
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/short"
 msgstr "Radiant Core"
 
-#: src-en/data/blueprints.xml.append:3880
+#: src-en/data/blueprints.xml.append:3900
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/desc"
 msgstr ""
-"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 "
-"정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다. \"라디언트"
-"(Radiant)\" 등급.\n"
-"\t[무기가 작동하려면 무기 시스템에 최소 1개 이상의 일반 반응로 전력이 "
-"할당되어 있어야 합니다]"
+"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다. \"라디언트(Radiant)\" 등급.\n"
+"\t[무기가 작동하려면 무기 시스템에 최소 1개 이상의 일반 반응로 전력이 할당되어 있어야 합니다]"
 
-#: src-en/data/blueprints.xml.append:3883
+#: src-en/data/blueprints.xml.append:3903
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/descriptionOverride"
 msgstr ""
-"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 "
-"정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다.\n"
+"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다.\n"
 "\n"
 "스탯:\n"
 "등급: 라디언트\n"
@@ -1916,7 +1815,7 @@ msgstr ""
 "\n"
 "기본 가격: 300~   -   판매 가격: 150~"
 
-#: src-en/data/blueprints.xml.append:3897
+#: src-en/data/blueprints.xml.append:3917
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_RADIANT\"]/tooltipOverride"
 msgstr ""
@@ -1927,32 +1826,28 @@ msgstr ""
 "보너스 충전 속도: 100%\n"
 "보너스 명중률: 50%"
 
-#: src-en/data/blueprints.xml.append:3921
+#: src-en/data/blueprints.xml.append:3941
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/title"
 msgstr "엑소넷 무기 코어 - 이리듐"
 
-#: src-en/data/blueprints.xml.append:3922
+#: src-en/data/blueprints.xml.append:3942
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/short"
 msgstr "Iridium Core"
 
-#: src-en/data/blueprints.xml.append:3923
+#: src-en/data/blueprints.xml.append:3943
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/desc"
 msgstr ""
-"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 "
-"정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다. \"이리듐(Iridium)"
-"\" 등급.\n"
-"\t[무기가 작동하려면 무기 시스템에 최소 1개 이상의 일반 반응로 전력이 "
-"할당되어 있어야 합니다]"
+"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다. \"이리듐(Iridium)\" 등급.\n"
+"\t[무기가 작동하려면 무기 시스템에 최소 1개 이상의 일반 반응로 전력이 할당되어 있어야 합니다]"
 
-#: src-en/data/blueprints.xml.append:3926
+#: src-en/data/blueprints.xml.append:3946
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/descriptionOverride"
 msgstr ""
-"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 "
-"정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다.\n"
+"이 독특한 장치는 외계 기술을 사용하여 알 수 없는 출처로부터 원격으로 전력과 정보를 받아 무기 성능을 크게 향상시키고 전력을 제공합니다.\n"
 "\n"
 "스탯:\n"
 "등급: 이리듐\n"
@@ -1967,7 +1862,7 @@ msgstr ""
 "\n"
 "기본 가격: 500~   -   판매 가격: 250~"
 
-#: src-en/data/blueprints.xml.append:3940
+#: src-en/data/blueprints.xml.append:3960
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_EXONET_WEAPON_CORE_IRIDIUM\"]/tooltipOverride"
 msgstr ""
@@ -1978,905 +1873,838 @@ msgstr ""
 "보너스 충전 속도: 200%\n"
 "보너스 명중률: 80%"
 
-#: src-en/data/blueprints.xml.append:3971
+#: src-en/data/blueprints.xml.append:3991
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/title"
 msgstr "'이라' 분해 빔"
 
-#: src-en/data/blueprints.xml.append:3972
+#: src-en/data/blueprints.xml.append:3992
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/short"
 msgstr "'Ira'"
 
-#: src-en/data/blueprints.xml.append:3973
+#: src-en/data/blueprints.xml.append:3993
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다.\n"
 "방어막 1개 관통, 선원에게 초당 -4 체력 피해 및 치유/수리 속도 x0.5.\n"
 "균열이 생긴 방에 선체 피해 1을 줍니다."
 
-#: src-en/data/blueprints.xml.append:4044
+#: src-en/data/blueprints.xml.append:4064
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/title"
 msgstr "'안고리스' 분해 빔"
 
-#: src-en/data/blueprints.xml.append:4045
+#: src-en/data/blueprints.xml.append:4065
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/short"
 msgstr "'Angoris'"
 
-#: src-en/data/blueprints.xml.append:4046
+#: src-en/data/blueprints.xml.append:4066
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다.\n"
 "방어막 1개 관통, 선원에게 초당 -4 체력 피해 및 치유/수리 속도 x0.5.\n"
 "균열이 생긴 방에 선체 피해 1을 줍니다."
 
-#: src-en/data/blueprints.xml.append:4117
+#: src-en/data/blueprints.xml.append:4137
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/title"
 msgstr "'돌로르' 분해 빔"
 
-#: src-en/data/blueprints.xml.append:4118
+#: src-en/data/blueprints.xml.append:4138
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/short"
 msgstr "'Dolor'"
 
-#: src-en/data/blueprints.xml.append:4119
+#: src-en/data/blueprints.xml.append:4139
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다.\n"
 "방어막 2개 관통, 선원에게 초당 -8 체력 피해 및 치유/수리 속도 x0.25.\n"
 "균열이 생긴 방에 선체 피해 2를 줍니다."
 
-#: src-en/data/blueprints.xml.append:4191
+#: src-en/data/blueprints.xml.append:4211
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/title"
 msgstr "'토르멘툼' 분해 빔"
 
-#: src-en/data/blueprints.xml.append:4192
+#: src-en/data/blueprints.xml.append:4212
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/short"
 msgstr "'Tormentum'"
 
-#: src-en/data/blueprints.xml.append:4193
+#: src-en/data/blueprints.xml.append:4213
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다.\n"
 "방어막 3개 관통, 선원에게 초당 -8 체력 피해 및 치유/수리 불가(x0.0).\n"
 "균열이 생긴 방에 선체 피해 3을 줍니다."
 
-#: src-en/data/blueprints.xml.append:4265
+#: src-en/data/blueprints.xml.append:4285
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA\"]/title"
 msgstr "'풀멘' 혼돈충격 분해 빔"
 
-#: src-en/data/blueprints.xml.append:4266
+#: src-en/data/blueprints.xml.append:4286
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA\"]/short"
 msgstr "'Fulmen'"
 
-#: src-en/data/blueprints.xml.append:4267
+#: src-en/data/blueprints.xml.append:4287
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다. 추가로 시스템에 혼돈충격 효과를 적용하여 이온 효과가 정상 속도의 "
-"50%로 소멸되게 합니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다. 추가로 시스템에 혼돈충격 효과를 적용하여 이온 효과가 정상 속도의 50%로 소멸되게 합니다.\n"
 "방어막 2개 관통, 선원에게 초당 -5 체력 피해 및 치유/수리 속도 x0.25.\n"
 "균열이 생긴 방에 선체 피해 1을 줍니다."
 
-#: src-en/data/blueprints.xml.append:4357
+#: src-en/data/blueprints.xml.append:4377
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/title"
 msgstr "'아르데' 혼돈화염 분해 빔"
 
-#: src-en/data/blueprints.xml.append:4358
+#: src-en/data/blueprints.xml.append:4378
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/short"
 msgstr "'Arde'"
 
-#: src-en/data/blueprints.xml.append:4359
+#: src-en/data/blueprints.xml.append:4379
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다. 추가로 산소 없이도 타오르고 모든 유형의 선원에게(기본 속도의 "
-"1.5배 이상) 피해를 줄 수 있는 혼돈화염을 일으킵니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다. 추가로 산소 없이도 타오르고 모든 유형의 선원에게(기본 속도의 1.5배 이상) 피해를 줄 수 있는 혼돈화염을 일으킵니다.\n"
 "방어막 1개 관통, 선원에게 초당 -3 체력 피해 및 치유/수리 속도 x0.5.\n"
 "균열이 생긴 방에 선체 피해 0을 줍니다."
 
-#: src-en/data/blueprints.xml.append:4509
+#: src-en/data/blueprints.xml.append:4529
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/title"
 msgstr "'임페디오' 혼돈구속 분해 빔"
 
-#: src-en/data/blueprints.xml.append:4510
+#: src-en/data/blueprints.xml.append:4530
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/short"
 msgstr "'Impedio'"
 
-#: src-en/data/blueprints.xml.append:4511
+#: src-en/data/blueprints.xml.append:4531
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다. 추가로 혼돈구속 효과를 적용하여 해당 방의 선원이 배치, 전투, "
-"파괴 및 수리를 하지 못하게 막고 이동 속도를 0.25배로 감소시킵니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다. 추가로 혼돈구속 효과를 적용하여 해당 방의 선원이 배치, 전투, 파괴 및 수리를 하지 못하게 막고 이동 속도를 0.25배로 감소시킵니다.\n"
 "방어막 1개 관통, 선원에게 초당 -3 체력 피해 및 치유/수리 속도 x0.5.\n"
 "균열이 생긴 방에 선체 피해 0을 줍니다."
 
-#: src-en/data/blueprints.xml.append:4708
+#: src-en/data/blueprints.xml.append:4728
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/title"
 msgstr "혼돈의 '이라' 분해 빔"
 
-#: src-en/data/blueprints.xml.append:4709
+#: src-en/data/blueprints.xml.append:4729
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/short"
 msgstr "'Ira'™"
 
-#: src-en/data/blueprints.xml.append:4710
+#: src-en/data/blueprints.xml.append:4730
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_CHAOS\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다.\n"
 "방어막 3개 관통, 선원에게 초당 -4 체력 피해 및 치유/수리 속도 x0.5.\n"
 "균열이 생긴 방에 선체 피해 1을 줍니다."
 
-#: src-en/data/blueprints.xml.append:4786
+#: src-en/data/blueprints.xml.append:4806
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/title"
 msgstr "혼돈의 '안고리스' 분해 빔"
 
-#: src-en/data/blueprints.xml.append:4787
+#: src-en/data/blueprints.xml.append:4807
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/short"
 msgstr "'Angoris'™"
 
-#: src-en/data/blueprints.xml.append:4788
+#: src-en/data/blueprints.xml.append:4808
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_CHAOS\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다.\n"
 "방어막 3개 관통, 선원에게 초당 -4 체력 피해 및 치유/수리 속도 x0.5.\n"
 "균열이 생긴 방에 선체 피해 1을 줍니다."
 
-#: src-en/data/blueprints.xml.append:4864
+#: src-en/data/blueprints.xml.append:4884
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/title"
 msgstr "혼돈의 '돌로르' 분해 빔"
 
-#: src-en/data/blueprints.xml.append:4865
+#: src-en/data/blueprints.xml.append:4885
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/short"
 msgstr "'Dolor'™"
 
-#: src-en/data/blueprints.xml.append:4866
+#: src-en/data/blueprints.xml.append:4886
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_CHAOS\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다.\n"
 "방어막 4개 관통, 선원에게 초당 -8 체력 피해 및 치유/수리 속도 x0.25.\n"
 "균열이 생긴 방에 선체 피해 2를 줍니다."
 
-#: src-en/data/blueprints.xml.append:4943
+#: src-en/data/blueprints.xml.append:4963
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/title"
 msgstr "혼돈의 '토르멘툼' 분해 빔"
 
-#: src-en/data/blueprints.xml.append:4944
+#: src-en/data/blueprints.xml.append:4964
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/short"
 msgstr "'Tormentum'™"
 
-#: src-en/data/blueprints.xml.append:4945
+#: src-en/data/blueprints.xml.append:4965
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_CHAOS\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다.\n"
 "방어막 5개 관통, 선원에게 초당 -8 체력 피해 및 치유/수리 불가(x0.0).\n"
 "균열이 생긴 방에 선체 피해 3을 줍니다."
 
-#: src-en/data/blueprints.xml.append:5022
+#: src-en/data/blueprints.xml.append:5042
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_CHAOS\"]/title"
 msgstr "혼돈의 '풀멘' 혼돈충격 분해 빔"
 
-#: src-en/data/blueprints.xml.append:5023
+#: src-en/data/blueprints.xml.append:5043
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_CHAOS\"]/short"
 msgstr "'Fulmen'™"
 
-#: src-en/data/blueprints.xml.append:5024
+#: src-en/data/blueprints.xml.append:5044
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_CHAOS\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다. 추가로 시스템에 혼돈충격 효과를 적용하여 이온 효과가 정상 속도의 "
-"50%로 소멸되게 합니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다. 추가로 시스템에 혼돈충격 효과를 적용하여 이온 효과가 정상 속도의 50%로 소멸되게 합니다.\n"
 "방어막 4개 관통, 선원에게 초당 -5 체력 피해 및 치유/수리 속도 x0.25.\n"
 "균열이 생긴 방에 선체 피해 1을 줍니다."
 
-#: src-en/data/blueprints.xml.append:5119
+#: src-en/data/blueprints.xml.append:5139
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/title"
 msgstr "혼돈의 '아르데' 혼돈화염 분해 빔"
 
-#: src-en/data/blueprints.xml.append:5120
+#: src-en/data/blueprints.xml.append:5140
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/short"
 msgstr "'Arde'™"
 
-#: src-en/data/blueprints.xml.append:5121
+#: src-en/data/blueprints.xml.append:5141
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_CHAOS\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다. 추가로 산소 없이도 타오르고 모든 유형의 선원에게(기본 속도의 "
-"1.5배 이상) 피해를 줄 수 있는 혼돈화염을 일으킵니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다. 추가로 산소 없이도 타오르고 모든 유형의 선원에게(기본 속도의 1.5배 이상) 피해를 줄 수 있는 혼돈화염을 일으킵니다.\n"
 "방어막 3개 관통, 선원에게 초당 -3 체력 피해 및 치유/수리 속도 x0.5.\n"
 "균열이 생긴 방에 선체 피해 0을 줍니다."
 
-#: src-en/data/blueprints.xml.append:5276
+#: src-en/data/blueprints.xml.append:5296
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/title"
 msgstr "혼돈의 '임페디오' 혼돈구속 분해 빔"
 
-#: src-en/data/blueprints.xml.append:5277
+#: src-en/data/blueprints.xml.append:5297
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/short"
 msgstr "'Impedio'™"
 
-#: src-en/data/blueprints.xml.append:5278
+#: src-en/data/blueprints.xml.append:5298
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_CHAOS\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다. 추가로 혼돈구속 효과를 적용하여 해당 방의 선원이 배치, 전투, "
-"파괴 및 수리를 하지 못하게 막고 이동 속도를 0.25배로 감소시킵니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다. 추가로 혼돈구속 효과를 적용하여 해당 방의 선원이 배치, 전투, 파괴 및 수리를 하지 못하게 막고 이동 속도를 0.25배로 감소시킵니다.\n"
 "방어막 3개 관통, 선원에게 초당 -3 체력 피해 및 치유/수리 속도 x0.5.\n"
 "균열이 생긴 방에 선체 피해 0을 줍니다."
 
-#: src-en/data/blueprints.xml.append:5480
+#: src-en/data/blueprints.xml.append:5500
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/title"
 msgstr "엘리트 '이라' 분해 빔"
 
-#: src-en/data/blueprints.xml.append:5481
+#: src-en/data/blueprints.xml.append:5501
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/short"
 msgstr "€ 'Ira'"
 
-#: src-en/data/blueprints.xml.append:5482
+#: src-en/data/blueprints.xml.append:5502
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_1_ELITE\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다.\n"
 "방어막 3개 관통, 선원에게 초당 -6 체력 피해 및 치유/수리 속도 x0.25.\n"
 "균열이 생긴 방에 선체 피해 2를 줍니다."
 
-#: src-en/data/blueprints.xml.append:5558
+#: src-en/data/blueprints.xml.append:5578
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/title"
 msgstr "엘리트 '안고리스' 분해 빔"
 
-#: src-en/data/blueprints.xml.append:5559
+#: src-en/data/blueprints.xml.append:5579
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/short"
 msgstr "€ 'Angoris'"
 
-#: src-en/data/blueprints.xml.append:5560
+#: src-en/data/blueprints.xml.append:5580
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_2_ELITE\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다.\n"
 "방어막 3개 관통, 선원에게 초당 -6 체력 피해 및 치유/수리 속도 x0.25.\n"
 "균열이 생긴 방에 선체 피해 2를 줍니다."
 
-#: src-en/data/blueprints.xml.append:5636
+#: src-en/data/blueprints.xml.append:5656
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/title"
 msgstr "엘리트 '돌로르' 분해 빔"
 
-#: src-en/data/blueprints.xml.append:5637
+#: src-en/data/blueprints.xml.append:5657
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/short"
 msgstr "€ 'Dolor'"
 
-#: src-en/data/blueprints.xml.append:5638
+#: src-en/data/blueprints.xml.append:5658
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_3_ELITE\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다.\n"
 "방어막 4개 관통, 선원에게 초당 -12 체력 피해 및 치유/수리 불가(x0.0).\n"
 "균열이 생긴 방에 선체 피해 3을 줍니다."
 
-#: src-en/data/blueprints.xml.append:5715
+#: src-en/data/blueprints.xml.append:5735
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/title"
 msgstr "엘리트 '토르멘툼' 분해 빔"
 
-#: src-en/data/blueprints.xml.append:5716
+#: src-en/data/blueprints.xml.append:5736
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/short"
 msgstr "€ 'Tormentum'"
 
-#: src-en/data/blueprints.xml.append:5717
+#: src-en/data/blueprints.xml.append:5737
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_4_ELITE\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다.\n"
 "방어막 5개 관통, 선원에게 초당 -12 체력 피해 및 치유/수리 불가(x0.0).\n"
 "균열이 생긴 방에 선체 피해 4를 줍니다."
 
-#: src-en/data/blueprints.xml.append:5803
+#: src-en/data/blueprints.xml.append:5823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_ELITE\"]/title"
 msgstr "엘리트 '풀멘' 엘리트충격 분해 빔"
 
-#: src-en/data/blueprints.xml.append:5804
+#: src-en/data/blueprints.xml.append:5824
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_ELITE\"]/short"
 msgstr "€ 'Fulmen'"
 
-#: src-en/data/blueprints.xml.append:5805
+#: src-en/data/blueprints.xml.append:5825
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_PLASMA_ELITE\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다. 추가로 시스템에 혼돈충격 효과를 적용하여 이온 효과가 정상 속도의 "
-"50%로 소멸되게 합니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다. 추가로 시스템에 혼돈충격 효과를 적용하여 이온 효과가 정상 속도의 50%로 소멸되게 합니다.\n"
 "방어막 4개 관통, 선원에게 초당 -8 체력 피해 및 치유/수리 불가(x0.0).\n"
 "균열이 생긴 방에 선체 피해 2를 줍니다."
 
-#: src-en/data/blueprints.xml.append:5896
+#: src-en/data/blueprints.xml.append:5916
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/title"
 msgstr "엘리트 '아르데' 혼돈화염 분해 빔"
 
-#: src-en/data/blueprints.xml.append:5897
+#: src-en/data/blueprints.xml.append:5917
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/short"
 msgstr "€ 'Arde'"
 
-#: src-en/data/blueprints.xml.append:5898
+#: src-en/data/blueprints.xml.append:5918
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_FIRE_ELITE\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다. 추가로 산소 없이도 타오르고 모든 유형의 선원에게(기본 속도의 3배 "
-"이상) 피해를 줄 수 있는 혼돈화염을 일으킵니다..\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다. 추가로 산소 없이도 타오르고 모든 유형의 선원에게(기본 속도의 3배 이상) 피해를 줄 수 있는 혼돈화염을 일으킵니다..\n"
 "방어막 3개 관통, 선원에게 초당 -4 체력 피해 및 치유/수리 속도 x0.25.\n"
 "균열이 생긴 방에 선체 피해 1을 줍니다."
 
-#: src-en/data/blueprints.xml.append:6053
+#: src-en/data/blueprints.xml.append:6073
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/title"
 msgstr "엘리트 '임페디오' 혼돈구속 분해 빔"
 
-#: src-en/data/blueprints.xml.append:6054
+#: src-en/data/blueprints.xml.append:6074
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/short"
 msgstr "€ 'Impedio'"
 
-#: src-en/data/blueprints.xml.append:6055
+#: src-en/data/blueprints.xml.append:6075
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SIREN_LOCK_ELITE\"]/desc"
 msgstr ""
-"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 "
-"효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 "
-"방해합니다. 추가로 혼돈구속 효과를 적용하여 피해를 입은 방에 있는 승무원들이 "
-"이동, 조종, 전투, 파괴, 수리를 할 수 없게 만듭니다.\n"
+"닿는 모든 물질을 분해시키는 혼돈의 이물 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 방해합니다. 추가로 혼돈구속 효과를 적용하여 피해를 입은 방에 있는 승무원들이 이동, 조종, 전투, 파괴, 수리를 할 수 없게 만듭니다.\n"
 "방어막 3개 관통, 선원에게 초당 -4 체력 피해 및 치유/수리 속도 x0.25.\n"
 "균열이 생긴 방에 선체 피해 1을 줍니다."
 
-#: src-en/data/blueprints.xml.append:6286
+#: src-en/data/blueprints.xml.append:6306
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/title"
 msgstr "세이렌 납치 포격"
 
-#: src-en/data/blueprints.xml.append:6287
+#: src-en/data/blueprints.xml.append:6307
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/short"
 msgstr "Abductor"
 
-#: src-en/data/blueprints.xml.append:6288
+#: src-en/data/blueprints.xml.append:6308
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/desc"
 msgstr ""
-"세이렌이 설계한 빔 무기로, 모든 방어막을 관통하고 적중한 선원을 순간이동실로 "
-"납치하며 혼란 상태에 빠뜨립니다. 작동하려면 순간이동 시스템이 필요합니다. "
-"[기본 재충전: 15초]"
+"세이렌이 설계한 빔 무기로, 모든 방어막을 관통하고 적중한 선원을 순간이동실로 납치하며 혼란 상태에 빠뜨립니다. 작동하려면 순간이동 "
+"시스템이 필요합니다. [기본 재충전: 15초]"
 
-#: src-en/data/blueprints.xml.append:6289
+#: src-en/data/blueprints.xml.append:6309
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_A_ARTILLERY\"]/tooltip"
 msgstr "세이렌 납치 포격. [기본 재충전: 15초]"
 
-#: src-en/data/blueprints.xml.append:6315
+#: src-en/data/blueprints.xml.append:6335
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/title"
 msgstr "세이렌 만화경 포격"
 
-#: src-en/data/blueprints.xml.append:6316
+#: src-en/data/blueprints.xml.append:6336
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/short"
 msgstr "Kaleidoscope"
 
-#: src-en/data/blueprints.xml.append:6317
+#: src-en/data/blueprints.xml.append:6337
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/desc"
 msgstr ""
-"세이렌이 설계한 빔 무기로, 10가지 다른 빔 중 하나를 무작위로 발사하여 혼돈을 "
-"몰고 옵니다. [기본 재충전: 16초] 가능한 효과: 화재, 입자, 수리, 기절, 균열, "
-"에너지, 이온, 서리, 해킹, 방사능"
+"세이렌이 설계한 빔 무기로, 10가지 다른 빔 중 하나를 무작위로 발사하여 혼돈을 몰고 옵니다. [기본 재충전: 16초] 가능한 효과: "
+"화재, 입자, 수리, 기절, 균열, 에너지, 이온, 서리, 해킹, 방사능"
 
-#: src-en/data/blueprints.xml.append:6318
+#: src-en/data/blueprints.xml.append:6338
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY\"]/tooltip"
 msgstr "세이렌 만화경 포격. [기본 재충전: 16초] ROYLGCBIVM"
 
-#: src-en/data/blueprints.xml.append:6348
+#: src-en/data/blueprints.xml.append:6368
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/title"
 msgstr "세이렌 혼돈화염 포격"
 
-#: src-en/data/blueprints.xml.append:6349
+#: src-en/data/blueprints.xml.append:6369
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/short"
 msgstr "Chaosfire"
 
-#: src-en/data/blueprints.xml.append:6350
+#: src-en/data/blueprints.xml.append:6370
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/desc"
 msgstr ""
-"세이렌이 설계한 빔 무기로, 닿는 모든 것을 혼돈의 불길로 불태우는 혼돈 에너지 "
-"빔을 발사합니다. 일반 불과 달리 혼돈의 불길은 산소가 없어도 타오르며 화염 "
-"면역 선원에게도 피해를 줍니다. 방어막 2개를 관통합니다. [기본 재충전: 40초]"
+"세이렌이 설계한 빔 무기로, 닿는 모든 것을 혼돈의 불길로 불태우는 혼돈 에너지 빔을 발사합니다. 일반 불과 달리 혼돈의 불길은 산소가 "
+"없어도 타오르며 화염 면역 선원에게도 피해를 줍니다. 방어막 2개를 관통합니다. [기본 재충전: 40초]"
 
-#: src-en/data/blueprints.xml.append:6351
+#: src-en/data/blueprints.xml.append:6371
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_C_ARTILLERY\"]/tooltip"
 msgstr "세이렌 혼돈화염 포격. [기본 재충전: 40초]"
 
-#: src-en/data/blueprints.xml.append:6489
+#: src-en/data/blueprints.xml.append:6509
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6490
+#: src-en/data/blueprints.xml.append:6510
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6491
+#: src-en/data/blueprints.xml.append:6511
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/desc"
 msgstr "게임 내에서 이것을 보고 계시면 안 됩니다"
 
-#: src-en/data/blueprints.xml.append:6492
+#: src-en/data/blueprints.xml.append:6512
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_R\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6522
+#: src-en/data/blueprints.xml.append:6542
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6523
+#: src-en/data/blueprints.xml.append:6543
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6524
+#: src-en/data/blueprints.xml.append:6544
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/desc"
 msgstr "게임 내에서 이것을 보고 계시면 안 됩니다"
 
-#: src-en/data/blueprints.xml.append:6525
+#: src-en/data/blueprints.xml.append:6545
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_O\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6555
+#: src-en/data/blueprints.xml.append:6575
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6556
+#: src-en/data/blueprints.xml.append:6576
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6557
+#: src-en/data/blueprints.xml.append:6577
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/desc"
 msgstr "게임 내에서 이것을 보고 계시면 안 됩니다"
 
-#: src-en/data/blueprints.xml.append:6558
+#: src-en/data/blueprints.xml.append:6578
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_Y\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6590
+#: src-en/data/blueprints.xml.append:6610
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6591
+#: src-en/data/blueprints.xml.append:6611
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6592
+#: src-en/data/blueprints.xml.append:6612
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/desc"
 msgstr "게임 내에서 이것을 보고 계시면 안 됩니다"
 
-#: src-en/data/blueprints.xml.append:6593
+#: src-en/data/blueprints.xml.append:6613
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_L\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6624
+#: src-en/data/blueprints.xml.append:6644
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6625
+#: src-en/data/blueprints.xml.append:6645
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6626
+#: src-en/data/blueprints.xml.append:6646
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/desc"
 msgstr "게임 내에서 이것을 보고 계시면 안 됩니다"
 
-#: src-en/data/blueprints.xml.append:6627
+#: src-en/data/blueprints.xml.append:6647
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_G\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6657
+#: src-en/data/blueprints.xml.append:6677
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6658
+#: src-en/data/blueprints.xml.append:6678
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6659
+#: src-en/data/blueprints.xml.append:6679
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/desc"
 msgstr "게임 내에서 이것을 보고 계시면 안 됩니다"
 
-#: src-en/data/blueprints.xml.append:6660
+#: src-en/data/blueprints.xml.append:6680
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_C\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6694
+#: src-en/data/blueprints.xml.append:6714
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6695
+#: src-en/data/blueprints.xml.append:6715
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6696
+#: src-en/data/blueprints.xml.append:6716
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/desc"
 msgstr "게임 내에서 이것을 보고 계시면 안 됩니다"
 
-#: src-en/data/blueprints.xml.append:6697
+#: src-en/data/blueprints.xml.append:6717
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_B\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6730
+#: src-en/data/blueprints.xml.append:6750
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6731
+#: src-en/data/blueprints.xml.append:6751
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6732
+#: src-en/data/blueprints.xml.append:6752
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/desc"
 msgstr "게임 내에서 이것을 보고 계시면 안 됩니다"
 
-#: src-en/data/blueprints.xml.append:6733
+#: src-en/data/blueprints.xml.append:6753
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_I\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6808
+#: src-en/data/blueprints.xml.append:6828
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6809
+#: src-en/data/blueprints.xml.append:6829
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6810
+#: src-en/data/blueprints.xml.append:6830
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/desc"
 msgstr "게임 내에서 이것을 보고 계시면 안 됩니다"
 
-#: src-en/data/blueprints.xml.append:6811
+#: src-en/data/blueprints.xml.append:6831
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_V\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6842
+#: src-en/data/blueprints.xml.append:6862
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/title"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6843
+#: src-en/data/blueprints.xml.append:6863
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/short"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6844
+#: src-en/data/blueprints.xml.append:6864
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/desc"
 msgstr "게임 내에서 이것을 보고 계시면 안 됩니다"
 
-#: src-en/data/blueprints.xml.append:6845
+#: src-en/data/blueprints.xml.append:6865
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_B_ARTILLERY_M\"]/tooltip"
 msgstr "---"
 
-#: src-en/data/blueprints.xml.append:6883
+#: src-en/data/blueprints.xml.append:6903
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/title"
 msgstr "혼돈의 '수스' 포격"
 
-#: src-en/data/blueprints.xml.append:6884
+#: src-en/data/blueprints.xml.append:6904
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/short"
 msgstr "'Seuss'™"
 
-#: src-en/data/blueprints.xml.append:6885
+#: src-en/data/blueprints.xml.append:6905
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/desc"
 msgstr ""
-"악명 높은 무기의 포격 버전으로, 이 긴 빔은 적의 시스템과 선원을 황폐화하고 "
-"적중한 선원에게 일시적으로 광기를 유발하여 액티브 능력을 비활성화합니다. "
-"아군 엘드리치 존재와 세이렌은 대신 치유됩니다. [기본 재충전: 30초]"
+"악명 높은 무기의 포격 버전으로, 이 긴 빔은 적의 시스템과 선원을 황폐화하고 적중한 선원에게 일시적으로 광기를 유발하여 액티브 능력을 "
+"비활성화합니다. 아군 엘드리치 존재와 세이렌은 대신 치유됩니다. [기본 재충전: 30초]"
 
-#: src-en/data/blueprints.xml.append:6886
+#: src-en/data/blueprints.xml.append:6906
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_RHYME_ARTILLERY\"]/tooltip"
 msgstr "혼돈의 '수스' 포격. [기본 재충전: 30초]"
 
-#: src-en/data/blueprints.xml.append:6981
+#: src-en/data/blueprints.xml.append:7001
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/title"
 msgstr "'푸른 꿈의 검'"
 
-#: src-en/data/blueprints.xml.append:6982
+#: src-en/data/blueprints.xml.append:7002
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/short"
 msgstr "'Azure Blade'"
 
-#: src-en/data/blueprints.xml.append:6983
+#: src-en/data/blueprints.xml.append:7003
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_MV_TRANSPORT_ARTILLERY\"]/desc"
 msgstr ""
-"세이렌과 크리스탈 기술을 결합한 독특한 빔 포격입니다. 방어막 3개를 관통하여 "
-"1의 시스템 피해, 1의 이온 피해, 30의 선원(적 전용) 피해를 입히고 방을 "
-"봉쇄합니다. 해당 방의 적은 서리 디버프에 걸려(이동 및 수리 속도가 반토막 "
-"나고 액티브 능력 사용이 불가해짐) 영향을 받으며, 아군은 문 통과 능력과 "
-"소량의 치유(초당 1 체력)를 얻습니다. [기본 재충전: 40초]"
+"세이렌과 크리스탈 기술을 결합한 독특한 빔 포격입니다. 방어막 3개를 관통하여 1의 시스템 피해, 1의 이온 피해, 30의 선원(적 "
+"전용) 피해를 입히고 방을 봉쇄합니다. 해당 방의 적은 서리 디버프에 걸려(이동 및 수리 속도가 반토막 나고 액티브 능력 사용이 "
+"불가해짐) 영향을 받으며, 아군은 문 통과 능력과 소량의 치유(초당 1 체력)를 얻습니다. [기본 재충전: 40초]"
 
-#: src-en/data/blueprints.xml.append:7116
+#: src-en/data/blueprints.xml.append:7137
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/title"
 msgstr "그녀의 '토르멘툼' 분해 포격 :)"
 
-#: src-en/data/blueprints.xml.append:7117
+#: src-en/data/blueprints.xml.append:7138
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/short"
 msgstr "€ 'Tormentum' :)"
 
-#: src-en/data/blueprints.xml.append:7118
+#: src-en/data/blueprints.xml.append:7139
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/desc"
 msgstr ""
-"그녀의 기이한 힘을 이용하는 이 무기는 닿는 모든 물질을 빠르게 분해시키는 "
-"파괴적인 혼돈의 에너지 빔을 발사합니다. 방에 침식 효과를 적용하고 적중한 "
-"모든 선원에게 지속 피해를 입히며, 치유와 수리를 완전히 막습니다. [기본 "
-"재충전: 60초]"
+"그녀의 기이한 힘을 이용하는 이 무기는 닿는 모든 물질을 빠르게 분해시키는 파괴적인 혼돈의 에너지 빔을 발사합니다. 방에 침식 효과를 "
+"적용하고 적중한 모든 선원에게 지속 피해를 입히며, 치유와 수리를 완전히 막습니다. [기본 재충전: 60초]"
 
-#: src-en/data/blueprints.xml.append:7119
+#: src-en/data/blueprints.xml.append:7140
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_SIREN_TRANSPORT_HER_ARTILLERY\"]/tooltip"
 msgstr "그녀의 '토르멘툼' 포격 :) [기본 재충전: 60초]"
 
-#: src-en/data/blueprints.xml.append:7315
+#: src-en/data/blueprints.xml.append:7336
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/title"
 msgstr "푸른 파편"
 
-#: src-en/data/blueprints.xml.append:7316
+#: src-en/data/blueprints.xml.append:7337
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/short"
 msgstr "Azure"
 
-#: src-en/data/blueprints.xml.append:7317
+#: src-en/data/blueprints.xml.append:7338
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_AZURE_ARMOR_PROJ\"]/desc"
 msgstr "푸른 크리스탈 복수 투사체"
 
-#: src-en/data/blueprints.xml.append:7471
+#: src-en/data/blueprints.xml.append:7492
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/class"
 msgstr "MV 세이렌 수송선"
 
-#: src-en/data/blueprints.xml.append:7472
+#: src-en/data/blueprints.xml.append:7493
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/name"
 msgstr "Aoi Yume"
 
-#: src-en/data/blueprints.xml.append:7473
+#: src-en/data/blueprints.xml.append:7494
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_MV_SIREN_TRANSPORT\"]/desc"
 msgstr ""
-"세이렌은 보통 다른 종족과 협력하는 것으로 알려져 있지 않습니다. 하지만 "
-"다중우주는 넓은 곳이며, 이 함선의 세이렌과 크리스탈 선원들이 함께 일하는 "
-"모습은 그 고정관념의 예외임을 증명합니다."
+"세이렌은 보통 다른 종족과 협력하는 것으로 알려져 있지 않습니다. 하지만 다중우주는 넓은 곳이며, 이 함선의 세이렌과 크리스탈 선원들이 "
+"함께 일하는 모습은 그 고정관념의 예외임을 증명합니다."
 
-#: src-en/data/blueprints.xml.append:7552
+#: src-en/data/blueprints.xml.append:7573
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/class"
 msgstr "난파된 세이렌 수송선"
 
-#: src-en/data/blueprints.xml.append:7553
+#: src-en/data/blueprints.xml.append:7574
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/name"
 msgstr "The Broken Dream"
 
-#: src-en/data/blueprints.xml.append:7554
+#: src-en/data/blueprints.xml.append:7575
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_WRECKED_SIREN_TRANSPORT\"]/desc"
 msgstr ""
-"별들의 숲에서 회수한 세이렌 함선의 잔해입니다. 산소도 없고 엉망이 된 이 "
-"배에는 현재 \"예쁜 색\"을 좋아했던 오키드 하나와 라니우스들이 타고 있습니다. "
-"하지만 특수한 세이렌 무기는 여전히 남아 있습니다."
+"별들의 숲에서 회수한 세이렌 함선의 잔해입니다. 산소도 없고 엉망이 된 이 배에는 현재 \"예쁜 색\"을 좋아했던 오키드 하나와 "
+"라니우스들이 타고 있습니다. 하지만 특수한 세이렌 무기는 여전히 남아 있습니다."
 
-#: src-en/data/blueprints.xml.append:7631
+#: src-en/data/blueprints.xml.append:7652
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/class"
 msgstr "세이렌 수송선"
 
-#: src-en/data/blueprints.xml.append:7632
+#: src-en/data/blueprints.xml.append:7653
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/name"
 msgstr "Thelxiope"
 
-#: src-en/data/blueprints.xml.append:7633
+#: src-en/data/blueprints.xml.append:7654
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT\"]/desc"
 msgstr ""
-"완전히 복원되고 개조되어 이제 전투 준비를 마친 세이렌 수송선입니다. 독특한 "
-"포격 빔은 적중한 선원을 혼란에 빠뜨리고 납치하여 손쉬운 먹잇감으로 만듭니다. "
-"이는 세이렌이 가장 선호하는 전술 중 하나입니다."
+"완전히 복원되고 개조되어 이제 전투 준비를 마친 세이렌 수송선입니다. 독특한 포격 빔은 적중한 선원을 혼란에 빠뜨리고 납치하여 손쉬운 "
+"먹잇감으로 만듭니다. 이는 세이렌이 가장 선호하는 전술 중 하나입니다."
 
-#: src-en/data/blueprints.xml.append:7712
+#: src-en/data/blueprints.xml.append:7733
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/class"
 msgstr "세이렌 수송선"
 
-#: src-en/data/blueprints.xml.append:7713
+#: src-en/data/blueprints.xml.append:7734
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/name"
 msgstr "Parthenope"
 
-#: src-en/data/blueprints.xml.append:7714
+#: src-en/data/blueprints.xml.append:7735
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_2\"]/desc"
-msgstr ""
-"혼돈을 완전히 받아들인 이 함선은 10가지 다른 빔 중 하나를 완전 무작위로 "
-"발사하는 포격을 갖추고 있습니다."
+msgstr "혼돈을 완전히 받아들인 이 함선은 10가지 다른 빔 중 하나를 완전 무작위로 발사하는 포격을 갖추고 있습니다."
 
-#: src-en/data/blueprints.xml.append:7796
+#: src-en/data/blueprints.xml.append:7817
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/class"
 msgstr "세이렌 수송선"
 
-#: src-en/data/blueprints.xml.append:7797
+#: src-en/data/blueprints.xml.append:7818
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/name"
 msgstr "Himerope"
 
-#: src-en/data/blueprints.xml.append:7798
+#: src-en/data/blueprints.xml.append:7819
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_TRANSPORT_3\"]/desc"
 msgstr ""
-"꿈을 요리하면 무슨 맛이 날까요? 이 세이렌 하피 한 쌍은 경로상의 모든 것을 "
-"불태울 수 있는 포격 빔을 설치하여 그 답을 알아내기로 했습니다."
+"꿈을 요리하면 무슨 맛이 날까요? 이 세이렌 하피 한 쌍은 경로상의 모든 것을 불태울 수 있는 포격 빔을 설치하여 그 답을 알아내기로 "
+"했습니다."
 
-#: src-en/data/blueprints.xml.append:7877
+#: src-en/data/blueprints.xml.append:7898
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/class"
 msgstr "운율 시인 수송선"
 
-#: src-en/data/blueprints.xml.append:7878
+#: src-en/data/blueprints.xml.append:7899
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/name"
 msgstr "Yidhra"
 
-#: src-en/data/blueprints.xml.append:7879
+#: src-en/data/blueprints.xml.append:7900
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_RHYME_TRANSPORT\"]/desc"
 msgstr ""
-"시를 읊는 자의 신도들이 손에 넣은 함선으로, 이제 무시무시하게 크고 강력한 빔 "
-"포를 \"수송\"합니다. 다만 기이한 방어막 외의 방어력과 원자로를 희생해야 "
-"했습니다."
+"시를 읊는 자의 신도들이 손에 넣은 함선으로, 이제 무시무시하게 크고 강력한 빔 포를 \"수송\"합니다. 다만 기이한 방어막 외의 "
+"방어력과 원자로를 희생해야 했습니다."
 
-#: src-en/data/blueprints.xml.append:7956
+#: src-en/data/blueprints.xml.append:7977
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/class"
 msgstr "릴리의 크루저"
 
-#: src-en/data/blueprints.xml.append:7957
+#: src-en/data/blueprints.xml.append:7978
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/name"
 msgstr "Void Star"
 
-#: src-en/data/blueprints.xml.append:7958
+#: src-en/data/blueprints.xml.append:7979
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"LILY_PLAYER_SIREN_HER_TRANSPORT\"]/desc"
-msgstr ""
-"그녀의 기이한 힘 그 자체로 강화된 함선으로, 릴리가 그녀의 의지를 실행하기에 "
-"완벽한 함선입니다."
+msgstr "그녀의 기이한 힘 그 자체로 강화된 함선으로, 릴리가 그녀의 의지를 실행하기에 완벽한 함선입니다."

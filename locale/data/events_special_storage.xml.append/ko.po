@@ -210,7 +210,7 @@ msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:224
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"HAVOC\"]/text"
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_QUESTS_AETHER_SUBMIT\"]/choice[@req=\"ANCIENT_HAVOC\"]/text"
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:234
