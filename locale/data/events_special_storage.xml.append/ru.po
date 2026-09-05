@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-09-05 16:21+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-beam-"
 "emporium/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -576,6 +576,7 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:650
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_LILY_JOIN_FREE\"]/text"
 msgstr "Конечно--"
@@ -603,11 +604,13 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:669
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_JOIN_PAY\"]/text"
 msgstr ""
 "Ну... тогда заплати мне--\n"
-"Чем дорожат Ренегаты... Ломом? Ну, ты можешь дать мне немного, или я могу взять его прямо с твоего корабля!--"
+"Чем дорожат Ренегаты... Ломом? Ну, ты можешь дать мне немного, или я могу "
+"взять его прямо с твоего корабля!--"
 
 #: src-en/data/events_special_storage.xml.append:674
 msgid ""
