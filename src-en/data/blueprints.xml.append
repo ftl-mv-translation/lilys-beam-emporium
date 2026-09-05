@@ -470,7 +470,7 @@ disable shields as well as systems.</tooltip>
 
     
     <crewBlueprint name="unique_lily_avatar">
-        <desc>A multiverse traveller, beam saleswoman, and a loyal servant of the Supreme Eldritch Goddess of True Chaos. Yes, that's me--</desc>
+        <desc>"A multiverse traveller, beam saleswoman, and a loyal servant of the Supreme Eldritch Goddess of True Chaos. Yes, that's me--"</desc>
         <cost>2147483647</cost>
         <bp>20</bp>
         <title>Eldritch Avatar</title>
@@ -530,7 +530,7 @@ disable shields as well as systems.</tooltip>
         <tip>tip_clone_cannon</tip>
         <title>Clone Cannon [???]</title>
         <short>Cloner [???]</short>
-        <desc>No weapon has ever sparked a larger ethical controversy, but if it works it works. Apparently your attempts to upload Lily's Avatar into it has resulted in it becoming... a pinpoint?</desc>
+        <desc>No weapon has ever sparked a larger ethical controversy, but if it works it works. Apparently your attempts to upload Lily's Avatar into it has resulted in it becoming... a beam?</desc>
         <tooltip>Fires a blast of debris across a random area doing up to 3 damage.</tooltip>
         <radius>0</radius>
         <damage>0</damage>
@@ -1736,10 +1736,9 @@ Fire Chance: 30%
 Stun Chance: 100% (3 seconds long)
 
 (Secondary Beam)
-2x hull damage on systemlesss rooms.
 Base Hull Damage: 2
-Total System Damage: 3
-Total Crew Damage: 45
+Total System Damage: 2
+Total Crew Damage: 30
 Breach Chance: 30% (Adjusted: 30%)
 
 Default Price: 100~   -   Selling Price: 50~</descriptionOverride>
@@ -1755,10 +1754,9 @@ Fire Chance: 30%
 Stun Chance: 100% (3 seconds long)
 
 (Secondary Beam)
-2x hull damage on systemlesss rooms.
 Base Hull Damage: 2
-Total System Damage: 3
-Total Crew Damage: 45
+Total System Damage: 2
+Total Crew Damage: 30
 Breach Chance: 30% (Adjusted: 30%)</tooltipOverride>
         <damage>0</damage>
         <ion>2</ion>
@@ -1795,9 +1793,8 @@ Breach Chance: 30% (Adjusted: 30%)</tooltipOverride>
         <desc>An unique weapon capable of firing a pair of converging beams at once.</desc>
         <tooltip>One damage per room beam weapon</tooltip>
         <damage>2</damage>
-        <sysDamage>1</sysDamage>
-        <persDamage>1</persDamage>
-        <hullBust>1</hullBust>
+        <sysDamage>0</sysDamage>
+        <persDamage>0</persDamage>
         <ion>0</ion>
         <sp>0</sp>
         <fireChance>0</fireChance>
@@ -1839,10 +1836,9 @@ Fire Chance: 30%
 Stun Chance: 100% (3 seconds long)
 
 (Secondary Beam)
-2x hull damage on systemlesss rooms.
 Base Hull Damage: 2
-Total System Damage: 3
-Total Crew Damage: 45
+Total System Damage: 2
+Total Crew Damage: 30
 Breach Chance: 30% (Adjusted: 30%)
 
 Default Price: 100~   -   Selling Price: 50~</descriptionOverride>
@@ -1858,10 +1854,9 @@ Fire Chance: 30%
 Stun Chance: 100% (3 seconds long)
 
 (Secondary Beam)
-2x hull damage on systemlesss rooms.
 Base Hull Damage: 2
-Total System Damage: 3
-Total Crew Damage: 45
+Total System Damage: 2
+Total Crew Damage: 30
 Breach Chance: 30% (Adjusted: 30%)</tooltipOverride>
     <damage>0</damage>
     <ion>2</ion>
@@ -2352,7 +2347,7 @@ Breach Chance: 30% (Adjusted: 30%)</tooltipOverride>
     <bp>8</bp>
     <rarity>0</rarity>
     <speed>0</speed> 
-    <fireTime>0.15</fireTime>
+    <fireTime>2</fireTime>
     <mv-stealth/>
     <mv-conservative/>
 
@@ -2391,7 +2386,7 @@ Breach Chance: 30% (Adjusted: 30%)</tooltipOverride>
     <bp>8</bp>
     <rarity>6</rarity>
     <speed>0</speed>
-    <fireTime>0.15</fireTime>
+    <fireTime>2</fireTime>
     <mv-stealth/>
 
     <shots>3</shots>
@@ -2430,7 +2425,7 @@ Breach Chance: 30% (Adjusted: 30%)</tooltipOverride>
     <bp>8</bp>
     <rarity>0</rarity>
     <speed>0</speed>
-    <fireTime>0.15</fireTime>
+    <fireTime>1.5</fireTime>
     <mv-stealth/>
 
     <shots>5</shots>
@@ -2468,7 +2463,7 @@ Breach Chance: 30% (Adjusted: 30%)</tooltipOverride>
     <bp>8</bp>
     <rarity>0</rarity>
     <speed>0</speed>
-    <fireTime>0.15</fireTime>
+    <fireTime>1.5</fireTime>
     <mv-stealth/>
 
     <shots>8</shots>
@@ -3464,7 +3459,7 @@ The excessive nitrogen gas also upsets the atmospheric balance.</desc>
         <breachChance>0</breachChance>
         <stun>3</stun>
         <lockdown>1</lockdown>
-        <cooldown>15</cooldown>
+        <cooldown>17</cooldown>
         <color>
             <r>50</r>
             <g>167</g>
@@ -3545,7 +3540,7 @@ The excessive nitrogen gas also upsets the atmospheric balance.</desc>
         <breachChance>0</breachChance>
         <stun>3</stun>
         <lockdown>1</lockdown>
-        <cooldown>15</cooldown>
+        <cooldown>17</cooldown>
         <color>
             <r>50</r>
             <g>167</g>
@@ -3622,7 +3617,7 @@ Conservative weapons use no power on their own but require the system itself to 
         <sysDamage>0</sysDamage>
         <fireChance>0</fireChance>
         <breachChance>0</breachChance>
-        <cooldown>14</cooldown>
+        <cooldown>18</cooldown>
         <fireTime>0.25</fireTime>
         <stun>10</stun>
         <mv-conservative/>
@@ -3660,9 +3655,34 @@ Conservative weapons use no power on their own but require the system itself to 
     <sysDamage>0</sysDamage>
     <fireChance>0</fireChance>
     <breachChance>0</breachChance>
-    <cooldown>10</cooldown>
-    <power>2</power>
+    <cooldown>12</cooldown>
+    <power>3</power>
     <cost>70</cost>
+    <bp>2</bp>
+    <rarity>0</rarity>
+    <length>1</length>
+    <image>beam_contact</image>
+    <launchSounds>
+        <sound>lily_lams_1</sound>
+    </launchSounds>
+    <weaponArt>lily_focus_ciws</weaponArt>
+    <iconImage>beam</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="LILY_FOCUS_CIWS_EFF">
+    <type>BEAM</type>
+    <tip>tip_focus</tip>
+    <title>Beam C.I.W.S. ††</title>
+    <short>C.I.W.S. ††</short>
+    <desc>This beam weapon is equipped with a unique omnidirectional infrared emitter as well as an advanced targeting suite. It's effective at shooting down incoming missiles and drones, but performs poorly against other ships.</desc>
+    <tooltip>1 Damage pinpoint.</tooltip>
+    <damage>1</damage>
+    <sysDamage>0</sysDamage>
+    <fireChance>0</fireChance>
+    <breachChance>0</breachChance>
+    <cooldown>12</cooldown>
+    <power>1</power>
+    <cost>150</cost>
     <bp>2</bp>
     <rarity>0</rarity>
     <length>1</length>
@@ -6985,6 +7005,7 @@ Deals 1 hull damage to breached rooms.</desc>
     <damage>0</damage>
     <ion>1</ion>
     <sysDamage>1</sysDamage>
+    <ionBeamFix>true</ionBeamFix>
     <noPersDamage>true</noPersDamage>
     <sp>2</sp>
     <fireChance>0</fireChance>
@@ -7711,7 +7732,7 @@ Deals 1 hull damage to breached rooms.</desc>
 <shipBlueprint name="LILY_PLAYER_SIREN_TRANSPORT_2" layout="lily_player_siren_transport_2" img="lily_player_siren_transport_2">
     <class>Siren Transport</class>
     <name>Parthenope</name>
-    <desc>Fully embracing chaos, this ship is equipped with artillery that fires 1 out of 8 different beams completely at random.</desc>
+    <desc>Fully embracing chaos, this ship is equipped with artillery that fires 1 out of 10 different beams completely at random.</desc>
     <unlock id="ship_LILY_SIREN_TRANSPORT_2_unlock"/>
     <systemList>
         <artillery power="1" room="15" start="true" weapon="LILY_SIREN_TRANSPORT_B_ARTILLERY" img="room_artillery" />
@@ -7722,7 +7743,7 @@ Deals 1 hull damage to breached rooms.</desc>
                 <number>0</number>
             </slot>
         </clonebay>
-        <lily_infusion_bay power="1" room="14" start="true" img="room_lily_infusion_5"/>
+        <!-- <lily_infusion_bay power="1" room="14" start="true" img="room_lily_infusion_5"/> -->
         <doors power="1" room="8" start="true" img="room_doors_9">
             <slot>
                 <direction>right</direction>
@@ -7762,12 +7783,12 @@ Deals 1 hull damage to breached rooms.</desc>
                 <number>0</number>
             </slot>
         </shields>
-        <lily_ablative_armor power="2" max="8" room="7" start="true" img="room_lily_ablative_armor_13">
+        <!-- <lily_ablative_armor power="2" max="8" room="7" start="true" img="room_lily_ablative_armor_13">
             <slot>
                 <direction>up</direction>
                 <number>0</number>
             </slot>
-        </lily_ablative_armor>
+        </lily_ablative_armor> -->
         <teleporter power="1" room="11" start="true" />
         <temporal power="1" room="5" start="true" img="room_temporal_3" />
         <weapons power="3" room="9" start="true" img="room_weapons_12">
@@ -7854,7 +7875,7 @@ Deals 1 hull damage to breached rooms.</desc>
             </slot>
         </weapons>
 
-        <lily_system_bracers power="3" room="13" start="true" img="room_bracers_2" />
+        <!-- <lily_system_bracers power="3" room="13" start="true" img="room_bracers_2" /> -->
 
 
     </systemList>

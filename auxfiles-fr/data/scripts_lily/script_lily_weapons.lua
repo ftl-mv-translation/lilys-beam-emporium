@@ -16,6 +16,10 @@ local defense_types = {
 }
 
 local ciwsRenderBeams = {}
+local ciws = {}
+
+ciws["LILY_FOCUS_CIWS"] = true
+ciws["LILY_FOCUS_CIWS_EFF"] = true
 
 --script.on_init(function ()
 --    ciwsRenderBeams = {}
@@ -151,6 +155,7 @@ chaosshock["LILY_BEAM_SIREN_PLASMA_ELITE"] = 40
 
 local frostBeams = {}
 frostBeams["LILY_BEAM_FROST"] = { removeOxygen = true }
+frostBeams["LILY_BEAM_FROST_PLAYER"] = { removeOxygen = true }
 frostBeams["LILY_SIREN_TRANSPORT_B_ARTILLERY_I"] = { removeOxygen = true }
 frostBeams["LILY_SIREN_MV_TRANSPORT_ARTILLERY"] = { removeOxygen = false }
 
@@ -246,7 +251,7 @@ script.on_internal_event(Defines.InternalEvents.DAMAGE_BEAM,
                             shipManager:DamageHull(disintegrators[weaponName], false)
                         end
                         --]]
-                        
+
                         local breaches = shipManager.ship:GetHullBreaches(true)
                         local found = false
                         for breach in vter(breaches) do
@@ -305,7 +310,10 @@ script.on_internal_event(Defines.InternalEvents.DAMAGE_BEAM,
                 if otherShip.teleportSystem and otherShip.teleportSystem:GetEffectivePower() > 0 then
                     if beamHit == Defines.BeamHit.NEW_ROOM or beamHit == Defines.BeamHit.NEW_TILE then
                         for i, crewmem in ipairs(get_ship_crew_point(shipManager, location.x, location.y)) do
-                            crewmem.extend:InitiateTeleport(otherShip.iShipId, otherShip.teleportSystem.roomId)
+                            ---@cast crewmem Hyperspace.CrewMember
+                            if not (crewmem.extend.customTele and crewmem.extend.customTele.teleporting) and not crewmem:IsDrone() then
+                                crewmem.extend:InitiateTeleport(otherShip.iShipId, otherShip.teleportSystem.roomId)
+                            end
                             if crewmem.iShipId == otherShip.iShipId then
                                 crewmem.fStunTime = 0
                             end
@@ -530,7 +538,7 @@ script.on_internal_event(Defines.InternalEvents.PROJECTILE_FIRE, function(projec
             origBeam.target2 = beam.target2
             origBeam.length = beam.length
             origBeam.speed_magnitude = beam.speed_magnitude
-            origBeam.color = beam.color            
+            origBeam.color = beam.color
         else
             projectile.speed_magnitude = beam.speed_magnitude / beam.length
         end
@@ -552,11 +560,11 @@ script.on_internal_event(Defines.InternalEvents.PROJECTILE_FIRE, function(projec
                     artis:size()
                     sm:StartFire(artis[math.random(artis:size()) - 1].roomId)
                 end
-            else                 
+            else
                 if sm:HasSystem(Hyperspace.ShipSystem.NameToSystemId("weapons")) then
                     sm:StartFire(sm.weaponSystem.roomId)
                 end
-            end 
+            end
         end
     end
 
@@ -677,7 +685,7 @@ script.on_internal_event(Defines.InternalEvents.PROJECTILE_FIRE, function(projec
         else
             projectile.position.x = projectile.position.x + offset2
         end
-        
+
         local spaceManager = Hyperspace.App.world.space
         local tgt1 = projectile.target
         local tgt2 = Hyperspace.Pointf(tgt1.x, tgt1.y + 1)
@@ -830,7 +838,7 @@ script.on_internal_event(Defines.InternalEvents.PROJECTILE_FIRE, function(projec
 
 
     if weapon.blueprint and (weapon.blueprint.name == "LILY_BEAM_SCISSORS" or weapon.blueprint.name == "LILY_BEAM_SCISSORS_PLAYER") then
-    
+
         local offset2 = Hyperspace.Pointf(13, 0)
         if weapon.mount.mirror then offset2.x = -offset2.x end
         if weapon.mount.rotate then
@@ -877,6 +885,9 @@ local refractors = {}
 refractors["LILY_FOCUS_PIERCE_1"] = {num = 1, beams = {"LILY_FOCUS_PIERCE_1_R",}, offsets = {20, } }
 refractors["LILY_FOCUS_PIERCE_2"] = { num = 7, beams = { "LILY_FOCUS_PIERCE_2_V", "LILY_FOCUS_PIERCE_2_I", "LILY_FOCUS_PIERCE_2_B", "LILY_FOCUS_PIERCE_2_G", "LILY_FOCUS_PIERCE_2_Y", "LILY_FOCUS_PIERCE_2_O", "LILY_FOCUS_PIERCE_2_R" }, offsets = { 20, 18.33, 16.66, 15, 13.33, 11.66, 10} }
 
+refractors["LILY_FOCUS_PIERCE_1_PLAYER"] = { num = 1, beams = { "LILY_FOCUS_PIERCE_1_R", }, offsets = { 20, } }
+refractors["LILY_FOCUS_PIERCE_2_PLAYER"] = { num = 7, beams = { "LILY_FOCUS_PIERCE_2_V", "LILY_FOCUS_PIERCE_2_I", "LILY_FOCUS_PIERCE_2_B", "LILY_FOCUS_PIERCE_2_G", "LILY_FOCUS_PIERCE_2_Y", "LILY_FOCUS_PIERCE_2_O", "LILY_FOCUS_PIERCE_2_R" }, offsets = { 20, 18.33, 16.66, 15, 13.33, 11.66, 10 } }
+
 local burstPins = {}
 burstPins["LILY_BEAM_AMP_SIPHON"] = { count = 1, countSuper = 1, siphon = true }
 burstPins["LILY_BEAM_AMP_SIPHON_O"] = { count = 1, countSuper = 1, siphon = true }
@@ -911,10 +922,13 @@ script.on_internal_event(Defines.InternalEvents.SHIELD_COLLISION, function(shipM
             if popData.countSuper > 0 then
                 shipManager.shieldSystem:CollisionReal(projectile.position.x, projectile.position.y, Hyperspace.Damage(),
                     true)
+                local supershieldPoppedCount = math.min(shieldPower.super.first, popData.countSuper)
                 shieldPower.super.first = math.max(0, shieldPower.super.first - popData.countSuper)
                 userdata_table(projectile, "mods.lilybeams.shieldpop").poppedShield = true
                 if otherShieldPower and popData.siphon then
-                    otherShip.shieldSystem:AddSuperShield(Hyperspace.Point(projectile.position.x, projectile.position.y))
+                    for i = 1, supershieldPoppedCount, 1 do
+                        otherShip.shieldSystem:AddSuperShield(Hyperspace.Point(projectile.position.x, projectile.position.y))
+                    end
                     --otherShieldPower.super.second = math.max(otherShieldPower.super.second, 5)
                     --otherShieldPower.super.first = math.min(math.max(otherShieldPower.super.second, 5), otherShieldPower.super.first + popData.countSuper)
                 end
@@ -973,13 +987,14 @@ script.on_internal_event(Defines.InternalEvents.SHIELD_COLLISION, function(shipM
             local weaponBlueprint = Hyperspace.Blueprints:GetWeaponBlueprint(refrData.beams[i])
             local offset_per_layer = refrData.offsets[i]
 
+            local offsetMult = math.sqrt(shieldPower.first)
 
             local newTarget1 = Hyperspace.Pointf(
-                projectile.target.x + math.cos(theta) * offset_per_layer * shieldPower.first,
-                projectile.target.y + math.sin(theta) * offset_per_layer * shieldPower.first)
+                projectile.target.x + math.cos(theta) * offset_per_layer * offsetMult,
+                projectile.target.y + math.sin(theta) * offset_per_layer * offsetMult)
             local newTarget2 = Hyperspace.Pointf(
-                projectile.target.x + math.cos(theta) * offset_per_layer * shieldPower.first,
-                projectile.target.y + math.sin(theta) * offset_per_layer * shieldPower.first + 1)
+                projectile.target.x + math.cos(theta) * offset_per_layer * offsetMult,
+                projectile.target.y + math.sin(theta) * offset_per_layer * offsetMult + 1)
 
             local spaceManager = Hyperspace.App.world.space
             local beam1 = spaceManager:CreateBeam(
@@ -1015,16 +1030,16 @@ script.on_internal_event(Defines.InternalEvents.WEAPON_RENDERBOX, function(weapo
         --print(thirdLine)
         local sp = weapon.boostLevel + 3
         local dmg = 2 + (sp > 10 and (sp - 10.0) / 10 or 0)
-        local l2 = (sp - 1.0) .. " Perforation"
-        local l3 = (dmg + 0.0) .. " Dégâts "
+        local l2 = string.format(Hyperspace.Text:GetText("lily_focus_ion_phase_renderbox_1"), sp - 1.0)
+        local l3 = string.format(Hyperspace.Text:GetText("lily_focus_ion_phase_renderbox_2"), dmg + 0.0)
         return Defines.Chain.CONTINUE, firstLine, l2, l3
     end
     if weapon.blueprint and weapon.blueprint.name == "LILY_BEAM_CYCLOTRON" then
         local sp = math.max(weapon.weaponVisual.boostLevel, 0)
-            local dmg = 1.0 + math.max(weapon.weaponVisual.boostLevel, 0)
-            local pdmg = 30.0 + 30 * math.max(weapon.weaponVisual.boostLevel, 0)
-        local l3 = string.format("%.de perforation", sp)
-        local l2 = string.format("%.0f / %.de dégâts", dmg, pdmg)
+        local dmg = 1.0 + math.max(weapon.weaponVisual.boostLevel, 0)
+        local pdmg = 30.0 + 30 * math.max(weapon.weaponVisual.boostLevel, 0)
+        local l3 = string.format(Hyperspace.Text:GetText("lily_beam_cyclotron_renderbox_2"), sp)
+        local l2 = string.format(Hyperspace.Text:GetText("lily_beam_cyclotron_renderbox_1"), dmg, pdmg)
         --print(l2)
         --print(l3)
         return Defines.Chain.CONTINUE, firstLine, l2, l3
@@ -1084,7 +1099,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(ship)
             local valid = true
             if not chargersMaxCharges[weapon and weapon.blueprint and weapon.blueprint.name] then
                 valid = false
-            end 
+            end
             if valid then--and weapon.weaponVisual.boostLevel + 1 ~= 0 and weapon.weaponVisual.boostLevel + 1 < chargersMaxCharges[weapon and weapon.blueprint and weapon.blueprint.name] then
                 local cdBoost = cooldownChargers[weapon and weapon.blueprint and weapon.blueprint.name]
                 if cdBoost then
@@ -1164,12 +1179,12 @@ script.on_internal_event(Defines.InternalEvents.WEAPON_RENDERBOX,
             chargersMaxCharges[weapon and weapon.blueprint and weapon.blueprint.name] - 1)
             first = first / chargerBoost ^ boostLevel
             second = second / chargerBoost ^ boostLevel
-            chargeString = string.format("%.1f / %.1f", first, second)
+            chargeString = string.format("%.1f/%.1f", first, second)
         end
         return Defines.Chain.CONTINUE, chargeString, damageString, shotLimitString
     end)
 
-script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager) 
+script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
 
 
     --Thanks Nauter for this code :)
@@ -1207,7 +1222,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
         for weapon in vter(shipManager.weaponSystem.weapons) do
             ---@type Hyperspace.ProjectileFactory
             weapon = weapon
-            if weapon and weapon.powered and weapon.blueprint.name == "LILY_FOCUS_CIWS" then
+            if weapon and weapon.powered and ciws[weapon.blueprint.name] then
                 if not userdata_table(weapon, "mods.lilybeams.ciws").delay then
                     userdata_table(weapon, "mods.lilybeams.ciws").delay = 0
                 end
@@ -1216,10 +1231,10 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
                 userdata_table(weapon, "mods.lilybeams.ciws").delay = delay
                 local ready = weapon.weaponVisual.anim.currentFrame >= 4 and delay <= 0
 
-                
+
                 local firingPoint = weapon.mount.position + weapon.localPosition + weapon.weaponVisual.fireMountVector
                 local firingPointf = Hyperspace.Pointf(firingPoint.x, firingPoint.y)
-                
+
                 if ready then
                     local spaceManager = Hyperspace.App.world.space
                     local otherShipManager = Hyperspace.ships(1 - shipManager.iShipId)
@@ -1259,7 +1274,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
                             target.velocity.y / (18.333 * time_increment(true)))
                         end
                     end
-                    
+
                     if #targets > 0 then
                         local target = targets[math.random(#targets)]
                         ---@type Hyperspace.Pointf
@@ -1277,7 +1292,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
                             shipManager.iShipId,
                             1, -1
                         )--]]
-                        local beam = 
+                        local beam =
                         {
                             position = firingPointf,
                             target = location,
@@ -1301,7 +1316,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
                             Hyperspace.Blueprints:GetWeaponBlueprint("LILY_FOCUS_CIWS_PROJ"),
                             "lily_invisible",
                             false,
-                            location, 
+                            location,
                             shipManager.iShipId,
                             shipManager.iShipId,
                             intercept,
@@ -1356,7 +1371,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
 
                 end
 
-            
+
             end
 
         end
@@ -1365,12 +1380,12 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
 
 
 
-    
+
 end)
 
 
 
-script.on_render_event(Defines.RenderEvents.SHIP_SPARKS, function (ship)
+script.on_render_event(Defines.RenderEvents.SHIP, function(ship)
     --local spaceManager = Hyperspace.App.world.space
     --print("Render")
     --local combatControl = Hyperspace.App.gui.combatControl
@@ -1379,7 +1394,7 @@ script.on_render_event(Defines.RenderEvents.SHIP_SPARKS, function (ship)
 
         --print("_", _)
         if ship.iShipId == beamData.space then
-            
+
             if beamData.lifetime > 0 then
                 --Graphics.CSurface.GL_PushMatrix()
                 --if beamData.space == 0 then
@@ -1412,9 +1427,10 @@ end, function () end)
 local preigniteWeapons = {}
 
 preigniteWeapons["LILY_FOCUS_CIWS"] = true
+preigniteWeapons["LILY_FOCUS_CIWS_EFF"] = true
 
 script.on_internal_event(Defines.InternalEvents.JUMP_ARRIVE, function (shipManager)
-    
+
     if shipManager then
         if shipManager.weaponSystem and shipManager.weaponSystem.weapons then
             for weapon in vter(shipManager.weaponSystem.weapons) do
@@ -1428,3 +1444,24 @@ script.on_internal_event(Defines.InternalEvents.JUMP_ARRIVE, function (shipManag
     end
 
 end)
+
+--[[
+script.on_internal_event(Defines.InternalEvents.PROJECTILE_FIRE, function(projectile, weapon)
+    if weapon.blueprint and weapon.blueprint.name and weapon.blueprint.name == "YOUR_MISSILE_LAUNCHER_ID_HERE" then
+        local fireAgain = math.random() > 0.5
+        while fireAgain do
+            fireAgain = math.random() > 0.5
+            local spaceManager = Hyperspace.App.world.space
+            local proj = spaceManager:CreateMissile(
+                weapon.blueprint,
+                projectile.position,
+                projectile.currentSpace,
+                projectile.ownerId,
+                projectile.target,
+                projectile.destinationSpace,
+                projectile.heading)
+            ---@cast projectile Hyperspace.Missile 
+        end
+    end
+end)
+]]--

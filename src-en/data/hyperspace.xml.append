@@ -72,7 +72,7 @@
 	<mod-append:customShip name="LILY_PLAYER_SIREN_TRANSPORT_2">
 		<hiddenAug>SHIP_SIREN</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
-		<hiddenAug>UPG_LILY_INFUSION_CHAOTIC_UNLOCK</hiddenAug>
+		<!-- <hiddenAug>UPG_LILY_INFUSION_CHAOTIC_UNLOCK</hiddenAug> -->
 		<crewLimit>12</crewLimit>
 		<systemLimit>10</systemLimit>
 	</mod-append:customShip>
@@ -398,6 +398,12 @@
 	<mod-append:variable name="lily_questioned" op="set" value="0" />
 	<mod-append:variable name="lily_resolved" op="set" value="0" />
 	<mod-append:metaVariable name="lily_mysterious_note_unlocked" op="set" value="0" />
+	<mod-append:metaVariable name="lily_testing_allowed" op="set" value="0"/>
+	<mod-append:metaVariable name="juke_lily_lily" op="set" value="0"/>
+	<mod-append:metaVariable name="juke_lily_lily_fight" op="set" value="0"/>
+
+
+
 	<mod-append:req name="LILY_EMPORIUM_SPAWN_CHECK" type="all">
 		<req lvl="1">
 			<name>prof_siren_encounter</name>
@@ -1142,7 +1148,7 @@ Mind controls a random enemy crew in the room.</tooltip>
 			</statBoost>
 			<statBoost name="stunMultiplier">
 				<boostType>MULT</boostType>
-				<amount>100</amount>
+				<amount>0</amount>
 				<shipTarget>ALL</shipTarget>
 				<crewTarget>ALLIES</crewTarget>
 				<priority>999</priority>
@@ -3453,12 +3459,34 @@ Supercharges your cursor with ionic energy. For the next 10 seconds, your clicks
                 <sound>achievement_stupid</sound>
             </achievement>
         </section>
+		<section text="Lily's Music" hidden="false">
+			<achievement name="MUSIC_LILY_LILY">
+				<name>Cataclysmic Variable - Made by Lizzard</name>
+				<description id="jukebox_unlocked" />
+				<secretDescription id="jukebox_locked" />
+				<header id="jukebox_header" />
+				<icon>music_unlocked</icon>
+				<variable name="juke_lily_lily" amount="1" />
+				<multiDifficulty>false</multiDifficulty>
+			</achievement>
+			<achievement name="MUSIC_LILY_LILY_FIGHT">
+				<name>Gamma Ray Burst - Made by Lizzard</name>
+				<description id="jukebox_unlocked" />
+				<secretDescription id="jukebox_locked" />
+				<header id="jukebox_header" />
+				<icon>music_unlocked</icon>
+				<variable name="juke_lily_lily_fight" amount="1" />
+				<multiDifficulty>false</multiDifficulty>
+			</achievement>
+		</section>
+	</mod-append:page>
+	<mod-append:page>
 		<section text="Thest's Boons (LilyBeam)" hidden="false">
 			<achievement name="ACH_BOON_LILY_SIREN">
 				<name>Boon of Utopia</name>
 				<secretName>Boon of ???</secretName>
 				<secretDescription>Receive the Boon of ??? from Thest.</secretDescription>
-				<description>Show a Siren to Thest. While in effect; Siren crew gain vision of adjecent rooms, immunity to stuns, and loses no skills when cloned.</description>
+				<description>Show a Siren to Thest. While in effect; Siren crew gain vision of adjacent rooms, immunity to stuns, and loses no skills when cloned.</description>
 				<header>Boon Received</header>
 				<icon>boons/ach_boon_lily_siren</icon>
 				<lockImage>ach_locked</lockImage>

@@ -16,6 +16,8 @@
 		"data/events_sector_union.xml.append",
         "data/events_sector_stargrove.xml.append",
         "data/text_blueprints.xml.append",
+		
+		"data/events_special_jukebox.xml.append",
 		"data/events_special_boons.xml.append",
         "data/events_special_anomaly.xml.append",
 		"data/events_special_multiverse.xml.append",
@@ -56,6 +58,8 @@
 		"//eventButton/tooltip",
         "//eventButton/inactiveTooltip",
         "//triggeredEventBox/tooltip",
+		
+		"//mod:findLike/mod-append:page/section/@text",
 		"//mod:findLike/mod-append:page/mod-append:section/@text",
 		"//achievement/name",
 		"//achievement/description",
@@ -102,6 +106,6 @@
             "https://github.com/ftl-mv-translation/lilys-beam-emporium/raw/lilys-beam-emporium-english/lilys-beam-emporium.ftl",
         ],
         "prefix": "Lilys-Beam-Emporium",
-        "version": "1.6.1"
+        "version": "1.6.4"
     }
 }

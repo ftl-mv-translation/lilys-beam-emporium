@@ -45,7 +45,7 @@ script.on_internal_event(Defines.InternalEvents.PROJECTILE_INITIALIZE, function(
     if projectile:GetOwnerId() and projectile:GetOwnerId() >= 0 then
 
         local ownerShip = Hyperspace.ships(projectile:GetOwnerId())
-        if projectile and projectile:GetType() == 5 and ownerShip and ownerShip:HasAugmentation("BOON_LILY_SPECTRUM") > 0 then
+        if projectile and projectile:GetType() == 5 and ownerShip and ownerShip:HasAugmentation("BOON_LILY_SPECTRUM") > 0 and ownerShip.iShipId == 0 then
             projectile.damage.iShieldPiercing = projectile.damage.iShieldPiercing + 1
         end
     end
