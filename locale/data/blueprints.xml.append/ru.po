@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-09-05 16:21+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-beam-"
 "emporium/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1021,6 +1021,7 @@ msgstr ""
 "Покупка: 100~   -   Продажа: 50~"
 
 #: src-en/data/blueprints.xml.append:1845
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/tooltipOverride"
 msgstr ""
