@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-09-05 16:21+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-beam-"
 "emporium/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -993,6 +993,7 @@ msgstr ""
 "Уникальное оружие, способное одновременно стрелять парой сходящихся лучей."
 
 #: src-en/data/blueprints.xml.append:1824
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/descriptionOverride"
 msgstr ""
