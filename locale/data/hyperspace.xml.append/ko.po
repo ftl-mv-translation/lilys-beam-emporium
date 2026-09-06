@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-06 03:43+0000\n"
+"PO-Revision-Date: 2026-09-07 04:36+0000\n"
 "Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
 "Language-Team: Korean <https://weblate.hyperq.be/projects/lilys-beam-"
 "emporium/datahyperspace-xml-append/ko/>\n"
@@ -662,7 +662,7 @@ msgstr "선물을 받음"
 #: src-en/data/hyperspace.xml.append:3497
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/name"
-msgstr "변칙성의 선물"
+msgstr "이상현상의 선물"
 
 #: src-en/data/hyperspace.xml.append:3498
 msgid ""
@@ -679,7 +679,7 @@ msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/description"
 msgstr ""
 "테스트에게 릴리의 분신을 제시하기.\n"
-"효과: 해당 탐험의 안정성 수치를 1로 설정합니다."
+"효과: 해당 회차의 안정성 수치를 1로 설정합니다."
 
 #: src-en/data/hyperspace.xml.append:3501
 msgid ""
@@ -738,7 +738,7 @@ msgstr "웨이크슨에게 ???의 축복을 받기."
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/description"
 msgstr ""
-"웨이크슨에게 분해자 빔을 제시하기.\n"
+"웨이크슨에게 분해 빔을 제시하기.\n"
 "효과: 적 선원의 치유 및 수리 속도가 25% 감소하고, 아군 함선 내부에서 초당 "
 "2의 추가 피해를 입음."
 
