@@ -1,21 +1,30 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-09-07 04:36+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/lilys-beam-"
+"emporium/dataevents_sector_stargrovexmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_stargrove.xml.append:4
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"(최고급 엔진 + 재연소 가속기) 애프터버너가 가동된 최고급 엔진을 점화해 "
+"가까이 접근하여 함선을 분해하고 유일한 선원을 구출한다. [3{]"
 
 #: src-en/data/events_sector_stargrove.xml.append:6
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "재연소 가속기 점화!"
 
 #: src-en/data/events_sector_stargrove.xml.append:11
 msgid ""
@@ -28,6 +37,11 @@ msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
 "append:choice[1]/event/choice/event/text"
 msgstr ""
+"재연소 가속기가 가동된 함선의 최고급 엔진이 극심한 중력에 맞서며 조금씩 "
+"다가갑니다. 시간 지연이 점차 심해지지만 함선은 이를 쉽게 견뎌냅니다. 덤으로 "
+"마판을 구출할 뿐만 아니라 중력 우물에서 돌아오기 전에 함선을 분해할 기회도 "
+"얻습니다. 심지어 시간 지연으로 인해 함대가 전진하지 못할 정도로 빠르기까지 "
+"했습니다."
 
 #: src-en/data/events_sector_stargrove.xml.append:16
 msgid ""
@@ -40,12 +54,14 @@ msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
 "append:choice[2]/text"
 msgstr ""
+"(재연소 가속기) 위험을 무릅쓰고 가까이 접근하여 함선을 분해하고 유일한 "
+"선원을 구출한다. [3{]"
 
 #: src-en/data/events_sector_stargrove.xml.append:26
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
 "append:choice[2]/event/text"
-msgstr ""
+msgstr "재연소 가속기 점화!"
 
 #: src-en/data/events_sector_stargrove.xml.append:31
 msgid ""
@@ -58,6 +74,10 @@ msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_CONTACT_MAFAN_REAL\"]/mod-"
 "append:choice[2]/event/choice/event/text"
 msgstr ""
+"재연소 가속기가 가동된 함선의 엔진이 극심한 중력에 맞서며 조금씩 다가갑니다. "
+"시간 지연이 점차 심해지지만 함선은 큰 손상 없이 견뎌냅니다. 덤으로 마판을 "
+"구출할 뿐만 아니라 중력 우물에서 돌아오기 전에 함선을 분해할 기회도 "
+"얻습니다. 안타깝게도 시간 지연으로 인해 함대가 약간 전진하고 말았습니다."
 
 #: src-en/data/events_sector_stargrove.xml.append:39
 msgid ""
