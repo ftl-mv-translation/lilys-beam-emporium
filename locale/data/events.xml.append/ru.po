@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-05 16:21+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-09-07 04:36+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-beam-"
 "emporium/dataeventsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -496,12 +496,11 @@ msgid ""
 msgstr "Попросить Лили присоединиться к вам."
 
 #: src-en/data/events.xml.append:510
-#, fuzzy
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[@req=\"LILY_PATRONAGE\"]/event/text"
 msgstr ""
-"Так ты все-таки передумал?--\n"
-"Конечно, я согласна--"
+"\"Так ты все-таки передумал?--\"\n"
+"\"Конечно, я согласна--\""
 
 #: src-en/data/events.xml.append:515
 msgid ""
