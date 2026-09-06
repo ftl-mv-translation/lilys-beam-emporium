@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-05 16:21+0000\n"
+"PO-Revision-Date: 2026-09-06 03:43+0000\n"
 "Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
 "Language-Team: Korean <https://weblate.hyperq.be/projects/lilys-beam-"
 "emporium/mod-appendixmetadataxml/ko/>\n"
@@ -17,7 +17,6 @@ msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
 msgstr "릴리의 빔 만물상"
 
 #: src-en/mod-appendix/metadata.xml:36
-#, fuzzy
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
 msgstr ""
 "빔 테마의 무기, 함선, 그리고 보조장비가 추가로 수집됩니다.\n"
@@ -33,5 +32,6 @@ msgstr ""
 "Arc, sillysandvich 님 (스크립팅 도움)\n"
 "Willow 님 (글 작성 도움)\n"
 "Nauter 님 (MV 함선 디자인 도움)\n"
+"Lizzard 님 (멋진 음악 제작)\n"
 "Kix 님과 FTL: Multiverse (및 Hyperspace) 제작에 참여해주신 모든 분들께 "
 "감사드립니다."
