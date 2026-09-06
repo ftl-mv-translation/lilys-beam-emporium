@@ -1,14 +1,25 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-09-06 03:43+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/lilys-beam-"
+"emporium/dataevents_special_boonsxmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_boons.xml.append:3
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SIREN\"]/text"
 msgstr ""
+"어디선가 당신에게 말하는 목소리가 들려옵니다. \"유토피아의... 축복. 그대의 "
+"세이렌 선원은... 인접한 방을 밝히고, 기절에 면역이 되며... 복제되어도 "
+"숙련도를 잃지 않을 겁니다. 이전 도전자에게... 감사하십시오. 혹은... 그러지 "
+"않아도 될까요? 누구도 장담할 수 없지요...\""
 
 #: src-en/data/events_special_boons.xml.append:6
 msgid ""
@@ -19,28 +30,42 @@ msgstr "계속..."
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_AVATAR\"]/text"
 msgstr ""
+"어디선가 당신의 마음에 직접 말을 건네는 듯한 목소리가 들려옵니다. \"이상 "
+"현상의 축복.. 당신이 이걸 좋아한다고 들었거든요, 그래서 이번 여정의 안정성을 "
+"1로 맞춰뒀어요, 엄청 쏟아질 테니 기대하세요! 히히! 마음껏 저한테 "
+"감사하시라고요. 아, 그리고 이전 도전자한테도, 그 친구 아주 흥미로웠거든요.. "
+"그러니 당신도 날 실망시키지 않는 게 좋을 거예요!\""
 
 #: src-en/data/events_special_boons.xml.append:16
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_AVATAR\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_boons.xml.append:23
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SPECTRUM\"]/text"
 msgstr ""
+"어디선가 당신에게 말하는 목소리가 들려옵니다. \"도전자여! 내 그대를 위해 "
+"스펙트럼의 축복을 내려주겠소! 그대의 모든 빔 무기가 보호막을 1겹 더 관통할 "
+"것이오! 그대의 여정이 축복받기를 바라오! 누구에게 감사해야 할 것 같소? 그야, "
+"이전 도전자지! 하하하!\""
 
 #: src-en/data/events_special_boons.xml.append:26
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SPECTRUM\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_boons.xml.append:33
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_DISINTEGRATOR\"]/text"
 msgstr ""
+"어디선가 당신에게 말하는 목소리가 들려옵니다. \"도전자여! 내 그대를 위해 "
+"분해의 축복을 내려주겠소! 적 선원과 드론의 치료 및 수리 속도가 25% 감소하고, "
+"그대의 함선에 탑승 시 초당 2의 추가 피해를 입을 것이오! 그대의 여정이 "
+"축복받기를 바라오! 누구에게 감사해야 할 것 같소? 그야, 이전 도전자지! "
+"하하하!\""
 
 #: src-en/data/events_special_boons.xml.append:36
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_DISINTEGRATOR\"]/choice/text"
-msgstr ""
+msgstr "계속..."
