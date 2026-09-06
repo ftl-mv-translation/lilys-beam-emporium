@@ -1,78 +1,105 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-09-06 03:43+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/lilys-beam-"
+"emporium/dataevents_special_multiversexmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_multiverse.xml.append:5
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "세이렌을 보여준다."
 
 #: src-en/data/events_special_multiverse.xml.append:7
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
+"\"세이렌... 출신을 알 수 없는 신비로운 종족이자... 존재만으로도 누군가의 "
+"정신을 파괴할 수 있는 힘을 지닌 자들. 그럼에도... 그들 중 하나를 동료로 "
+"삼았군요. 그래요, 전... 매우 깊은 인상을 받았습니다. 잘하셨습니다, 여행자여. "
+"다음 여정을 시작할 때... 보상을 기대하십시오.\""
 
 #: src-en/data/events_special_multiverse.xml.append:12
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_multiverse.xml.append:18
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "릴리의 분신을 보여준다."
 
 #: src-en/data/events_special_multiverse.xml.append:20
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
+"순간 억누를 수 없는 불안감이 뇌리를 스칩니다. \"잠깐... 이 에너지는... "
+"이분은... 내가 생각하는 그분인가요? 아, 배회자여... 제 중얼거림은 "
+"무시하십시오. 교리가... 자세한 것을 말하는 걸 금지하고 있으니까요. 제가 말할 "
+"수 있는 건 그분이 엄청난 위협과 힘을 지닌... 변칙점이라는 사실뿐입니다. "
+"하지만 당신이 아직 살아있다는 건, 목적이야 어찌 됐든 적어도 지금은 당신 "
+"편이라는 뜻이겠지요. 네, 이건... 참으로 경이롭군요. 다음 여정을 시작할 때... "
+"보상을 기대하십시오. 그저... 부디 조심하십시오.\""
 
 #: src-en/data/events_special_multiverse.xml.append:25
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[2]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_multiverse.xml.append:33
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "다중 모드 빔을 보여준다."
 
 #: src-en/data/events_special_multiverse.xml.append:35
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
+"\"오, 이건 정교하게 제작된 무기로군. 빔, 맞소? 하나로 다양한 일을 할 수 "
+"있다고? 혹시 빨래도 대신 해주오? 하하! 좋소. 훌륭한 공물이오! 내 당신을 "
+"스펙트럼의 축복으로 축복하겠소. 하지만 인내심을 가지시오. 지금이 아니라, "
+"나중을 위한 것이오!\""
 
 #: src-en/data/events_special_multiverse.xml.append:40
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_multiverse.xml.append:46
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "분해 빔을 보여준다."
 
 #: src-en/data/events_special_multiverse.xml.append:48
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
+"\"이럴 수가... 분해 빔이라고? 이것이야말로 진정한 공물이오! 금속과 살점 "
+"모두에 치유할 수 없는 상처를 입히는 그야말로 사악한 무기지! 하지만 그 "
+"무기들이 아무리 사악할지라도, 그 힘만큼은 부정할 수 없소! 내 당신을 분해의 "
+"축복으로 축복하겠소. 하지만 인내심을 가지시오. 지금이 아니라, 나중을 위한 "
+"것이오!"
 
 #: src-en/data/events_special_multiverse.xml.append:53
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[2]/event/choice/text"
-msgstr ""
+msgstr "계속..."
