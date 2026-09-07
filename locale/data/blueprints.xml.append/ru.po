@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-05 16:21+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-09-07 04:36+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-beam-"
 "emporium/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -380,12 +380,11 @@ msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_SHIP_HER\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:473
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_lily_avatar\"]/desc"
 msgstr ""
-"Путешественница по Мультивселенной, продавщица лучей и Верная Слуга "
-"Верховной Богини Истинного Хаоса. Да, это я--"
+"\"Путешественница по Мультивселенной, продавщица лучей и Верная Слуга "
+"Верховной Богини Истинного Хаоса. Да, это я--\""
 
 #: src-en/data/blueprints.xml.append:476
 msgid ""
@@ -453,13 +452,12 @@ msgid ""
 msgstr "Клон [???]"
 
 #: src-en/data/blueprints.xml.append:533
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_LILY_BEAM\"]/desc"
 msgstr ""
 "Ни одно оружие еще не вызывало столь больших этических споров, но если оно "
 "работает, то работает. Похоже, ваши попытки загрузить в него аватар Лили "
-"привели к тому, что оно превратилось в... точечный луч?"
+"привели к тому, что оно превратилось в... луч?"
 
 #: src-en/data/blueprints.xml.append:602
 msgid ""
@@ -910,7 +908,6 @@ msgstr ""
 "Уникальное оружие, способное одновременно стрелять парой сходящихся лучей."
 
 #: src-en/data/blueprints.xml.append:1724
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/descriptionOverride"
 msgstr ""
@@ -929,16 +926,14 @@ msgstr ""
 "Вероятность оглушения: 100% (3 сек.)\n"
 "\n"
 "(Вторичный луч)\n"
-"Двойной урон отсекам без систем.\n"
 "Урон корпусу: 2\n"
-"Урон системам: 3\n"
-"Урон экипажу: 45\n"
+"Урон системам: 2\n"
+"Урон экипажу: 30\n"
 "Вероятность пробоины: 30% (Скорректировано: 30%)\n"
 "\n"
 "Покупка: 100~   -   Продажа: 50~"
 
 #: src-en/data/blueprints.xml.append:1745
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS\"]/tooltipOverride"
 msgstr ""
@@ -954,10 +949,9 @@ msgstr ""
 "Вероятность оглушения: 100% (3 сек.)\n"
 "\n"
 "(Вторичный луч)\n"
-"Двойной урон отсекам без систем.\n"
-"Урон корпусу:2\n"
-"Урон системам: 3\n"
-"Урон экипажу: 45\n"
+"Урон корпусу: 2\n"
+"Урон системам: 2\n"
+"Урон экипажу: 30\n"
 "Вероятность пробоины: 30% (Скорректировано: 30%)"
 
 #: src-en/data/blueprints.xml.append:1791
@@ -993,7 +987,6 @@ msgstr ""
 "Уникальное оружие, способное одновременно стрелять парой сходящихся лучей."
 
 #: src-en/data/blueprints.xml.append:1824
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/descriptionOverride"
 msgstr ""
@@ -1012,16 +1005,14 @@ msgstr ""
 "Вероятность оглушения: 100% (3 сек.)\n"
 "\n"
 "(Вторичный луч)\n"
-"Двойной урон отсекам без систем.\n"
 "Урон корпусу: 2\n"
-"Урон системам: 3\n"
-"Урон экипажу: 45\n"
+"Урон системам: 2\n"
+"Урон экипажу: 30\n"
 "Вероятность пробоины: 30% (Скорректировано: 30%)\n"
 "\n"
 "Покупка: 100~   -   Продажа: 50~"
 
 #: src-en/data/blueprints.xml.append:1845
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_BEAM_SCISSORS_PLAYER\"]/tooltipOverride"
 msgstr ""
@@ -1037,10 +1028,9 @@ msgstr ""
 "Вероятность оглушения: 100% (3 сек.)\n"
 "\n"
 "(Вторичный луч)\n"
-"Двойной урон отсекам без систем.\n"
-"Урон корпусу:2\n"
-"Урон системам: 3\n"
-"Урон экипажу: 45\n"
+"Урон корпусу: 2\n"
+"Урон системам: 2\n"
+"Урон экипажу: 30\n"
 "Вероятность пробоины: 30% (Скорректировано: 30%)"
 
 #: src-en/data/blueprints.xml.append:1901
@@ -1746,17 +1736,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3675
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_EFF\"]/title"
-msgstr ""
+msgstr "Луч Ц.И.В.С. ††"
 
 #: src-en/data/blueprints.xml.append:3676
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_EFF\"]/short"
-msgstr ""
+msgstr "Ц.И.В.С. ††"
 
 #: src-en/data/blueprints.xml.append:3677
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_EFF\"]/desc"
 msgstr ""
+"Это лучевое оружие оснащено уникальным всенаправленным инфракрасным "
+"излучателем, а также современной системой наведения. Оно эффективно сбивает "
+"приближающиеся ракеты и дроны, но малоэффективно против других кораблей."
 
 #: src-en/data/blueprints.xml.append:3700
 msgid ""

@@ -1,576 +1,471 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-07 04:36+0000\n"
-"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/lilys-beam-"
-"emporium/dataevents_special_anomalyxmlappend/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_anomaly.xml.append:7
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[1]/text"
-msgstr "(사이클로트론) 아마도요."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:9
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
-"\"오... 알려쭤서 고마워요. 이 무기는 참으로... 상당히 변칙쩍이군요. 아쉽게도 "
-"이 무기는... 몰쑤해야겠지만, 정당한 보상을 쩨공할께요. 자, 이제 다음으로 "
-"넘어가자고요.\""
 
 #: src-en/data/events_special_anomaly.xml.append:15
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[1]/event/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:21
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[2]/text"
-msgstr "('수스') 아마도요."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:23
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
-"\"오... 알려쭤서 고마워요. 이 무기는 참으로... 이물 그 자체군요. 아쉽게도 이 "
-"무기는... 몰쑤해야겠지만, 정당한 보상을 쩨공할께요. 자, 이제 다음으로 "
-"넘어가자고요.\""
 
 #: src-en/data/events_special_anomaly.xml.append:29
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[2]/event/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:35
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[3]/text"
-msgstr "('수스'™) 아마도요."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:37
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[3]/event/text"
 msgstr ""
-"\"오... 알려쭤서 고마워요. 이 무기는 참으로... 이물 그 자체군요. 아쉽게도 이 "
-"무기는... 몰쑤해야겠지만, 정당한 보상을 쩨공할께요. 자, 이제 다음으로 "
-"넘어가자고요.\""
 
 #: src-en/data/events_special_anomaly.xml.append:43
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[3]/event/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:49
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[4]/text"
-msgstr "(€'수스') 아마도요."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:51
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[4]/event/text"
 msgstr ""
-"\"오... 알려쭤서 고마워요. 이 무기는 참으로... 이물 그 자체군요. 아쉽게도 이 "
-"무기는... 몰쑤해야겠지만, 정당한 보상을 쩨공할께요. 자, 이제 다음으로 "
-"넘어가자고요.\""
 
 #: src-en/data/events_special_anomaly.xml.append:57
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[4]/event/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:63
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[5]/text"
-msgstr "(€'수스') 아마도요."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:65
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[5]/event/text"
 msgstr ""
-"\"오... 알려쭤서 고마워요. 이 무기는 참으로... 이물 그 자체군요. 아쉽게도 이 "
-"무기는... 몰쑤해야겠지만, 정당한 보상을 쩨공할께요. 자, 이제 다음으로 "
-"넘어가자고요.\""
 
 #: src-en/data/events_special_anomaly.xml.append:71
 msgid ""
 "data/events_special_anomaly.xml.append$//mod:findName[@name=\"ANOMALY_QUESTIONS_2\"]/mod-"
 "append:choice[5]/event/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:98
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"ANOMALY_CHAOS_POLICE\"]/text"
 msgstr ""
-"주변을 살필 때 가장 먼저 보이는 것은 민병대 수사선처럼 생겼지만 허공 "
-"자체처럼 검고 붉은색과 푸른색으로 번쩍이는 함선입니다. 그들이 즉시 연락을 "
-"보내옵니다. \"여기는 혼돈 경찰 집행선이다. 당신과 함선은 즉시 검문에 "
-"응하라.\""
 
 #: src-en/data/events_special_anomaly.xml.append:102
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"ANOMALY_CHAOS_POLICE\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:104
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"ANOMALY_CHAOS_POLICE\"]/choice/event/text"
 msgstr ""
-"\"당신이 무슨 범죄를 저질러 왔는지 어디 봅시다...\"\n"
-"함선이 일종의 스캔을 시작하자, 당신은 압도적인 공포와 불안감을 느낍니다."
 
 #: src-en/data/events_special_anomaly.xml.append:107
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"ANOMALY_CHAOS_POLICE\"]/choice/event/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:139
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 잠깐, 당신 기록은 아주 깨끗하잖아!\"\n"
-"\"즉, 당신과 당신의 함선은 체포될 것입니다!\""
 
 #: src-en/data/events_special_anomaly.xml.append:142
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[1]/text"
-msgstr "집행관에게 뇌물을 주려고 시도한다. [50~]"
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:144
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[1]/event/text"
 msgstr ""
-"스크랩으로 집행관에게 뇌물을 주어 보내달라고 시도하며, 이것으로 충분하길 "
-"바랍니다..."
 
 #: src-en/data/events_special_anomaly.xml.append:149
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[1]/event/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:151
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[1]/event/choice/event/text"
 msgstr ""
-"\"이게 뭡니까? 뇌물? 경찰관에게 뇌물을 주는 건 범죄라는 걸 모르나요?!\"\n"
-"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\"\n"
-"\n"
-"\"범죄를 저지르고 더 큰 혼란을 일으키는 걸 잊지 마세요! 히히!\""
 
 #: src-en/data/events_special_anomaly.xml.append:160
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[1]/event/choice/event/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:162
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr "이 말을 남기고, 그 특이한 선박은 즉시 떠납니다."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:172
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[@req=\"weapons\"]/text"
-msgstr "(고급 무기실) 집행관을 협박한다."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:174
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[@req=\"weapons\"]/event/text"
-msgstr "고급 무기를 이용해 집행관이 당신을 건드리지 못하도록 협박하려 시도합니다..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:176
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[@req=\"weapons\"]/event/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:178
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[@req=\"weapons\"]/event/choice/event/text"
 msgstr ""
-"\"지금 절 협박하는 겁니까!? 경찰관을 협박하는 건 범죄라는 걸 모르나요?!\"\n"
-"\n"
-"\"...정말 잘했어요! 이 공로를 인정받아야겠군요.\"\n"
-"\n"
-"\"앞으로도 계속 범죄를 저지르고 더 큰 혼란을 일으키는 걸 잊지 마세요! 히히!\""
 
 #: src-en/data/events_special_anomaly.xml.append:186
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[@req=\"weapons\"]/event/choice/event/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:188
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[@req=\"weapons\"]/event/choice/event/choice/event/text"
-msgstr "이 말을 남기고, 그 특이한 선박은 즉시 떠납니다."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:198
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/text"
-msgstr "그냥 집행선을 공격한다."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:201
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/event/text"
-msgstr "무기를 충전하고 집행선을 공격할 준비를 합니다..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:203
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/event/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:205
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/event/choice/event/text"
 msgstr ""
-"\"지금 절 공격하는 겁니까!? 경찰관을 공격하는 건 중범죄라는 걸 모르나요?!\"\n"
-"\n"
-"\"...정말 잘했어요! 이 공로를 인정받아야겠군요.\"\n"
-"\n"
-"\"앞으로도 계속 범죄를 저지르고 더 큰 혼란을 일으키는 걸 잊지 마세요! 히히!\""
 
 #: src-en/data/events_special_anomaly.xml.append:213
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/event/choice/event/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:215
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_NO_CRIMES\"]/choice[3]/event/choice/event/choice/event/text"
-msgstr "이 말을 남기고, 그 특이한 선박은 즉시 떠납니다."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:227
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 잠깐, 노옴을 가지고 계신가요?... 그 "
-"노옴을?!\"\n"
-"\"이것 때문에 온 우주가 혼란에 빠질거야! 히히!\"\n"
-"\"정말 훌륭해요, 상을 받으셔야 할 것 같네요!\""
 
 #: src-en/data/events_special_anomaly.xml.append:232
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:234
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/choice/event/text"
 msgstr ""
-"\"그리고 있잖아요, 사실 그걸 전달해야 할 장소를 제가 알고 있을지도 "
-"모릅니다...\"\n"
-"\"목표 달성을 위해 제가 함께 하겠습니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:239
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/choice/event/crewMember"
-msgstr "Officer Ialera"
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:241
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/choice/event/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:243
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GNOME\"]/choice/event/choice/event/text"
-msgstr "이 말을 남기고, 그 특이한 선박은 즉시 떠납니다."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:253
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL_HIGH\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 연방 전체에서 정말 악명 높은 "
-"범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:259
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL_HIGH\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:261
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_REWARD_HIGH\"]/text"
-msgstr "\"항상 범죄를 저지르고 더 많은 혼돈을 일으키는 걸 잊지 마세요! 히히!\""
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:265
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_REWARD_HIGH\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:267
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_REWARD_HIGH\"]/choice/event/text"
-msgstr "이 말을 남기고, 그 특이한 선박은 즉시 떠납니다."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:276
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_UNION_HIGH\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 은하 협회 전체에서 정말 악명 높은 "
-"범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:282
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_UNION_HIGH\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:288
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ENGI_HIGH\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 엔지 하모니에서 정말 악명 높은 "
-"범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:294
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ENGI_HIGH\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:300
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ZOLTAN_HIGH\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 졸탄 내각에서 정말 악명 높은 "
-"범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:306
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ZOLTAN_HIGH\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:312
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ORCHID_HIGH\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 화초 군락에서 정말 악명 높은 "
-"범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:318
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ORCHID_HIGH\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:324
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_VAMPWEED_HIGH\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 흡혈초 공동체에서 정말 악명 높은 "
-"범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:330
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_VAMPWEED_HIGH\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:336
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_FREEMANTIS_HIGH\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 독립 맨티스 부족들에게 정말 악명 "
-"높은 범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:342
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_FREEMANTIS_HIGH\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:348
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_CRYSTAL_HIGH\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 크리스탈 제국에서 정말 악명 높은 "
-"범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:354
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_CRYSTAL_HIGH\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:360
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_OUTCAST_HIGH\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 락맨 망명자들에게 정말 악명 높은 "
-"범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:366
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_OUTCAST_HIGH\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:373
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_SHELL_HIGH\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 셸 천재정에서 정말 악명 높은 "
-"범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:379
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_SHELL_HIGH\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:387
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 연방의 범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:393
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_GENERAL\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:395
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_REWARD\"]/text"
-msgstr "\"항상 범죄를 저지르고 더 많은 혼돈을 일으키는 걸 잊지 마세요! 히히!\""
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:398
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_REWARD\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:400
 msgid ""
 "data/events_special_anomaly.xml.append$//event[@name=\"LILY_CHAOS_POLICE_REWARD\"]/choice/event/text"
-msgstr "이 말을 남기고, 그 특이한 선박은 즉시 떠납니다."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:409
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_UNION\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 은하 협회의 범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:415
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_UNION\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:421
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ENGI\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 엔지 하모니의 범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:427
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ENGI\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:433
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ZOLTAN\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 졸탄 내각의 범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:439
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ZOLTAN\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:445
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ORCHID\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 화초 군락의 범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:451
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_ORCHID\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:457
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_VAMPWEED\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 흡혈초 공동체의 범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:463
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_VAMPWEED\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:469
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_FREEMANTIS\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 독립 맨티스 부족들의 "
-"범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:475
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_FREEMANTIS\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:481
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_OUTCAST\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 락맨 망명자들의 범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:487
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_OUTCAST\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:493
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_CRYSTAL\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 크리스탈 제국의 범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:499
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_CRYSTAL\"]/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_special_anomaly.xml.append:505
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_SHELL\"]/text"
 msgstr ""
-"\"그리고 당신의 기록에 따르면... 당신은 셸 천재정의 범죄자군요!...\"\n"
-"\"...정말 잘했어요! 그에 대한 보상을 받을 겁니다.\""
 
 #: src-en/data/events_special_anomaly.xml.append:511
 msgid ""
 "data/events_special_anomaly.xml.append$/dummyroot/FTL/event[@name=\"LILY_CHAOS_POLICE_SHELL\"]/choice/text"
-msgstr "계속..."
+msgstr ""

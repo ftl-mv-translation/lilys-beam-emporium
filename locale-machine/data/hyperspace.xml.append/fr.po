@@ -1,800 +1,707 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-07 04:36+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-beam-"
-"emporium/datahyperspace-xml-append/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/hyperspace.xml.append:86
 msgid "data/hyperspace.xml.append$//siren_harpy[@name=\"Liliana\"]/@name"
-msgstr "Лилиана"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:87
 msgid "data/hyperspace.xml.append$//siren_harpy[@name=\"Katherine\"]/@name"
-msgstr "Кэтрин"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:196
 msgid "data/hyperspace.xml.append$//unique_lily_avatar[@name=\"Lily\"]/@name"
-msgstr "Лили"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:282
 msgid "data/hyperspace.xml.append$//siren[@name=\"Aki\"]/@name"
-msgstr "Аки"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:283
 msgid "data/hyperspace.xml.append$//siren[@name=\"Noemi\"]/@name"
-msgstr "Ноэми"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:284
 msgid "data/hyperspace.xml.append$//crystal[@name=\"Sapphire\"]/@name"
-msgstr "Сапфир"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:285
 msgid "data/hyperspace.xml.append$//crystal_liberator[@name=\"Emerald\"]/@name"
-msgstr "Изумруд"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:816
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr "РАЗУМ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:817
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:30с ПРОДОЛЖИТЕЛЬНОСТЬ:10с]\n"
-"Контроль разума берет под управление случайного вражеского члена экипажа в отсеке."
 
 #: src-en/data/hyperspace.xml.append:1109
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr "РАЗУМ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1110
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"EX_LAB_LILY_SIREN_HARPY_MIND\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:30с ПРОДОЛЖИТЕЛЬНОСТЬ:10с]\n"
-"Контроль разума берет под управление случайного вражеского члена экипажа в отсеке."
 
 #: src-en/data/hyperspace.xml.append:1908
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[1]/buttonText"
-msgstr "Ж. ВЗРЫВ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1909
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[1]/tooltip"
 msgstr ""
-"ЖУТКИЙ ВЗРЫВ [ПЕРЕЗАРЯДКА:15с]\n"
-"Наполняет ваш курсор хаотичной жуткой энергией. Ваш следующий клик по клетке вызовет направленный на нее точечный луч.\n"
-"\tСистемный урон: 2; Урон экипажу: 45; Пробивание щита: 10; Шанс возгорания: 40%; Шанс пробоины: 40%.\n"
-"\tВременно вызывает безумие у экипажа, по которому он попадает, отключая их активные способности.\n"
-"\tМожет быть направлен на ваш собственный корабль."
 
 #: src-en/data/hyperspace.xml.append:1928
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[2]/buttonText"
-msgstr "ИОН"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1929
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_lily_avatar\"]/powerEffect[2]/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:90с  ДЛИТЕЛЬНОСТЬ:10с]\n"
-"Насыщает ваш курсор ионной энергией. В течение следующих 10 секунд ваши клики по плиткам будут вызывать ионный лучевой луч, направленный на них.\n"
-"\tИонный урон: 1; Пробивание щита: 10; Оглушение: 10 секунд.\n"
-"\tМожет нацеливаться на ваш собственный корабль.\n"
-"\tТакже наносит 2 единицы ионного урона вашей кнопке паузы, лишая вас возможности приостанавливать игру на время действия эффекта."
 
 #: src-en/data/hyperspace.xml.append:1981
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[1]/customTitle"
-msgstr "ЛУЧИ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2000
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[2]/customTitle"
-msgstr "ЛУЧИ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2019
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[3]/customTitle"
-msgstr "ЛУЧИ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2038
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[4]/customTitle"
-msgstr "ЛУЧИ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2057
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[5]/customTitle"
-msgstr "ТОЧЕЧНЫЕ ЛУЧИ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2076
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[6]/customTitle"
-msgstr "ТОЧЕЧНЫЕ ЛУЧИ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2095
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[7]/customTitle"
-msgstr "ТОЧЕЧНЫЕ ИОНЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2115
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[8]/customTitle"
-msgstr "ТОЧЕЧНЫЕ ИОНЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2134
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[9]/customTitle"
-msgstr "ТОЧЕЧНЫЕ ИОНЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2153
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[10]/customTitle"
-msgstr "УТИЛИТЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2172
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[11]/customTitle"
-msgstr "УТИЛИТЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2191
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[12]/customTitle"
-msgstr "СТАТУС"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2210
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[13]/customTitle"
-msgstr "РЕФРАКТОРЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2229
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[14]/customTitle"
-msgstr "МУЛЬТИШОТ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2248
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[15]/customTitle"
-msgstr "ПЕРЕДОВАЯ ТЕХНОЛОГИЯ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2267
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[1]/category[16]/customTitle"
-msgstr "ГАУБИЦЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2340
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[1]/customTitle"
-msgstr "ЛУЧИ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2359
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[2]/customTitle"
-msgstr "ЛУЧИ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2378
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[3]/customTitle"
-msgstr "ЛУЧИ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2397
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[4]/customTitle"
-msgstr "ЛУЧИ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2416
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[5]/customTitle"
-msgstr "ТОЧЕЧНЫЕ ЛУЧИ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2435
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[6]/customTitle"
-msgstr "ТОЧЕЧНЫЕ ЛУЧИ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2454
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[7]/customTitle"
-msgstr "ТОЧЕЧНЫЕ ИОНЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2474
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[8]/customTitle"
-msgstr "ТОЧЕЧНЫЕ ИОНЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2493
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[9]/customTitle"
-msgstr "ТОЧЕЧНЫЕ ИОНЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2512
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[10]/customTitle"
-msgstr "УТИЛИТЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2531
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[11]/customTitle"
-msgstr "УТИЛИТЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2550
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[12]/customTitle"
-msgstr "СТАТУС"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2569
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[13]/customTitle"
-msgstr "РЕФРАКТОРЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2588
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[14]/customTitle"
-msgstr "МУЛЬТИШОТ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2607
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[15]/customTitle"
-msgstr "ПЕРЕДОВАЯ ТЕХНОЛОГИЯ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2626
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[16]/customTitle"
-msgstr "ГАУБИЦЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2676
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[19]/customTitle"
-msgstr "ХАОС :)"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2695
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[20]/customTitle"
-msgstr "ХАОС :)"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2715
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[21]/customTitle"
-msgstr "ХАОС :)"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2734
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[22]/customTitle"
-msgstr "ХАОС :)"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2753
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[2]/category[23]/customTitle"
-msgstr "ХАОС :)"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2799
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[1]/customTitle"
-msgstr "ЛУЧИ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2818
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[2]/customTitle"
-msgstr "ЛУЧИ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2837
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[3]/customTitle"
-msgstr "ЛУЧИ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2856
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[4]/customTitle"
-msgstr "ЛУЧИ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2875
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[5]/customTitle"
-msgstr "ТОЧЕЧНЫЕ ЛУЧИ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2894
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[6]/customTitle"
-msgstr "ТОЧЕЧНЫЕ ЛУЧИ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2913
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[7]/customTitle"
-msgstr "ТОЧЕЧНЫЕ ИОНЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2933
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[8]/customTitle"
-msgstr "ТОЧЕЧНЫЕ ИОНЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2952
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[9]/customTitle"
-msgstr "ТОЧЕЧНЫЕ ИОНЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2971
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[10]/customTitle"
-msgstr "УТИЛИТЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2990
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[11]/customTitle"
-msgstr "УТИЛИТЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3010
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[12]/customTitle"
-msgstr "СТАТУС"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3029
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[13]/customTitle"
-msgstr "РЕФРАКТОРЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3048
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[14]/customTitle"
-msgstr "МУЛЬТИШОТ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3067
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[15]/customTitle"
-msgstr "ПЕРЕДОВАЯ ТЕХНОЛОГИЯ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3086
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[16]/customTitle"
-msgstr "ГАУБИЦЫ"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3100
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[17]/customTitle"
-msgstr "ХАОС :)"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3119
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[18]/customTitle"
-msgstr "ХАОС :)"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3180
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[22]/customTitle"
-msgstr "ХАОС :)"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3199
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[23]/customTitle"
-msgstr "ХАОС :)"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3219
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[24]/customTitle"
-msgstr "ХАОС :)"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3238
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[25]/customTitle"
-msgstr "ХАОС :)"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3257
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[26]/customTitle"
-msgstr "ХАОС :)"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3276
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[27]/customTitle"
-msgstr "ХАОС :)"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3295
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[28]/customTitle"
-msgstr "ХАОС :)"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3314
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[29]/customTitle"
-msgstr "ХАОС :)"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3333
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[30]/customTitle"
-msgstr "ХАОС :)"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3352
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[31]/customTitle"
-msgstr "ХАОС :)"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3371
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[1]/mod-"
 "append:customStore[3]/category[32]/customTitle"
-msgstr "ХАОС :)"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3397
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
 "append:page[1]/section[1]/@text"
-msgstr "Достижения Лили"
+msgstr "Hauts faits de Lily"
 
 #: src-en/data/hyperspace.xml.append:3399
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_STORE\"]/name"
-msgstr "Эмпориум лучей"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3400
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_STORE\"]/description"
-msgstr "Посетите Эмпориум лучей."
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3401
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_STORE\"]/secretDescription"
 msgstr ""
-"Найдите загадочный магазин, в котором продается огромное количество лучей."
 
 #: src-en/data/hyperspace.xml.append:3408
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_AVATAR\"]/name"
-msgstr "Женщина со множеством титулов"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3409
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_AVATAR\"]/description"
 msgstr ""
-"Примите предложение Лили присоединиться к вам после того, как подарите ей "
-"особый предмет или экипаж."
 
 #: src-en/data/hyperspace.xml.append:3410
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_AVATAR\"]/secretDescription"
-msgstr "Пригласите владельца загадочного магазина присоединиться к вам."
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3417
 msgid "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_LORE\"]/name"
-msgstr "Инструкция по эксплуатации"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3418
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_LORE\"]/description"
-msgstr "Спросите Лили о ее истории."
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3419
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_LORE\"]/secretDescription"
-msgstr "Читать."
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3426
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_EXONET_TEST\"]/name"
-msgstr "Это был триумф"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3427
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_EXONET_TEST\"]/description"
 msgstr ""
-"Уничтожьте станцию Лили Эмпориум, получив для нее тонну тестовых данных, а "
-"для себя - экспериментальное оборудование."
 
 #: src-en/data/hyperspace.xml.append:3428
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_EXONET_TEST\"]/secretDescription"
-msgstr "???"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3435
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_EXCHANGE\"]/name"
-msgstr "Эквивалентный обмен"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3436
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_EXCHANGE\"]/description"
-msgstr "С помощью Лили создайте Дворянский луч из найденной технологии эфира."
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3437
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_EXCHANGE\"]/secretDescription"
-msgstr "Эфир входит, эфир выходит."
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3444
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_RHYMES\"]/name"
-msgstr "Хаотичное воссоединение"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3445
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_RHYMES\"]/description"
 msgstr ""
-"Посетите Эмпориум лучей вместе с Тем, Кто Рифмует, и разблокируйте "
-"таинственную записку."
 
 #: src-en/data/hyperspace.xml.append:3446
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_RHYMES\"]/secretDescription"
 msgstr ""
-"Проведите некую неземную кошку в очень модной шляпе к самой большой "
-"коллекции лазерных указок в галактике."
 
 #: src-en/data/hyperspace.xml.append:3453
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_NUKED\"]/name"
-msgstr "ВЗОРВАНО!"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3454
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_NUKED\"]/description"
 msgstr ""
-"Получите ядерный сюрприз от очень разъяренной третьей стороны, пытающейся "
-"сразиться с Ней."
 
 #: src-en/data/hyperspace.xml.append:3455
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"LILY_ACH_GEN_NUKED\"]/secretDescription"
 msgstr ""
-"Оказаться под ударом ядерного оружия в, возможно, худший момент в истории."
 
 #: src-en/data/hyperspace.xml.append:3462
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
 "append:page[1]/section[2]/@text"
-msgstr "Музыка Лили"
+msgstr "Musique de Lily"
 
 #: src-en/data/hyperspace.xml.append:3464
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_LILY_LILY\"]/name"
-msgstr "Катаклизмическая переменная - автор Lizzard"
+msgstr "Variable Cataclysmique - Créé par Lizzard"
 
 #: src-en/data/hyperspace.xml.append:3473
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_LILY_LILY_FIGHT\"]/name"
-msgstr "Вспышка гамма-излучения - автор Lizzard"
+msgstr "Sursaut Gamma - Créé par Lizzard"
 
 #: src-en/data/hyperspace.xml.append:3484
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
 "append:page[2]/section[1]/@text"
-msgstr "Блага Сеста (LilyBeam)"
+msgstr "Faveurs de Thest (LilyBeam)"
 
 #: src-en/data/hyperspace.xml.append:3486
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SIREN\"]/name"
-msgstr "Благо утопии"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3487
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SIREN\"]/secretName"
-msgstr "Благо ???"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3488
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SIREN\"]/secretDescription"
-msgstr "Получите благо ??? от Сеста."
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3489
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SIREN\"]/description"
 msgstr ""
-"Покажите сирену Сесту. Пока эффект действует, экипаж сирен получает "
-"возможность видеть соседние помещения, обладает иммунитетом к оглушению и не "
-"теряет навыки при клонировании."
 
 #: src-en/data/hyperspace.xml.append:3490
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SIREN\"]/header"
-msgstr "Благо получено"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3497
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/name"
-msgstr "Благо аномалий"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3498
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/secretName"
-msgstr "Благо ???"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3499
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/secretDescription"
-msgstr "Получите благо ??? от Сеста."
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3500
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/description"
 msgstr ""
-"Покажите аватар Лили Сесту. Пока эффект действует, устанавливает значение "
-"стабильности забега на 1."
 
 #: src-en/data/hyperspace.xml.append:3501
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/header"
-msgstr "Благо получено"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3508
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
 "append:page[2]/section[2]/@text"
-msgstr "Благословения Уэйксона (LilyBeam)"
+msgstr "Bénédictions de Wakeson (LilyBeam)"
 
 #: src-en/data/hyperspace.xml.append:3510
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SPECTRUM\"]/name"
-msgstr "Благословение спектра"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3511
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SPECTRUM\"]/secretName"
-msgstr "Благословение ???"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3512
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SPECTRUM\"]/secretDescription"
-msgstr "Получите благословение ??? от Уэйксона."
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3513
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SPECTRUM\"]/description"
 msgstr ""
-"Предъявите многорежимный луч Лили Уэйксону. Пока действует, лучевое оружие "
-"пробивает 1 дополнительный слой щита."
 
 #: src-en/data/hyperspace.xml.append:3514
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SPECTRUM\"]/header"
-msgstr "Благословение получено"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3521
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/name"
-msgstr "Благословение дезинтеграции"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3522
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/secretName"
-msgstr "Благословение ???"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3523
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/secretDescription"
-msgstr "Получите благословение ??? от Уэйксона."
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:3524
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/description"
 msgstr ""
-"Покажите Уэйксону Дезинтегрирующий луч. Пока действует, члены экипажа "
-"противника теряют 25% скорости исцеления и ремонта и получают дополнительный"
-" урон в размере 2 ОЗ/с на борту вашего корабля."
 
 #: src-en/data/hyperspace.xml.append:3525
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/header"
-msgstr "Благословение получено"
-
-#~ msgid ""
-#~ "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
-#~ "append:page/mod-append:section[1]/@text"
-#~ msgstr "Достижения Лили"
-
-#~ msgid ""
-#~ "data/hyperspace.xml.append$//mod-"
-#~ "append:achievement[@name=\"LILY_ACH_GEN_STORE\"]/description"
-#~ msgstr "Посетите магазин Эмпориум лучей."
-
-#~ msgid ""
-#~ "data/hyperspace.xml.append$//mod-"
-#~ "append:achievement[@name=\"LILY_ACH_GEN_NUKED\"]/secretDescription"
-#~ msgstr ""
-#~ "Оказаться под ударом ядерного оружия в, возможно, худший момент в истории."
-
-#~ msgid ""
-#~ "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
-#~ "append:page/mod-append:section[2]/@text"
-#~ msgstr "Блага Сеста (LilyBeam)"
-
-#~ msgid ""
-#~ "data/hyperspace.xml.append$//mod-"
-#~ "append:achievement[@name=\"ACH_BOON_LILY_SIREN\"]/description"
-#~ msgstr ""
-#~ "Покажите Сесту сирену. Пока эффект действует, экипаж сирен получает "
-#~ "возможность видеть соседние отсеки, обладает иммунитетом к оглушению и не "
-#~ "теряет навыки при клонировании."
-
-#~ msgid ""
-#~ "data/hyperspace.xml.append$//mod-"
-#~ "append:achievement[@name=\"ACH_BOON_LILY_AVATAR\"]/description"
-#~ msgstr ""
-#~ "Представьте аватар Лили Сесту. Пока действует, устанавливает индекс "
-#~ "стабильности забега на 1."
-
-#~ msgid ""
-#~ "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
-#~ "append:page/mod-append:section[3]/@text"
-#~ msgstr "Благословение Уэйксона (LilyBeam)"
-
-#~ msgid ""
-#~ "data/hyperspace.xml.append$//mod-"
-#~ "append:achievement[@name=\"ACH_BOON_LILY_DISINTEGRATOR\"]/description"
-#~ msgstr ""
-#~ "Предъявите дезинтегрирующий луч Уэйксону. Пока действует, члены экипажа "
-#~ "противника теряют 25% скорости исцеления и ремонта и получают дополнительные"
-#~ " 2 ОЗ/с урона на борту вашего корабля."
+msgstr ""

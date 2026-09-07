@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-09-07 04:36+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/lilys-beam-"
+"emporium/dataevents_special_jukeboxxmlappend/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
+
+#: src-en/data/events_special_jukebox.xml.append:3
+msgid ""
+"data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
+"append:choice[1]/text"
+msgstr "LBE: Cataclysmic Variable - 작곡: Lizzard"
+
+#: src-en/data/events_special_jukebox.xml.append:10
+msgid ""
+"data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
+"append:choice[2]/text"
+msgstr "LBE: Gamma Ray Burst - 작곡: Lizzard"

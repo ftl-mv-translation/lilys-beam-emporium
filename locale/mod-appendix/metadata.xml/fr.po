@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-05 16:21+0000\n"
+"PO-Revision-Date: 2026-09-07 04:36+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/lilys-beam-"
 "emporium/mod-appendixmetadataxml/fr/>\n"
@@ -17,7 +17,6 @@ msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
 msgstr "Addon LiLY'S BEAM EMPORIUM (La Galerie des Rayons de Lily)"
 
 #: src-en/mod-appendix/metadata.xml:36
-#, fuzzy
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
 msgstr ""
 "Une collection supplémentaire d'armes, de vaisseaux et d'augmentations sur "
@@ -33,5 +32,6 @@ msgstr ""
 "Remerciements spéciaux à :\n"
 "Arc et sillysandvich, pour l'aide au scripting ;\n"
 "Willow, pour l'aide à la rédaction ;\n"
-"Nauter pour avoir contribué à la conception du vaisseau MV ;\n"
+"Nauter pour avoir contribué à la conception du vaisseau MV ;\n"
+"Lizzard, pour sa musique extraordinaire ;\n"
 "Kix, et tous ceux qui ont travaillé sur FTL : Multiverse (et Hyperspace) ;"

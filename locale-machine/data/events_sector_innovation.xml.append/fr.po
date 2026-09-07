@@ -1,49 +1,36 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-07 04:36+0000\n"
-"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/lilys-beam-"
-"emporium/dataevents_sector_innovationxmlappend/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_innovation.xml.append:8
 msgid ""
 "data/events_sector_innovation.xml.append$//mod:findName[@name=\"ESTATE_STATUE\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice/text"
-msgstr "(재연소 가속기) 동상을 행성의 군사 시설과 충돌 궤도에 올려놓는다. [3{]"
+msgstr ""
 
 #: src-en/data/events_sector_innovation.xml.append:10
 msgid ""
 "data/events_sector_innovation.xml.append$//mod:findName[@name=\"ESTATE_STATUE\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice/event/text"
-msgstr "재연소 가속기 점화!"
+msgstr ""
 
 #: src-en/data/events_sector_innovation.xml.append:15
 msgid ""
 "data/events_sector_innovation.xml.append$//mod:findName[@name=\"ESTATE_STATUE\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice/event/choice/text"
-msgstr "계속..."
+msgstr ""
 
 #: src-en/data/events_sector_innovation.xml.append:17
 msgid ""
 "data/events_sector_innovation.xml.append$//mod:findName[@name=\"ESTATE_STATUE\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice/event/choice/event/text"
 msgstr ""
-"선체에 동상을 갈고리로 고정한 뒤, 재연소 가속기를 점화하여 행성을 향해 "
-"새총처럼 날려 보냅니다. 표면을 향해 돌진한 충격으로 엄청난 먼지와 파편 "
-"구름이 일어나 수 분 동안 시야를 가립니다. 먼지가 진정되자 충격파가 군사 기지 "
-"그 이상을 쓸어버렸음을 알게 됩니다. 충격파로 잿더미가 된 도시는 엄청난 "
-"전리품을 가져다 주었습니다. 적어도 저 아이들이 수면 부족으로 고통 받을 일은 "
-"더 이상 없을 것입니다."
 
 #: src-en/data/events_sector_innovation.xml.append:20
 msgid ""
 "data/events_sector_innovation.xml.append$//mod:findName[@name=\"ESTATE_STATUE\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice/event/choice/event/choice/text"
-msgstr "계속..."
+msgstr ""
