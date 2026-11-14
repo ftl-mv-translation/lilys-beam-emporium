@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-05 16:21+0000\n"
+"PO-Revision-Date: 2026-11-15 16:28+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/lilys-beam-"
 "emporium/dataeventsxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.17.1\n"
+"X-Generator: Weblate 2026.11.2\n"
 
 #: src-en/data/events.xml.append:5
 msgid "data/events.xml.append$//event[@name=\"STORE_LOAD_LILY_EMPORIUM\"]/text"
@@ -504,12 +504,11 @@ msgid ""
 msgstr "Demander à Lily de vous rejoindre."
 
 #: src-en/data/events.xml.append:510
-#, fuzzy
 msgid ""
 "data/events.xml.append$/dummyroot/FTL/event[@name=\"LILY_EMPORIUM_AGAIN\"]/choice[@req=\"LILY_PATRONAGE\"]/event/text"
 msgstr ""
-"\"Alors vous avez changé d'avis, après tout ?\n"
-"Très bien, je vous accompagne...\""
+"\"Alors vous avez changé d'avis, après tout ?\"\n"
+"\"Très bien, je vous accompagne...\""
 
 #: src-en/data/events.xml.append:515
 msgid ""
