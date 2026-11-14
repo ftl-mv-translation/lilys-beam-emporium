@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-30 11:36+0000\n"
+"PO-Revision-Date: 2026-11-15 16:28+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/lilys-beam-"
 "emporium/datablueprintsxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.17.1\n"
+"X-Generator: Weblate 2026.11.2\n"
 
 #: src-en/data/blueprints.xml.append:195
 msgid ""
@@ -1754,17 +1754,21 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3675
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_EFF\"]/title"
-msgstr ""
+msgstr "Rayon C.I.W.S. ††"
 
 #: src-en/data/blueprints.xml.append:3676
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_EFF\"]/short"
-msgstr ""
+msgstr "C.I.W.S. ††"
 
 #: src-en/data/blueprints.xml.append:3677
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LILY_FOCUS_CIWS_EFF\"]/desc"
 msgstr ""
+"Cette arme à rayon est équipée d'un émetteur infrarouge omnidirectionnel "
+"unique ainsi que d'un système de ciblage avancé. Elle est efficace pour "
+"abattre les missiles et drones entrants, mais montre de faibles performances "
+"contre d'autres vaisseaux."
 
 #: src-en/data/blueprints.xml.append:3700
 msgid ""
