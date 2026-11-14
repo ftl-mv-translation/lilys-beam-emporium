@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-30 11:36+0000\n"
+"PO-Revision-Date: 2026-11-15 16:28+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/lilys-beam-"
 "emporium/datahyperspace-xml-append/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.17.1\n"
+"X-Generator: Weblate 2026.11.2\n"
 
 #: src-en/data/hyperspace.xml.append:86
 msgid "data/hyperspace.xml.append$//siren_harpy[@name=\"Liliana\"]/@name"
@@ -494,7 +494,7 @@ msgstr "CHAOS :)"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
 "append:page[1]/section[1]/@text"
-msgstr ""
+msgstr "Missions de Lily"
 
 #: src-en/data/hyperspace.xml.append:3399
 msgid ""
@@ -617,22 +617,22 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
 "append:page[1]/section[2]/@text"
-msgstr ""
+msgstr "Musique de Lily"
 
 #: src-en/data/hyperspace.xml.append:3464
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_LILY_LILY\"]/name"
-msgstr ""
+msgstr "Variable cataclysmique - Créé par Lizzard"
 
 #: src-en/data/hyperspace.xml.append:3473
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_LILY_LILY_FIGHT\"]/name"
-msgstr ""
+msgstr "Sursaut Gamma - Créé par Lizzard"
 
 #: src-en/data/hyperspace.xml.append:3484
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
 "append:page[2]/section[1]/@text"
-msgstr ""
+msgstr "Faveur de Thest (LilyBeam)"
 
 #: src-en/data/hyperspace.xml.append:3486
 msgid ""
@@ -693,7 +693,7 @@ msgstr "Faveur reçue"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[2]/mod:findLike[2]/mod-"
 "append:page[2]/section[2]/@text"
-msgstr ""
+msgstr "Les bénédictions de Wakeson (LilyBeam)"
 
 #: src-en/data/hyperspace.xml.append:3510
 msgid ""
